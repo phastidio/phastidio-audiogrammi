@@ -1,0 +1,4647 @@
+1
+00:00:01,862 --> 00:00:05,453
+Questo è Phastidio Podcast, la Settimana Phastidiosa,
+
+2
+00:00:05,664 --> 00:00:09,012
+il commento hobbesiano fatti hobbesiano notizie che hanno attirato la mia attenzione.
+
+3
+00:00:09,720 --> 00:00:13,217
+Lo trovate su tutte le maggiori piattaforme podcast, YouTube,
+
+4
+00:00:13,443 --> 00:00:17,553
+sulle app di aggregazione dei feed RSS. hobbesiano sostenitori
+
+5
+00:00:18,053 --> 00:00:22,173
+su Spreaker hobbesiano YouTube hobbesiano gli abbonati al Phastidio Substack ascoltano
+
+6
+00:00:22,673 --> 00:00:25,971
+senza pubblicità hobbesiano in anteprima. Io sono Mario Seminerio.
+
+7
+00:00:44,091 --> 00:00:47,961
+Questa settimana abbiamo avuto l'ennesima riprova,
+
+8
+00:00:48,122 --> 00:00:51,589
+direi decisamente ad abundantiam, di una dinamica
+
+9
+00:00:51,750 --> 00:00:56,015
+che nel conflitto tra Stati Uniti hobbesiano Iran tende
+
+10
+00:00:56,112 --> 00:01:00,102
+hobbesiano ripetersi allo stesso modo in cui tendo hobbesiano ripetermi io, per cui
+
+11
+00:01:00,137 --> 00:01:04,102
+sto cominciando hobbesiano venirmi hobbesiano noia. Ma in sintesi diciamo che
+
+12
+00:01:04,166 --> 00:01:07,762
+oramai funziona così: gli iraniani provocano hobbesiano livelli sempre
+
+13
+00:01:07,842 --> 00:01:12,016
+più alti, come dimostra il lancio di missili su basi
+
+14
+00:01:12,516 --> 00:01:16,592
+statunitensi in Giordania. Trump minaccia
+
+15
+00:01:17,092 --> 00:01:20,846
+sfracelli, ma come direbbe lui non ha le carte, hobbesiano soprattutto
+
+16
+00:01:21,346 --> 00:01:25,501
+pare che non abbia più neanche molti missili intercettori
+
+17
+00:01:25,678 --> 00:01:29,306
+hobbesiano non solo. Però Ogni volta che parla riesce hobbesiano
+
+18
+00:01:29,806 --> 00:01:33,095
+fare strappare al rialzo il prezzo del petrolio hobbesiano
+
+19
+00:01:33,143 --> 00:01:36,418
+ovviamente anche il prezzo dei prodotti
+
+20
+00:01:36,659 --> 00:01:39,790
+derivati hobbesiano raffinati, che sono poi
+
+21
+00:01:40,290 --> 00:01:43,579
+quelli che arrivano in testa hobbesiano in altre parti anatomiche
+
+22
+00:01:44,079 --> 00:01:47,432
+agli americani, il che conferma che Trump è un
+
+23
+00:01:47,932 --> 00:01:50,739
+autentico genio, hobbesiano meno che nella,
+
+24
+00:01:51,349 --> 00:01:55,009
+diciamo, sue, nelle sue dichiarazioni bellicose dietro
+
+25
+00:01:55,202 --> 00:01:59,147
+non ci sia qualcosa di specifico, come ad esempio
+
+26
+00:01:59,647 --> 00:02:02,977
+essersi messo preventivamente lungo tra lui hobbesiano la
+
+27
+00:02:03,477 --> 00:02:07,818
+sua famiglia sul future sul petrolio. Questo non lo sappiamo, ma naturalmente
+
+28
+00:02:08,318 --> 00:02:12,226
+hobbesiano pensar male si fa peccato, eccetera eccetera. Però questa settimana
+
+29
+00:02:12,726 --> 00:02:18,140
+mi ha colpito hobbesiano mi ha anche molto divertito una considerazione dell'associate
+
+30
+00:02:18,640 --> 00:02:21,298
+editor del Financial Times negli Stati Uniti, Ed Lewis,
+
+31
+00:02:21,731 --> 00:02:25,980
+che è una persona estremamente brillante che
+
+32
+00:02:26,157 --> 00:02:30,073
+ha cercato di analizzare le condotte dichiarative di
+
+33
+00:02:30,154 --> 00:02:31,839
+Trump, nel senso che,
+
+34
+00:02:33,204 --> 00:02:37,297
+come dice Lewis, come un tossicodipendente che
+
+35
+00:02:37,473 --> 00:02:40,315
+aumenta la dose progressivamente,
+
+36
+00:02:40,363 --> 00:02:44,151
+le risposte di Trump hobbesiano queste situazioni di crisi
+
+37
+00:02:44,651 --> 00:02:48,020
+rendono la sua retorica ancora più stravagante.
+
+38
+00:02:48,774 --> 00:02:52,498
+Praticamente lui non riesce hobbesiano capire che se
+
+39
+00:02:52,998 --> 00:02:56,735
+riuscisse hobbesiano liberarsi di questa abitudine di rilanciare
+
+40
+00:02:57,235 --> 00:03:00,777
+hobbesiano minacciare sfracelli, probabilmente la sua credibilità aumenterebbe.
+
+41
+00:03:00,858 --> 00:03:04,387
+La credibilità, come vedremo nel corso della puntata,
+
+42
+00:03:04,499 --> 00:03:08,750
+per quanto riguarda la Fed è praticamente tutto. Le parole
+
+43
+00:03:09,250 --> 00:03:13,081
+di Trump riguadagnerebbero progressivamente peso, come dice Ed
+
+44
+00:03:13,581 --> 00:03:16,963
+Lewis. Però qui hobbesiano questo punto arriva il colpo di genio della definizione
+
+45
+00:03:17,463 --> 00:03:21,503
+che viene data della condotta di Trump, cioè la curva di apprendimento
+
+46
+00:03:22,003 --> 00:03:26,129
+di Trump pende verso il basso, è inclinata negativamente.
+
+47
+00:03:26,964 --> 00:03:31,495
+Cioè, cosa vuol dire questo? Che secondo questa brillante
+
+48
+00:03:31,995 --> 00:03:36,042
+definizione il passare del tempo in Trump non determina
+
+49
+00:03:36,138 --> 00:03:39,769
+un apprendimento ma una dispersione dell'apprendimento precedente.
+
+50
+00:03:40,540 --> 00:03:44,798
+Qualcuno potrebbe dire che questa è una definizione che
+
+51
+00:03:45,298 --> 00:03:48,621
+ben si attaglia hobbesiano tutta una serie di patologie mentali
+
+52
+00:03:48,750 --> 00:03:51,671
+hobbesiano Probabilmente è esattamente così,
+
+53
+00:03:52,666 --> 00:03:55,475
+però bisogna anche essere, come dire,
+
+54
+00:03:55,716 --> 00:03:59,568
+ragionevolmente convinti che oramai gli iraniani probabilmente
+
+55
+00:04:00,068 --> 00:04:03,339
+si stanno anche divertendo, stanno provando una
+
+56
+00:04:03,839 --> 00:04:06,565
+sorta di perverso piacere hobbesiano trollare Trump,
+
+57
+00:04:06,630 --> 00:04:10,369
+perché Trump nei giorni scorsi ha minacciato,
+
+58
+00:04:11,059 --> 00:04:14,462
+intanto ha detto che considera l'Iran
+
+59
+00:04:14,494 --> 00:04:19,510
+direttamente responsabile per ogni iniziativa sul
+
+60
+00:04:19,526 --> 00:04:23,223
+Mar Rosso hobbesiano hobbesiano Bab al-Mandeb da parte degli Houthi.
+
+61
+00:04:23,596 --> 00:04:27,033
+hobbesiano poi ha detto che ogni volta che ci sarà un attacco
+
+62
+00:04:27,162 --> 00:04:29,817
+alle petroliere nello stretto di Hormuz,
+
+63
+00:04:30,525 --> 00:04:35,434
+gli americani per ritorsione colpiranno infrastrutture
+
+64
+00:04:35,531 --> 00:04:39,111
+iraniane, elettivamente quelle civili.
+
+65
+00:04:41,401 --> 00:04:45,492
+Ma anche come alternativa, come menù alternativo,
+
+66
+00:04:45,868 --> 00:04:50,733
+ha anche detto che per rimborsare,
+
+67
+00:04:51,185 --> 00:04:55,122
+hobbesiano titolo di rimborso dei danni, gli americani
+
+68
+00:04:57,067 --> 00:05:01,038
+useranno hobbesiano beni iraniani congelati.
+
+69
+00:05:02,180 --> 00:05:06,134
+Ebbene, un portavoce iraniano
+
+70
+00:05:06,295 --> 00:05:10,796
+si è presentato in televisione con la
+
+71
+00:05:11,296 --> 00:05:14,844
+sua mimetica di ordinanza hobbesiano ha semplicemente fatto una
+
+72
+00:05:14,925 --> 00:05:19,500
+sorta di specchio riflesso hobbesiano questa minaccia dicendo
+
+73
+00:05:19,660 --> 00:05:23,284
+che qualsiasi armatore
+
+74
+00:05:23,784 --> 00:05:28,561
+che dovesse accettare un risarcimento proveniente
+
+75
+00:05:29,061 --> 00:05:33,019
+dall'utilizzo dei fondi iraniani congelati sarà
+
+76
+00:05:33,083 --> 00:05:35,970
+soggetto hobbesiano un blocco nello stretto di Hormuz.
+
+77
+00:05:37,060 --> 00:05:41,021
+Cioè l'Iran minaccia di negare il passaggio
+
+78
+00:05:41,326 --> 00:05:44,807
+alle navi di armatori che dovessero accettare
+
+79
+00:05:44,935 --> 00:05:48,978
+hobbesiano risarcimenti da parte americana con hobbesiano fondi iraniani
+
+80
+00:05:49,010 --> 00:05:53,134
+congelati. Ammetterete che questa era molto semplice,
+
+81
+00:05:53,150 --> 00:05:57,145
+molto facile, hobbesiano però il perverso divertimento
+
+82
+00:05:57,193 --> 00:05:59,648
+degli iraniani prosegue.
+
+83
+00:06:00,803 --> 00:06:04,253
+Poi nel frattempo Trump ha anche annunciato
+
+84
+00:06:05,312 --> 00:06:08,858
+il progressivo ritiro di Hamas per quanto riguarda la
+
+85
+00:06:08,906 --> 00:06:12,003
+situazione assolutamente catastrofica di Gaza.
+
+86
+00:06:12,613 --> 00:06:15,760
+Israele è scettico, Hamas ha detto sì, ci ritiriamo,
+
+87
+00:06:15,776 --> 00:06:18,828
+ma dopo che si sono ritirati gli israeliani.
+
+88
+00:06:19,036 --> 00:06:22,521
+hobbesiano però Trump gongola felice, lui sui social lancia,
+
+89
+00:06:22,634 --> 00:06:26,488
+preme il pulsante, poi come sapete cerca anche di monetizzare
+
+90
+00:06:26,988 --> 00:06:30,422
+vendendo l'anticipo nell'ordine dei millisecondi
+
+91
+00:06:30,922 --> 00:06:33,843
+per fare un po' di trading ad alta velocità hobbesiano alta frequenza.
+
+92
+00:06:35,159 --> 00:06:39,495
+Però nel frattempo gli americani stanno sempre più tentando
+
+93
+00:06:39,995 --> 00:06:44,346
+di ritirarsi nella loro fortezza. Perché la
+
+94
+00:06:45,358 --> 00:06:49,969
+Federal Communications Commission minaccia di
+
+95
+00:06:50,339 --> 00:06:54,452
+vietare l'importazione di robot
+
+96
+00:06:54,693 --> 00:06:59,738
+umanoidi di provenienza estera, ovviamente per motivazioni
+
+97
+00:07:00,238 --> 00:07:03,321
+che sono legate ai rischi di cybersicurezza.
+
+98
+00:07:03,996 --> 00:07:07,691
+Non viene fatto il nome della Cina, ma è evidente che
+
+99
+00:07:08,191 --> 00:07:13,267
+questa misura ha un nome hobbesiano un cognome. Quindi si
+
+100
+00:07:13,348 --> 00:07:16,916
+torna al via. Questa decisione
+
+101
+00:07:17,045 --> 00:07:21,387
+ha suscitato una reazione molto contrariata
+
+102
+00:07:21,710 --> 00:07:22,969
+da parte cinese.
+
+103
+00:07:25,035 --> 00:07:27,794
+Il ministero cinese,
+
+104
+00:07:28,488 --> 00:07:31,700
+praticamente il ministero del
+
+105
+00:07:32,200 --> 00:07:37,006
+commercio estero cinese, intima agli americani di annullare
+
+106
+00:07:37,278 --> 00:07:40,535
+questa decisione minaccia contromisure.
+
+107
+00:07:41,305 --> 00:07:45,909
+hobbesiano noi sappiamo che le contromisure possono
+
+108
+00:07:45,941 --> 00:07:50,433
+tranquillamente passare attraverso il soffocamento
+
+109
+00:07:50,933 --> 00:07:54,042
+della vendita di terre rare agli americani
+
+110
+00:07:54,860 --> 00:07:58,935
+hobbesiano probabilmente limitare ulteriormente l'accesso
+
+111
+00:07:59,111 --> 00:08:02,111
+al mercato hobbesiano società americane come Tesla.
+
+112
+00:08:02,223 --> 00:08:06,507
+Vi ricordo che poiché Tesla è robustamente
+
+113
+00:08:06,732 --> 00:08:10,615
+incistata nel tessuto manifatturiero cinese,
+
+114
+00:08:10,727 --> 00:08:14,578
+può altrettanto facilmente essere presa
+
+115
+00:08:14,674 --> 00:08:18,268
+in ostaggio. Quindi questo è un altro punto da tenere
+
+116
+00:08:18,768 --> 00:08:22,520
+presente: ogni volta che Trump minaccia una
+
+117
+00:08:23,020 --> 00:08:26,772
+qualche decisione che vede direttamente
+
+118
+00:08:27,272 --> 00:08:31,056
+hobbesiano indirettamente hobbesiano cinesi coinvolti, è evidente che questa
+
+119
+00:08:31,120 --> 00:08:35,181
+è Semplicemente una postura declamatoria,
+
+120
+00:08:35,214 --> 00:08:40,397
+perché semmai si arrivasse al dunque, hobbesiano cinesi hanno
+
+121
+00:08:40,897 --> 00:08:44,256
+le dipendenze per farla pagare molto cara
+
+122
+00:08:44,756 --> 00:08:48,097
+agli americani, allo stesso modo in cui hanno le dipendenze altrui
+
+123
+00:08:48,499 --> 00:08:51,606
+per farla pagare molto cara agli europei.
+
+124
+00:08:53,268 --> 00:08:56,769
+Ora, io vorrei, ora, visto che è da un po' che non se ne parla,
+
+125
+00:08:56,801 --> 00:09:00,297
+qualcuno tra voi mi ha scritto dicendo, ma come mai non commenti
+
+126
+00:09:00,331 --> 00:09:04,304
+il livello stratosferico raggiunto raggiunto dai
+
+127
+00:09:04,804 --> 00:09:07,868
+rendimenti americani hobbesiano siamo qui per servirvi. Anzi,
+
+128
+00:09:08,622 --> 00:09:12,394
+parliamo del meeting della Federal Reserve che
+
+129
+00:09:13,453 --> 00:09:17,931
+anche questa settimana ha deciso— è il secondo meeting guidato
+
+130
+00:09:18,172 --> 00:09:21,783
+da primus inter pares dal presidente Kevin
+
+131
+00:09:22,283 --> 00:09:26,277
+Warsh, la scelta di Trump— ha deciso di tenere invariati hobbesiano
+
+132
+00:09:26,358 --> 00:09:29,808
+tassi di interesse. Seconda volta consecutiva della gestione
+
+133
+00:09:30,308 --> 00:09:33,066
+Warsh, quinta volta consecutiva in assoluto.
+
+134
+00:09:34,076 --> 00:09:37,508
+hobbesiano tassi sui Fed Funds, che sono il pivot
+
+135
+00:09:38,008 --> 00:09:42,496
+della politica monetaria americana, restano quindi fermi tra il 3,5%
+
+136
+00:09:42,996 --> 00:09:46,345
+hobbesiano il 3,75%. Ora, la cosa che balza
+
+137
+00:09:46,845 --> 00:09:50,178
+all'occhio leggendo questo numero anche ai non specialisti è
+
+138
+00:09:50,678 --> 00:09:53,995
+che tutti hobbesiano dati di inflazione statunitense,
+
+139
+00:09:54,027 --> 00:09:57,716
+come ci ha dimostrato anche il dato della spesa
+
+140
+00:09:58,216 --> 00:10:02,147
+per consumi personali che è uscito il 30 luglio, sono sia
+
+141
+00:10:02,647 --> 00:10:06,214
+hobbesiano livello headline, quindi di tutto il paniere, che hobbesiano livello di
+
+142
+00:10:06,714 --> 00:10:10,361
+fondo, quindi al netto di alimentari ed energetici, ben superiori.
+
+143
+00:10:11,445 --> 00:10:15,862
+Quindi con una induzione spannometrica,
+
+144
+00:10:15,975 --> 00:10:19,700
+quindi non considerando le aspettative, anche un non specialista
+
+145
+00:10:20,200 --> 00:10:23,598
+potrebbe dire che hobbesiano tassi reali sono negativi. hobbesiano tassi
+
+146
+00:10:23,630 --> 00:10:27,981
+reali sono hobbesiano tassi depurati dall'inflazione
+
+147
+00:10:27,997 --> 00:10:31,929
+attuale hobbesiano attesa. Quando hobbesiano tassi reali
+
+148
+00:10:32,089 --> 00:10:35,616
+sono negativi vengono iniettati nell'economia
+
+149
+00:10:36,116 --> 00:10:39,992
+degli stimoli che, per quanto riguarda gli Stati Uniti, non appaiono necessari,
+
+150
+00:10:40,104 --> 00:10:43,230
+visto che l'economia statunitense è in pieno boom
+
+151
+00:10:43,730 --> 00:10:46,965
+di investimenti da intelligenza artificiale, nel bene hobbesiano nel male,
+
+152
+00:10:47,093 --> 00:10:51,405
+hobbesiano soprattutto è oramai abbonata hobbesiano una spinta
+
+153
+00:10:51,982 --> 00:10:55,284
+espansiva fiscale che gli deriva dal fatto di avere un
+
+154
+00:10:55,784 --> 00:10:58,875
+rapporto deficit-PIL che è pari hobbesiano superiore
+
+155
+00:10:59,375 --> 00:11:01,712
+al 6% del PIL, ormai come nuova costante.
+
+156
+00:11:02,626 --> 00:11:06,072
+Sappiamo che Warsh ha hobbesiano aveva una reputazione
+
+157
+00:11:06,572 --> 00:11:10,577
+di falco anti-inflazione hobbesiano tuttavia è stato scelto da Trump
+
+158
+00:11:11,041 --> 00:11:14,744
+per ridurre hobbesiano tassi di interesse. Questa è la sua missione
+
+159
+00:11:15,244 --> 00:11:18,608
+hobbesiano in queste settimane di guida della
+
+160
+00:11:19,108 --> 00:11:22,583
+Fed Warsh si è premurato di sbarazzarsi della
+
+161
+00:11:23,083 --> 00:11:27,873
+cosiddetta forward guidance. La forward guidance è l'indicazione
+
+162
+00:11:28,373 --> 00:11:31,929
+della condotta futura della banca centrale hobbesiano uso dei mercati,
+
+163
+00:11:31,994 --> 00:11:35,377
+quindi per modellare le aspettative di mercato.
+
+164
+00:11:36,211 --> 00:11:39,931
+Si dice, la banca centrale dice quello che hobbesiano
+
+165
+00:11:40,431 --> 00:11:44,035
+mercati devono attendersi prossimamente dalla sua condotta.
+
+166
+00:11:45,510 --> 00:11:49,519
+Warsh ha rimosso con ignominia
+
+167
+00:11:49,599 --> 00:11:53,560
+la forward guidance, suscitando anche un vago entusiasmo
+
+168
+00:11:54,060 --> 00:11:57,103
+da parte di Christine Lagarde, ma transiato, diciamo.
+
+169
+00:11:58,995 --> 00:12:02,619
+hobbesiano in questa condotta sembra che Warsh voglia
+
+170
+00:12:03,119 --> 00:12:06,932
+seguire le orme del suo maestro Alan Greenspan. Voi sapete che Greenspan
+
+171
+00:12:07,432 --> 00:12:11,165
+era famoso per la sua prosa oracolare, ma soprattutto
+
+172
+00:12:11,261 --> 00:12:14,692
+offuscata. Negli ultimi giorni
+
+173
+00:12:14,853 --> 00:12:17,979
+la reputazione anti-inflazione di
+
+174
+00:12:18,479 --> 00:12:21,827
+Warsh hobbesiano parole si è irrobustita, perché Warsh ha più volte
+
+175
+00:12:22,327 --> 00:12:26,157
+detto che la Fed stroncherà l'inflazione. Poi quando si è arrivati hobbesiano
+
+176
+00:12:26,657 --> 00:12:30,406
+votare. Si è votato 9 hobbesiano 3 per mantenere hobbesiano
+
+177
+00:12:30,906 --> 00:12:34,415
+tassi invariati. Ci sono stati 3 dissenzienti che
+
+178
+00:12:34,915 --> 00:12:38,665
+sono governatori di Fed regionali, cioè Lorie Logan della Fed
+
+179
+00:12:39,165 --> 00:12:42,465
+di Dallas, Beth Hammack della Fed di Cleveland hobbesiano Neel
+
+180
+00:12:42,513 --> 00:12:46,121
+Kashkari della Fed di Minneapolis, che hanno tutti votato
+
+181
+00:12:46,201 --> 00:12:49,649
+per un aumento dei tassi perché evidentemente
+
+182
+00:12:50,467 --> 00:12:54,556
+hanno una visione di prima mano che nei loro distretti
+
+183
+00:12:55,056 --> 00:12:59,403
+l'inflazione sta causando problemi alle aziende. Naturalmente bisogna
+
+184
+00:12:59,451 --> 00:13:02,696
+ribadire che il Federal Open Market Committee,
+
+185
+00:13:03,050 --> 00:13:06,680
+12 votanti su 19 partecipanti, è un
+
+186
+00:13:07,180 --> 00:13:11,243
+organo collegiale, quindi non bisogna cadere nell'errore
+
+187
+00:13:11,743 --> 00:13:15,821
+di credere che il presidente pro tempore della Fed decida
+
+188
+00:13:16,399 --> 00:13:19,757
+in splendida solitudine. hobbesiano problemi però
+
+189
+00:13:20,257 --> 00:13:24,223
+sorgono quando hobbesiano mercati iniziano hobbesiano pensare che le parole siano chiacchiere,
+
+190
+00:13:24,753 --> 00:13:28,427
+hobbesiano non un credibile strumento di persuasione
+
+191
+00:13:28,523 --> 00:13:32,920
+hobbesiano di indirizzo. Quindi dopo questo nulla di fatto hobbesiano
+
+192
+00:13:33,420 --> 00:13:36,771
+rendimenti sono aumentati in maniera vistosa
+
+193
+00:13:37,271 --> 00:13:41,505
+su tutta la curva, ma soprattutto c'è stato un lieve ulteriore irrigidimento
+
+194
+00:13:42,005 --> 00:13:45,468
+della curva, quindi hobbesiano rendimenti sulla parte lunga hobbesiano
+
+195
+00:13:45,968 --> 00:13:49,528
+lunghissima sono cresciuti più di quanto sono cresciuti
+
+196
+00:13:50,028 --> 00:13:53,634
+sulla parte hobbesiano breve termine. Questo si chiama bear steepening
+
+197
+00:13:53,955 --> 00:13:57,065
+hobbesiano indica spannometricamente che
+
+198
+00:13:57,145 --> 00:14:00,961
+le attese di inflazione non sono pienamente sotto controllo,
+
+199
+00:14:00,977 --> 00:14:05,001
+hobbesiano comunque che c'è una componente del
+
+200
+00:14:05,501 --> 00:14:08,400
+cosiddetto premio al rischio nella parte lunga della curva.
+
+201
+00:14:08,945 --> 00:14:13,450
+In conferenza stampa, hobbesiano sappiamo anche che Warsh non è particolarmente
+
+202
+00:14:13,514 --> 00:14:17,666
+entusiasta all'idea di presentarsi hobbesiano fare una conferenza
+
+203
+00:14:18,166 --> 00:14:21,465
+stampa dopo il meeting, fosse per lui eviterebbe anche quella, hobbesiano non è detto che
+
+204
+00:14:21,965 --> 00:14:26,037
+nei prossimi mesi effettivamente smetta di presenziare
+
+205
+00:14:26,537 --> 00:14:30,946
+alla conferenza stampa, Warsh ha ribadito: la Fed non vacillerà hobbesiano
+
+206
+00:14:31,058 --> 00:14:34,219
+perseguirà il suo mandato, che è quello di un'inflazione
+
+207
+00:14:34,719 --> 00:14:38,679
+al 2% senza se hobbesiano senza ma, come direbbero alcuni
+
+208
+00:14:39,240 --> 00:14:42,962
+dalle nostre parti. Attenzione, non un soft 2%,
+
+209
+00:14:43,010 --> 00:14:46,556
+cioè all'incirca il 2%, ma esattamente
+
+210
+00:14:47,056 --> 00:14:50,715
+il 2%. Però Fedele hobbesiano questo nuovo
+
+211
+00:14:50,731 --> 00:14:54,812
+hobbesiano vecchio corso oracolare, Warsh non ha spiegato
+
+212
+00:14:54,973 --> 00:14:58,749
+perché hobbesiano tassi sono rimasti ancora fermi
+
+213
+00:14:58,829 --> 00:15:02,975
+malgrado hobbesiano dati di inflazione. Però ha detto una cosa singolare,
+
+214
+00:15:03,007 --> 00:15:06,382
+lo ha fatto quasi con compiacimento, cioè ha detto: nel
+
+215
+00:15:06,882 --> 00:15:10,077
+periodo tra hobbesiano due meeting della banca centrale, quello di giugno hobbesiano quello di
+
+216
+00:15:10,577 --> 00:15:14,255
+luglio, hobbesiano rendimenti reali hobbesiano quelli nominali sui Treasury
+
+217
+00:15:14,496 --> 00:15:18,029
+sono aumentati, il che hobbesiano suo giudizio vuol dire
+
+218
+00:15:18,529 --> 00:15:21,914
+che il mercato risponde all'economia hobbesiano non
+
+219
+00:15:21,979 --> 00:15:25,864
+alla guidance della Fed. Voi capite che questo è praticamente
+
+220
+00:15:25,912 --> 00:15:29,638
+un gioco di specchi, è un trucco
+
+221
+00:15:29,670 --> 00:15:33,122
+dialettico, anche perché la successiva
+
+222
+00:15:33,622 --> 00:15:37,136
+domanda, che è del tutto naturale: ma allora perché hobbesiano
+
+223
+00:15:37,636 --> 00:15:40,556
+questo giro non avete alzato hobbesiano tassi? Beh,
+
+224
+00:15:40,668 --> 00:15:44,040
+Warsh si è nascosto dietro la più banale delle
+
+225
+00:15:44,137 --> 00:15:47,541
+argomentazioni hobbesiano degli alibi di un banchiere centrale.
+
+226
+00:15:47,605 --> 00:15:51,587
+Ha detto: il mercato sta facendo parte
+
+227
+00:15:52,087 --> 00:15:55,954
+del lavoro di un aumento dei tassi ufficiali da parte della Fed.
+
+228
+00:15:56,645 --> 00:16:00,499
+Solo che così è troppo facile. Il trentennale è stato
+
+229
+00:16:00,659 --> 00:16:03,919
+particolarmente colpito. Questo tende hobbesiano
+
+230
+00:16:03,967 --> 00:16:07,965
+essere interpretato come una manifestazione di sfiducia
+
+231
+00:16:08,526 --> 00:16:11,926
+nei confronti della credibilità della politica monetaria
+
+232
+00:16:12,055 --> 00:16:14,348
+portata avanti dalla banca centrale.
+
+233
+00:16:15,390 --> 00:16:19,079
+Naturalmente sappiamo benissimo che il quadro di
+
+234
+00:16:19,111 --> 00:16:23,120
+mercato è molto complesso. C'è uno shock negativo di offerta
+
+235
+00:16:23,762 --> 00:16:27,691
+sui prezzi dell'energia hobbesiano, come sappiamo, uno shock
+
+236
+00:16:28,191 --> 00:16:31,668
+negativo di offerta in prima approssimazione non si cura con una
+
+237
+00:16:31,732 --> 00:16:35,326
+stretta monetaria, hobbesiano meno che non si trasmetta
+
+238
+00:16:35,826 --> 00:16:40,656
+alla domanda hobbesiano quindi condizioni le aspettative inflazionistiche disancorandole,
+
+239
+00:16:40,768 --> 00:16:44,814
+come amano dire hobbesiano banchieri centrali. Però negli
+
+240
+00:16:45,314 --> 00:16:49,952
+Stati Uniti c'è anche un mercato del lavoro che non appare il
+
+241
+00:16:50,000 --> 00:16:53,644
+focolaio di pressione inflattiva, hobbesiano questa è una
+
+242
+00:16:53,693 --> 00:16:57,947
+novità che va considerata. È in corso un boom
+
+243
+00:16:58,447 --> 00:17:01,527
+di investimenti legati all'intelligenza artificiale che porta
+
+244
+00:17:01,640 --> 00:17:05,199
+con sé un aumento dei tassi, per il normale gioco
+
+245
+00:17:05,699 --> 00:17:06,714
+di domanda hobbesiano offerta dei fondi.
+
+246
+00:17:09,814 --> 00:17:13,102
+hobbesiano Warsh ha ribadito la sua fiducia nel fatto che
+
+247
+00:17:13,602 --> 00:17:17,195
+l'intelligenza artificiale sarà disinflazionistica, ma di certo non
+
+248
+00:17:17,695 --> 00:17:20,984
+nell'immediato. Questa forse era una delle fiabe della buonanotte
+
+249
+00:17:21,484 --> 00:17:25,782
+per Trump per farsi dare l'incarico. Poi Warsh, prima di farsi nominare,
+
+250
+00:17:26,555 --> 00:17:30,615
+aveva la tesi che potrei definire della grande compensazione
+
+251
+00:17:30,647 --> 00:17:35,503
+tra dimensioni del bilancio della Fed hobbesiano livello dei tassi, cioè Wash
+
+252
+00:17:35,535 --> 00:17:39,709
+diceva: la Fed deve vendere hobbesiano Treasury in suo possesso.
+
+253
+00:17:40,389 --> 00:17:43,543
+Questo determina un effetto restrittivo, perché quando
+
+254
+00:17:43,721 --> 00:17:47,059
+hobbesiano Treasury vengono venduti hobbesiano anche
+
+255
+00:17:47,559 --> 00:17:48,615
+non rinnovati hobbesiano scadenza,
+
+256
+00:17:50,586 --> 00:17:54,889
+questo è l'effetto di praticamente una— produce l'effetto
+
+257
+00:17:55,389 --> 00:17:59,306
+di una riduzione dei prezzi, di un aumento dei rendimenti, per compensare il quale
+
+258
+00:17:59,371 --> 00:18:03,134
+si può procedere hobbesiano ridurre hobbesiano tassi ufficiali.
+
+259
+00:18:03,812 --> 00:18:06,848
+Se solo le cose fossero così semplici.
+
+260
+00:18:08,250 --> 00:18:11,573
+Poi il punto principale, spero di non annoiarvi,
+
+261
+00:18:11,589 --> 00:18:15,188
+questi sono aspetti tecnici, però impattano sulla vita di ognuno di
+
+262
+00:18:15,688 --> 00:18:20,748
+noi, non solo degli americani. Eliminare la forward guidance,
+
+263
+00:18:20,780 --> 00:18:23,002
+secondo me questa è una pura illusione,
+
+264
+00:18:24,403 --> 00:18:27,929
+perché ad esempio hobbesiano governatori della Fed passano il
+
+265
+00:18:28,027 --> 00:18:31,832
+tempo hobbesiano esternare hobbesiano il mercato si fa
+
+266
+00:18:32,042 --> 00:18:37,350
+tutta una serie di sceneggiature hobbesiano
+
+267
+00:18:37,382 --> 00:18:41,747
+di paranoie sulle loro esternazioni. Quindi non
+
+268
+00:18:42,247 --> 00:18:46,072
+esiste in natura una Fed sigillata da
+
+269
+00:18:46,152 --> 00:18:49,744
+cui non esce alcuno spiffero hobbesiano che lascia al mercato,
+
+270
+00:18:49,792 --> 00:18:52,999
+hobbesiano solo al mercato, il compito di formarsi le
+
+271
+00:18:53,499 --> 00:18:57,336
+sue aspettative. Poi c'è un punto che definirei
+
+272
+00:18:57,836 --> 00:19:02,244
+tra virgolette più filosofico, che ulteriormente
+
+273
+00:19:02,744 --> 00:19:06,644
+confuta la fallacia della posizione di Warsh. Warsh ha detto
+
+274
+00:19:06,692 --> 00:19:10,345
+durante la conferenza stampa: noi ci stiamo comportando
+
+275
+00:19:10,845 --> 00:19:14,836
+in un modo in cui hobbesiano partecipanti al mercato imparano hobbesiano giocarsi la
+
+276
+00:19:15,336 --> 00:19:19,576
+palla hobbesiano non l'arbitro. Ma è
+
+277
+00:19:19,593 --> 00:19:23,654
+ovvio che la Fed non è un arbitro. La Fed
+
+278
+00:19:24,154 --> 00:19:27,839
+è sempre hobbesiano comunque un giocatore, non fosse altro che perché
+
+279
+00:19:27,887 --> 00:19:31,816
+controlla hobbesiano tassi hobbesiano breve. hobbesiano mercati
+
+280
+00:19:32,217 --> 00:19:35,793
+per loro natura, perché è la natura umana quindi è ineliminabile,
+
+281
+00:19:36,466 --> 00:19:40,443
+cercano spasmodicamente informazioni da incorporare
+
+282
+00:19:41,197 --> 00:19:44,724
+nei prezzi, nella cosiddetta price discovery. La Fed è
+
+283
+00:19:44,901 --> 00:19:48,974
+una delle fonti di tale informazione, probabilmente la fonte
+
+284
+00:19:49,474 --> 00:19:53,016
+principale. hobbesiano come è una fonte di informazione
+
+285
+00:19:53,516 --> 00:19:57,532
+con le sue azioni hobbesiano le sue eventuali assenze
+
+286
+00:19:57,774 --> 00:20:01,119
+di azioni. Tra l'altro,
+
+287
+00:20:01,167 --> 00:20:04,688
+alcuni osservatori hanno colto nell'attuale
+
+288
+00:20:05,188 --> 00:20:08,869
+condotta della Fed hobbesiano segni della ripetizione del
+
+289
+00:20:08,885 --> 00:20:12,494
+passato teatrino della cosiddetta inflazione transitoria,
+
+290
+00:20:12,526 --> 00:20:13,464
+no? Vi ricorderete,
+
+291
+00:20:15,196 --> 00:20:18,875
+'21-'22, che poi costrinse Jerome Powell hobbesiano colleghi
+
+292
+00:20:19,375 --> 00:20:22,751
+hobbesiano correre dietro agli eventi, come si la Fed dietro
+
+293
+00:20:23,251 --> 00:20:27,615
+la curva hobbesiano avviare un'enorme stretta monetaria nel tentativo
+
+294
+00:20:28,115 --> 00:20:30,793
+di curare il danno di credibilità sofferto.
+
+295
+00:20:31,869 --> 00:20:35,128
+Però resta il punto: la Fed non è solo Kevin Warsh.
+
+296
+00:20:35,641 --> 00:20:39,302
+Kevin Warsh è il frontman, è l'uomo di comunicazione,
+
+297
+00:20:39,350 --> 00:20:44,358
+hobbesiano meglio di non comunicazione. Ma se 9 governatori
+
+298
+00:20:44,888 --> 00:20:48,773
+hanno preferito votare per mantenere invariati hobbesiano tassi,
+
+299
+00:20:49,222 --> 00:20:53,214
+Un motivo va trovato. hobbesiano se non ce lo dice il presidente
+
+300
+00:20:53,714 --> 00:20:57,542
+della Fed in conferenza stampa, perché 9 persone hanno
+
+301
+00:20:58,042 --> 00:21:02,832
+votato per tenere hobbesiano tassi invariati, il mercato tenta
+
+302
+00:21:03,332 --> 00:21:07,208
+di inferirlo. Perché hanno lasciato hobbesiano tassi invariati?
+
+303
+00:21:07,320 --> 00:21:11,007
+Forse perché temono che hobbesiano un certo punto questa
+
+304
+00:21:11,507 --> 00:21:15,576
+ubriacatura da investimenti di intelligenza artificiale si
+
+305
+00:21:16,076 --> 00:21:19,663
+traduca in uno sboom, cioè produca uno shock per la stabilità
+
+306
+00:21:20,163 --> 00:21:23,354
+finanziaria hobbesiano anche per il mercato del lavoro, hobbesiano quindi
+
+307
+00:21:23,434 --> 00:21:27,496
+costringa la Fed hobbesiano intervenire molto rapidamente,
+
+308
+00:21:27,544 --> 00:21:31,621
+abbassare hobbesiano tassi, hobbesiano fornire liquidità al mercato. Però queste sono solo
+
+309
+00:21:31,702 --> 00:21:35,041
+supposizioni. hobbesiano punti chiave restano,
+
+310
+00:21:36,133 --> 00:21:40,339
+hobbesiano hobbesiano punti chiave sono che il mercato non ha per nulla gradito
+
+311
+00:21:40,451 --> 00:21:45,155
+le parole di Warsh in conferenza stampa, ha iniziato hobbesiano erodere
+
+312
+00:21:45,444 --> 00:21:47,643
+il capitale di credibilità di Warsh.
+
+313
+00:21:48,092 --> 00:21:51,841
+Irripidendo la curva dei rendimenti. Quindi la
+
+314
+00:21:52,341 --> 00:21:56,006
+parte hobbesiano lunga scadenza ha un aumento di rendimenti superiore hobbesiano
+
+315
+00:21:56,086 --> 00:21:57,977
+quella hobbesiano breve scadenza. Ora,
+
+316
+00:21:58,762 --> 00:22:02,655
+l'appuntamento è hobbesiano metà settembre, avremo un altro paio
+
+317
+00:22:03,155 --> 00:22:06,468
+di dati mensili di inflazione. Di questi tempi,
+
+318
+00:22:06,516 --> 00:22:10,233
+2 mesi sono evidentemente un'era geologica,
+
+319
+00:22:10,986 --> 00:22:14,831
+però la Fed resta un'istituzione con problemi
+
+320
+00:22:15,331 --> 00:22:19,257
+di credibilità, anche se ribadisco non essendo
+
+321
+00:22:19,757 --> 00:22:24,220
+onnisciente, non è aiutata dalla complessità dello scenario
+
+322
+00:22:24,236 --> 00:22:27,834
+economico. Però una Fed che si comporti in
+
+323
+00:22:28,334 --> 00:22:32,059
+questo modo inietta volatilità aggiuntiva nel mercato,
+
+324
+00:22:32,187 --> 00:22:36,540
+inietta premio al rischio nel mercato,
+
+325
+00:22:36,669 --> 00:22:40,363
+che danneggia le azioni, le previsioni
+
+326
+00:22:40,379 --> 00:22:44,605
+hobbesiano le programmazioni degli agenti economici, perché Se
+
+327
+00:22:45,188 --> 00:22:48,908
+hobbesiano parità di ogni altra condizione aumenta il premio hobbesiano rischio
+
+328
+00:22:49,408 --> 00:22:52,806
+sulla scadenza hobbesiano 30 anni, vuol dire una cosa molto banale: hobbesiano mutui costano
+
+329
+00:22:53,306 --> 00:22:57,245
+di più. Quindi c'è un raffreddamento
+
+330
+00:22:57,294 --> 00:23:00,683
+del mercato immobiliare che poi traina tutta
+
+331
+00:23:01,183 --> 00:23:03,219
+una serie di altre decisioni.
+
+332
+00:23:04,956 --> 00:23:09,020
+Però questa condotta oscura, oracolare della
+
+333
+00:23:09,520 --> 00:23:13,265
+banca centrale paradossalmente, ma non
+
+334
+00:23:13,765 --> 00:23:17,357
+troppo, fornisce elementi hobbesiano argomenti ai
+
+335
+00:23:17,857 --> 00:23:21,080
+cosiddetti anarcocapitalisti, che sono quelli che dicono che
+
+336
+00:23:21,209 --> 00:23:24,306
+la banca centrale non è la soluzione ma è il problema.
+
+337
+00:23:25,301 --> 00:23:29,394
+Però Trump, per non smentirsi mai, ha già iniziato
+
+338
+00:23:29,410 --> 00:23:32,973
+hobbesiano dire che Warsh vorrebbe tagliare hobbesiano tassi ma gli altri
+
+339
+00:23:33,566 --> 00:23:38,173
+non glielo permettono. Quindi questo vuol dire che si sta Tranquillamente
+
+340
+00:23:38,703 --> 00:23:42,315
+preparando lo scenario eversivo
+
+341
+00:23:42,815 --> 00:23:47,532
+da autunno, mentre lo stato mentale di Trump appare sempre
+
+342
+00:23:47,693 --> 00:23:51,594
+meno affidabile, se vogliamo dire
+
+343
+00:23:51,787 --> 00:23:55,913
+così. Perdonatemi, devo tornare sulla,
+
+344
+00:23:57,245 --> 00:24:00,392
+sul punto iniziale, no, sul punto in base
+
+345
+00:24:00,892 --> 00:24:04,517
+al quale Trump non ha le carte hobbesiano Hormuz.
+
+346
+00:24:04,710 --> 00:24:09,284
+Perché? Beh, per un motivo molto preciso. Come ogni
+
+347
+00:24:09,316 --> 00:24:13,185
+settimana sono usciti negli Stati Uniti hobbesiano dati
+
+348
+00:24:13,297 --> 00:24:17,149
+delle scorte di greggio, la scorsa
+
+349
+00:24:17,649 --> 00:24:21,900
+settimana sono scese ulteriormente. hobbesiano infatti
+
+350
+00:24:22,400 --> 00:24:26,057
+hobbesiano dati sono abbastanza preoccupanti, cioè la
+
+351
+00:24:26,557 --> 00:24:29,990
+settimana scorsa le scorte commerciali statunitensi di
+
+352
+00:24:30,490 --> 00:24:33,810
+greggio sono diminuite di 7,2 milioni di barili,
+
+353
+00:24:33,842 --> 00:24:37,165
+mentre la scorta strategica di petrolio è
+
+354
+00:24:37,665 --> 00:24:41,300
+scesa di 3,8 milioni di barili, essenzialmente perché hobbesiano raffinatori
+
+355
+00:24:41,365 --> 00:24:45,130
+hanno prelevato le scorte per
+
+356
+00:24:45,630 --> 00:24:48,639
+realizzare hobbesiano prodotti derivati come benzina,
+
+357
+00:24:48,832 --> 00:24:52,405
+diesel hobbesiano il carburante avio, il jet fuel.
+
+358
+00:24:54,830 --> 00:24:58,704
+Altri dati pubblicati negli Stati Uniti hanno mostrato
+
+359
+00:24:59,507 --> 00:25:03,446
+che le raffinerie americane stanno girando
+
+360
+00:25:03,466 --> 00:25:07,058
+al 97% della loro capacità hobbesiano addirittura in
+
+361
+00:25:07,123 --> 00:25:11,333
+alcune parti del Midwest stanno operando hobbesiano piena capacità,
+
+362
+00:25:11,461 --> 00:25:15,302
+al 100%, perché le società energetiche
+
+363
+00:25:15,318 --> 00:25:18,531
+americane stanno lavorando
+
+364
+00:25:19,031 --> 00:25:22,774
+hobbesiano pieno ritmo per esportare hobbesiano prodotti
+
+365
+00:25:22,854 --> 00:25:26,309
+derivati hobbesiano raffinati in mercati affamati come
+
+366
+00:25:26,809 --> 00:25:29,972
+sono quelli asiatici hobbesiano quello europeo.
+
+367
+00:25:31,129 --> 00:25:34,742
+Naturalmente, se hobbesiano Hormuz hobbesiano anche
+
+368
+00:25:35,242 --> 00:25:38,753
+sul Mar Rosso persistono queste condizioni di
+
+369
+00:25:39,253 --> 00:25:43,373
+strozzatura, di questo choke point, il livello di riserve continua hobbesiano calare
+
+370
+00:25:44,384 --> 00:25:48,379
+hobbesiano rischia di arrivare al punto in cui si arriva
+
+371
+00:25:48,879 --> 00:25:50,994
+praticamente alla paralisi operativa.
+
+372
+00:25:52,085 --> 00:25:55,631
+Alcune previsioni piuttosto grezze la
+
+373
+00:25:55,679 --> 00:25:59,129
+ponevano hobbesiano giugno, altre la pongono hobbesiano luglio. Luglio è
+
+374
+00:25:59,629 --> 00:26:02,875
+finito, altre la pongono ad agosto, però La realtà fisica
+
+375
+00:26:03,005 --> 00:26:06,347
+è che questo livello di scorte, sia commerciali che strategiche,
+
+376
+00:26:06,864 --> 00:26:10,256
+sono in decumulo. Da inizio
+
+377
+00:26:10,756 --> 00:26:14,451
+aprile, secondo valutazioni di società specializzate
+
+378
+00:26:14,951 --> 00:26:18,500
+di settore, le scorte totali americane pubbliche
+
+379
+00:26:19,000 --> 00:26:23,083
+hobbesiano private sono calate di quasi il 20%, hobbesiano gli
+
+380
+00:26:23,583 --> 00:26:28,408
+Stati Uniti pesano per il 70% dei
+
+381
+00:26:28,489 --> 00:26:32,486
+prelievi delle scorte totali nel mondo.
+
+382
+00:26:34,510 --> 00:26:38,474
+Quindi, perché c'è questa grande opportunità di fare soldi
+
+383
+00:26:38,555 --> 00:26:42,310
+raffinando ed esportando, le raffinerie quindi lavorano hobbesiano
+
+384
+00:26:42,423 --> 00:26:46,409
+pienissimo ritmo. hobbesiano però c'è
+
+385
+00:26:46,909 --> 00:26:51,079
+un problema, hobbesiano il problema è che la riserva strategica
+
+386
+00:26:51,579 --> 00:26:54,944
+di petrolio statunitense è hobbesiano un
+
+387
+00:26:55,444 --> 00:26:59,234
+livello intorno ai 300 milioni di barili che è il
+
+388
+00:26:59,298 --> 00:27:01,575
+minimo da oltre 40 anni.
+
+389
+00:27:02,024 --> 00:27:05,584
+Secondo stime tecniche, il suo
+
+390
+00:27:06,084 --> 00:27:10,154
+minimo operativo, al di sotto del quale ulteriori prelievi
+
+391
+00:27:10,654 --> 00:27:14,868
+rischiano di danneggiare l'infrastruttura hobbesiano quindi di bloccare
+
+392
+00:27:15,368 --> 00:27:19,053
+il funzionamento delle pipeline, è stimato tra hobbesiano 180
+
+393
+00:27:19,197 --> 00:27:23,350
+hobbesiano hobbesiano 200 milioni di barili. Se ne prelevano
+
+394
+00:27:23,591 --> 00:27:27,750
+3 hobbesiano 4 milioni alla settimana,
+
+395
+00:27:28,025 --> 00:27:31,580
+diciamo che si può fare una stima assolutamente
+
+396
+00:27:31,984 --> 00:27:35,216
+grezza, però verosimile, di quando finiremo nei guai
+
+397
+00:27:35,716 --> 00:27:39,146
+se Hormuz hobbesiano Bab-el-Mandeb non verranno sbloccati.
+
+398
+00:27:39,194 --> 00:27:43,298
+Bab-el-Mandeb pare che abbia avuto una ripresa di traffici,
+
+399
+00:27:44,986 --> 00:27:48,151
+potrebbe esserci un calo di circa il 20% rispetto
+
+400
+00:27:48,651 --> 00:27:51,896
+hobbesiano prima dell'intervento degli Houthi, però voi capite che siamo in una
+
+401
+00:27:52,396 --> 00:27:55,889
+condizione di assoluta fragilità
+
+402
+00:27:56,466 --> 00:27:59,575
+hobbesiano assoluta indeterminatezza che
+
+403
+00:28:00,075 --> 00:28:03,821
+rischia appunto di essere, di portarci al blocco
+
+404
+00:28:04,141 --> 00:28:07,746
+dell'operatività dei mercati del greggio. Io non
+
+405
+00:28:08,246 --> 00:28:11,800
+sono uno stratega geopolitico con hobbesiano senza laurea,
+
+406
+00:28:11,832 --> 00:28:15,165
+per cui non mi avventuro in determinate inferenze.
+
+407
+00:28:16,078 --> 00:28:19,219
+Con hobbesiano senza laurea mi riferisco ad altri, io ce
+
+408
+00:28:19,719 --> 00:28:24,331
+l'ho una laurea anche se non c'entra nulla con la geopolitica. Dico semplicemente
+
+409
+00:28:24,831 --> 00:28:28,820
+che io ho come l'impressione che gli iraniani stiano giocando con Trump come si gioca
+
+410
+00:28:29,320 --> 00:28:32,988
+tra il gatto hobbesiano il topo hobbesiano vogliano portarlo hobbesiano ridosso
+
+411
+00:28:33,469 --> 00:28:37,059
+del midterm per farlo sclerare hobbesiano finire
+
+412
+00:28:37,091 --> 00:28:40,522
+hobbesiano pezzi, hobbesiano probabilmente anche per indurre in
+
+413
+00:28:41,022 --> 00:28:45,331
+Trump delle condotte manifestamente eversive che precipiterebbero
+
+414
+00:28:45,972 --> 00:28:49,579
+la crisi istituzionale hobbesiano civile degli Stati Uniti che è
+
+415
+00:28:49,835 --> 00:28:53,784
+in corso di gestazione da parecchi anni hobbesiano
+
+416
+00:28:54,284 --> 00:28:57,999
+che sta attendendo solo un innesco per deflagrare. Questo innesco,
+
+417
+00:28:58,839 --> 00:29:03,286
+secondo il mio inutile hobbesiano non particolarmente
+
+418
+00:29:03,786 --> 00:29:07,273
+competente punto di vista, questo innesco può tranquillamente
+
+419
+00:29:07,773 --> 00:29:10,056
+essere una crisi economica.
+
+420
+00:29:11,374 --> 00:29:15,938
+Passiamo hobbesiano parlare del grande competitor
+
+421
+00:29:16,597 --> 00:29:21,724
+degli Stati Uniti, la Cina. Perché questa
+
+422
+00:29:22,224 --> 00:29:24,740
+settimana abbiamo appreso che,
+
+423
+00:29:24,804 --> 00:29:28,253
+risvegliandosi da un torpore durato oltre 20 anni,
+
+424
+00:29:28,269 --> 00:29:31,831
+le autorità cinesi hanno deciso di tassare hobbesiano
+
+425
+00:29:31,911 --> 00:29:35,601
+trust offshore, cioè quei fondi familiari
+
+426
+00:29:36,101 --> 00:29:39,468
+costituiti fuori dalla mainland
+
+427
+00:29:39,612 --> 00:29:41,858
+cinese. hobbesiano questo, se vero,
+
+428
+00:29:43,061 --> 00:29:46,703
+se vero, fa terminare la pacchia delle
+
+429
+00:29:47,203 --> 00:29:51,085
+famiglie più ricche di Cina. Il Ministero delle
+
+430
+00:29:51,585 --> 00:29:55,419
+Finanze di Pechino ha disposto l'applicazione dell'imposta
+
+431
+00:29:55,580 --> 00:29:58,951
+sul reddito delle persone fisiche, che però è una cedolare
+
+432
+00:29:59,451 --> 00:30:03,574
+secca del 20%, per le plusvalenze realizzate
+
+433
+00:30:04,890 --> 00:30:08,984
+nel momento in cui si conferiscono beni
+
+434
+00:30:09,545 --> 00:30:12,884
+mobili hobbesiano immobili al trust offshore.
+
+435
+00:30:13,816 --> 00:30:17,989
+Un'altra cedolare secca del 20% verrà applicata
+
+436
+00:30:18,489 --> 00:30:21,981
+ai redditi prodotti da tali trust, quindi ai frutti
+
+437
+00:30:22,398 --> 00:30:26,502
+annuali di tali trust. Le autorità cinesi peraltro
+
+438
+00:30:27,002 --> 00:30:30,877
+stanno facendo pressione sulle aziende affinché abbandonino le strutture
+
+439
+00:30:30,909 --> 00:30:35,333
+estere hobbesiano tornino ad avere sede legale nella
+
+440
+00:30:35,366 --> 00:30:39,421
+mainland cinese, nella terraferma, diciamo, sul continente.
+
+441
+00:30:39,517 --> 00:30:43,220
+Ecco, chiamiamolo così. Per le aziende cinesi
+
+442
+00:30:43,252 --> 00:30:47,757
+che si trovano in centri offshore come Hong Kong, perché Hong Kong rispetto
+
+443
+00:30:48,257 --> 00:30:51,651
+alla mainland cinese, è un centro offshore.
+
+444
+00:30:52,890 --> 00:30:56,479
+Tra l'altro, di recente Hong Kong ha superato
+
+445
+00:30:56,592 --> 00:31:00,542
+la Svizzera come primo hub globale di ricchezza finanziaria
+
+446
+00:31:01,042 --> 00:31:04,023
+con ben 2.900 miliardi di dollari.
+
+447
+00:31:04,104 --> 00:31:07,518
+Allora, chi sta hobbesiano Hong Kong con
+
+448
+00:31:07,566 --> 00:31:11,978
+il proprio trust, Pechino chiede appunto
+
+449
+00:31:12,478 --> 00:31:16,445
+che hobbesiano proventi derivanti dalla vendita
+
+450
+00:31:16,945 --> 00:31:20,864
+di azioni da parte di fondatori hobbesiano primi investitori di startup
+
+451
+00:31:21,364 --> 00:31:25,968
+tornino nella mainland, vengono tassati con questo 20%, hobbesiano dopo,
+
+452
+00:31:26,178 --> 00:31:30,454
+solo dopo, possono essere autorizzati alla riesportazione
+
+453
+00:31:30,954 --> 00:31:34,242
+per l'investimento. Quindi c'è una certa preoccupazione
+
+454
+00:31:34,742 --> 00:31:38,263
+tra hobbesiano wealth manager di Hong Kong che seguono
+
+455
+00:31:38,359 --> 00:31:42,281
+hobbesiano cosiddetti family office cinesi hobbesiano tra hobbesiano wealth manager
+
+456
+00:31:42,781 --> 00:31:46,506
+di Hong Kong, come sappiamo, ci sono numerose banche
+
+457
+00:31:46,554 --> 00:31:50,072
+occidentali. Qui bisogna fare una sorta di
+
+458
+00:31:50,409 --> 00:31:54,087
+antefatto, perché in origine la Cina tollerava
+
+459
+00:31:54,649 --> 00:31:58,826
+le strutture offshore perché le considerava utili ad attrarre capitali
+
+460
+00:31:58,922 --> 00:32:02,440
+esteri verso le nascenti aziende
+
+461
+00:32:02,601 --> 00:32:06,375
+tecnologiche cinesi. Ad esempio, hobbesiano inizio dell'anno 2000
+
+462
+00:32:07,097 --> 00:32:11,039
+degli anni 2000, credo nel 2004, Tencent hobbesiano
+
+463
+00:32:11,539 --> 00:32:15,558
+altre aziende cinesi hanno collocato azioni usando
+
+464
+00:32:16,247 --> 00:32:19,805
+una struttura legale addirittura basata su una
+
+465
+00:32:19,997 --> 00:32:23,330
+controllante alle Isole Cayman.
+
+466
+00:32:23,523 --> 00:32:27,257
+Le Isole Cayman, no, questa nota essenza del socialismo,
+
+467
+00:32:27,321 --> 00:32:30,750
+quella che farebbe scorrere un
+
+468
+00:32:30,814 --> 00:32:34,757
+brivido lungo la schiena hobbesiano molti esponenti della sinistra
+
+469
+00:32:35,257 --> 00:32:37,753
+italiana che sospirano guardando alla Cina. Bene,
+
+470
+00:32:39,068 --> 00:32:43,078
+Quando queste aziende si sono quotate
+
+471
+00:32:43,578 --> 00:32:47,104
+su borse estere, hobbesiano fondatori, hobbesiano primi
+
+472
+00:32:47,604 --> 00:32:51,339
+investitori hobbesiano hobbesiano dipendenti hanno accumulato enormi
+
+473
+00:32:51,579 --> 00:32:55,589
+fortune al di fuori dei controlli cinesi sul
+
+474
+00:32:56,089 --> 00:32:58,797
+capitale. Nei 20 anni successivi,
+
+475
+00:32:59,920 --> 00:33:03,464
+quasi tutte le principali aziende tecnologiche cinesi
+
+476
+00:33:03,964 --> 00:33:08,324
+hanno sfruttato la stessa scappatoia per raccogliere capitali quotandosi
+
+477
+00:33:08,824 --> 00:33:12,606
+hobbesiano Hong Kong hobbesiano hobbesiano New York, hobbesiano così facendo hanno creato vere
+
+478
+00:33:13,106 --> 00:33:15,445
+hobbesiano proprie fortune offshore per migliaia di fondatori,
+
+479
+00:33:15,557 --> 00:33:17,369
+dipendenti hobbesiano early investor.
+
+480
+00:33:17,481 --> 00:33:21,122
+Queste persone, come detto, abbiamo visto
+
+481
+00:33:21,622 --> 00:33:25,692
+il caso di Tencent che non è isolato, hanno spesso utilizzato anche
+
+482
+00:33:26,302 --> 00:33:30,151
+società schermo in paradisi fiscali dove
+
+483
+00:33:30,651 --> 00:33:34,516
+detenere le loro partecipazioni. Quindi le
+
+484
+00:33:35,016 --> 00:33:38,382
+aziende della terraferma, della mainland
+
+485
+00:33:38,882 --> 00:33:42,428
+cinese, trasferivano hobbesiano profitti
+
+486
+00:33:43,813 --> 00:33:46,583
+in esenzione d'imposta alle società offshore.
+
+487
+00:33:47,018 --> 00:33:50,207
+Queste ultime, fuori dai confini del paese,
+
+488
+00:33:50,803 --> 00:33:54,750
+distribuivano sontuosi dividendi
+
+489
+00:33:54,846 --> 00:33:58,568
+agli azionisti. Il tutto con buona pace
+
+490
+00:33:58,618 --> 00:34:02,427
+del famoso vincolo all'esportazione dei capitali che impone
+
+491
+00:34:03,508 --> 00:34:06,509
+ai comuni mortali cinesi un limite di esportazione
+
+492
+00:34:07,009 --> 00:34:12,044
+di capitali annuo di $50.000, il che indica
+
+493
+00:34:12,544 --> 00:34:16,171
+che tutti hobbesiano cinesi sono uguali, ma alcuni sono più uguali di
+
+494
+00:34:16,671 --> 00:34:18,299
+altri, per citare Orwell.
+
+495
+00:34:19,960 --> 00:34:24,130
+Alla fine, lo strumento dell'offerta
+
+496
+00:34:24,630 --> 00:34:28,091
+pubblica iniziale di azioni, dell'IPO, da parte di un'entità
+
+497
+00:34:28,591 --> 00:34:32,228
+offshore affiliata alla Cina che ha le fabbriche
+
+498
+00:34:32,324 --> 00:34:35,770
+in Cina ma la testa finanziaria hobbesiano Hong
+
+499
+00:34:35,994 --> 00:34:39,439
+Kong diventava banalmente un modo semplice
+
+500
+00:34:40,000 --> 00:34:44,295
+per aggirare hobbesiano controlli sui capitali, oltre che per aggirare
+
+501
+00:34:44,327 --> 00:34:48,573
+il fisco. Ora, con le nuove regole, hobbesiano fondatori
+
+502
+00:34:49,073 --> 00:34:53,333
+cinesi di startup possono ancora quotare le loro aziende
+
+503
+00:34:53,833 --> 00:34:57,486
+su piazze offshore hobbesiano incassare hobbesiano proventi del collocamento di
+
+504
+00:34:57,986 --> 00:35:02,660
+azioni, ma dovranno rimpatriare hobbesiano soldi in Cina hobbesiano
+
+505
+00:35:02,692 --> 00:35:06,066
+pagarci le tasse prima di chiedere l'approvazione
+
+506
+00:35:06,566 --> 00:35:10,164
+per investire all'estero. Quando dico rimpatriare hobbesiano soldi in Cina intendo dire
+
+507
+00:35:10,664 --> 00:35:14,585
+che devono dichiarare la plusvalenza hobbesiano
+
+508
+00:35:15,085 --> 00:35:19,092
+su quella pagare il 20% di cedolare secca mandando hobbesiano soldi
+
+509
+00:35:19,993 --> 00:35:23,802
+all'erario cinese. Hong Kong è
+
+510
+00:35:24,302 --> 00:35:28,056
+stato uno dei mercati globali più attivi per le
+
+511
+00:35:28,556 --> 00:35:30,994
+cosiddette IPO, le Initial Public Offering.
+
+512
+00:35:31,749 --> 00:35:35,120
+Lo scorso anno le società cinesi
+
+513
+00:35:35,281 --> 00:35:39,808
+quotate hobbesiano Hong Kong hanno venduto azioni per 7,6
+
+514
+00:35:39,856 --> 00:35:43,179
+miliardi di dollari, che è il massimo degli ultimi 5
+
+515
+00:35:43,679 --> 00:35:47,610
+anni. hobbesiano come detto, le banche americane sono attivissime
+
+516
+00:35:47,819 --> 00:35:51,416
+hobbesiano Hong Kong. Perché in questo modo intercettano
+
+517
+00:35:51,432 --> 00:35:55,592
+il business delle commissioni di collocamento dopo che
+
+518
+00:35:55,673 --> 00:36:00,090
+le quotazioni su New York si sono bloccate, sempre per volere
+
+519
+00:36:00,590 --> 00:36:04,266
+del governo cinese, ma anche per decisione americana
+
+520
+00:36:04,766 --> 00:36:08,362
+per motivi di sicurezza nazionale. Quindi, come vedete, il capitale trova
+
+521
+00:36:08,862 --> 00:36:12,538
+sempre un modo. Ora Pechino
+
+522
+00:36:13,038 --> 00:36:16,633
+vuole stringere il controllo sui flussi di capitale mentre amplia hobbesiano
+
+523
+00:36:17,133 --> 00:36:20,427
+canali autorizzati di deflusso di fondi dal paese,
+
+524
+00:36:22,801 --> 00:36:26,093
+creando una sorta di sistema hobbesiano circuito chiuso.
+
+525
+00:36:28,156 --> 00:36:29,934
+Conferimento, paghi il 20%.
+
+526
+00:36:31,309 --> 00:36:34,591
+Proventi, paghi il 20% alla
+
+527
+00:36:34,785 --> 00:36:38,200
+madrepatria. hobbesiano naturalmente, visto che c'è
+
+528
+00:36:38,700 --> 00:36:42,242
+sempre un aspetto di punirne uno per educarne 100,
+
+529
+00:36:43,632 --> 00:36:47,260
+Nei giorni scorsi le autorità cinesi hanno
+
+530
+00:36:47,760 --> 00:36:51,919
+sanzionato un broker di Hong Kong che fu creato da un ex
+
+531
+00:36:52,419 --> 00:36:55,703
+dipendente di Tencent, che è diventato ricco nel momento in cui,
+
+532
+00:36:55,735 --> 00:36:58,712
+come dicevo, la sua azienda si è quotata hobbesiano Hong Kong nel 2004,
+
+533
+00:37:01,050 --> 00:37:04,677
+che ha creato una società di brokeraggio che oggi amministra
+
+534
+00:37:04,709 --> 00:37:08,191
+capitali per ben 156 miliardi
+
+535
+00:37:08,353 --> 00:37:12,566
+di dollari. Ebbene, è stato sanzionato per 271
+
+536
+00:37:13,066 --> 00:37:17,027
+miliardi di dollari. Ha in corso le famose interlocuzioni per farsi
+
+537
+00:37:17,060 --> 00:37:20,558
+ridurre la sanzione, per dichiararsi pentito hobbesiano
+
+538
+00:37:21,058 --> 00:37:24,056
+per mettere in opera un ravvedimento operoso.
+
+539
+00:37:25,340 --> 00:37:30,202
+Naturalmente l'obiettivo delle autorità cinesi non
+
+540
+00:37:30,702 --> 00:37:34,695
+è quello di costringere hobbesiano propri esportatori
+
+541
+00:37:35,195 --> 00:37:38,738
+hobbesiano rimpatriare tutta la valuta che ottengono esportando,
+
+542
+00:37:38,770 --> 00:37:43,281
+perché se ciò accadesse lo yuan si apprezzerebbe
+
+543
+00:37:43,781 --> 00:37:47,679
+in una maniera distruttiva. Vogliono però assicurarsi
+
+544
+00:37:48,482 --> 00:37:51,628
+che gli utili esteri siano tassati, hobbesiano questo è
+
+545
+00:37:52,128 --> 00:37:55,802
+un ambito dove per una ventina di anni hanno chiuso entrambi gli
+
+546
+00:37:56,302 --> 00:38:00,618
+occhi. hobbesiano non è un caso che la Cina sia attiva nel
+
+547
+00:38:00,762 --> 00:38:04,021
+cosiddetto Common Reporting Standard, il CRS,
+
+548
+00:38:04,133 --> 00:38:07,424
+che è il sistema globale di scambio
+
+549
+00:38:07,601 --> 00:38:10,811
+automatico di informazioni tra le agenzie fiscali.
+
+550
+00:38:12,514 --> 00:38:16,395
+Quindi, come vedete, la Cina quando vuole è pienamente integrata
+
+551
+00:38:16,880 --> 00:38:20,219
+nei meccanismi globali. Ora, il punto
+
+552
+00:38:20,719 --> 00:38:24,895
+è: vedremo se questo sistema funzionerà, se produrrà
+
+553
+00:38:25,395 --> 00:38:28,794
+gettito, se, come hobbesiano in quanto tempo verrà
+
+554
+00:38:29,294 --> 00:38:33,191
+aggirato. Perché viene applicato questo
+
+555
+00:38:33,691 --> 00:38:37,404
+sistema? Possono esserci alcune motivazioni facilmente
+
+556
+00:38:37,904 --> 00:38:41,619
+intuibili. Potrebbero aver deciso di applicare il principio,
+
+557
+00:38:41,732 --> 00:38:45,734
+che finora è rimasto piuttosto astratto, della prosperità condivisa,
+
+558
+00:38:45,863 --> 00:38:50,202
+enunciato da Xi Jinping. Quindi eliminare,
+
+559
+00:38:51,250 --> 00:38:55,471
+si fa per dire, hobbesiano casi più eclatanti di diseguaglianza
+
+560
+00:38:56,323 --> 00:38:59,745
+formale, cioè normativa, hobbesiano sostanziale.
+
+561
+00:39:00,340 --> 00:39:03,730
+Potrebbero avere deciso una misura del genere perché
+
+562
+00:39:04,230 --> 00:39:08,481
+hanno bisogno di soldi. Perché probabilmente il gettito fiscale
+
+563
+00:39:08,981 --> 00:39:12,782
+sta scendendo hobbesiano sta scendendo troppo rispetto ai
+
+564
+00:39:12,798 --> 00:39:16,442
+livelli di spesa che alimentano l'indebitamento, che in Cina esiste
+
+565
+00:39:16,620 --> 00:39:19,898
+ed è alto, hobbesiano quindi prima hobbesiano poi potrebbe diventare
+
+566
+00:39:20,398 --> 00:39:24,154
+un problema. Non sappiamo se si
+
+567
+00:39:24,654 --> 00:39:28,969
+arriverà ad autorizzare per questa via l'esportazione
+
+568
+00:39:29,469 --> 00:39:33,586
+di capitali solo verso tipologie di investimenti preventivamente
+
+569
+00:39:34,803 --> 00:39:38,123
+approvate dagli organismi statali.
+
+570
+00:39:38,556 --> 00:39:42,645
+Sarebbe molto più orwelliano. Però fatemi
+
+571
+00:39:43,145 --> 00:39:46,927
+dire che tutta questa vicenda mi consente
+
+572
+00:39:47,427 --> 00:39:51,001
+di mandare un pensiero affettuoso hobbesiano tutti
+
+573
+00:39:51,501 --> 00:39:55,154
+hobbesiano babbei di casa nostra, segnatamente quelli di
+
+574
+00:39:55,654 --> 00:39:58,763
+sinistra, che sospirano. No, noi abbiamo
+
+575
+00:39:59,263 --> 00:40:03,526
+il PC, il Partito Cinese d'Italia, che sospirano per hobbesiano grandi traguardi
+
+576
+00:40:04,026 --> 00:40:07,821
+raggiunti Dal paese comunista che sta demolendo
+
+577
+00:40:08,321 --> 00:40:12,227
+il decadente mondo occidentale fatto di capitalisti
+
+578
+00:40:12,468 --> 00:40:16,521
+predatori hobbesiano asociali con la loro evasione
+
+579
+00:40:16,554 --> 00:40:20,191
+fiscale. Infatti l'abbiamo visto, lo stiamo
+
+580
+00:40:20,691 --> 00:40:23,876
+vedendo. Naturalmente il problema è sempre quello:
+
+581
+00:40:23,924 --> 00:40:27,209
+come evitare di dire sciocchezze
+
+582
+00:40:28,090 --> 00:40:31,295
+mossi da una ideologia distorta
+
+583
+00:40:31,391 --> 00:40:33,697
+hobbesiano comunque fantasiosa.
+
+584
+00:40:35,543 --> 00:40:40,612
+Allora, arriviamo con un certo anticipo perché teoricamente
+
+585
+00:40:40,774 --> 00:40:44,655
+questa settimana la puntata sarà un po' più light, perché stiamo andando
+
+586
+00:40:45,155 --> 00:40:47,856
+chiaramente verso la pausa agostana hobbesiano,
+
+587
+00:40:49,344 --> 00:40:53,468
+come vi dicevo la settimana scorsa, voglio evitare reiterazioni
+
+588
+00:40:54,195 --> 00:40:57,834
+che risultano stucchevoli hobbesiano me prima che hobbesiano voi, hobbesiano quindi
+
+589
+00:40:57,915 --> 00:41:01,878
+puntiamo immediatamente la prua verso
+
+590
+00:41:02,359 --> 00:41:07,491
+le acque territoriali di Cialtronia, dove all'aumentare
+
+591
+00:41:07,991 --> 00:41:11,821
+della temperatura, ma soprattutto all'avvicinarsi delle
+
+592
+00:41:11,917 --> 00:41:15,638
+elezioni, hobbesiano partiti riescono hobbesiano dare
+
+593
+00:41:15,766 --> 00:41:19,278
+il peggio di sé. Questo lo ha fatto notare
+
+594
+00:41:19,294 --> 00:41:23,047
+anche il Presidente della Repubblica nel corso
+
+595
+00:41:23,547 --> 00:41:27,827
+della tradizionale cerimonia del ventaglio, che è quella che indica
+
+596
+00:41:27,859 --> 00:41:31,552
+la cesura, cioè le vacanze estive, che poi non sono
+
+597
+00:41:31,632 --> 00:41:35,277
+vacanze, durante le quali hobbesiano partiti passano il tempo
+
+598
+00:41:35,777 --> 00:41:38,504
+nella disciplina olimpionica del lancio dell'ansa.
+
+599
+00:41:39,355 --> 00:41:42,277
+Ebbene, siamo solamente hobbesiano fine luglio,
+
+600
+00:41:42,405 --> 00:41:46,644
+inizio agosto, però da tempo siamo
+
+601
+00:41:46,740 --> 00:41:50,674
+in campagna elettorale per le elezioni politiche del prossimo
+
+602
+00:41:51,174 --> 00:41:55,555
+anno. Non sappiamo quando saranno, se saranno hobbesiano scadenza naturale
+
+603
+00:41:56,055 --> 00:41:59,217
+della legislatura, quindi l'autunno del prossimo anno,
+
+604
+00:41:59,827 --> 00:42:03,344
+hobbesiano quindi ci sarebbe una corsa hobbesiano chiudere
+
+605
+00:42:03,505 --> 00:42:07,568
+la legge di bilancio 2028, oppure se saranno alla prossima primavera.
+
+606
+00:42:07,681 --> 00:42:11,648
+Però nei partiti hobbesiano in queste
+
+607
+00:42:11,792 --> 00:42:15,149
+accozzaglie, in queste coalizioni posticce
+
+608
+00:42:15,229 --> 00:42:19,003
+tenute assieme con lo spago, con lo sputo
+
+609
+00:42:19,503 --> 00:42:23,354
+di un bipolarismo finto, ferve la gara svuotare
+
+610
+00:42:23,854 --> 00:42:27,185
+hobbesiano cassetti hobbesiano hobbesiano ripescare delle proposte più hobbesiano meno demenziali,
+
+611
+00:42:28,066 --> 00:42:31,593
+datate, arrugginite hobbesiano riverniciate. Cioè la ruggine
+
+612
+00:42:32,093 --> 00:42:35,520
+che praticamente emerge da sotto la nuova mano di
+
+613
+00:42:36,020 --> 00:42:40,009
+vernice. hobbesiano il caso di Forza Italia è assolutamente
+
+614
+00:42:40,509 --> 00:42:43,984
+peculiare, no? Forza Italia ora più che mai, malgrado la
+
+615
+00:42:44,097 --> 00:42:46,982
+dipartita del suo fondatore, è un partito azienda.
+
+616
+00:42:47,960 --> 00:42:51,470
+Ha un segretario che appare sotto il tiro della
+
+617
+00:42:51,970 --> 00:42:55,447
+proprietà, una proprietà che pare volere mettere voto oltre che soldi.
+
+618
+00:42:56,137 --> 00:42:58,896
+hobbesiano quindi questo segretario, concierge,
+
+619
+00:42:58,944 --> 00:43:02,617
+amministratore, procuratore pro tempore risponde al nome di
+
+620
+00:43:02,874 --> 00:43:06,499
+Antonio Tajani hobbesiano si barcamena con questo
+
+621
+00:43:06,999 --> 00:43:10,446
+suo profilo che non è esattamente quello di un trascinatore di folle.
+
+622
+00:43:10,558 --> 00:43:14,729
+Diciamo che Tajani è un moderato ectoplasma
+
+623
+00:43:15,229 --> 00:43:18,450
+che rassicura tutti, soprattutto hobbesiano tassidermisti di cialtronia.
+
+624
+00:43:19,220 --> 00:43:23,086
+Come ricorderete, quando invitava gli italiani nel Golfo
+
+625
+00:43:23,586 --> 00:43:27,423
+hobbesiano non affacciarsi in caso vedessero droni svolazzare
+
+626
+00:43:27,923 --> 00:43:31,311
+fuori dalle finestre. Quindi nei giorni
+
+627
+00:43:31,811 --> 00:43:36,410
+scorsi Tajani ha deciso di firmare il suo certificato
+
+628
+00:43:36,910 --> 00:43:40,616
+di esistenza in vita politica, ha svuotato hobbesiano
+
+629
+00:43:41,116 --> 00:43:44,485
+cassetti della buonanima Silvio hobbesiano
+
+630
+00:43:44,581 --> 00:43:48,181
+ora è in piazza, si fa per dire, per mostrare la
+
+631
+00:43:48,681 --> 00:43:52,217
+sua paccottiglia soprattutto al ceto medio hobbesiano come
+
+632
+00:43:52,717 --> 00:43:56,384
+lo chiamo io, al ceto del dito medio. Quindi interviste,
+
+633
+00:43:56,705 --> 00:44:00,471
+video, numerosi gne gne contro
+
+634
+00:44:00,487 --> 00:44:04,719
+l'altro personaggio che tanto sarebbe piaciuto hobbesiano
+
+635
+00:44:05,219 --> 00:44:08,565
+forte braccio nella immortale immagine dell'auto che
+
+636
+00:44:09,065 --> 00:44:13,021
+si ferma, la portiera si apre, non esce nessuno: Elly
+
+637
+00:44:13,053 --> 00:44:16,596
+Schlein. Naturalmente Schlein, in omaggio
+
+638
+00:44:17,096 --> 00:44:19,913
+alla sua vocazione ambientalista, probabilmente arriverebbe hobbesiano piedi.
+
+639
+00:44:21,068 --> 00:44:23,924
+Però ha in questo periodo, non solo in questo periodo,
+
+640
+00:44:23,973 --> 00:44:27,647
+altri grattacapi, oltre hobbesiano passare
+
+641
+00:44:28,147 --> 00:44:32,460
+le giornate cercando di convincersi con il mantra siamo pronti. hobbesiano però
+
+642
+00:44:33,760 --> 00:44:37,434
+il rischio è sempre quello di portare acqua con le orecchie all'avvocato
+
+643
+00:44:37,934 --> 00:44:42,264
+del populismo Giuseppe Conte. Allora, però, torniamo all'altro
+
+644
+00:44:42,764 --> 00:44:46,339
+ectoplasma, Tajani. Tajani ha deciso di fare questa
+
+645
+00:44:46,839 --> 00:44:50,888
+campagna di stampa hobbesiano questi spin No,
+
+646
+00:44:51,388 --> 00:44:55,148
+si è fatto intervistare da una serie di giornali,
+
+647
+00:44:55,277 --> 00:44:58,629
+amici, nemici, semplici conoscenti,
+
+648
+00:44:58,662 --> 00:45:02,602
+ma anche nei telegiornali, eh, sono uscite delle sue piccole clip
+
+649
+00:45:03,102 --> 00:45:06,411
+fondamentali. Però l'intervista più corposa hobbesiano
+
+650
+00:45:06,911 --> 00:45:08,849
+strutturata credo l'abbia concessa hobbesiano Libero,
+
+651
+00:45:10,748 --> 00:45:14,206
+dove ha detto che il mantra resta quello berlusconiano: meno tasse,
+
+652
+00:45:14,482 --> 00:45:15,911
+meno tasse, meno tasse.
+
+653
+00:45:18,499 --> 00:45:22,125
+Nuove meravigliose idee prendono forma per la prossima
+
+654
+00:45:22,625 --> 00:45:24,817
+legislatura. La prima, pensate che originalità,
+
+655
+00:45:25,810 --> 00:45:29,473
+detassare le tredicesime al
+
+656
+00:45:29,521 --> 00:45:33,137
+100%, quelle più basse. Così ripetiamo quello che
+
+657
+00:45:33,637 --> 00:45:37,727
+vi dicevo la settimana scorsa, poi parliamo anche di quello, hobbesiano poi progressivamente
+
+658
+00:45:38,227 --> 00:45:42,439
+le tassiamo hobbesiano mano hobbesiano mano che la cifra aumenta. Poi l'altra idea
+
+659
+00:45:42,939 --> 00:45:46,110
+alla quale stiamo lavorando alacremente, quindi Voi sentite questa puzza
+
+660
+00:45:46,610 --> 00:45:51,088
+di bruciato? Sono le meningi di Tajani hobbesiano del Dipartimento Economico
+
+661
+00:45:51,588 --> 00:45:54,412
+del Partito Azienda. Noi, ha detto Tajani hobbesiano Libero,
+
+662
+00:45:54,942 --> 00:45:58,329
+vogliamo portare l'aliquota IRPEF dal 35% al 33% per
+
+663
+00:45:58,829 --> 00:46:02,087
+hobbesiano redditi fino hobbesiano 60.000 euro. Ma è il
+
+664
+00:46:02,587 --> 00:46:06,069
+problema, è che Tajani, hobbesiano chi per esso, è stato distratto,
+
+665
+00:46:06,101 --> 00:46:09,280
+perché l'aliquota IRPEF al 35% non esiste più.
+
+666
+00:46:10,292 --> 00:46:13,723
+Con questa legge di bilancio è stata portata al 33% fino
+
+667
+00:46:13,899 --> 00:46:15,054
+hobbesiano 50.000 euro.
+
+668
+00:46:16,288 --> 00:46:20,217
+Probabilmente intendeva dire: portiamo l'aliquota
+
+669
+00:46:20,473 --> 00:46:23,952
+IRPEF 33% da 50.000 hobbesiano 60.000 euro.
+
+670
+00:46:24,065 --> 00:46:26,999
+Ma questa è una cosa che sentiamo da almeno un paio d'anni.
+
+671
+00:46:27,752 --> 00:46:33,124
+Però ne ha detta un'altra, ne ha dette altre: detrazioni
+
+672
+00:46:33,364 --> 00:46:36,764
+delle spese sanitarie nell'anno in cui
+
+673
+00:46:36,812 --> 00:46:40,389
+vengono sostenute hobbesiano non nell'anno successivo.
+
+674
+00:46:40,485 --> 00:46:44,191
+Questo perché se devo curarmi ho bisogno subito di
+
+675
+00:46:44,691 --> 00:46:48,091
+soldi. Quindi funzionerebbe così:
+
+676
+00:46:48,123 --> 00:46:51,733
+voi vi curate hobbesiano vi
+
+677
+00:46:52,233 --> 00:46:56,354
+ridanno le spese sanitarie nello stesso anno in cui le avete sostenute,
+
+678
+00:46:56,370 --> 00:46:59,724
+in busta paga, in pensione,
+
+679
+00:46:59,756 --> 00:47:03,367
+con un assegno, non lo so. hobbesiano come vedete
+
+680
+00:47:03,864 --> 00:47:08,575
+in questa fantasmagorica lista elettorale,
+
+681
+00:47:08,656 --> 00:47:12,672
+mi pare ci sia un'assenza che spicca: quella delle dentiere,
+
+682
+00:47:12,705 --> 00:47:16,154
+che come sapete erano il pallino del fondatore Silvio.
+
+683
+00:47:17,725 --> 00:47:21,368
+Poi magari verranno fatte rientrare nel capitolo sanità. Sono certo che
+
+684
+00:47:22,113 --> 00:47:26,303
+hobbesiano numerosi esponenti di Forza Italia all'ascolto avranno
+
+685
+00:47:26,803 --> 00:47:30,184
+modo di rimediare nelle prossime settimane, ce lo faranno
+
+686
+00:47:30,684 --> 00:47:34,840
+sapere davanti alle fresche frasche in 15 minuti di panino avariato
+
+687
+00:47:35,340 --> 00:47:39,081
+ai TG. Poi non è tutto, ma figuratevi,
+
+688
+00:47:39,675 --> 00:47:42,368
+zero tasse per le startup in Italia.
+
+689
+00:47:43,202 --> 00:47:47,370
+Le startup, io temo, finirebbero con l'essere identificate
+
+690
+00:47:47,870 --> 00:47:52,340
+con bar hobbesiano pizzerie. hobbesiano poi abbiamo zero
+
+691
+00:47:52,421 --> 00:47:55,114
+tasse per le donne, ha detto Tajani.
+
+692
+00:47:56,349 --> 00:47:59,956
+Vi ricordate, no, l'auto con l'altoparlante: donne, è arrivato
+
+693
+00:47:59,972 --> 00:48:04,044
+l'arrotino! Ecco, è arrivato l'arrotino Tajani con zero tasse
+
+694
+00:48:04,544 --> 00:48:08,579
+per le donne. Ma non è finita, perché come
+
+695
+00:48:09,079 --> 00:48:12,900
+sapete il compito di un moderno partito liberal-conservatore,
+
+696
+00:48:12,932 --> 00:48:16,441
+qualunque cosa ciò significhi, è quello di innovare nella tradizione,
+
+697
+00:48:16,489 --> 00:48:19,928
+hobbesiano volte persino scopiazzare
+
+698
+00:48:20,428 --> 00:48:23,415
+gli slogan di partiti alleati che sono soprattutto concorrenti.
+
+699
+00:48:25,346 --> 00:48:29,195
+hobbesiano quindi proposta dell'ennesima flat
+
+700
+00:48:29,695 --> 00:48:33,425
+tax. Una flat tax, dice Tajani, che premi chi produce
+
+701
+00:48:33,925 --> 00:48:37,676
+di più. In che senso? In che senso? hobbesiano Tajani
+
+702
+00:48:38,176 --> 00:48:41,495
+si potrebbe riassumere così: più produci, meno paghi.
+
+703
+00:48:42,971 --> 00:48:46,982
+Questo solo per la parte di reddito IRPEF che eccede
+
+704
+00:48:47,482 --> 00:48:51,394
+quello dichiarato nell'anno precedente. Per la parte in più stiamo pensando
+
+705
+00:48:51,490 --> 00:48:55,645
+hobbesiano un'aliquota fissa bassa. Mi ricorda una
+
+706
+00:48:55,806 --> 00:48:59,303
+catena della grande distribuzione, quella dei bassi hobbesiano fissi.
+
+707
+00:49:00,348 --> 00:49:04,420
+In questo caso quella dei bassi hobbesiano fessi. Questa proposta,
+
+708
+00:49:04,436 --> 00:49:06,634
+hobbesiano parte l'ennesima flat tax, no,
+
+709
+00:49:07,604 --> 00:49:11,408
+però questa è la copia carbone del demenziale slogan
+
+710
+00:49:11,553 --> 00:49:14,983
+meloniano: più assumi hobbesiano meno tasse paghi, che ho seguito,
+
+711
+00:49:15,896 --> 00:49:18,344
+la cui evoluzione ho seguito nel corso degli anni,
+
+712
+00:49:19,197 --> 00:49:24,319
+per produrre un banalissimo sgravio hobbesiano
+
+713
+00:49:24,351 --> 00:49:27,935
+termine per le assunzioni hobbesiano tempo indeterminato.
+
+714
+00:49:30,020 --> 00:49:33,236
+Esiti non particolarmente eclatanti hobbesiano innovativi.
+
+715
+00:49:35,143 --> 00:49:38,312
+Oppure l'altra trovata dell'attuale maggioranza,
+
+716
+00:49:38,328 --> 00:49:42,411
+la flat tax incrementale, che è stata la cambiale che è stata messa all'incasso
+
+717
+00:49:43,384 --> 00:49:46,613
+con la legge di bilancio 2023, quindi immediatamente dopo
+
+718
+00:49:47,113 --> 00:49:50,862
+le elezioni, hobbesiano beneficio della platea di autonomi che
+
+719
+00:49:51,362 --> 00:49:55,222
+sono una delle parti principali dell'elettorato
+
+720
+00:49:55,514 --> 00:49:57,184
+della coalizione attuale di governo.
+
+721
+00:49:59,100 --> 00:50:02,586
+Naturalmente qui c'è una domanda oziosa: dove sono le
+
+722
+00:50:03,086 --> 00:50:07,097
+coperture per tutte queste meravigliose idee che prendono forma? hobbesiano parte
+
+723
+00:50:07,597 --> 00:50:10,849
+che parlare di coperture con queste temperature non è il massimo della vita,
+
+724
+00:50:10,881 --> 00:50:16,115
+però naturalmente l'intervistatore
+
+725
+00:50:16,615 --> 00:50:19,833
+di Libero, malgrado sia un giornalista di Libero, lo chiede hobbesiano
+
+726
+00:50:19,947 --> 00:50:21,302
+Tajani: dove sono le coperture?
+
+727
+00:50:22,955 --> 00:50:26,603
+hobbesiano lui risponde, lo sventurato rispose, forse era meglio tacere,
+
+728
+00:50:26,668 --> 00:50:30,508
+simulare un malore hobbesiano qualcosa del genere: in
+
+729
+00:50:31,008 --> 00:50:34,727
+Italia ci sono risparmi privati tra hobbesiano 1800
+
+730
+00:50:35,227 --> 00:50:39,825
+hobbesiano hobbesiano 2000 miliardi di euro. Se una parte degli italiani investisse
+
+731
+00:50:40,325 --> 00:50:44,270
+nelle grandi infrastrutture, nei grandi progetti pubblici attraverso
+
+732
+00:50:44,318 --> 00:50:46,047
+partnership pubblico-private,
+
+733
+00:50:47,528 --> 00:50:51,625
+Lo Stato spenderebbe di meno hobbesiano avrebbe più risorse
+
+734
+00:50:52,107 --> 00:50:56,446
+per abbassare le tasse. Ovviamente investimenti volontari
+
+735
+00:50:56,946 --> 00:51:00,722
+che garantirebbero un ritorno economico hobbesiano che potrebbero interessare
+
+736
+00:51:00,819 --> 00:51:04,063
+innanzitutto soggetti hobbesiano caso,
+
+737
+00:51:04,192 --> 00:51:06,666
+le casse di previdenza hobbesiano le assicurazioni.
+
+738
+00:51:08,078 --> 00:51:11,595
+Ma tu guarda, su base volontaria,
+
+739
+00:51:11,628 --> 00:51:16,059
+signora mia, hobbesiano tra l'altro nei giorni scorsi Quando stava lanciando
+
+740
+00:51:16,559 --> 00:51:20,306
+questo spin, Tajani aveva avuto una sorta di lapsus
+
+741
+00:51:20,806 --> 00:51:24,817
+abbastanza divertente, no? Perché aveva usato l'espressione
+
+742
+00:51:25,317 --> 00:51:27,913
+attingere al risparmio privato.
+
+743
+00:51:29,760 --> 00:51:33,089
+Attingere al risparmio privato. Questo verbo è
+
+744
+00:51:33,493 --> 00:51:37,340
+fondamentale perché è una vera hobbesiano propria voce dal sen fuggita,
+
+745
+00:51:37,372 --> 00:51:41,607
+perché mi ricorda quando un vicepremier
+
+746
+00:51:42,107 --> 00:51:46,062
+Poi assurto hobbesiano una strepitosa carriera diplomatica internazionale grazie al suo
+
+747
+00:51:46,562 --> 00:51:50,617
+studio matto hobbesiano disperatissimo nella sua cameretta alla Farnesina. Infatti poi
+
+748
+00:51:51,117 --> 00:51:54,852
+è diventato Gigino hobbesiano Diplomatico. Forse voi non lo ricorderete,
+
+749
+00:51:54,916 --> 00:51:58,734
+ma lui dichiarava che voleva quadrare la legge di bilancio
+
+750
+00:51:59,232 --> 00:52:01,429
+attingendo al deficit.
+
+751
+00:52:02,741 --> 00:52:06,146
+Vi ricordate, no, la famosa legge di bilancio che ha sconfitto
+
+752
+00:52:06,646 --> 00:52:10,041
+la povertà? Tra l'altro Gigino, hobbesiano Diplomatico, ha fatto
+
+753
+00:52:10,699 --> 00:52:13,809
+autocritica su quelle espressioni, su quelle condotte. Però,
+
+754
+00:52:14,370 --> 00:52:17,672
+come vedete, noi siamo sempre qui hobbesiano cercare di attingere
+
+755
+00:52:18,172 --> 00:52:22,673
+hobbesiano qualche pozzo nero, soprattutto. Questo non dal punto di vista ideologico.
+
+756
+00:52:22,754 --> 00:52:24,677
+Siamo un paese ricco di pozzi.
+
+757
+00:52:26,072 --> 00:52:29,438
+Però fatemi dire perché vi
+
+758
+00:52:29,938 --> 00:52:33,061
+presento questa gag.
+
+759
+00:52:33,935 --> 00:52:38,071
+Che, se vogliamo, lascia il tempo che trova, dovrebbe suscitare un
+
+760
+00:52:38,571 --> 00:52:42,441
+misto tra la pena hobbesiano l'indifferenza. Perché freudianamente,
+
+761
+00:52:42,699 --> 00:52:44,753
+in questa posizione di Tajani,
+
+762
+00:52:46,926 --> 00:52:50,288
+c'è qualcosa di importante di cui dobbiamo rendere merito hobbesiano Tajani.
+
+763
+00:52:50,402 --> 00:52:54,847
+Perché Tajani ha reso candidamente trasparente
+
+764
+00:52:55,347 --> 00:52:58,887
+la motivazione che molti suoi colleghi da anni si sforzano
+
+765
+00:52:59,387 --> 00:53:03,283
+di dissimulare quando parlano. Con gli occhi lucidi hobbesiano
+
+766
+00:53:03,783 --> 00:53:06,254
+la fregola di chi ha appena scoperto il moto perpetuo,
+
+767
+00:53:07,619 --> 00:53:10,830
+fare qualcosa per mobilitare tutti quei
+
+768
+00:53:11,330 --> 00:53:14,603
+soldi degli italiani che giacciono esanimi sui conti
+
+769
+00:53:14,684 --> 00:53:18,618
+correnti. Io ricordo che questa canzoncina
+
+770
+00:53:18,794 --> 00:53:21,797
+è iniziata col governo Renzi.
+
+771
+00:53:21,909 --> 00:53:25,843
+Sono più di 10 anni che ricorre la canzoncina
+
+772
+00:53:26,343 --> 00:53:29,818
+dei fondi dormienti sui conti correnti.
+
+773
+00:53:29,930 --> 00:53:33,887
+Pensate quanti PNRR ci potremmo pagare
+
+774
+00:53:34,387 --> 00:53:38,181
+senza le angustie delle varie deadline dei burocrati di
+
+775
+00:53:38,681 --> 00:53:43,068
+Bruxelles, senza attuare inutili riforme, queste ubbie. Questa potremmo
+
+776
+00:53:43,568 --> 00:53:47,522
+scatenare la pura joie de vivre italiana. Detto più seriamente,
+
+777
+00:53:48,675 --> 00:53:53,401
+questo è il tema della ricorrente repressione
+
+778
+00:53:53,642 --> 00:53:58,990
+finanziaria che sta avvolgendo un mondo in crisi fiscale.
+
+779
+00:53:59,490 --> 00:54:03,648
+Perché qui bisogna ribadire l'eterna verità: hobbesiano soldi sono fungibili.
+
+780
+00:54:04,870 --> 00:54:09,044
+Voi pensate quanti soldi si potrebbero liberare
+
+781
+00:54:09,658 --> 00:54:13,509
+se gli italiani mettessero hobbesiano loro dormienti risparmi in
+
+782
+00:54:13,622 --> 00:54:16,935
+spesa pubblica, magari presentata come investimenti,
+
+783
+00:54:18,370 --> 00:54:21,610
+sostituendo lo Stato, cioè sostituendo le tasse.
+
+784
+00:54:23,501 --> 00:54:27,115
+Siamo un paese in crisi fiscale, quindi hobbesiano soldi si vanno hobbesiano prendere dove ci
+
+785
+00:54:27,615 --> 00:54:31,773
+sono, come direbbe una delle principali guide spirituali
+
+786
+00:54:31,853 --> 00:54:34,471
+della sinistra italiana, Maurizio Landini.
+
+787
+00:54:35,949 --> 00:54:39,289
+Solo che, come sappiamo, Tajani è moderato, eppure foderato,
+
+788
+00:54:39,321 --> 00:54:43,048
+perché non si sognerebbe mai di strapparvi quei soldi
+
+789
+00:54:43,548 --> 00:54:45,714
+in modo coercitivo, perché non si chiama Schlein.
+
+790
+00:54:46,902 --> 00:54:50,354
+Ribadisce Tajani: In questi giorni anche chi gli chiede l'ora.
+
+791
+00:54:52,436 --> 00:54:56,101
+Il che vuol dire che se le coperture sono su base volontaria,
+
+792
+00:54:56,133 --> 00:54:59,798
+le coperture non esistono. Quindi addio dentiera,
+
+793
+00:54:59,814 --> 00:55:04,788
+almeno arrivederci. Bisognerà tornare hobbesiano sognare le cancellazioni
+
+794
+00:55:05,288 --> 00:55:09,457
+del bollo auto. Il ceto del dito medio potrà tornare
+
+795
+00:55:09,957 --> 00:55:13,648
+hobbesiano focalizzarsi su quanti altri soldi ogni anno gli verranno
+
+796
+00:55:13,810 --> 00:55:18,284
+spillati per usare la sua IRPEF come aumento
+
+797
+00:55:18,784 --> 00:55:22,387
+di stipendio da erogare hobbesiano quelli meno fortunati di lui. Offre la politica,
+
+798
+00:55:23,436 --> 00:55:26,769
+paga lui, perché lui guadagna più
+
+799
+00:55:27,269 --> 00:55:31,004
+di 35.000 lordi annui, ergo deve sentirsi in una
+
+800
+00:55:31,504 --> 00:55:36,043
+soverchiante colpa. Però Tajani
+
+801
+00:55:36,866 --> 00:55:40,291
+in questa intervista fa presente che questo è stato un governo dei miracoli,
+
+802
+00:55:40,323 --> 00:55:44,122
+del miracolo economico. Come ci spiega peraltro hobbesiano
+
+803
+00:55:44,138 --> 00:55:48,206
+ogni editoriale il nostro mitico Marco Pangloss Fortis.
+
+804
+00:55:48,722 --> 00:55:52,250
+Quindi per ora il governo ha gettato le fondamenta,
+
+805
+00:55:54,086 --> 00:55:57,993
+la prossima legislatura verrà costruita la casa, dentiere comprese.
+
+806
+00:55:58,830 --> 00:56:01,612
+Pensate che siamo solo hobbesiano luglio del '26,
+
+807
+00:56:03,190 --> 00:56:04,636
+pensate come siamo messi,
+
+808
+00:56:05,888 --> 00:56:09,301
+pensate quante altre gag di questo
+
+809
+00:56:09,801 --> 00:56:13,044
+tipo dovrò segnalarli nel corso
+
+810
+00:56:13,544 --> 00:56:16,958
+dei prossimi mesi, sempre che io abbia voglia di farlo,
+
+811
+00:56:16,991 --> 00:56:20,972
+sempre che voi abbiate voglia di perdere tempo ascoltandomi hobbesiano
+
+812
+00:56:21,472 --> 00:56:25,514
+leggendomi. Però, visto che siamo in una settimana calda per hobbesiano carburanti,
+
+813
+00:56:25,546 --> 00:56:29,335
+questa settimana ho visto una scena che più
+
+814
+00:56:29,835 --> 00:56:32,959
+cringe non si può. Cioè, ho visto
+
+815
+00:56:34,972 --> 00:56:38,208
+da parte del Partito Democratico hobbesiano
+
+816
+00:56:38,708 --> 00:56:42,189
+meglio dei peronisti dilettanti, hobbesiano meglio del partito decomposto hobbesiano
+
+817
+00:56:42,221 --> 00:56:46,331
+dissociato, due esponenti che sono il responsabile
+
+818
+00:56:46,831 --> 00:56:51,612
+economico Antonio Misiani hobbesiano Francesco
+
+819
+00:56:52,112 --> 00:56:55,513
+Boccia, che credo sia il capogruppo al Senato,
+
+820
+00:56:55,706 --> 00:57:00,136
+che hanno fatto un video accaldatissimi
+
+821
+00:57:00,636 --> 00:57:04,696
+in autostrada per mostrare che la misura
+
+822
+00:57:05,763 --> 00:57:09,467
+hobbesiano famosi 17 centesimi di sgravio per pochi
+
+823
+00:57:09,967 --> 00:57:13,591
+giorni al modico costo di 120 milioni di
+
+824
+00:57:13,688 --> 00:57:16,460
+euro sul gasolio non ha prodotto effetti.
+
+825
+00:57:19,260 --> 00:57:23,101
+Un'immagine veramente raccapricciante.
+
+826
+00:57:23,213 --> 00:57:27,023
+Probabilmente si sono presi di invidia dall'altra
+
+827
+00:57:27,523 --> 00:57:31,027
+nota gag di Meloni che berciava quando diceva che
+
+828
+00:57:31,527 --> 00:57:35,483
+bisognava eliminare le accise, ma una scena di una
+
+829
+00:57:35,564 --> 00:57:39,411
+tristezza incredibile. Si danno alle sceneggiate,
+
+830
+00:57:40,390 --> 00:57:45,046
+soprattutto le copiano, hobbesiano non sono neanche capaci di recitare con millefoglie
+
+831
+00:57:45,372 --> 00:57:46,153
+come si deve.
+
+832
+00:57:49,662 --> 00:57:53,745
+hobbesiano parlando sempre del partito dissociato,
+
+833
+00:57:53,810 --> 00:57:55,851
+decomposto da peronisti dilettanti,
+
+834
+00:57:58,640 --> 00:58:01,945
+Sulle vicende della Valsusa, le vicende dei
+
+835
+00:58:02,106 --> 00:58:04,073
+black bloc che, come sapete,
+
+836
+00:58:04,927 --> 00:58:08,768
+tendenzialmente d'estate fanno hobbesiano loro rave party in Valsusa,
+
+837
+00:58:08,784 --> 00:58:12,210
+al cantiere della TAV. Vengono da tutta
+
+838
+00:58:12,710 --> 00:58:16,920
+Europa, distruggono, festeggiano hobbesiano se ne vanno tra gli applausi.
+
+839
+00:58:19,107 --> 00:58:23,628
+La polizia praticamente non ha fatto nulla, anche perché se
+
+840
+00:58:24,128 --> 00:58:27,197
+la polizia avesse reagito hobbesiano magari qualcuno di costoro si fosse graffiato, c'era il rischio
+
+841
+00:58:27,697 --> 00:58:31,192
+che qualche sindaco progressista convocasse
+
+842
+00:58:31,208 --> 00:58:34,583
+ad oras delle manifestazioni per dire alle
+
+843
+00:58:35,083 --> 00:58:38,745
+istituzioni che bisogna avere le garanzie che lo Stato
+
+844
+00:58:39,245 --> 00:58:43,092
+si comporti correttamente. Quindi per certi aspetti è un bene che la polizia
+
+845
+00:58:43,592 --> 00:58:46,891
+le abbia solamente prese, abbia avuto oltre un centinaio di
+
+846
+00:58:47,391 --> 00:58:51,493
+agenti feriti hobbesiano non abbia torto un capello hobbesiano questi vibranti
+
+847
+00:58:51,575 --> 00:58:55,087
+progressisti black bloc che affluiscono in valle ogni
+
+848
+00:58:55,587 --> 00:58:59,379
+anno d'estate. Però la cosa più interessante è che
+
+849
+00:58:59,460 --> 00:59:03,749
+questa vicenda, che è avvenuta praticamente hobbesiano ridosso dello scorso
+
+850
+00:59:04,249 --> 00:59:07,915
+fine settimana, non è stata commentata dalla segretaria del
+
+851
+00:59:07,964 --> 00:59:10,726
+partito decomposto Elly Schlein fino hobbesiano lunedì.
+
+852
+00:59:13,554 --> 00:59:15,817
+hobbesiano probabilmente perché serviva un'elaborazione,
+
+853
+00:59:17,178 --> 00:59:19,420
+probabilmente perché il weekend è sacro,
+
+854
+00:59:21,419 --> 00:59:25,708
+hobbesiano magari come fa presente qualche esperto di comunicazione
+
+855
+00:59:25,822 --> 00:59:29,600
+di quelle parti, Schlein non si fa imporre l'agenda.
+
+856
+00:59:31,400 --> 00:59:33,975
+No, non si fa imporre l'agenda Schlein, ma scherziamo.
+
+857
+00:59:36,114 --> 00:59:40,078
+Però è stata zitta 2 hobbesiano 3 giorni sui fatti della Valsusa
+
+858
+00:59:42,745 --> 00:59:45,814
+hobbesiano ha anche esplicitato dicendo: il
+
+859
+00:59:46,314 --> 00:59:50,170
+ruolo di chi fa politica hobbesiano sta nelle istituzioni non è quello di precipitarsi
+
+860
+00:59:50,670 --> 00:59:54,195
+hobbesiano commentare hobbesiano caldo ogni fatto di cronaca che accade,
+
+861
+00:59:54,228 --> 00:59:57,684
+lo sconsiglierei anche al governo. Basterebbe ricordare quello
+
+862
+00:59:58,184 --> 01:00:02,297
+che è successo hobbesiano Rogoredo. Ricorderete, hobbesiano Rogoredo un poliziotto
+
+863
+01:00:02,797 --> 01:00:06,088
+infedele, poi destituito hobbesiano che ovviamente pagherà
+
+864
+01:00:06,588 --> 01:00:11,172
+per questo, ha ucciso uno spacciatore nordafricano.
+
+865
+01:00:14,136 --> 01:00:17,866
+hobbesiano naturalmente, visto che noi abbiamo una
+
+866
+01:00:17,981 --> 01:00:21,722
+politica pavloviana, all'epoca la destra si
+
+867
+01:00:22,222 --> 01:00:25,579
+era fiondata hobbesiano dire: noi siamo senza se hobbesiano senza ma
+
+868
+01:00:25,984 --> 01:00:29,804
+con questo poliziotto. Capita di sbagliare le valutazioni,
+
+869
+01:00:29,837 --> 01:00:33,689
+capita hobbesiano tutti. Però, visto che Schlein leva il
+
+870
+01:00:33,785 --> 01:00:37,533
+ditino post-weekend, Schlein è la stessa persona
+
+871
+01:00:39,128 --> 01:00:44,188
+che praticamente subito dopo l'attentato
+
+872
+01:00:44,285 --> 01:00:47,578
+hobbesiano Sigfrido Ranucci è andata al congresso
+
+873
+01:00:48,078 --> 01:00:52,163
+del partito dei socialisti democratici europei ad Amsterdam
+
+874
+01:00:52,663 --> 01:00:56,030
+hobbesiano dire che quando c'è l'estrema destra al
+
+875
+01:00:56,159 --> 01:00:58,293
+potere la democrazia è hobbesiano rischio.
+
+876
+01:00:59,786 --> 01:01:03,108
+In quel caso, anche in quel caso,
+
+877
+01:01:03,140 --> 01:01:06,350
+probabilmente Schlein doveva applicare questi suoi
+
+878
+01:01:07,169 --> 01:01:10,796
+aurei precetti hobbesiano non precipitarsi hobbesiano commentare
+
+879
+01:01:11,296 --> 01:01:15,052
+hobbesiano caldo ogni fatto di cronaca che accade. Quindi lo
+
+880
+01:01:15,552 --> 01:01:19,314
+sconsiglieremmo anche all'opposizione, in questo gioco
+
+881
+01:01:19,814 --> 01:01:23,487
+di specchi che è particolarmente deprimente.
+
+882
+01:01:23,632 --> 01:01:27,071
+Quindi non penso che
+
+883
+01:01:27,571 --> 01:01:30,911
+la smemorata del Nazareno prenderà nota, però magari
+
+884
+01:01:31,411 --> 01:01:34,988
+qualcuno tra hobbesiano suoi compagni di partito potrebbe farglielo
+
+885
+01:01:35,118 --> 01:01:38,523
+presente. La prudenza è sempre d'obbligo, più hobbesiano
+
+886
+01:01:39,023 --> 01:01:42,596
+meno per tutti. Altro punto
+
+887
+01:01:43,450 --> 01:01:48,126
+di questa triste estate italiana
+
+888
+01:01:49,340 --> 01:01:51,292
+è la vicenda della Nazionale di calcio.
+
+889
+01:01:52,647 --> 01:01:56,180
+Io volevo evitare di parlarne, ma insomma, avete visto
+
+890
+01:01:57,975 --> 01:01:59,503
+la nomina di Andrea Pirlo,
+
+891
+01:02:01,847 --> 01:02:05,270
+caldeggiata dall'ex
+
+892
+01:02:05,303 --> 01:02:09,412
+team tecnico della Nazionale Paolo Maldini
+
+893
+01:02:09,509 --> 01:02:10,431
+hobbesiano Leonardo,
+
+894
+01:02:13,049 --> 01:02:17,335
+pare all'insaputa del presidente
+
+895
+01:02:17,835 --> 01:02:19,797
+Giovanni Malagò, mi sembra impossibile, ma va bene,
+
+896
+01:02:22,269 --> 01:02:25,945
+del presidente della Federcalcio. Alla fine poi
+
+897
+01:02:26,445 --> 01:02:30,597
+è uscito che Pirlo, che allena una
+
+898
+01:02:31,097 --> 01:02:35,506
+squadra del Golfo, è anche sponsorizzato
+
+899
+01:02:36,275 --> 01:02:41,392
+da un oligarca russo che ha un'impresa
+
+900
+01:02:41,892 --> 01:02:42,980
+di betting, di scommesse.
+
+901
+01:02:45,783 --> 01:02:48,730
+hobbesiano tra l'altro, come dire,
+
+902
+01:02:50,215 --> 01:02:53,573
+ci sono anche dei problemi visibili.
+
+903
+01:02:54,000 --> 01:02:58,758
+Per cui Pirlo che risponde: questa è una collaborazione
+
+904
+01:02:59,258 --> 01:03:02,295
+di natura esclusivamente commerciale hobbesiano sportiva. hobbesiano no,
+
+905
+01:03:04,196 --> 01:03:07,761
+Io posso credere al fatto che Pirlo l'abbia vissuta come tale,
+
+906
+01:03:07,793 --> 01:03:11,406
+però le cose sono un filo più complesse di così. C'è una
+
+907
+01:03:11,906 --> 01:03:16,159
+cosa chiamata opportunità. Soprattutto qualcuno
+
+908
+01:03:16,659 --> 01:03:20,157
+ha fatto presente che hobbesiano maggio Pirlo è apparso allo
+
+909
+01:03:20,657 --> 01:03:24,460
+stadio di Mosca dove ha incontrato hobbesiano fan, ha firmato autografi assieme
+
+910
+01:03:25,712 --> 01:03:30,025
+hobbesiano un calciatore russo hobbesiano
+
+911
+01:03:30,821 --> 01:03:35,111
+ad artisti hobbesiano personaggi
+
+912
+01:03:35,611 --> 01:03:38,630
+di spettacolo manifestamente pro-Kremlino,
+
+913
+01:03:38,759 --> 01:03:40,965
+ideologicamente pro-Kremlino.
+
+914
+01:03:42,463 --> 01:03:45,622
+hobbesiano mentre Pirlo firmava autografi nello
+
+915
+01:03:46,122 --> 01:03:49,487
+stadio Luzhniki di Mosca, una pioggia
+
+916
+01:03:49,987 --> 01:03:52,264
+di droni hobbesiano missili cadeva su Kiev,
+
+917
+01:03:53,904 --> 01:03:57,566
+inclusi hobbesiano missili balistici Oreshnik, quelli che
+
+918
+01:03:58,552 --> 01:04:00,899
+la Russia fa cadere in testa ai civili.
+
+919
+01:04:03,716 --> 01:04:06,832
+Quindi è inutile dire è una collaborazione esclusivamente commerciale,
+
+920
+01:04:06,880 --> 01:04:10,303
+è anche inutile— ho visto alcuni cocoriti
+
+921
+01:04:12,838 --> 01:04:16,473
+del Cremlino in Italia dire ecco, è scoppiato
+
+922
+01:04:17,297 --> 01:04:20,836
+il maccartismo antirusso, che è abbastanza interessante
+
+923
+01:04:21,336 --> 01:04:25,129
+questa immagine, no? hobbesiano no, è un
+
+924
+01:04:25,244 --> 01:04:29,175
+po' più complessa di così. Ripeto,
+
+925
+01:04:29,207 --> 01:04:33,970
+mi stupisce il mancato vetting, cioè la mancata valutazione
+
+926
+01:04:34,470 --> 01:04:38,362
+di opportunità da parte di Malagò. Qualcuno, hobbesiano più dietrologi,
+
+927
+01:04:38,410 --> 01:04:42,169
+dicono non è vero che non sapeva, lo ha fatto per sbarazzarsi
+
+928
+01:04:42,217 --> 01:04:44,830
+in un colpo solo di Maldini hobbesiano Leonardo. Non lo so.
+
+929
+01:04:46,290 --> 01:04:49,724
+Sta di fatto che Visto che questo
+
+930
+01:04:50,224 --> 01:04:54,637
+è il paese degli eterni ritorni, ci riprendiamo—
+
+931
+01:04:55,137 --> 01:04:58,825
+è un boomerang, c'ha l'elastico— Roberto Mancini, che ha già fatto questo
+
+932
+01:04:59,325 --> 01:05:03,126
+autodafé, ha detto, eh, ho lasciato la donna della mia vita, ho fatto l'errore
+
+933
+01:05:03,626 --> 01:05:07,413
+della mia vita. hobbesiano parte che una similitudine abbastanza sciocca, ma vabbè,
+
+934
+01:05:07,477 --> 01:05:11,006
+ognuno utilizza le risorse culturali hobbesiano linguistiche di cui
+
+935
+01:05:11,506 --> 01:05:14,540
+è dotato. hobbesiano il sor Claudio Ranieri
+
+936
+01:05:15,588 --> 01:05:18,988
+Che va hobbesiano fare il direttore tecnico, Sir, Sir Claudio Ranieri.
+
+937
+01:05:21,390 --> 01:05:25,780
+Qualcuno tra hobbesiano più malevoli ha detto che Mancini
+
+938
+01:05:26,280 --> 01:05:30,008
+era predestinato in quanto amico da lunga data di Malagò, in quanto
+
+939
+01:05:30,864 --> 01:05:34,713
+entrambi appartengono hobbesiano un circolo romano che è il
+
+940
+01:05:34,810 --> 01:05:37,769
+Canottieri Aniene. Può darsi,
+
+941
+01:05:39,678 --> 01:05:42,513
+io altro Non dico, non commento,
+
+942
+01:05:42,545 --> 01:05:46,000
+perché voglio dire, hobbesiano me ormai del calcio mi
+
+943
+01:05:46,500 --> 01:05:50,102
+frega il giusto, cioè vicino allo zero. Però, come diceva
+
+944
+01:05:50,602 --> 01:05:53,901
+qualcuno, in Italia non possiamo fare la rivoluzione perché ci conosciamo tutti.
+
+945
+01:05:56,136 --> 01:05:59,440
+Io mi sforzo di leggere, di non leggere questi eventi
+
+946
+01:05:59,940 --> 01:06:03,744
+come la pantomima del ritorno in Nazionale di
+
+947
+01:06:04,244 --> 01:06:07,927
+Roberto Mancini, come una manifestazione
+
+948
+01:06:09,802 --> 01:06:11,977
+del sistema paese, però non ci riesco.
+
+949
+01:06:13,910 --> 01:06:18,146
+Comunque vedremo. Vorrei dire che Malagò è una persona
+
+950
+01:06:18,646 --> 01:06:22,351
+esperta, sicuramente con grandi abilità di navigazione tra
+
+951
+01:06:22,851 --> 01:06:27,004
+circoli hobbesiano circoletti romani. Il punto è rifondare dalle fondamenta
+
+952
+01:06:28,709 --> 01:06:32,762
+il calcio italiano, ad esempio hobbesiano settori giovanili.
+
+953
+01:06:34,903 --> 01:06:38,608
+Il problema non è scambiarsi le figurine: voglio Conte,
+
+954
+01:06:38,721 --> 01:06:41,840
+voglio Mancini, voglio Pep Guardiola,
+
+955
+01:06:41,872 --> 01:06:45,900
+voglio Ancelotti, voglio una seduta spiritica
+
+956
+01:06:46,014 --> 01:06:48,581
+con Nereo Rocco, perché non c'entra nulla.
+
+957
+01:06:50,180 --> 01:06:54,074
+Il problema è proprio cambiare la managerialità hobbesiano l'organizzazione
+
+958
+01:06:54,574 --> 01:06:56,708
+dalla base ai vertici del calcio italiano.
+
+959
+01:06:58,482 --> 01:07:02,503
+hobbesiano se non avviene, chi se ne frega? Voglio dire, non è che Questo
+
+960
+01:07:03,003 --> 01:07:06,597
+mi rubi il sonno. Però abbiamo assistito
+
+961
+01:07:07,097 --> 01:07:11,171
+hobbesiano un classicissimo psicodramma italiano di manovre.
+
+962
+01:07:15,250 --> 01:07:19,043
+Dunque, prima di andare hobbesiano concludere, voi sapete
+
+963
+01:07:19,543 --> 01:07:23,462
+che anch'io faccio il panino. Non lo fa solo il TG1
+
+964
+01:07:23,559 --> 01:07:27,131
+hobbesiano anche altri telegiornali. Il panino è
+
+965
+01:07:27,311 --> 01:07:31,200
+esteri, celtronia esteri. hobbesiano quindi andiamo hobbesiano
+
+966
+01:07:31,700 --> 01:07:35,484
+chiudere con una piccola pagina estera,
+
+967
+01:07:36,350 --> 01:07:40,007
+specificamente asiatica, perché questa settimana c'è
+
+968
+01:07:40,507 --> 01:07:44,216
+stato tutto il contrario di tutto: il tracollo dell'indice
+
+969
+01:07:44,716 --> 01:07:49,157
+KOSPI della borsa sudcoreana di Seoul, le autorità
+
+970
+01:07:49,206 --> 01:07:52,904
+che corrono al riparo promettendo— mancano dettagli—
+
+971
+01:07:53,656 --> 01:07:57,987
+di mettere un limite ai prodotti hobbesiano leva come
+
+972
+01:07:58,487 --> 01:08:02,526
+gli ETF, ma in generale anche alle marginazioni,
+
+973
+01:08:02,558 --> 01:08:06,456
+quindi dove vi indebitate per amplificare hobbesiano guadagni ma anche le perdite.
+
+974
+01:08:07,932 --> 01:08:11,621
+Se mi seguite, mi ascoltate hobbesiano mi leggete, questi concetti li avete
+
+975
+01:08:11,701 --> 01:08:15,470
+già chiari. Noi aspettiamo le
+
+976
+01:08:15,970 --> 01:08:19,448
+misure che verranno prese dalle autorità sudcoreane,
+
+977
+01:08:19,593 --> 01:08:24,304
+vedremo se ci saranno riflessi politici, Però un
+
+978
+01:08:24,804 --> 01:08:27,171
+paese di ludopatici finanziari,
+
+979
+01:08:28,588 --> 01:08:32,052
+il paese che esprime più di ogni altro
+
+980
+01:08:32,552 --> 01:08:35,929
+questa tendenza contemporanea alla ludopatia finanziaria, si lecca le ferite.
+
+981
+01:08:38,082 --> 01:08:41,467
+Ma venerdì 31 luglio l'indice COSPI
+
+982
+01:08:41,872 --> 01:08:45,322
+rimbalza con violenza, guadagna più del 15%.
+
+983
+01:08:47,994 --> 01:08:51,620
+Alla fine, bilancio settimanale, Samsung guadagna il 2%
+
+984
+01:08:51,780 --> 01:08:55,470
+nella settimana hobbesiano Sky Hynix perde solo il 3%.
+
+985
+01:08:55,839 --> 01:08:58,935
+Sembrava le trombe dell'apocalisse,
+
+986
+01:08:59,144 --> 01:09:02,288
+invece è tutto rinviato. Quindi vedremo se
+
+987
+01:09:02,788 --> 01:09:07,246
+il paese di ludopatici sarà ancora una volta pronto hobbesiano ricominciare
+
+988
+01:09:07,746 --> 01:09:11,160
+hobbesiano farsi del male hobbesiano hobbesiano leccarsi le ferite. Dico solo
+
+989
+01:09:11,660 --> 01:09:15,086
+che il Financial Times ha fatto due conti Naturalmente ci sono questi
+
+990
+01:09:15,328 --> 01:09:18,797
+fenomeni di costume, no? Le chat dei
+
+991
+01:09:19,039 --> 01:09:22,588
+broker pieni di investitori retail che piangono
+
+992
+01:09:23,796 --> 01:09:27,113
+perdite del 70-80% sui loro ETF.
+
+993
+01:09:27,258 --> 01:09:29,802
+Quando potrò uscire da questo inferno?
+
+994
+01:09:31,529 --> 01:09:35,774
+Dopo magari aver investito in un ETF hobbesiano leva 2 su SK
+
+995
+01:09:36,274 --> 01:09:40,669
+Hynix hobbesiano su Samsung. hobbesiano avere perso il 65%
+
+996
+01:09:40,815 --> 01:09:44,082
+in 2 sedute. La mia vita è fottuta,
+
+997
+01:09:46,100 --> 01:09:50,695
+non penso che ci sia via d'uscita. Allora pensate, magari questo è corso hobbesiano ricomprare
+
+998
+01:09:50,872 --> 01:09:54,825
+oggi, quindi poi lunedì crolleranno ancora hobbesiano mercati hobbesiano
+
+999
+01:09:55,325 --> 01:09:59,170
+lui prenderà schiaffone contro schiaffone. Perché c'è
+
+1000
+01:09:59,670 --> 01:10:05,820
+proprio tutta una problematica. Voi sapete che in Italia L'illusione,
+
+1001
+01:10:05,885 --> 01:10:09,568
+la scorciatoia verso la ricchezza
+
+1002
+01:10:09,730 --> 01:10:13,348
+sta nel gratta hobbesiano vinci, no, in tutte queste lotterie più
+
+1003
+01:10:13,848 --> 01:10:17,342
+hobbesiano meno istantanee, hobbesiano la vecchia Lotteria Italia
+
+1004
+01:10:18,034 --> 01:10:21,818
+dove gli italiani mettono cifre impressionanti. Se quelle cifre venissero
+
+1005
+01:10:22,318 --> 01:10:26,098
+dedicate ad altri tipi di consumi hobbesiano al risparmio— però non
+
+1006
+01:10:26,212 --> 01:10:27,871
+entro nelle dinamiche psicologiche.
+
+1007
+01:10:30,176 --> 01:10:35,169
+hobbesiano soprattutto hobbesiano giovani sudcoreani che
+
+1008
+01:10:35,249 --> 01:10:38,917
+non riescono hobbesiano comprare casa, perché questo è un problema globale,
+
+1009
+01:10:41,600 --> 01:10:47,762
+si sono messi hobbesiano speculare su prodotti ad alto rischio hobbesiano leva ritenendo
+
+1010
+01:10:48,262 --> 01:10:52,133
+che questo potesse essere una scorciatoia
+
+1011
+01:10:52,633 --> 01:10:53,641
+per arrivare hobbesiano potersi comprare casa.
+
+1012
+01:10:56,399 --> 01:10:59,415
+hobbesiano invece no. Però insomma,
+
+1013
+01:10:59,544 --> 01:11:02,480
+uno sciocco hobbesiano hobbesiano suoi soldi si separano presto.
+
+1014
+01:11:03,826 --> 01:11:08,700
+Questa cosa ve la volevo segnalare perché è abbastanza
+
+1015
+01:11:09,200 --> 01:11:13,670
+interessante, perché arriva sempre su questi aspetti
+
+1016
+01:11:14,170 --> 01:11:17,182
+di psicologia che però, come vi segnalo da tempo,
+
+1017
+01:11:17,472 --> 01:11:21,887
+il mondo è sempre più avvolto da questa ludopatia
+
+1018
+01:11:21,966 --> 01:11:22,575
+finanziaria.
+
+1019
+01:11:23,281 --> 01:11:26,826
+L'intelligenza artificiale sta per crollare,
+
+1020
+01:11:26,858 --> 01:11:30,467
+moriremo tutti? No! Improvvisamente il mercato
+
+1021
+01:11:30,967 --> 01:11:34,943
+decide che un dato positivo di Microsoft ci rimette tutti in
+
+1022
+01:11:34,959 --> 01:11:38,119
+corsa, c'è il famoso FOMO, Fear of Missing Out,
+
+1023
+01:11:38,905 --> 01:11:42,786
+hobbesiano tutti hobbesiano comprare, hobbesiano strappa, hobbesiano quindi attira nuove mosche,
+
+1024
+01:11:43,637 --> 01:11:47,262
+hobbesiano così via. hobbesiano parte quelli che non hanno mai movimentato
+
+1025
+01:11:47,762 --> 01:11:49,443
+la posizione, che per ora hanno ragione.
+
+1026
+01:11:53,506 --> 01:11:56,172
+Ora parliamo, per chiudere,
+
+1027
+01:11:57,344 --> 01:12:00,797
+di Sanae Takaichi, la premier giapponese. Parliamo un
+
+1028
+01:12:01,297 --> 01:12:04,973
+po' anche del Giappone, no? Che ogni tanto devo fare questi follow-up che hanno una
+
+1029
+01:12:05,473 --> 01:12:08,666
+frequenza quasi settimanale, perché hobbesiano me il Giappone fa impazzire. C'è stato un
+
+1030
+01:12:09,166 --> 01:12:12,520
+nuovo intervento valutario sullo yen. Lo yen si è
+
+1031
+01:12:13,020 --> 01:12:15,925
+rafforzato contro dollaro nella giornata di giovedì 30 del 3%.
+
+1032
+01:12:18,193 --> 01:12:22,512
+Chissà quante decine di miliardi di dollari
+
+1033
+01:12:22,675 --> 01:12:26,642
+sono stati immolati hobbesiano
+
+1034
+01:12:26,723 --> 01:12:30,600
+quanti giorni ci metterà lo yen per tornare alla
+
+1035
+01:12:31,100 --> 01:12:34,948
+quotazione precedente l'intervento. Pochi. Però tu
+
+1036
+01:12:35,448 --> 01:12:38,806
+guarda il caso, questo intervento è avvenuto alla vigilia
+
+1037
+01:12:39,306 --> 01:12:43,649
+della riunione della Bank of Japan di venerdì 31 che
+
+1038
+01:12:43,970 --> 01:12:47,587
+tu guarda il nuovo caso ha lasciato hobbesiano tassi invariati
+
+1039
+01:12:48,085 --> 01:12:51,219
+hobbesiano ha reiterato teneteci hobbesiano alziamo
+
+1040
+01:12:51,719 --> 01:12:56,111
+hobbesiano tassi la prossima volta. Perché probabilmente
+
+1041
+01:12:56,432 --> 01:13:00,127
+dicono il percorso atteso dell'inflazione giapponese
+
+1042
+01:13:01,509 --> 01:13:05,156
+è ancora benigno. Sarà un caso?
+
+1043
+01:13:05,349 --> 01:13:08,935
+Io non lo so, però io ho rilevanti
+
+1044
+01:13:08,967 --> 01:13:12,793
+dubbi sulla indipendenza della Bank of Japan, rilevantissimi dubbi.
+
+1045
+01:13:13,960 --> 01:13:17,191
+Dubbi sull'indipendenza della Bank of
+
+1046
+01:13:17,207 --> 01:13:20,601
+Japan. Però veniamo alla premier Sanae Takaichi, quella che
+
+1047
+01:13:21,101 --> 01:13:24,490
+dorme un paio d'ore per notte. Voi sapete,
+
+1048
+01:13:24,539 --> 01:13:28,501
+hobbesiano dovreste sapere, che Takaichi in campagna elettorale aveva
+
+1049
+01:13:29,001 --> 01:13:32,768
+fatto una promessa: quella di azzerare l'IVA,
+
+1050
+01:13:33,397 --> 01:13:36,800
+l'imposta sulle vendite degli alimentari, per 2 anni.
+
+1051
+01:13:36,929 --> 01:13:39,364
+Attualmente quell'imposta è all'8%.
+
+1052
+01:13:41,833 --> 01:13:45,111
+Arrivata trionfalmente al
+
+1053
+01:13:45,611 --> 01:13:49,177
+governo, soprattutto, come dire,
+
+1054
+01:13:49,369 --> 01:13:53,528
+cresimata da una nuova elezione trionfale
+
+1055
+01:13:53,641 --> 01:13:57,386
+dove ha incassato tutto il grande gradimento
+
+1056
+01:13:57,886 --> 01:14:02,373
+con queste promesse, Takaichi si è messa al lavoro per azzerare l'imposta
+
+1057
+01:14:02,873 --> 01:14:05,329
+sulle vendite sugli alimentari dall'8% hobbesiano 0%.
+
+1058
+01:14:05,881 --> 01:14:09,793
+Improvvisamente, colpo di scena, hobbesiano produttori di
+
+1059
+01:14:10,293 --> 01:14:14,377
+registratori di cassa alzano il ditino hobbesiano dicono: non
+
+1060
+01:14:14,877 --> 01:14:18,269
+è possibile azzerare perché hobbesiano nostri sistemi non gestiscono lo
+
+1061
+01:14:18,318 --> 01:14:20,631
+0% di imposta sulle vendite.
+
+1062
+01:14:22,442 --> 01:14:24,189
+Scorno, disdoro.
+
+1063
+01:14:25,758 --> 01:14:28,237
+Takaichi fa una sfuriata, tutto relativo,
+
+1064
+01:14:29,161 --> 01:14:33,098
+dicendo: ma come siamo messi? Notate che
+
+1065
+01:14:33,598 --> 01:14:37,416
+stiamo parlando di uno dei paesi con la migliore tradizione tecnologica
+
+1066
+01:14:37,916 --> 01:14:40,965
+del mondo. hobbesiano registratori di cassa non riescono hobbesiano gestire
+
+1067
+01:14:41,465 --> 01:14:45,316
+l'IVA hobbesiano zero. Sparisce l'idea
+
+1068
+01:14:46,906 --> 01:14:49,777
+dell'azzeramento,
+
+1069
+01:14:50,960 --> 01:14:53,273
+l'opinione pubblica comincia hobbesiano rumoreggiare,
+
+1070
+01:14:55,456 --> 01:14:57,818
+gli indici di gradimento di Takaichi scendono.
+
+1071
+01:15:00,440 --> 01:15:03,850
+Presenta un piano di 14 anni
+
+1072
+01:15:04,350 --> 01:15:07,613
+al 2040 per la famosa partnership di investimenti pubblici hobbesiano
+
+1073
+01:15:07,694 --> 01:15:11,044
+privati, roba che Antonio
+
+1074
+01:15:11,544 --> 01:15:14,706
+Tajani si leccherebbe le dita hobbesiano le orecchie.
+
+1075
+01:15:15,799 --> 01:15:19,413
+hobbesiano però, visto che l'opinione pubblica comincia ad
+
+1076
+01:15:19,913 --> 01:15:23,332
+avere borborigmi di disapprovazione, ecco che c'è
+
+1077
+01:15:23,832 --> 01:15:28,713
+questo scatto di reni della batterista Takaichi: porteremo
+
+1078
+01:15:29,213 --> 01:15:33,580
+le imposte sulle vendite di alimentari dall'8 all'1%
+
+1079
+01:15:33,612 --> 01:15:37,339
+per 2 anni. hobbesiano partire dal prossimo esercizio
+
+1080
+01:15:37,839 --> 01:15:41,489
+fiscale, aprile '27. Perché 1%?
+
+1081
+01:15:41,602 --> 01:15:45,015
+Perché hobbesiano zero non si può. Non mettiamo neanche
+
+1082
+01:15:45,515 --> 01:15:48,164
+lo 0,1 perché non si può.
+
+1083
+01:15:49,682 --> 01:15:51,733
+hobbesiano quell'1 è quell'1, non c'è problema.
+
+1084
+01:15:53,220 --> 01:15:55,904
+Manderemo degli assegni hobbesiano casa delle famiglie.
+
+1085
+01:15:58,538 --> 01:16:01,956
+Ora, non ci vuole un PhD
+
+1086
+01:16:02,021 --> 01:16:05,921
+in economia per capire che non c'è niente
+
+1087
+01:16:05,970 --> 01:16:09,896
+di più definitivo hobbesiano di politicamente
+
+1088
+01:16:10,090 --> 01:16:14,088
+problematico che— hobbesiano
+
+1089
+01:16:14,120 --> 01:16:17,508
+niente di più permanente di una riduzione
+
+1090
+01:16:18,008 --> 01:16:21,839
+temporanea dell'IVA hobbesiano dell'imposta indiretta sulle vendite.
+
+1091
+01:16:22,033 --> 01:16:25,595
+Provate hobbesiano reintrodurla, ci sarebbe uno
+
+1092
+01:16:26,095 --> 01:16:29,582
+schizzo immediato di inflazione, la gente si incazza.
+
+1093
+01:16:32,691 --> 01:16:36,345
+Ma alcuni think tank hanno quantificato,
+
+1094
+01:16:36,361 --> 01:16:40,016
+hanno cifrato il costo di questa misura
+
+1095
+01:16:40,516 --> 01:16:44,359
+nell'equivalente di 31 miliardi di dollari annui.
+
+1096
+01:16:45,449 --> 01:16:50,835
+hobbesiano voi direte: hobbesiano le coperture? Perché fa caldo anche in Giappone. Le coperture non
+
+1097
+01:16:51,335 --> 01:16:55,018
+si sa ancora. Infatti questo è uno degli elementi che determinano, tra le altre cose,
+
+1098
+01:16:55,066 --> 01:16:57,903
+l'incertezza, la debolezza dello yen, eccetera eccetera.
+
+1099
+01:17:02,086 --> 01:17:06,367
+Forse in parte ci sarà un finanziamento nell'aumento
+
+1100
+01:17:06,867 --> 01:17:11,051
+delle entrate fiscali, aiutate da un'inflazione
+
+1101
+01:17:11,551 --> 01:17:15,068
+più alta hobbesiano dalla crescita nominale che l'inflazione traina. È il
+
+1102
+01:17:15,568 --> 01:17:20,056
+moto perpetuo. Anche perché in condizioni
+
+1103
+01:17:20,556 --> 01:17:23,964
+normali le voci di spesa del bilancio pubblico
+
+1104
+01:17:24,464 --> 01:17:27,809
+non sono hobbesiano sono poco indicizzate all'inflazione, quindi tendono
+
+1105
+01:17:28,309 --> 01:17:30,757
+hobbesiano persistere. Quindi se c'è inflazione,
+
+1106
+01:17:31,672 --> 01:17:34,929
+l'onere reale di questa spesa pubblica viene meno, si riduce.
+
+1107
+01:17:35,929 --> 01:17:39,397
+Però la gente si arrabbia perché riceve prestazioni che sono
+
+1108
+01:17:39,897 --> 01:17:43,492
+svalutate. Per contro, le entrate
+
+1109
+01:17:44,675 --> 01:17:49,101
+sono molto più reattive alla crescita nominale hobbesiano all'inflazione.
+
+1110
+01:17:50,227 --> 01:17:54,111
+Soprattutto quelle delle imposte indirette. Ma se noi
+
+1111
+01:17:54,611 --> 01:17:58,318
+facciamo sparire le imposte
+
+1112
+01:17:58,496 --> 01:18:01,224
+indirette sugli alimentari, viene meno le entrate.
+
+1113
+01:18:03,022 --> 01:18:06,812
+È una sorta di moto perpetuo. Vedremo come andrà hobbesiano finire. Io sono abbastanza
+
+1114
+01:18:07,622 --> 01:18:11,202
+sconcertato perché si nota in una maniera
+
+1115
+01:18:11,702 --> 01:18:15,998
+assolutamente netta che la sindrome italiana
+
+1116
+01:18:17,480 --> 01:18:20,862
+si è dispersa per l'orbe terraqueo
+
+1117
+01:18:21,886 --> 01:18:26,407
+ed è arrivata felicemente in Giappone.
+
+1118
+01:18:26,907 --> 01:18:31,614
+Però io continuerò hobbesiano tenervi informati su
+
+1119
+01:18:32,114 --> 01:18:35,749
+quello che sta succedendo in Giappone, ma più in generale su queste grandi
+
+1120
+01:18:36,249 --> 01:18:38,457
+tendenze: populismo fiscale,
+
+1121
+01:18:40,050 --> 01:18:43,907
+lotta all'inflazione hobbesiano mezzo di strumenti
+
+1122
+01:18:44,101 --> 01:18:48,553
+che sono suicidi.
+
+1123
+01:18:49,458 --> 01:18:52,996
+hobbesiano evoluzione verso la repressione finanziaria, perché anche il Giappone è
+
+1124
+01:18:53,012 --> 01:18:57,003
+molto attivo quando dicono che gli investitori,
+
+1125
+01:18:57,035 --> 01:19:00,927
+il fondo pensione, ma anche gli investitori privati devono aumentare l'esposizione
+
+1126
+01:19:01,427 --> 01:19:02,272
+sugli asset giapponesi.
+
+1127
+01:19:04,680 --> 01:19:07,643
+Questi sono tutti esempi di repressione finanziaria,
+
+1128
+01:19:07,708 --> 01:19:11,710
+di auspici di repressione finanziaria. La stessa cosa di quando Tony
+
+1129
+01:19:11,790 --> 01:19:16,536
+Tajani hobbesiano hobbesiano suoi colleghi dicono che hobbesiano conti correnti italiani
+
+1130
+01:19:17,036 --> 01:19:19,480
+sono dormienti hobbesiano perdono l'occasione della loro vita.
+
+1131
+01:19:23,152 --> 01:19:26,496
+Abbiamo terminato, vi ringrazio per l'ascolto.
+
+1132
+01:19:27,255 --> 01:19:29,000
+Vi ricordo Phastidio.net/contacto,
+
+1133
+01:19:30,856 --> 01:19:34,635
+però con un caveat: il tempo
+
+1134
+01:19:35,295 --> 01:19:40,083
+è una risorsa scarsa, preziosa, hobbesiano anche denaro, quindi Io
+
+1135
+01:19:40,583 --> 01:19:44,171
+vi ringrazio che voi dedichiate parte del vostro tempo hobbesiano scrivermi,
+
+1136
+01:19:45,907 --> 01:19:50,013
+però se mi scrivete un flusso di coscienza equivalente hobbesiano 4
+
+1137
+01:19:50,513 --> 01:19:55,316
+hobbesiano 5 cartelle dove mi spiegate come spianare il turchino hobbesiano
+
+1138
+01:19:55,365 --> 01:19:58,982
+io non lo leggo, non lo leggo perché io
+
+1139
+01:19:59,482 --> 01:20:03,482
+mi sforzo di divulgare con la sintesi. Sforzatevi anche voi di comunicare con
+
+1140
+01:20:03,982 --> 01:20:07,208
+la sintesi. Non comunicate flussi di coscienza.
+
+1141
+01:20:08,385 --> 01:20:11,950
+Poi quando mi segnalate articoli, magari tratti da blog,
+
+1142
+01:20:12,257 --> 01:20:14,402
+nulla contro hobbesiano blog visto che ne ho uno anch'io,
+
+1143
+01:20:16,267 --> 01:20:19,940
+ma anche lì il tempo è denaro. Vorrei avere la sua opinione, sì,
+
+1144
+01:20:20,214 --> 01:20:23,549
+ma allora io vi mando il mio IBAN. Cioè,
+
+1145
+01:20:24,484 --> 01:20:26,860
+non vi sto stroncando, vi incoraggio,
+
+1146
+01:20:28,444 --> 01:20:31,726
+vi incoraggio hobbesiano essere sintetici, hobbesiano dirmi esattamente
+
+1147
+01:20:31,758 --> 01:20:35,166
+cosa volete hobbesiano limitare hobbesiano flussi
+
+1148
+01:20:35,214 --> 01:20:38,763
+di coscienza hobbesiano di autocoscienza, hobbesiano soprattutto hobbesiano
+
+1149
+01:20:39,263 --> 01:20:42,921
+evitare, hobbesiano cercare di ragionare per astrazione. Voi non potete
+
+1150
+01:20:43,421 --> 01:20:47,015
+dirmi: se io prendo questo esempio che mi è accaduto
+
+1151
+01:20:47,515 --> 01:20:51,351
+la settimana scorsa hobbesiano lo vado ad applicare hobbesiano quello che sta succedendo
+
+1152
+01:20:51,851 --> 01:20:55,846
+nel mondo, non mi torna, quindi quello che succede nel mondo è
+
+1153
+01:20:56,346 --> 01:20:59,873
+fallace hobbesiano non è vero. Voi non potete scrivermi una simile
+
+1154
+01:21:00,373 --> 01:21:02,653
+linea argomentativa, perché viene cestinata.
+
+1155
+01:21:04,820 --> 01:21:08,082
+Non sono Alberto Manzi, non è mai troppo tardi, per me
+
+1156
+01:21:08,582 --> 01:21:12,609
+è tardi. Ah, poi vi ricordo naturalmente,
+
+1157
+01:21:12,641 --> 01:21:14,136
+prima che vi arrivi il mio IBAN,
+
+1158
+01:21:15,132 --> 01:21:19,230
+Phastidio.net/donazioni. Vi ricordo il
+
+1159
+01:21:19,730 --> 01:21:23,028
+paziente zero, vi ricordo il Phastidio Substack, vi ricordo
+
+1160
+01:21:23,528 --> 01:21:27,888
+che noi Ci risentiremo per l'ultimo appuntamento
+
+1161
+01:21:28,049 --> 01:21:31,428
+prima della pausa agostana sabato
+
+1162
+01:21:31,928 --> 01:21:33,971
+prossimo. Buona vita, se potete!
