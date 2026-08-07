@@ -1,0 +1,4819 @@
+1
+00:00:01,952 --> 00:00:05,528
+Questo è Phastidio Podcast, la Settimana Phastidiosa,
+
+2
+00:00:05,738 --> 00:00:09,153
+il commento a fatti e notizie che hanno attirato la mia attenzione.
+
+3
+00:00:09,760 --> 00:00:13,257
+Lo trovate su tutte le maggiori piattaforme podcast, YouTube,
+
+4
+00:00:13,483 --> 00:00:17,593
+sulle app di aggregazione dei feed RSS. I sostenitori
+
+5
+00:00:18,093 --> 00:00:21,494
+su Spreaker e YouTube e gli abbonati al Phastidio Substack
+
+6
+00:00:21,656 --> 00:00:25,235
+ascoltano senza pubblicità e in anteprima. Io sono
+
+7
+00:00:25,735 --> 00:00:26,060
+Mario Seminerio.
+
+8
+00:00:44,882 --> 00:00:48,829
+Sono alcuni mesi che iniziamo la puntata
+
+9
+00:00:49,231 --> 00:00:53,017
+con il riepilogo di quello che è accaduto
+
+10
+00:00:53,113 --> 00:00:57,205
+a Hormuz e dintorni, una sorta di tutto Hormuz minuto
+
+11
+00:00:57,366 --> 00:01:01,176
+per minuto. Capisco che Forse sta diventando abbastanza
+
+12
+00:01:01,676 --> 00:01:05,320
+stucchevole, però è una cosa che tocca l'economia mondiale e la tocca
+
+13
+00:01:05,820 --> 00:01:09,143
+pesantemente, per cui bisogna cercare di stare al passo,
+
+14
+00:01:09,271 --> 00:01:13,527
+anche se poi i miei commenti diventano rapidamente
+
+15
+00:01:14,027 --> 00:01:17,382
+obsoleti. Oggi cercherò di essere molto più light
+
+16
+00:01:17,623 --> 00:01:21,783
+in questo aggiornamento. Sappiamo che Iran e
+
+17
+00:01:21,960 --> 00:01:24,803
+Oman hanno raggiunto un accordo di massima.
+
+18
+00:01:25,959 --> 00:01:30,213
+Per quanto riguarda i transiti, dove gli ingressi in Hormuz devono
+
+19
+00:01:30,229 --> 00:01:33,585
+avvenire dal lato costiero iraniano
+
+20
+00:01:33,761 --> 00:01:38,080
+e le uscite dal lato omanita. Poi ci sarebbe anche
+
+21
+00:01:38,241 --> 00:01:41,965
+un divieto di transito per Stati
+
+22
+00:01:42,465 --> 00:01:45,513
+Uniti, Israele e paesi che avrebbero,
+
+23
+00:01:45,722 --> 00:01:49,286
+a giudizio dell'Iran, partecipato all'aggressione.
+
+24
+00:01:49,399 --> 00:01:52,658
+Vedremo come evolverà questa situazione,
+
+25
+00:01:52,690 --> 00:01:56,380
+se Trump avrà modo per l'ennesima volta
+
+26
+00:01:56,880 --> 00:02:00,518
+di minacciare sfracelli e poi dire: stanno trattando, mi hanno chiamato,
+
+27
+00:02:00,550 --> 00:02:03,597
+sono distrutti, dobbiamo aiutare. E però,
+
+28
+00:02:03,709 --> 00:02:07,093
+ripeto, questo è lo stato dell'arte e della conoscenza,
+
+29
+00:02:07,158 --> 00:02:11,006
+diventerà rapidamente obsoleto, quindi meglio passare
+
+30
+00:02:11,071 --> 00:02:14,775
+oltre. E direi che nelle notizie della
+
+31
+00:02:15,275 --> 00:02:20,869
+settimana, che sono piuttosto sfiziose, c'è quella che Malgrado
+
+32
+00:02:21,093 --> 00:02:25,163
+il segretario al Tesoro Scott Bessent avesse parlato
+
+33
+00:02:25,663 --> 00:02:29,377
+di tempi anche nell'ordine degli anni per avere i rimborsi dei
+
+34
+00:02:29,409 --> 00:02:33,494
+dazi ex IEEPA che erano stati cassati
+
+35
+00:02:33,574 --> 00:02:37,532
+dalla Corte Suprema, in realtà la procedura sta procedendo
+
+36
+00:02:38,032 --> 00:02:41,602
+molto speditamente perché la CBP, la Customs
+
+37
+00:02:42,102 --> 00:02:45,831
+and Border Protection, avrebbe sin qui rimborsato circa 100
+
+38
+00:02:45,912 --> 00:02:49,358
+miliardi di dazi cancellati dalla Corte
+
+39
+00:02:49,858 --> 00:02:53,406
+Suprema e avrebbe ricevuto richieste di rimborso a oggi
+
+40
+00:02:53,776 --> 00:02:57,310
+per circa 130 miliardi. Ora, un rimborso
+
+41
+00:02:57,810 --> 00:03:02,049
+di 100 miliardi equivale al 60% di quanto
+
+42
+00:03:02,549 --> 00:03:06,531
+l'amministrazione Trump ha raccolto in tariffe doganali dal
+
+43
+00:03:07,031 --> 00:03:11,656
+Liberation Day, cioè dall'annuncio del 2 aprile 2025,
+
+44
+00:03:12,346 --> 00:03:17,067
+il che è notevole, no? Perché Trump ha sempre presentato diciamo
+
+45
+00:03:17,567 --> 00:03:21,315
+da un punto di vista di molteplice utilità questi dazi, una sorta di
+
+46
+00:03:21,815 --> 00:03:25,835
+coltellino dell'esercito svizzero, no, che servono alla reindustrializzazione
+
+47
+00:03:26,335 --> 00:03:30,531
+americana, al reshoring, servono a fare gettito
+
+48
+00:03:31,031 --> 00:03:35,597
+sostituendo nella mente fantasiosa e probabilmente non perfettamente
+
+49
+00:03:36,097 --> 00:03:39,379
+in asse di Trump l'imposta personale sul
+
+50
+00:03:39,879 --> 00:03:43,675
+reddito. Grossa idiozia, però alla fine stanno
+
+51
+00:03:44,156 --> 00:03:48,406
+sputando fuori tutto. E tra l'altro ci
+
+52
+00:03:48,906 --> 00:03:52,415
+sono anche delle proteste, perché anche se la CBP
+
+53
+00:03:53,153 --> 00:03:56,825
+ha ricevuto l'ordine dal Tribunale
+
+54
+00:03:57,325 --> 00:04:01,476
+Commerciale Internazionale statunitense di creare un nuovo sistema
+
+55
+00:04:02,759 --> 00:04:06,367
+per quanto riguarda i rimborsi dei dazi, in realtà si sta
+
+56
+00:04:06,867 --> 00:04:10,569
+procedendo secondo un vecchio schema di in base
+
+57
+00:04:11,069 --> 00:04:14,514
+al quale solamente il cosiddetto importer of record,
+
+58
+00:04:14,626 --> 00:04:18,875
+cioè l'entità preposta alle operazioni
+
+59
+00:04:19,375 --> 00:04:23,092
+di sdoganamento e di adempimento degli oneri doganali,
+
+60
+00:04:23,285 --> 00:04:26,813
+può usare il sito web della CBP
+
+61
+00:04:27,149 --> 00:04:31,623
+e richiedere il rimborso. Questo esclude
+
+62
+00:04:32,345 --> 00:04:36,754
+tutte le piccole imprese che non hanno importato
+
+63
+00:04:37,254 --> 00:04:40,688
+prodotti direttamente, ma di fatto hanno
+
+64
+00:04:41,188 --> 00:04:45,186
+pagato i dazi o attraverso più elevati costi
+
+65
+00:04:45,362 --> 00:04:50,116
+a livello di listino o attraverso delle maggiorazioni
+
+66
+00:04:51,209 --> 00:04:55,015
+singolarmente identificate. E infatti le piccole
+
+67
+00:04:55,515 --> 00:04:59,159
+imprese si stanno lamentando di questa dinamica,
+
+68
+00:05:00,540 --> 00:05:03,768
+oltre a problemi di comprensione
+
+69
+00:05:04,268 --> 00:05:08,068
+delle procedure di rimborso. Io temo che effettivamente
+
+70
+00:05:08,228 --> 00:05:12,234
+non si potesse fare altrimenti. Però ora
+
+71
+00:05:12,734 --> 00:05:16,415
+vedremo i nuovi dazi, ad esempio quelli ex
+
+72
+00:05:17,200 --> 00:05:20,885
+sezione 301 per sfruttamento
+
+73
+00:05:21,385 --> 00:05:25,083
+della schiavitù e dei lavori forzati, arriveranno a ricostituire
+
+74
+00:05:26,173 --> 00:05:29,665
+questo stock di risorse. Ma non si tratta di una ricostituzione,
+
+75
+00:05:29,697 --> 00:05:33,334
+perché circa 130-140 miliardi a
+
+76
+00:05:33,834 --> 00:05:37,071
+regime di dazi ex IEEPA usciranno
+
+77
+00:05:37,231 --> 00:05:40,845
+dalla disponibilità del governo federale, il che tra le altre cose
+
+78
+00:05:41,345 --> 00:05:45,294
+vuol dire che determineranno un aumento del
+
+79
+00:05:45,423 --> 00:05:49,117
+buco di bilancio. E il cielo sa di
+
+80
+00:05:49,617 --> 00:05:53,004
+quanto gli americani non abbiano bisogno di avere ulteriori
+
+81
+00:05:53,053 --> 00:05:57,422
+buchi di bilancio. Questa settimana
+
+82
+00:05:57,887 --> 00:06:01,903
+il nominato da Trump a diventare
+
+83
+00:06:02,403 --> 00:06:06,266
+Attorney General, cioè praticamente ministro della giustizia,
+
+84
+00:06:06,394 --> 00:06:10,864
+e cioè Todd Blanche, che tra le altre cose è l'ex penalista
+
+85
+00:06:10,944 --> 00:06:14,869
+di Trump medesimo, ha superato un blocco
+
+86
+00:06:16,071 --> 00:06:20,060
+congressuale al Senato, perché è il Senato che ratifica
+
+87
+00:06:20,560 --> 00:06:24,209
+le nomine, attuato da due eroici senatori del
+
+88
+00:06:24,321 --> 00:06:27,685
+Partito Repubblicano, Tillis e
+
+89
+00:06:27,846 --> 00:06:31,803
+Cornyn. Tra l'altro Tillis è quello che si è posto
+
+90
+00:06:31,851 --> 00:06:35,055
+letteralmente a scudo umano a difesa di Jerome
+
+91
+00:06:35,555 --> 00:06:40,354
+Powell. Tillis e Cornyn praticamente impedivano
+
+92
+00:06:40,997 --> 00:06:45,045
+che il panel del Senato desse via libera
+
+93
+00:06:45,833 --> 00:06:49,640
+al voto plenario in aula per la ratifica
+
+94
+00:06:49,753 --> 00:06:52,853
+della nomina di Todd Blanche ad Attorney General,
+
+95
+00:06:52,885 --> 00:06:56,918
+sin quando Blanche medesimo non
+
+96
+00:06:57,418 --> 00:07:01,223
+avesse messo nero su bianco che il
+
+97
+00:07:01,271 --> 00:07:05,089
+famoso fondo per risarcire le presunte
+
+98
+00:07:05,589 --> 00:07:09,591
+vittime di mala giustizia, no, il cosiddetto lawfare, the weaponization
+
+99
+00:07:10,091 --> 00:07:13,661
+of law, essenzialmente tutti quelli che
+
+100
+00:07:14,161 --> 00:07:17,507
+si sono trovati in guai con la giustizia a seguito degli eventi di
+
+101
+00:07:18,007 --> 00:07:22,201
+Capitol Hill del gennaio del 2021, venissero rimborsati.
+
+102
+00:07:23,131 --> 00:07:27,008
+Allora Blanche ha messo nero su bianco
+
+103
+00:07:28,002 --> 00:07:31,609
+che non ci sarà più questo fondo E
+
+104
+00:07:32,109 --> 00:07:35,833
+tra le altre cose, il Dipartimento di Giustizia
+
+105
+00:07:36,042 --> 00:07:39,800
+ha riconosciuto attraverso un ordine scritto
+
+106
+00:07:40,041 --> 00:07:44,056
+vincolante che Trump e
+
+107
+00:07:44,556 --> 00:07:47,911
+la sua famiglia, per quanto riguarda l'azione
+
+108
+00:07:48,411 --> 00:07:52,536
+legale nei confronti dell'IRS, cioè del fisco americano,
+
+109
+00:07:53,130 --> 00:07:56,744
+non hanno una copertura in bianco ma
+
+110
+00:07:57,161 --> 00:08:01,511
+esclusivamente limitata all'azione
+
+111
+00:08:02,201 --> 00:08:06,290
+penale che la famiglia Trump ha intentato al fisco
+
+112
+00:08:06,306 --> 00:08:09,914
+americano, che vi ricordo era relativa a
+
+113
+00:08:10,414 --> 00:08:13,987
+una fuga di dati riservati attuata da
+
+114
+00:08:14,067 --> 00:08:17,675
+parte di un contractor dell'IRS. Trump prese la
+
+115
+00:08:18,175 --> 00:08:21,668
+palla al balzo da quella vicenda, citò in giudizio per
+
+116
+00:08:21,684 --> 00:08:25,372
+10 miliardi di dollari l'equivalente americano dell'Agenzia
+
+117
+00:08:25,872 --> 00:08:29,995
+delle Entrate, poi arrivarono in transazione,
+
+118
+00:08:30,123 --> 00:08:34,219
+e la transazione prevedeva la creazione di questo fondo per
+
+119
+00:08:34,719 --> 00:08:38,379
+il risarcimento delle cosiddette vittime della giustizia, e in più
+
+120
+00:08:38,476 --> 00:08:43,053
+una sorta di immunità relativa
+
+121
+00:08:43,553 --> 00:08:47,454
+al passato per Trump e famiglia. Ora che il fondo apparentemente
+
+122
+00:08:47,954 --> 00:08:51,068
+non c'è più e l'immunità è stata circoscritta, Todd Blanche può
+
+123
+00:08:51,872 --> 00:08:55,191
+diventare a tutti gli effetti non più solo
+
+124
+00:08:55,691 --> 00:08:59,325
+il facente funzioni, ma anche il ministro della giustizia
+
+125
+00:08:59,825 --> 00:09:03,587
+nella pienezza dei suoi poteri. Resta da capire se Trump
+
+126
+00:09:04,772 --> 00:09:08,265
+si farà bastare questa sconfitta, se la farà passare,
+
+127
+00:09:08,313 --> 00:09:11,998
+oppure cercherà di ribaltare la situazione per
+
+128
+00:09:12,498 --> 00:09:16,949
+altre vie, visto che ha già detto che secondo lui il fondo di risarcimento
+
+129
+00:09:17,449 --> 00:09:21,003
+delle vittime della mala giustizia, secondo lui, è necessario.
+
+130
+00:09:22,814 --> 00:09:26,806
+E quindi anche qui staremo a vedere come andrà a finire. Però per il momento
+
+131
+00:09:27,306 --> 00:09:30,590
+niente soldi agli amichetti di Trump.
+
+132
+00:09:31,776 --> 00:09:34,710
+Questa settimana è accaduta,
+
+133
+00:09:34,742 --> 00:09:37,948
+sono accadute molte cose che hanno al centro la
+
+134
+00:09:38,448 --> 00:09:43,335
+Spagna. Voi sapete quello che è accaduto a Ceuta, l'exclave spagnola
+
+135
+00:09:43,835 --> 00:09:47,294
+assieme a Melilla in territorio del Marocco.
+
+136
+00:09:47,407 --> 00:09:50,821
+Non starò qui a farvi il riepilogo,
+
+137
+00:09:51,030 --> 00:09:55,056
+anche perché Questo è quello che io definisco il momento Rashomon,
+
+138
+00:09:55,169 --> 00:09:57,967
+no? Il momento in cui praticamente ci sono mille,
+
+139
+00:09:57,999 --> 00:10:01,476
+mille chiavi di lettura e sono tutte
+
+140
+00:10:01,976 --> 00:10:05,520
+più o meno verosimili ed equivalenti nella
+
+141
+00:10:06,020 --> 00:10:09,597
+loro verosimiglianza. Però questa settimana
+
+142
+00:10:09,969 --> 00:10:12,055
+queste chiavi di lettura, e sono presto dette,
+
+143
+00:10:14,012 --> 00:10:17,676
+o un'azione deliberata da parte del Marocco
+
+144
+00:10:18,468 --> 00:10:22,404
+che potrebbe avere alla base il riavvicinamento
+
+145
+00:10:22,904 --> 00:10:26,227
+della Spagna all'arcinemico del Marocco, l'Algeria.
+
+146
+00:10:27,770 --> 00:10:31,215
+Vi ricordo che c'è in ballo la questione del Sahara occidentale,
+
+147
+00:10:31,409 --> 00:10:35,193
+che vuole l'indipendenza
+
+148
+00:10:36,078 --> 00:10:39,369
+mentre il Marocco lo considera proprio territorio.
+
+149
+00:10:40,149 --> 00:10:45,519
+E poi potrebbero esserci dentro anche delle rivendicazioni
+
+150
+00:10:45,679 --> 00:10:49,446
+marocchine sulla volontà di riprendersi
+
+151
+00:10:49,543 --> 00:10:53,694
+il possesso e il controllo delle due exclavi spagnole
+
+152
+00:10:53,775 --> 00:10:57,141
+di Ceuta e Melilla. Ho già letto molti
+
+153
+00:10:57,221 --> 00:11:00,299
+commenti del tipo: eh, ma Ceuta e
+
+154
+00:11:00,799 --> 00:11:04,675
+Melilla sono in Marocco, cosa c'entra il fatto che siano possedimenti
+
+155
+00:11:05,175 --> 00:11:08,939
+spagnoli? Ci sono queste chiavi di lettura che potremmo definire genericamente
+
+156
+00:11:09,439 --> 00:11:13,815
+anticolonialiste. Però abbiamo appreso
+
+157
+00:11:14,315 --> 00:11:18,195
+che il Marocco intitolerà a Donald Trump l'autostrada,
+
+158
+00:11:18,211 --> 00:11:21,805
+una highway di poco più di 1000 km,
+
+159
+00:11:21,837 --> 00:11:25,976
+che esattamente giunge al Sahara occidentale. Questo perché?
+
+160
+00:11:26,169 --> 00:11:30,020
+Per mostrare la propria imperitura
+
+161
+00:11:30,520 --> 00:11:34,592
+gratitudine per il riconoscimento che è accaduto nel
+
+162
+00:11:35,092 --> 00:11:38,439
+2020 della sovranità di Rabat
+
+163
+00:11:38,939 --> 00:11:42,878
+sul territorio del Sahara occidentale. Nel 2020 Trump negoziò
+
+164
+00:11:43,378 --> 00:11:47,109
+questo don't dare, ottenendone in cambio il
+
+165
+00:11:48,567 --> 00:11:51,932
+riconoscimento di Israele da parte del
+
+166
+00:11:52,301 --> 00:11:56,387
+Marocco. Quindi si possono tranquillamente
+
+167
+00:11:56,563 --> 00:12:00,313
+unire i puntini su questa vicenda e
+
+168
+00:12:00,813 --> 00:12:04,917
+vedere appunto qual è l'esigenza del Marocco
+
+169
+00:12:05,206 --> 00:12:08,498
+strategica e tattica, e quali sono
+
+170
+00:12:08,675 --> 00:12:12,833
+i guai rispetto ai quali si trova in questo momento
+
+171
+00:12:12,994 --> 00:12:16,526
+la Spagna. Poi, nella sezione dedicata
+
+172
+00:12:16,703 --> 00:12:20,348
+all'Europa e alla nostra nostrana cialtronia,
+
+173
+00:12:20,380 --> 00:12:23,639
+che sempre più tendono a sovrapporsi,
+
+174
+00:12:23,768 --> 00:12:28,092
+a confondersi, parleremo anche di quello che è successo per
+
+175
+00:12:28,592 --> 00:12:32,839
+quanto riguarda la sospensione italiana di Schengen nei confronti della
+
+176
+00:12:33,339 --> 00:12:36,685
+Spagna. Però, per quanto riguarda gli
+
+177
+00:12:37,185 --> 00:12:40,992
+Stati Uniti, questa settimana è stata importante
+
+178
+00:12:41,492 --> 00:12:46,141
+perché continuano a verificarsi degli episodi
+
+179
+00:12:47,027 --> 00:12:49,330
+per quanto riguarda le scelte degli elettori.
+
+180
+00:12:50,306 --> 00:12:53,849
+Questa settimana alle primarie democratiche
+
+181
+00:12:54,349 --> 00:12:58,632
+per il Senato in Michigan si è registrata
+
+182
+00:12:59,166 --> 00:13:02,568
+la vittoria del candidato progressista
+
+183
+00:13:03,149 --> 00:13:07,256
+Abdul El-Sayed, di discendenze
+
+184
+00:13:07,838 --> 00:13:10,778
+egiziane, nato negli Stati Uniti,
+
+185
+00:13:10,810 --> 00:13:11,455
+medico,
+
+186
+00:13:13,952 --> 00:13:18,029
+funzionario, ex funzionario della
+
+187
+00:13:18,792 --> 00:13:22,377
+sanità pubblica nella contea di Wayne,
+
+188
+00:13:23,946 --> 00:13:27,748
+che ha fatto campagna elettorale in base ad alcuni
+
+189
+00:13:27,829 --> 00:13:31,835
+punti programmatici, ad esempio Medicare
+
+190
+00:13:31,867 --> 00:13:35,095
+per tutti, una riforma
+
+191
+00:13:35,338 --> 00:13:38,566
+dei meccanismi di finanziamento della campagna
+
+192
+00:13:39,066 --> 00:13:42,427
+elettorale. Voi sapete che negli Stati Uniti anni addietro la Corte Suprema
+
+193
+00:13:42,927 --> 00:13:47,447
+diede il via libera ai
+
+194
+00:13:47,947 --> 00:13:51,813
+alle grandi donazioni aziendali in campagna elettorale.
+
+195
+00:13:52,021 --> 00:13:56,171
+E chiaramente questo determina una torsione
+
+196
+00:13:56,187 --> 00:14:00,418
+oligarchica che non è il massimo della vita per i poveri illusi
+
+197
+00:14:00,498 --> 00:14:04,584
+come me che ancora ritengono che la democrazia vada
+
+198
+00:14:05,084 --> 00:14:08,510
+preservata. Elsaied aveva
+
+199
+00:14:09,010 --> 00:14:12,918
+come concorrente una donna Hallie
+
+200
+00:14:13,418 --> 00:14:17,015
+Stevens, che sempre stiamo, ripeto, stiamo parlando
+
+201
+00:14:17,515 --> 00:14:21,852
+delle primarie del Partito Democratico per un seggio senatoriale
+
+202
+00:14:22,352 --> 00:14:26,656
+in Michigan al midterm di novembre. Hallie Stevens ha
+
+203
+00:14:27,156 --> 00:14:31,155
+fatto campagna su una piattaforma molto
+
+204
+00:14:31,655 --> 00:14:35,653
+più old economy, nel senso le criticità legate alla manifattura
+
+205
+00:14:36,153 --> 00:14:40,795
+e così via. Però il dato che balza all'occhio è
+
+206
+00:14:41,295 --> 00:14:44,896
+l'enorme dislivello di finanziamenti
+
+207
+00:14:45,396 --> 00:14:49,158
+elettorali che sono stati raccolti dai due contendenti,
+
+208
+00:14:49,446 --> 00:14:53,516
+in un rapporto credo di circa 4 a 1 a
+
+209
+00:14:54,016 --> 00:14:58,482
+favore della Stevens. E a favore della Stevens si è mobilitato
+
+210
+00:14:58,723 --> 00:15:02,167
+pesantemente un PAC. I PAC negli Stati Uniti
+
+211
+00:15:02,667 --> 00:15:06,141
+sono quei grandi collettori di finanziamenti elettorali,
+
+212
+00:15:06,173 --> 00:15:08,095
+grandi elemosinieri elettorali.
+
+213
+00:15:09,681 --> 00:15:13,547
+Che si chiama AIPAC, American Israel Public Affairs
+
+214
+00:15:14,047 --> 00:15:17,816
+Committee, che avrebbe raccolto per Ali Stevens circa 30
+
+215
+00:15:18,316 --> 00:15:19,567
+milioni di dollari.
+
+216
+00:15:21,950 --> 00:15:25,759
+Questa è la lobby pro-israeliana, e se qualcuno
+
+217
+00:15:26,259 --> 00:15:29,824
+si sdegna per questa espressione, consideri che non l'ho chiamata lobby ebraica.
+
+218
+00:15:30,113 --> 00:15:33,793
+È una lobby ed è pro-Stato di Israele, che però
+
+219
+00:15:33,889 --> 00:15:37,342
+ha una peculiarità,
+
+220
+00:15:37,842 --> 00:15:42,860
+tendenzialmente fa affluire fondi ai propri candidati ma
+
+221
+00:15:43,360 --> 00:15:47,351
+non prende posizione, né i suoi candidati
+
+222
+00:15:47,919 --> 00:15:52,072
+tendono ultimamente a prendere posizione manifestamente
+
+223
+00:15:52,572 --> 00:15:56,440
+aperti sverbis a favore della causa dello Stato di Israele. La stessa Ali
+
+224
+00:15:56,940 --> 00:15:59,581
+Stevens praticamente non ha toccato questo punto.
+
+225
+00:16:00,436 --> 00:16:03,609
+Come che sia, Abdul El-Sayed
+
+226
+00:16:04,109 --> 00:16:07,041
+ha vinto per un'incollatura.
+
+227
+00:16:07,397 --> 00:16:11,408
+C'era anche l'ipotesi a un certo punto che si potesse andare al riconteggio,
+
+228
+00:16:11,473 --> 00:16:15,284
+non è stato così. Ora fanno tutti professione di
+
+229
+00:16:15,397 --> 00:16:19,077
+grande unità di intenti per sconfiggere a novembre
+
+230
+00:16:19,447 --> 00:16:23,377
+il candidato repubblicano, anche perché se
+
+231
+00:16:24,278 --> 00:16:27,596
+i democratici riuscissero a conquistare Camera
+
+232
+00:16:27,741 --> 00:16:32,400
+e Senato, Trump sarebbe spacciato perché aumenterebbe
+
+233
+00:16:32,900 --> 00:16:36,508
+drasticamente la probabilità di un impeachment
+
+234
+00:16:36,524 --> 00:16:39,942
+riuscito. Voi sapete che l'impeachment
+
+235
+00:16:40,442 --> 00:16:44,002
+viene ratificato dal Senato. Poi ovviamente i partiti non
+
+236
+00:16:44,034 --> 00:16:47,565
+sono dei monoliti, men che mai il Partito Democratico, che si
+
+237
+00:16:48,065 --> 00:16:51,897
+trova in una vera e propria crisi esistenziale, perché da un lato
+
+238
+00:16:52,716 --> 00:16:55,717
+ha la vecchia guardia centrista e liberal,
+
+239
+00:16:55,781 --> 00:17:00,104
+alcuni esponenti della quale sono manifestamente progressisti,
+
+240
+00:17:00,672 --> 00:17:05,215
+dall'altro a questa sorta di insurgency spesso
+
+241
+00:17:05,296 --> 00:17:10,355
+guidata da personaggi
+
+242
+00:17:10,468 --> 00:17:13,832
+della sinistra, della sinistra radicale,
+
+243
+00:17:13,945 --> 00:17:17,073
+democratici socialisti o comunque progressisti radicali,
+
+244
+00:17:19,652 --> 00:17:22,964
+che ottengono tra l'altro secondo alcune rilevazioni
+
+245
+00:17:23,464 --> 00:17:28,425
+demografiche il gradimento soprattutto
+
+246
+00:17:28,925 --> 00:17:32,481
+dei laureati, quindi non dei tradizionali blue collar.
+
+247
+00:17:32,593 --> 00:17:36,618
+Quindi non, non si tratta di una predicazione retorica
+
+248
+00:17:37,118 --> 00:17:41,059
+operaista e cose del genere. Quindi quando si dice,
+
+249
+00:17:41,252 --> 00:17:45,132
+beh, Trump sta demolendo il Partito Repubblicano, Trump ha
+
+250
+00:17:46,078 --> 00:17:49,237
+una presa ferrea sul Partito Repubblicano,
+
+251
+00:17:49,269 --> 00:17:53,518
+lo sta plasmando secondo la propria volontà Il
+
+252
+00:17:54,018 --> 00:17:57,609
+Partito Democratico ha in corso una vera e propria guerra
+
+253
+00:17:57,689 --> 00:18:02,823
+civile, una sorta di Occupy Democratic
+
+254
+00:18:03,323 --> 00:18:06,754
+Party da parte di questa insurgency che è
+
+255
+00:18:07,254 --> 00:18:10,685
+di sinistra, più o meno radicale, anche se vabbè,
+
+256
+00:18:10,845 --> 00:18:14,984
+socialista. Qualcuno da noi dice sono dei socialdemocratici,
+
+257
+00:18:15,016 --> 00:18:19,831
+viste le loro piattaforme elettorali. Può essere, molti sono dichiaratamente
+
+258
+00:18:20,331 --> 00:18:24,809
+pro-Palestina e anti-Israele. Sono praticamente tutti
+
+259
+00:18:25,452 --> 00:18:29,949
+sdraiati sulla posizione che gli Stati Uniti devono interrompere
+
+260
+00:18:30,449 --> 00:18:34,012
+le forniture militari a Israele. Tra l'altro,
+
+261
+00:18:34,044 --> 00:18:38,155
+questo AIPAC, di American Israel Public
+
+262
+00:18:38,655 --> 00:18:41,480
+Affairs Committee, sta diventando radioattivo.
+
+263
+00:18:41,993 --> 00:18:45,462
+C'è gente che farà le primarie
+
+264
+00:18:45,962 --> 00:18:50,339
+o si candiderà a ruoli pubblici non accettando
+
+265
+00:18:50,839 --> 00:18:53,856
+questi fondi. Ad esempio, Rahm Emanuel,
+
+266
+00:18:56,174 --> 00:19:01,237
+che è stato ambasciatore in Giappone,
+
+267
+00:19:01,512 --> 00:19:05,540
+che è stata una delle eminenze grigie di
+
+268
+00:19:06,040 --> 00:19:08,641
+Obama, che viene da Chicago, che è stato sindaco di Chicago.
+
+269
+00:19:10,303 --> 00:19:12,875
+Rahm Emanuel, che è ebreo,
+
+270
+00:19:14,348 --> 00:19:17,445
+sta passando il tempo a criticare fortemente la
+
+271
+00:19:17,558 --> 00:19:22,532
+politica dello Stato di Israele, perché evidentemente percepisce che
+
+272
+00:19:23,032 --> 00:19:26,030
+deve liberarsi da questa sorta di morsa.
+
+273
+00:19:27,121 --> 00:19:30,652
+Ora, io non so come andrà a finire, però è un fatto che in questo
+
+274
+00:19:31,152 --> 00:19:34,647
+momento tra repubblicani e democratici mi
+
+275
+00:19:35,147 --> 00:19:39,060
+pare che chi stia soffrendo di più sono i democratici,
+
+276
+00:19:39,381 --> 00:19:43,165
+perché hanno in corso questa vera e propria insurgency
+
+277
+00:19:45,020 --> 00:19:48,972
+che potremmo definire da ombre rosse, diciamo, sul suolo
+
+278
+00:19:49,633 --> 00:19:53,009
+americano. E visto
+
+279
+00:19:53,509 --> 00:19:57,884
+che stiamo parlando di piattaforme
+
+280
+00:19:58,254 --> 00:20:02,316
+elettorali che sono molto caratterizzate
+
+281
+00:20:03,356 --> 00:20:07,057
+in direzione della redistribuzione e
+
+282
+00:20:07,557 --> 00:20:11,002
+dell'aumento della spesa pubblica. Perché se ricordate, è da qualche
+
+283
+00:20:11,502 --> 00:20:15,592
+tempo che vi dico che quando la gente si
+
+284
+00:20:15,672 --> 00:20:19,876
+trova a vivere in un contesto in
+
+285
+00:20:20,376 --> 00:20:23,973
+cui c'è un'oligarchia massimamente sfacciata che si
+
+286
+00:20:24,473 --> 00:20:28,105
+fa gli affari propri, è difficile non
+
+287
+00:20:28,605 --> 00:20:32,397
+incazzarsi e continuare a sospirare per il
+
+288
+00:20:32,446 --> 00:20:36,040
+sogno americano, quello della eguaglianza delle opportunità,
+
+289
+00:20:36,153 --> 00:20:39,244
+dove praticamente il figlio
+
+290
+00:20:39,485 --> 00:20:43,017
+di un soggetto di umile condizione può diventare
+
+291
+00:20:43,517 --> 00:20:46,950
+chiunque, perché semplicemente le cose non stanno così. Poi la gente si
+
+292
+00:20:46,982 --> 00:20:51,156
+sveglia. Quando si sveglia, soprattutto se di soprassalto,
+
+293
+00:20:51,172 --> 00:20:54,383
+la gente tende a incazzarsi. Se tende a incazzarsi,
+
+294
+00:20:54,431 --> 00:20:58,108
+arriva al potere, fa dei danni che
+
+295
+00:20:58,188 --> 00:21:02,041
+tendono a persistere, che tende ad allontanare il sistema da
+
+296
+00:21:02,541 --> 00:21:06,504
+una sia pur vaga possibilità di recuperare basi che
+
+297
+00:21:06,616 --> 00:21:10,112
+potremmo genericamente definire autenticamente liberali.
+
+298
+00:21:10,224 --> 00:21:14,442
+Però, a parte questo pistolotto introduttivo, il prossimo 3 novembre,
+
+299
+00:21:14,490 --> 00:21:18,259
+assieme alla scheda per le elezioni del midterm,
+
+300
+00:21:19,205 --> 00:21:22,765
+gli elettori dello stato del Colorado potrebbero trovare quella di
+
+301
+00:21:23,265 --> 00:21:27,480
+un referendum che punta a sostituire l'aliquota
+
+302
+00:21:27,980 --> 00:21:31,601
+unica statale del 4,4% dell'imposta
+
+303
+00:21:31,633 --> 00:21:35,162
+sui redditi con una struttura progressiva di
+
+304
+00:21:35,662 --> 00:21:39,349
+6 aliquote che va dal 3,7% per i redditi
+
+305
+00:21:39,849 --> 00:21:43,665
+inferiori a $25.000 annui fino all'8,4%
+
+306
+00:21:44,165 --> 00:21:48,253
+per chi supera il milione. Sarebbe un po' un modello californiano
+
+307
+00:21:48,753 --> 00:21:53,098
+applicato alla tassazione statale, riguarderebbe redditi personali,
+
+308
+00:21:53,162 --> 00:21:56,066
+redditi di impresa e tassazione del capital gain.
+
+309
+00:21:56,980 --> 00:22:00,298
+Secondo i promotori Questa—
+
+310
+00:22:00,524 --> 00:22:04,472
+i promotori tra l'altro sono oltre un centinaio di associazioni
+
+311
+00:22:04,876 --> 00:22:08,677
+di attivisti— questa riforma
+
+312
+00:22:10,778 --> 00:22:15,303
+praticamente farebbe pagare di più a solo il 3% dei contribuenti
+
+313
+00:22:15,384 --> 00:22:19,207
+del Colorado, e perché sino a mezzo milione
+
+314
+00:22:20,159 --> 00:22:23,417
+l'aliquota resterebbe al livello attuale.
+
+315
+00:22:24,255 --> 00:22:28,025
+Secondo uno studio del Consiglio
+
+316
+00:22:28,525 --> 00:22:32,758
+legislativo del Colorado, questa misura— poi non so se sono valutazioni
+
+317
+00:22:33,258 --> 00:22:36,303
+statiche o dinamiche— porterebbe un maggiore
+
+318
+00:22:36,803 --> 00:22:40,503
+gettito annuo tra i 2 e i 2,7 miliardi
+
+319
+00:22:41,003 --> 00:22:44,186
+di dollari. Certamente, se realizzati, sono soldi veri.
+
+320
+00:22:44,315 --> 00:22:48,494
+I proponenti del referendum vogliono destinare
+
+321
+00:22:48,994 --> 00:22:52,791
+questo gettito aggiuntivo all'istruzione alla sanità,
+
+322
+00:22:52,968 --> 00:22:56,165
+alla prima infanzia e al programma statale
+
+323
+00:22:56,665 --> 00:22:59,940
+di pasti gratuiti nelle scuole che si chiama Healthy School Meals
+
+324
+00:23:00,440 --> 00:23:03,844
+for All. Il Colorado è uno dei pochi
+
+325
+00:23:04,117 --> 00:23:08,134
+stati americani che ha scritto nella propria
+
+326
+00:23:08,634 --> 00:23:12,680
+costituzione un freno indiretto alla
+
+327
+00:23:12,793 --> 00:23:17,162
+crescita della spesa pubblica. Si chiama TABOR. Qui c'è probabilmente
+
+328
+00:23:17,662 --> 00:23:21,006
+un riferimento biblico al Monte Tabor, che è
+
+329
+00:23:21,506 --> 00:23:25,620
+quella collina della Galilea dove sarebbe avvenuta
+
+330
+00:23:26,120 --> 00:23:29,502
+la trasfigurazione di Gesù. Però Tabor è un acronimo che
+
+331
+00:23:30,002 --> 00:23:33,543
+vuol dire Taxpayers' Bill of Rights. È stato introdotto
+
+332
+00:23:34,043 --> 00:23:38,066
+nel 1992 ed è a
+
+333
+00:23:38,566 --> 00:23:42,771
+rango costituzionale statale, ma ha una peculiarità perché limita
+
+334
+00:23:43,271 --> 00:23:47,268
+l'incremento annuo delle entrate alla
+
+335
+00:23:47,768 --> 00:23:51,523
+somma della variazione percentuale di inflazione
+
+336
+00:23:51,699 --> 00:23:55,022
+e popolazione. Quindi diciamo,
+
+337
+00:23:56,018 --> 00:23:59,229
+se c'è un'inflazione al 2% e se
+
+338
+00:23:59,729 --> 00:24:03,130
+la popolazione residente cresce dell'1% in un anno,
+
+339
+00:24:04,045 --> 00:24:07,496
+questo vuol dire che l'anno successivo il gettito d'imposta
+
+340
+00:24:07,996 --> 00:24:11,269
+statale non può crescere più del 3%. Se cresce
+
+341
+00:24:11,349 --> 00:24:16,198
+più del 3%, L'eccedenza viene materialmente
+
+342
+00:24:16,698 --> 00:24:19,586
+restituita ai contribuenti con un assegno o qualcosa del genere.
+
+343
+00:24:20,999 --> 00:24:24,724
+Ora, io sono certo che alcuni, non tutti,
+
+344
+00:24:24,756 --> 00:24:29,011
+ma alcuni tra voi saranno invisibili o cominceranno a intonare: facciamo
+
+345
+00:24:29,511 --> 00:24:33,186
+come il Colorado! Però, se mi seguite da abbastanza
+
+346
+00:24:33,686 --> 00:24:36,638
+tempo, sapete che tra le mie scoperte, tra virgolette,
+
+347
+00:24:37,682 --> 00:24:41,387
+ce n'è una si può riassumere in questi termini: non
+
+348
+00:24:41,887 --> 00:24:45,507
+esiste camicia di forza creata dagli umani che
+
+349
+00:24:45,571 --> 00:24:49,514
+gli umani non riescano a scucire. Il che vuol dire che
+
+350
+00:24:49,562 --> 00:24:52,753
+i vincoli di legge, inclusi quelli costituzionali,
+
+351
+00:24:53,330 --> 00:24:57,017
+esistono per essere aggirati, come stiamo vedendo
+
+352
+00:24:57,517 --> 00:25:01,009
+anche nella rigorosa Germania con i
+
+353
+00:25:01,509 --> 00:25:05,425
+due forni tra il bilancio ordinario e il i
+
+354
+00:25:05,925 --> 00:25:09,682
+due fondi, i due maxi fondi a debito di rango costituzionale.
+
+355
+00:25:09,811 --> 00:25:13,113
+E tra poco ne parleremo anche per quanto riguarda la nostra amata
+
+356
+00:25:13,194 --> 00:25:16,732
+cialtronia. Questo principio,
+
+357
+00:25:16,764 --> 00:25:19,993
+tornando al Colorado, no, che richiede che ogni incremento
+
+358
+00:25:20,493 --> 00:25:24,271
+di entrate deve essere votato
+
+359
+00:25:24,433 --> 00:25:27,830
+dagli elettori e quindi non può avvenire
+
+360
+00:25:28,330 --> 00:25:32,199
+surrettiziamente, ad esempio non può avvenire tramite il fiscal drag
+
+361
+00:25:32,699 --> 00:25:35,572
+perché verrebbe restituito. Tuttavia,
+
+362
+00:25:36,455 --> 00:25:40,276
+per la mia teoria della camicia di forza sdrucita,
+
+363
+00:25:40,324 --> 00:25:43,808
+è già stato derogato nel corso della sua esistenza.
+
+364
+00:25:43,937 --> 00:25:47,148
+Ad esempio, nel periodo dal 2005
+
+365
+00:25:47,648 --> 00:25:51,146
+al 2010, il tetto all'incremento di
+
+366
+00:25:51,226 --> 00:25:54,919
+gettito è stato sospeso, in conseguenza anche in quel caso
+
+367
+00:25:55,419 --> 00:25:57,697
+di un referendum, per affrontare una pesante recessione.
+
+368
+00:25:58,692 --> 00:26:02,194
+Secondo gli attivisti promotori di questo referendum,
+
+369
+00:26:02,242 --> 00:26:06,032
+il Colorado sui 50 stati americani sarebbe al
+
+370
+00:26:06,241 --> 00:26:09,743
+39° posto per progressività,
+
+371
+00:26:09,855 --> 00:26:13,501
+quindi ha un sistema fiscale particolarmente
+
+372
+00:26:14,001 --> 00:26:18,143
+regressivo per l'effetto congiunto dell'aliquota statale
+
+373
+00:26:18,643 --> 00:26:22,351
+unica, ma soprattutto di questo tetto dinamico alla
+
+374
+00:26:22,383 --> 00:26:26,479
+crescita del gettito. Il Colorado ha un deficit
+
+375
+00:26:26,979 --> 00:26:30,847
+strutturale di bilancio E non è— vi ricordo che negli Stati
+
+376
+00:26:31,347 --> 00:26:34,765
+Uniti gli stati devono raggiungere l'equilibrio di bilancio, sia pure
+
+377
+00:26:35,265 --> 00:26:38,762
+attraverso tutta una serie di artifici contabili,
+
+378
+00:26:39,003 --> 00:26:42,969
+sempre perché, diciamo, non esiste vincolo che morda
+
+379
+00:26:43,469 --> 00:26:46,678
+sufficientemente quando quel vincolo è creato dagli uomini. E quindi,
+
+380
+00:26:46,710 --> 00:26:50,258
+secondo i promotori di quel referendum,
+
+381
+00:26:50,660 --> 00:26:54,417
+il Colorado non è in grado di pagare i suoi servizi chiave. I servizi
+
+382
+00:26:54,917 --> 00:26:58,766
+chiave, quelli sociali, diciamo, sono tali agli
+
+383
+00:26:59,266 --> 00:27:03,563
+occhi di chi esprime questa visione, perché quello che per un progressista
+
+384
+00:27:03,659 --> 00:27:07,413
+è un servizio fondamentale sociale, per un conservatore potrebbe
+
+385
+00:27:07,991 --> 00:27:12,354
+essere un inutile spreco. Quindi è bene anche in questi casi relativizzare.
+
+386
+00:27:12,467 --> 00:27:15,868
+Però, come dicono i promotori, a causa di questo tabù,
+
+387
+00:27:15,916 --> 00:27:20,520
+di questo vincolo costituzionale, lo Stato starebbe sottofinanziando
+
+388
+00:27:21,020 --> 00:27:24,489
+la cosiddetta istruzione K12, che è quella per
+
+389
+00:27:24,730 --> 00:27:28,462
+persone in età compresa tra 5 e 18 anni per
+
+390
+00:27:28,752 --> 00:27:32,533
+3,5-4 miliardi l'anno, mancano, e può
+
+391
+00:27:33,033 --> 00:27:37,252
+finanziare solo l'11% delle famiglie idonee per
+
+392
+00:27:37,752 --> 00:27:39,801
+il Colorado Child Care Assistance Program.
+
+393
+00:27:41,396 --> 00:27:44,776
+E durante la scorsa sessione di bilancio i legislatori
+
+394
+00:27:45,276 --> 00:27:49,788
+del Colorado hanno tagliato i servizi del Medicaid l'assistenza
+
+395
+00:27:50,288 --> 00:27:53,994
+sanitaria per bambini e poveri, per migliaia di cittadini, perché nel
+
+396
+00:27:54,042 --> 00:27:56,979
+fondo, nel bilancio statale, non c'erano soldi sufficienti.
+
+397
+00:27:57,076 --> 00:28:00,703
+Quindi si capisce perché
+
+398
+00:28:00,880 --> 00:28:03,240
+è stato presentato questo referendum.
+
+399
+00:28:04,556 --> 00:28:07,814
+Questo referendum, se dovesse passare,
+
+400
+00:28:07,847 --> 00:28:11,571
+produrrebbe un aumento delle tasse
+
+401
+00:28:11,715 --> 00:28:15,600
+approvato dagli elettori, quindi le nuove entrate
+
+402
+00:28:15,712 --> 00:28:19,773
+così generate sarebbero esenti dai limiti costituzionali.
+
+403
+00:28:20,530 --> 00:28:24,509
+Il governo statale manterrebbe queste entrate aggiuntive, non dovrebbe
+
+404
+00:28:25,009 --> 00:28:28,906
+restituirle ai contribuenti negli anni in cui si verificano eccedenze
+
+405
+00:28:28,913 --> 00:28:32,474
+di gettito. Fatemi fare un
+
+406
+00:28:32,974 --> 00:28:36,274
+inciso: vi ricordate il famoso concetto chiamato
+
+407
+00:28:36,774 --> 00:28:41,260
+affamare la bestia, no, che piaceva tanto ai liberisti anche
+
+408
+00:28:41,760 --> 00:28:46,172
+di casa nostra? Questo concetto dice che se tagli le entrate,
+
+409
+00:28:46,494 --> 00:28:49,388
+le spese smettono di crescere e iniziano a ridursi.
+
+410
+00:28:50,367 --> 00:28:53,302
+Ma io a questo concetto non ho mai creduto.
+
+411
+00:28:53,414 --> 00:28:56,734
+Infatti da sempre mi sono spesso attirato le ire
+
+412
+00:28:56,782 --> 00:28:59,877
+dei veri liberali e dei veri liberisti.
+
+413
+00:29:00,872 --> 00:29:04,400
+Non ci ho mai creduto proprio perché ho applicato il
+
+414
+00:29:04,900 --> 00:29:06,693
+principio della camicia di forza sdrucita.
+
+415
+00:29:08,008 --> 00:29:12,178
+Questa secondo me dell'affamare la bestia è una fallacia uguale
+
+416
+00:29:12,194 --> 00:29:15,113
+e contraria a quella del pagare tutti pagare meno.
+
+417
+00:29:17,149 --> 00:29:21,379
+Poi naturalmente ci sono quelli che si oppongono a questo
+
+418
+00:29:21,428 --> 00:29:24,963
+quesito referendario con
+
+419
+00:29:25,463 --> 00:29:28,753
+motivazioni che sono classiche in questo caso, cioè le
+
+420
+00:29:29,253 --> 00:29:32,707
+maggiori tasse provocherebbero di votare
+
+421
+00:29:33,207 --> 00:29:36,496
+con i piedi, farebbero uscire i contribuenti in direzione degli
+
+422
+00:29:36,996 --> 00:29:40,635
+stati vicini. Ad esempio il Wall Street Journal, che non è ovviamente
+
+423
+00:29:40,699 --> 00:29:44,571
+un quotidiano di sinistra dice che questo
+
+424
+00:29:45,071 --> 00:29:48,238
+referendum sarebbe una grande cosa per lo Utah,
+
+425
+00:29:48,676 --> 00:29:52,563
+diciamo, e per i paesi, per gli stati confinanti
+
+426
+00:29:53,063 --> 00:29:56,930
+con il Colorado. E non solo quelli confinanti, c'è da dire, ma immediatamente
+
+427
+00:29:57,430 --> 00:30:01,416
+per quelli confinanti. Poi, siccome il diavolo si nasconde nei dettagli,
+
+428
+00:30:03,520 --> 00:30:07,475
+visto che secondo la Costituzione del Colorado,
+
+429
+00:30:07,507 --> 00:30:10,278
+gli elettori votano per aumentare le tasse, ebbene,
+
+430
+00:30:11,512 --> 00:30:15,309
+questa proposition non prevede l'indicizzazione degli
+
+431
+00:30:15,809 --> 00:30:19,715
+scaglioni di imposta, il che ovviamente produrrebbe
+
+432
+00:30:19,763 --> 00:30:23,448
+negli anni a venire un sontuoso fiscal drag che non
+
+433
+00:30:23,948 --> 00:30:27,326
+potrebbe essere restituito ai contribuenti.
+
+434
+00:30:27,374 --> 00:30:31,251
+Quindi gli elettori non solo votano per aumentare le tasse,
+
+435
+00:30:31,299 --> 00:30:34,343
+ma anche per continuare ad aumentarle attraverso il
+
+436
+00:30:34,843 --> 00:30:38,643
+fiscal drag negli anni a venire. C'è un altro punto,
+
+437
+00:30:38,675 --> 00:30:42,528
+perché bisogna sempre considerare gli aspetti tecnici, perché lì che
+
+438
+00:30:43,028 --> 00:30:47,024
+si nascondono molte volte in bella vista le difficoltà di alcune idee
+
+439
+00:30:47,524 --> 00:30:51,552
+che sembrano molto accattivanti e molto affascinanti. C'è da considerare
+
+440
+00:30:52,484 --> 00:30:55,936
+che nel gettito c'è una componente molto volatile e
+
+441
+00:30:56,436 --> 00:30:59,709
+variabile, quella del capital gain. In un anno di mercati
+
+442
+00:31:00,209 --> 00:31:03,768
+che vanno male Con un sistema di
+
+443
+00:31:04,268 --> 00:31:07,463
+aliquote progressive si avrebbe un calo di gettito
+
+444
+00:31:07,625 --> 00:31:11,256
+ben superiore a quello prodotto da un
+
+445
+00:31:11,756 --> 00:31:15,347
+sistema di singola aliquota. Vi faccio una domanda:
+
+446
+00:31:15,364 --> 00:31:17,312
+secondo voi, in un anno di questo tipo,
+
+447
+00:31:20,569 --> 00:31:24,201
+un anno che di solito è associato a condizioni recessive,
+
+448
+00:31:25,520 --> 00:31:28,934
+l'orientamento prevalente del legislatore per colmare il
+
+449
+00:31:28,951 --> 00:31:32,916
+buco Sarebbe quello di tagliare le spese o sarebbe
+
+450
+00:31:33,416 --> 00:31:37,576
+quello di aumentare le entrate per altre vie? E ancora,
+
+451
+00:31:37,609 --> 00:31:41,063
+questo vale anche
+
+452
+00:31:41,143 --> 00:31:44,598
+per i redditi d'impresa, ma nelle piccole aziende
+
+453
+00:31:45,098 --> 00:31:49,180
+familiari americane, e non solo americane, vige il
+
+454
+00:31:49,196 --> 00:31:52,869
+criterio del pass-through, nel senso che il reddito d'impresa
+
+455
+00:31:52,998 --> 00:31:57,196
+tende a divenire reddito dell'imprenditore,
+
+456
+00:31:57,277 --> 00:31:59,395
+a traslarsi in reddito dell'imprenditore.
+
+457
+00:32:01,563 --> 00:32:05,180
+E questo scatenerebbe
+
+458
+00:32:05,341 --> 00:32:08,893
+la corsa all'elusione nel tentativo di non superare
+
+459
+00:32:09,393 --> 00:32:13,484
+le soglie di profitti che fanno scattare l'aliquota superiore
+
+460
+00:32:13,984 --> 00:32:17,429
+delle addizionali statali. Questi sono tutti,
+
+461
+00:32:17,912 --> 00:32:21,870
+sono tutte le obiezioni classiche a
+
+462
+00:32:22,370 --> 00:32:26,507
+situazioni in cui vengono aumentate le imposte
+
+463
+00:32:26,556 --> 00:32:31,987
+rispetto a comunità, stati circostanti.
+
+464
+00:32:32,101 --> 00:32:35,260
+Però perché vi ho parlato del Colorado? Voi direte, che ci
+
+465
+00:32:35,760 --> 00:32:39,099
+frega del Colorado? In realtà sì, intanto perché vi ho
+
+466
+00:32:39,599 --> 00:32:43,285
+mostrato l'ennesima applicazione del principio della camicia di
+
+467
+00:32:43,785 --> 00:32:47,072
+forza sdrucita, ma soprattutto
+
+468
+00:32:47,572 --> 00:32:50,511
+perché la moltiplicazione di queste iniziative,
+
+469
+00:32:51,673 --> 00:32:54,773
+nel momento in cui negli Stati Uniti l'offerta politica
+
+470
+00:32:55,273 --> 00:32:59,121
+mostra significative evoluzioni in
+
+471
+00:32:59,621 --> 00:33:01,372
+direzione di una maggiore redistribuzione.
+
+472
+00:33:03,450 --> 00:33:07,434
+E quello che sta accadendo, no, con l'assalto dei candidati radicali
+
+473
+00:33:07,515 --> 00:33:10,770
+progressisti o democratici socialisti all'establishment
+
+474
+00:33:11,337 --> 00:33:14,718
+abbastanza moscio, centrista e moderato del Partito
+
+475
+00:33:15,218 --> 00:33:18,811
+Democratico, potrebbe indicare effettivamente il cambiamento di clima del paese.
+
+476
+00:33:19,410 --> 00:33:23,180
+E questo è un fenomeno da seguire attentamente anche per i guai che potrebbe
+
+477
+00:33:23,262 --> 00:33:26,454
+produrre, perché Come sappiamo,
+
+478
+00:33:27,210 --> 00:33:30,700
+la strada dell'inferno è lastricata
+
+479
+00:33:31,230 --> 00:33:33,289
+di buone tassazioni.
+
+480
+00:33:35,720 --> 00:33:39,869
+Restiamo negli Stati Uniti, ma con un respiro decisamente
+
+481
+00:33:39,950 --> 00:33:43,267
+planetario, e guardiamo
+
+482
+00:33:43,767 --> 00:33:46,412
+cosa è accaduto sui mercati valutari.
+
+483
+00:33:48,116 --> 00:33:51,397
+Parliamo di Scott Bessent, Scott Bessent,
+
+484
+00:33:52,472 --> 00:33:56,179
+segretario al Tesoro, che per decenni è stato
+
+485
+00:33:56,679 --> 00:34:00,496
+un gestore di hedge fund specializzato in ambito
+
+486
+00:34:00,996 --> 00:34:04,587
+valutario. Bessent era a bottega
+
+487
+00:34:04,748 --> 00:34:08,085
+da George Soros 34 anni fa,
+
+488
+00:34:08,198 --> 00:34:11,856
+quando Soros decide— decise di abbattere la sterlina,
+
+489
+00:34:13,172 --> 00:34:16,863
+che invece la Bank of England tentava disperatamente
+
+490
+00:34:16,943 --> 00:34:20,487
+di tenere dentro il serpente monetario
+
+491
+00:34:20,826 --> 00:34:25,377
+europeo. Fu il lunedì nero del settembre
+
+492
+00:34:25,571 --> 00:34:28,600
+1992. Come forse ricorderete,
+
+493
+00:34:29,597 --> 00:34:33,875
+quell'episodio travolse anche la lira italiana dopo che la Banca d'Italia
+
+494
+00:34:34,375 --> 00:34:38,301
+incenerì un'enorme quantità di riserve
+
+495
+00:34:38,801 --> 00:34:40,437
+valutarie per difendere il cambio.
+
+496
+00:34:42,329 --> 00:34:46,186
+Questo episodio Non è
+
+497
+00:34:46,428 --> 00:34:50,992
+questione di stigmatizzare i perfidi speculatori,
+
+498
+00:34:52,726 --> 00:34:57,323
+no, perché questo episodio è
+
+499
+00:34:57,823 --> 00:35:02,131
+il monito di una eterna verità dei mercati, e cioè quando i fondamentali
+
+500
+00:35:02,855 --> 00:35:06,123
+sono fragili, sono di cartapesta,
+
+501
+00:35:06,252 --> 00:35:09,456
+è inutile tentare di
+
+502
+00:35:09,956 --> 00:35:13,480
+mantenere una realtà che non esiste. Quanto più
+
+503
+00:35:13,980 --> 00:35:17,542
+si finge, tanto più sanguinosa sarà la resa dei conti.
+
+504
+00:35:17,751 --> 00:35:21,636
+Ecco perché la speculazione ha una funzione
+
+505
+00:35:21,749 --> 00:35:25,843
+di mercato oltre a quella di fornire liquidità, anche quella
+
+506
+00:35:26,343 --> 00:35:29,857
+di mettere in evidenza le contraddizioni e le fallacie
+
+507
+00:35:30,740 --> 00:35:34,610
+di costrutti che non hanno un fondamento
+
+508
+00:35:35,110 --> 00:35:37,291
+e un radicamento nella realtà dei fondamentali.
+
+509
+00:35:38,648 --> 00:35:42,925
+Allora, con queste premesse, a me stupisce vedere una
+
+510
+00:35:43,425 --> 00:35:47,051
+persona della storia professionale di Scott Bessent impegnato
+
+511
+00:35:48,034 --> 00:35:53,509
+a contrastare il deprezzamento dello yen con
+
+512
+00:35:54,009 --> 00:35:56,385
+interventi congiunti con le autorità nipponiche.
+
+513
+00:35:58,970 --> 00:36:02,617
+Le autorità giapponesi da tempo immemore vanno a immolare
+
+514
+00:36:03,117 --> 00:36:05,893
+riserve valutarie per evitare movimenti estremi del cambio.
+
+515
+00:36:07,809 --> 00:36:11,317
+E la misura, visto che i fondamentali vanno da tutt'altra parte,
+
+516
+00:36:11,349 --> 00:36:12,853
+dura solo per qualche giorno.
+
+517
+00:36:15,306 --> 00:36:19,034
+Mettiamo anche un po' di contesto storico. L'ultima volta che gli Stati Uniti
+
+518
+00:36:19,763 --> 00:36:23,240
+sono intervenuti congiuntamente al Giappone per
+
+519
+00:36:23,740 --> 00:36:27,550
+rafforzare lo yen è stato nel giugno del '98. Il Giappone
+
+520
+00:36:28,050 --> 00:36:31,957
+all'epoca era in crisi finanziaria, lo yen si rafforzò
+
+521
+00:36:32,137 --> 00:36:35,966
+in modo significativo, ma l'azione si
+
+522
+00:36:36,466 --> 00:36:39,909
+dissolse, venne annullata nel giro di circa una settimana.
+
+523
+00:36:42,116 --> 00:36:45,490
+E furono solo i tagli dei tassi di interesse negli
+
+524
+00:36:45,990 --> 00:36:49,700
+Stati Uniti pochi mesi dopo, riducendo il differenziale
+
+525
+00:36:51,195 --> 00:36:54,382
+tra tassi americani e tassi giapponesi, a rafforzare lo yen.
+
+526
+00:36:56,025 --> 00:37:00,211
+Questo oggi non può accadere perché
+
+527
+00:37:00,711 --> 00:37:03,766
+negli Stati Uniti c'è un'inflazione che sta intorno al 3,5%,
+
+528
+00:37:03,816 --> 00:37:08,941
+il che vuol dire che il Giappone dovrebbe,
+
+529
+00:37:09,296 --> 00:37:12,689
+dovrà inasprire la
+
+530
+00:37:13,189 --> 00:37:16,483
+sua politica monetaria, altrimenti tutti questi interventi
+
+531
+00:37:16,515 --> 00:37:20,194
+si riveleranno costosamente inutili. Questo intervento
+
+532
+00:37:20,694 --> 00:37:24,641
+sta letteralmente facendo impazzire la stampa economica finanziaria
+
+533
+00:37:25,141 --> 00:37:28,919
+anglosassone, perché stanno cercando di spiegare la motivazione
+
+534
+00:37:29,419 --> 00:37:33,091
+di questo intervento congiunto. In questo momento la
+
+535
+00:37:33,591 --> 00:37:37,413
+motivazione prevalente è che gli americani sono intervenuti
+
+536
+00:37:37,913 --> 00:37:41,012
+per impedire che i giapponesi liquidino i
+
+537
+00:37:41,512 --> 00:37:45,350
+loro asset in dollari, perché questo danneggerebbe Washington.
+
+538
+00:37:46,410 --> 00:37:49,752
+Se i giapponesi vendessero i Treasury per rimpatriare,
+
+539
+00:37:49,784 --> 00:37:52,997
+ci sarebbe un aumento dei rendimenti, che è l'ultima cosa di
+
+540
+00:37:53,497 --> 00:37:56,773
+cui hanno bisogno gli americani, e un indebolimento del
+
+541
+00:37:57,273 --> 00:38:00,632
+dollaro. Poi, come ha detto lo stesso Bessent,
+
+542
+00:38:00,664 --> 00:38:04,049
+gli americani non gradiscono uno yen troppo
+
+543
+00:38:04,549 --> 00:38:08,642
+debole per motivi commerciali. Soprattutto Bessent ha richiamato che la crisi asiatica
+
+544
+00:38:09,142 --> 00:38:12,992
+del '97 determinò un movimento sincrono
+
+545
+00:38:13,492 --> 00:38:17,448
+di deprezzamento delle valute asiatiche, quindi con un forte rafforzamento
+
+546
+00:38:17,945 --> 00:38:19,570
+della loro posizione competitiva.
+
+547
+00:38:23,476 --> 00:38:26,764
+Se le cose stanno in questi termini, la prima considerazione che mi viene
+
+548
+00:38:27,264 --> 00:38:30,614
+da fare è che gli americani, malgrado le smargiassate di
+
+549
+00:38:31,114 --> 00:38:34,624
+Trump, dipendono da quella che viene definita la gentilezza degli stranieri
+
+550
+00:38:34,704 --> 00:38:39,676
+per collocare il proprio debito, con buona pace di tesi come
+
+551
+00:38:40,176 --> 00:38:43,766
+quelle di Stephen Myron sull'esorbitante
+
+552
+00:38:44,266 --> 00:38:46,813
+costo del dollaro. Il dollaro,
+
+553
+00:38:46,974 --> 00:38:50,230
+secondo questi personaggi, non è un esorbitante privilegio,
+
+554
+00:38:50,342 --> 00:38:54,498
+per dirla con i francesi, dei tempi che furono con Fiskarsdén,
+
+555
+00:38:54,531 --> 00:38:58,407
+ma ha un esorbitante costo. Il dollaro come pivot
+
+556
+00:38:58,907 --> 00:39:04,010
+del sistema finanziario globale ha un esorbitante costo. Però attenzione,
+
+557
+00:39:05,248 --> 00:39:09,138
+perché iniziative di questo tipo possono contribuire
+
+558
+00:39:09,203 --> 00:39:12,568
+a indebolire il ruolo di pivot del
+
+559
+00:39:12,584 --> 00:39:16,224
+dollaro nel sistema finanziario globale, nell'architettura finanziaria
+
+560
+00:39:16,256 --> 00:39:19,883
+globale. Perché come ha fatto acutamente osservare
+
+561
+00:39:19,982 --> 00:39:22,870
+l'economista Barry Eichengreen.
+
+562
+00:39:24,370 --> 00:39:29,289
+Di che moneta di riserva parliamo se qualcuno
+
+563
+00:39:29,789 --> 00:39:33,027
+che ne ha bisogno non può venderla liberamente e suscita
+
+564
+00:39:33,527 --> 00:39:36,702
+l'intervento americano per impedire che la venda liberamente?
+
+565
+00:39:40,040 --> 00:39:42,336
+Poi è chiaro, no, abbiamo avuto, ve ne ho dato conto,
+
+566
+00:39:43,560 --> 00:39:47,953
+l'appello della ministra delle Finanze giapponese Katajama
+
+567
+00:39:48,453 --> 00:39:50,757
+che ha detto che il mega fondo pensione nipponico, ma anche risparmiatori e investitori giapponesi,
+
+568
+00:39:50,789 --> 00:39:54,256
+dovrebbero rimuovere rimpatriare asset,
+
+569
+00:39:54,320 --> 00:39:57,339
+se accadesse, per gli americani è un problema.
+
+570
+00:39:58,254 --> 00:40:02,189
+Poi naturalmente Capitan Fracassa Trump potrebbe sempre
+
+571
+00:40:02,689 --> 00:40:06,284
+minacciare di mettere dazi a chi vende Treasury o chi non li compra. Possiamo anche
+
+572
+00:40:06,686 --> 00:40:09,930
+sognare a occhi aperti. Però come sta messo
+
+573
+00:40:10,430 --> 00:40:14,234
+lo yen sul piano fondamentale? Ma qui il
+
+574
+00:40:14,734 --> 00:40:18,169
+giudizio non è univoco, perché secondo la teoria della
+
+575
+00:40:18,669 --> 00:40:22,553
+parità del potere d'acquisto lo yen in realtà sarebbe fortemente sottovalutato.
+
+576
+00:40:24,364 --> 00:40:27,923
+E quindi avrebbe senso l'intervento di Bessent. No, uno dice,
+
+577
+00:40:27,955 --> 00:40:32,042
+potrei anche farci dei soldi se aiuto i mercati a prendere
+
+578
+00:40:32,542 --> 00:40:36,643
+consapevolezza che sul piano fondamentale lo yen è sottovalutato. Un piccolo problema:
+
+579
+00:40:38,133 --> 00:40:42,301
+chi gestisce o vuole gestire posizioni di mercato
+
+580
+00:40:42,801 --> 00:40:46,597
+valutario secondo i segnali della teoria della parità
+
+581
+00:40:46,629 --> 00:40:50,123
+di potere d'acquisto di solito perde il posto. Infatti non lo fa nessuno.
+
+582
+00:40:51,585 --> 00:40:55,235
+Nel senso che non è un segnale di market timing
+
+583
+00:40:55,735 --> 00:40:59,313
+la teoria della parità di potere d'acquisto. Poi un
+
+584
+00:40:59,813 --> 00:41:03,109
+altro punto che ha scatenato domande, riflessioni e speculazioni: la Fed di
+
+585
+00:41:03,609 --> 00:41:05,941
+New York, che ha eseguito materialmente l'intervento,
+
+586
+00:41:07,816 --> 00:41:10,041
+ha comprato yen e venduto euro, non dollari.
+
+587
+00:41:11,621 --> 00:41:15,201
+E però il cambio euro-yen è piuttosto illiquido.
+
+588
+00:41:16,588 --> 00:41:20,040
+Il che tra le altre cose vuol dire che è possibile muoverlo
+
+589
+00:41:20,863 --> 00:41:24,476
+ampiamente con uno sforzo relativamente modesto. Però alla fine
+
+590
+00:41:25,541 --> 00:41:28,767
+esistono le triangolazioni per cui i rapporti tendono
+
+591
+00:41:29,267 --> 00:41:32,591
+a riallinearsi. A parità di ogni altra condizione, il dollaro dovrebbe scendere.
+
+592
+00:41:35,266 --> 00:41:40,283
+Si dice che abbiano usato gli euro perché
+
+593
+00:41:40,783 --> 00:41:44,828
+gli euro avevano la posizione più robusta nel fondo di
+
+594
+00:41:45,328 --> 00:41:49,778
+stabilizzazione valutaria del Tesoro americano. Tra l'altro hanno fatto questo senza
+
+595
+00:41:50,278 --> 00:41:53,655
+informare preventivamente la Banca Centrale Europea. Christine Lagarde è stata
+
+596
+00:41:54,184 --> 00:41:57,019
+informata solo a fatto accaduto.
+
+597
+00:41:57,628 --> 00:42:01,009
+In ogni caso sentiamo e leggiamo
+
+598
+00:42:01,509 --> 00:42:04,949
+la Charlie Heera, Ministra delle Finanze giapponesi, che si compiace,
+
+599
+00:42:04,982 --> 00:42:08,826
+gongola per l'azione di forza. E ha detto
+
+600
+00:42:09,326 --> 00:42:13,296
+però una cosa che è stata riscontrata anche da Bessent, cioè Tokyo userà una
+
+601
+00:42:13,796 --> 00:42:17,553
+linea di credito della Federal Reserve che è
+
+602
+00:42:18,053 --> 00:42:21,222
+stata creata nel 2020 per fronteggiare l'emergenza COVID,
+
+603
+00:42:21,255 --> 00:42:23,427
+che si chiama FIMA,
+
+604
+00:42:24,312 --> 00:42:28,698
+Foreign and International Monetary Authorities
+
+605
+00:42:28,762 --> 00:42:30,997
+Repo Facility. Cioè, per farla breve,
+
+606
+00:42:32,920 --> 00:42:37,314
+con questa linea di credito la banca centrale
+
+607
+00:42:37,814 --> 00:42:42,317
+giapponese, le autorità giapponesi possono avere dollari mettendo
+
+608
+00:42:42,817 --> 00:42:44,886
+in garanzia i Treasury che possiedono.
+
+609
+00:42:46,906 --> 00:42:50,262
+Il Giappone possiede oltre 1000 miliardi di Treasury,
+
+610
+00:42:51,182 --> 00:42:54,861
+quindi se io ottengo un'anticipazione in dollari mettendo a
+
+611
+00:42:54,893 --> 00:42:57,069
+garanzia dei Treasury non li devo vendere.
+
+612
+00:42:58,230 --> 00:43:00,771
+E quindi i Bessent e gli americani sono contenti.
+
+613
+00:43:02,410 --> 00:43:06,247
+Piccolo problema: qui andiamo a toccare la sfera istituzionale
+
+614
+00:43:06,747 --> 00:43:10,445
+della banca centrale, il che è una cosa oggettivamente problematica.
+
+615
+00:43:11,633 --> 00:43:15,374
+Intanto, la FIMA è stata creata per
+
+616
+00:43:15,390 --> 00:43:18,569
+situazioni di gravi turbative
+
+617
+00:43:19,180 --> 00:43:22,455
+e minaccia imminente alla stabilità finanziaria
+
+618
+00:43:22,955 --> 00:43:25,795
+globale, che non è il caso del cambio dello yen contro dollaro.
+
+619
+00:43:27,031 --> 00:43:30,724
+Certo, può sempre diventarlo. Uno può anche dire che agisce in
+
+620
+00:43:31,224 --> 00:43:35,063
+chiave preventiva, però È una forzatura
+
+621
+00:43:35,563 --> 00:43:39,412
+chiamare in causa i soldi
+
+622
+00:43:39,912 --> 00:43:43,648
+della banca centrale americana, anche perché ogni facility,
+
+623
+00:43:43,696 --> 00:43:47,174
+ogni linea di credito della banca centrale, quando viene tirata,
+
+624
+00:43:47,222 --> 00:43:51,103
+crea denaro. E questo non
+
+625
+00:43:51,168 --> 00:43:55,030
+fa il bene del cambio del dollaro né della
+
+626
+00:43:55,530 --> 00:43:59,423
+credibilità americana e di Bassett medesimo, che dice che lui vuole un dollaro forte.
+
+627
+00:44:01,271 --> 00:44:04,434
+Però c'è un problema, che questa
+
+628
+00:44:04,482 --> 00:44:08,255
+FIMA vale solo 60 miliardi
+
+629
+00:44:08,755 --> 00:44:12,831
+di dollari per controparte. Questa è la linea di fido. E allora
+
+630
+00:44:13,331 --> 00:44:15,770
+Bessent se ne esce dicendo che la vuole alzare,
+
+631
+00:44:17,263 --> 00:44:21,486
+e quindi la Fed dovrà eseguire. Del resto, il chair
+
+632
+00:44:21,502 --> 00:44:24,842
+della Fed, Kevin Warsh, ha già detto che sulla
+
+633
+00:44:24,954 --> 00:44:28,599
+politica monetaria la Fed è sovrana e indipendente, ma su tutto
+
+634
+00:44:29,099 --> 00:44:33,115
+il resto non lo è necessariamente. E soprattutto Warsh ha
+
+635
+00:44:33,615 --> 00:44:36,883
+più volte detto che lui considera fondamentale il coordinamento col Tesoro.
+
+636
+00:44:39,820 --> 00:44:43,467
+E quindi vedremo. Però questi interventi
+
+637
+00:44:43,548 --> 00:44:47,695
+sin qui inutili costano ogni volta parecchie decine
+
+638
+00:44:48,195 --> 00:44:52,785
+di miliardi di dollari. Quindi di quanto bisogna alzare la soglia di
+
+639
+00:44:53,285 --> 00:44:55,902
+affidamento della FIMA dai 60 miliardi attuali?
+
+640
+00:44:57,706 --> 00:45:00,985
+E qui bisogna necessariamente immaginare che
+
+641
+00:45:01,485 --> 00:45:05,166
+Bessent punti in realtà nell'immediato ad aiutare
+
+642
+00:45:05,666 --> 00:45:08,732
+i giapponesi, ma subito dopo a spingere
+
+643
+00:45:09,232 --> 00:45:13,150
+i giapponesi con le buone o con le cattive a
+
+644
+00:45:13,650 --> 00:45:16,973
+mettere una pezza fondamentale. Qualche mese fa
+
+645
+00:45:17,054 --> 00:45:20,339
+Bessent ha detto che la Bank of Japan è dietro la curva.
+
+646
+00:45:20,453 --> 00:45:24,020
+Dietro la curva È un'espressione che vuol dire,
+
+647
+00:45:24,068 --> 00:45:27,601
+in questo caso specifico, che è in ritardo nell'alzare i
+
+648
+00:45:28,101 --> 00:45:31,647
+tassi. Quindi può darsi che Bessent dica ai
+
+649
+00:45:32,147 --> 00:45:34,465
+giapponesi: noi vi abbiamo aiutato nell'immediato,
+
+650
+00:45:35,270 --> 00:45:38,298
+voi fate la seconda parte del lavoro, quella fondamentale,
+
+651
+00:45:38,426 --> 00:45:42,044
+e alzate i tassi. Però la premier giapponese
+
+652
+00:45:42,124 --> 00:45:45,082
+Sanae Takaichi, come noto, non ama i tassi alti.
+
+653
+00:45:46,297 --> 00:45:49,760
+Quindi qui c'è un rischio di equivoco. Io non vorrei che i giapponesi
+
+654
+00:45:50,260 --> 00:45:54,218
+si fossero convinti che l'amico americano che quello
+
+655
+00:45:54,718 --> 00:45:58,194
+che a loro è storto, riparazioni di guerra commerciale per 550
+
+656
+00:45:58,258 --> 00:46:01,512
+miliardi di dollari semmai accadranno, fosse davvero in grado
+
+657
+00:46:02,012 --> 00:46:05,600
+di lottare a mani nude contro i fondamentali
+
+658
+00:46:05,632 --> 00:46:09,928
+dell'economia giapponese. E nel frattempo Takaichi
+
+659
+00:46:10,008 --> 00:46:13,102
+prosegue con i suoi enormi stimoli, no? Questo enorme
+
+660
+00:46:13,695 --> 00:46:17,542
+piano di partnership pubblico-privata
+
+661
+00:46:17,702 --> 00:46:21,646
+per investimenti da qui al 2040, ma anche il taglio delle
+
+662
+00:46:22,146 --> 00:46:26,280
+imposte sui consumi. Per quanto riguarda questi ultimi, parlato la settimana
+
+663
+00:46:26,780 --> 00:46:30,661
+scorsa. Takaichi rassicura, dice che non verranno fatti a debito, però continuano a spiegare
+
+664
+00:46:30,693 --> 00:46:34,144
+come verranno coperti. L'unica certezza
+
+665
+00:46:34,644 --> 00:46:38,717
+che abbiamo è che i tassi giapponesi si rinnovano a
+
+666
+00:46:39,841 --> 00:46:43,323
+livelli sempre più elevati man mano che vanno in scadenza.
+
+667
+00:46:43,371 --> 00:46:47,030
+Quindi l'effetto palla di neve positivo,
+
+668
+00:46:47,142 --> 00:46:50,432
+no, che è quello dove la crescita
+
+669
+00:46:50,932 --> 00:46:54,845
+del PIL nominale eccede il costo medio nominale del debito, viene eroso
+
+670
+00:46:56,250 --> 00:46:59,416
+Rischia di ribaltarsi se il paese non si mette a crescere
+
+671
+00:46:59,433 --> 00:47:02,144
+a passo sostenuto. Rischia una sindrome italiana.
+
+672
+00:47:04,350 --> 00:47:07,751
+Quindi al momento, se devo azzardare una lettura,
+
+673
+00:47:07,881 --> 00:47:11,178
+è che gli americani starebbero
+
+674
+00:47:11,259 --> 00:47:13,603
+facendo soprattutto favore a se stessi,
+
+675
+00:47:14,710 --> 00:47:19,085
+puntando a impedire liquidazioni di Treasury nel momento in cui il rendimento
+
+676
+00:47:19,585 --> 00:47:23,456
+del trentennale americano è sui massimi Da, credo, un ventennio.
+
+677
+00:47:25,018 --> 00:47:28,367
+Questa operazione sicuramente spettacolare,
+
+678
+00:47:28,416 --> 00:47:33,574
+orchestrata a favore di telecamere, no? Avete visto che Bessent deliberatamente
+
+679
+00:47:34,074 --> 00:47:38,236
+ha fatto scattare foto di un suo foglietto di appunti
+
+680
+00:47:38,639 --> 00:47:42,129
+dove dice comprare yen per un controvalore di 5
+
+681
+00:47:42,629 --> 00:47:45,916
+o 10 miliardi di dollari. Quindi a fianco c'era anche probabilmente scritto
+
+682
+00:47:46,483 --> 00:47:50,009
+di comprare il latte. Ma questo intervento,
+
+683
+00:47:50,656 --> 00:47:54,537
+per la sua natura, non è neanche parente
+
+684
+00:47:55,037 --> 00:47:58,544
+di quello che ad esempio ha puntellato Javier Milei alle elezioni
+
+685
+00:47:58,592 --> 00:48:02,253
+argentine dello scorso autunno. Quelle erano noccioline.
+
+686
+00:48:04,006 --> 00:48:08,291
+E infatti quell'intervento non ha coinvolto la Fed, ma solo il piccolo
+
+687
+00:48:10,409 --> 00:48:13,449
+ESF, Exchange Stabilization Fund, cioè il
+
+688
+00:48:13,546 --> 00:48:17,252
+piccolo fondo di stabilizzazione valutaria del Tesoro americano.
+
+689
+00:48:19,717 --> 00:48:23,964
+Il tema dei fondamentali da rimettere in ordine non riguarda
+
+690
+00:48:24,464 --> 00:48:27,970
+solo i giapponesi, riguarda anche e soprattutto gli
+
+691
+00:48:28,470 --> 00:48:32,182
+americani se vogliono seriamente calmierare
+
+692
+00:48:32,682 --> 00:48:36,346
+i tassi a lungo. I tassi a lungo termine sono
+
+693
+00:48:36,846 --> 00:48:40,081
+determinanti per gli investimenti e il mercato immobiliare.
+
+694
+00:48:41,326 --> 00:48:44,646
+Quando si ha in corso un boom di investimenti
+
+695
+00:48:45,368 --> 00:48:49,660
+in intelligenza artificiale che mette pressione
+
+696
+00:48:50,160 --> 00:48:54,656
+al rialzo ai rendimenti reali, e però contemporaneamente
+
+697
+00:48:55,156 --> 00:48:58,553
+si iniettano stimoli fiscali al passo del
+
+698
+00:48:58,602 --> 00:49:02,306
+6-7% di PIL annuo— che questo è il deficit che da più anni
+
+699
+00:49:02,806 --> 00:49:06,661
+gli Stati Uniti hanno— sarebbe un problema
+
+700
+00:49:07,306 --> 00:49:11,210
+sul piano dei fondamentali, anche se non si fosse guidati da un personaggio
+
+701
+00:49:11,710 --> 00:49:16,332
+come Donald Trump. E quindi vedremo con grande
+
+702
+00:49:16,832 --> 00:49:20,478
+interesse come andrà a finire. Ma osserviamo
+
+703
+00:49:20,558 --> 00:49:23,858
+che l'uomo che 34 anni fa contribuì ad abbattere
+
+704
+00:49:24,358 --> 00:49:27,940
+la sterlina, punendo le autorità britanniche e
+
+705
+00:49:27,989 --> 00:49:31,490
+anche quelle italiane per avere sfidato i fondamentali,
+
+706
+00:49:31,506 --> 00:49:35,580
+adesso si trova in un trade che è filosoficamente
+
+707
+00:49:36,080 --> 00:49:38,333
+opposto, almeno nell'immediato.
+
+708
+00:49:39,878 --> 00:49:43,623
+E si trova nel ruolo di grande hedge fund manager di
+
+709
+00:49:43,656 --> 00:49:47,321
+stato, se possiamo definirlo così. Un tempo lui era il mercato,
+
+710
+00:49:47,385 --> 00:49:51,239
+il suo compito era quello di fare esplodere le contraddizioni di mercato.
+
+711
+00:49:51,288 --> 00:49:53,112
+Adesso il mercato è il suo sfidante.
+
+712
+00:49:54,920 --> 00:49:58,783
+Chi vincerà non lo so. Sicuramente sono tempi interessanti,
+
+713
+00:49:58,815 --> 00:50:04,412
+sarebbe meglio se lo fossero un pochettino di meno e
+
+714
+00:50:04,912 --> 00:50:08,197
+ci fosse l'opportunità di avere un po' più
+
+715
+00:50:08,229 --> 00:50:12,163
+di noia. Ecco, ogni tanto. Però vedremo, perché se
+
+716
+00:50:12,663 --> 00:50:16,017
+tanto mi dà tanto, ripeto, la seconda parte
+
+717
+00:50:16,517 --> 00:50:19,870
+del do it this americano è chiaramente
+
+718
+00:50:20,370 --> 00:50:23,772
+quella di spingere i giapponesi a mettere ordine nei loro fondamentali.
+
+719
+00:50:24,703 --> 00:50:28,220
+E se i giapponesi dicessero di no, come andrebbe a
+
+720
+00:50:28,252 --> 00:50:31,479
+finire? Ecco, questo è un punto.
+
+721
+00:50:33,362 --> 00:50:37,647
+Noi ci spostiamo in Europa e
+
+722
+00:50:38,293 --> 00:50:42,496
+partiamo dal Regno Unito, perché il
+
+723
+00:50:42,996 --> 00:50:46,925
+neo premier britannico Andy Burnham ha annunciato
+
+724
+00:50:47,810 --> 00:50:51,514
+una delle più vaste riforme del sistema di finanziamento locale
+
+725
+00:50:52,014 --> 00:50:56,748
+degli ultimi decenni. Dal 2028 i sindaci delle
+
+726
+00:50:57,328 --> 00:51:00,613
+autorità metropolitane inglesi, quelli che sono guidati
+
+727
+00:51:01,113 --> 00:51:05,089
+da un metro mayor, quindi la Greater Manchester, da cui proviene
+
+728
+00:51:05,589 --> 00:51:07,589
+Burnham medesimo, West Midlands,
+
+729
+00:51:08,374 --> 00:51:11,547
+Liverpool City Region, West Yorkshire,
+
+730
+00:51:11,739 --> 00:51:16,226
+South Yorkshire e così via, potranno trattenere
+
+731
+00:51:16,338 --> 00:51:20,232
+una quota dell'imposta personale sul reddito
+
+732
+00:51:20,664 --> 00:51:24,318
+raccolta nel proprio territorio. E questo al fine di
+
+733
+00:51:25,071 --> 00:51:28,564
+ridurre la dipendenza dei governi locali dai trasferimenti
+
+734
+00:51:29,064 --> 00:51:32,700
+del tesoro e rafforzare la responsabilità fiscale delle
+
+735
+00:51:33,200 --> 00:51:37,180
+amministrazioni locali. I singoli consigli
+
+736
+00:51:37,262 --> 00:51:40,961
+comunali, dove esistono, perché non sono ovunque,
+
+737
+00:51:42,690 --> 00:51:47,658
+continueranno a esistere, ma la
+
+738
+00:51:48,158 --> 00:51:51,982
+nuova quota di income tax devoluta in
+
+739
+00:51:52,482 --> 00:51:56,432
+periferia non affluirà direttamente ai loro bilanci. Potranno beneficiarne
+
+740
+00:51:56,932 --> 00:52:00,389
+solo indirettamente Attraverso investimenti o programmi
+
+741
+00:52:00,889 --> 00:52:04,716
+finanziati dalle autorità metropolitane. La premessa di
+
+742
+00:52:05,216 --> 00:52:07,360
+cui vi ho parlato tempo addietro è che il Regno Unito,
+
+743
+00:52:08,322 --> 00:52:13,129
+secondo le statistiche dell'Oxfam, è oggi uno dei paesi più fiscalmente
+
+744
+00:52:13,629 --> 00:52:15,901
+centralizzati del mondo sviluppato,
+
+745
+00:52:16,174 --> 00:52:20,901
+perché l'imposta sul reddito è
+
+746
+00:52:20,997 --> 00:52:25,389
+interamente riscossa dal governo centrale I
+
+747
+00:52:25,889 --> 00:52:29,640
+comuni e le autorità locali non hanno alcun potere
+
+748
+00:52:30,201 --> 00:52:33,762
+sulle aliquote d'imposta né ricevono finora
+
+749
+00:52:34,307 --> 00:52:38,382
+automaticamente una quota di gettito prodotto
+
+750
+00:52:38,462 --> 00:52:42,071
+dai residenti. Le amministrazioni locali hanno
+
+751
+00:52:43,434 --> 00:52:46,883
+una limitata quantità di risorse fiscali
+
+752
+00:52:47,383 --> 00:52:51,422
+proprie che derivano principalmente dalla council tax,
+
+753
+00:52:51,534 --> 00:52:55,541
+che è l'imposta immobiliare locale, che tutti da
+
+754
+00:52:56,041 --> 00:52:58,425
+tempo immemore giudicano iniqua,
+
+755
+00:52:58,857 --> 00:53:02,559
+regressiva, comunque bisognosa di una profonda riforma.
+
+756
+00:53:03,729 --> 00:53:07,879
+Altra fonte di gettito locale sono i business rates, che sono la
+
+757
+00:53:08,379 --> 00:53:12,205
+tassazione delle attività commerciali, che però è solo
+
+758
+00:53:12,445 --> 00:53:14,897
+parzialmente trattenuta localmente.
+
+759
+00:53:16,051 --> 00:53:19,819
+Poi il grosso sono i trasferimenti del governo centrale e
+
+760
+00:53:19,899 --> 00:53:24,294
+contributi specifici destinati a singoli programmi.
+
+761
+00:53:24,487 --> 00:53:28,319
+Questo sistema fa sì che ovviamente gran
+
+762
+00:53:28,351 --> 00:53:32,782
+parte della spesa locale dipenda da decisioni prese dal
+
+763
+00:53:33,282 --> 00:53:36,798
+governo centrale, non dal territorio. Quindi Burnham
+
+764
+00:53:37,298 --> 00:53:40,927
+vuole con questa riforma attuare il più grande trasferimento
+
+765
+00:53:41,427 --> 00:53:45,072
+di poteri e risorse da Westminster dell'ultima
+
+766
+00:53:45,572 --> 00:53:49,699
+generazione. Dal 2027 le autorità metropolitane
+
+767
+00:53:50,199 --> 00:53:53,295
+potranno trattenere una quota maggiore dei business
+
+768
+00:53:53,504 --> 00:53:57,486
+rates, cioè quelli sulle attività commerciali. Dal 2028 riceveranno
+
+769
+00:53:58,144 --> 00:54:02,351
+una quota dell'income tax pagata dai residenti del territorio.
+
+770
+00:54:02,464 --> 00:54:06,076
+Non ci sono dati, ovviamente quando
+
+771
+00:54:06,157 --> 00:54:09,657
+li avremo cambierà anche eventualmente la valutazione.
+
+772
+00:54:11,552 --> 00:54:16,070
+Questa è una riforma che era già stata abbozzata, o almeno tratteggiata
+
+773
+00:54:16,182 --> 00:54:20,108
+dal punto di vista concettuale, dalla ex cancelliera
+
+774
+00:54:20,608 --> 00:54:24,531
+dello scacchiere Rachel Reeves, la quale aveva previsto, proprio per
+
+775
+00:54:25,031 --> 00:54:29,113
+aumentare l'autonomia impositiva locale, di introdurre
+
+776
+00:54:29,177 --> 00:54:32,895
+una tourist tax, cioè una tassa di soggiorno,
+
+777
+00:54:33,007 --> 00:54:36,885
+quella fonte di entrata che
+
+778
+00:54:37,385 --> 00:54:41,429
+noi italiani conosciamo bene, visto che quanto è lievitata nel
+
+779
+00:54:41,478 --> 00:54:44,792
+corso degli anni. E quindi vedremo
+
+780
+00:54:45,404 --> 00:54:48,834
+come andrà a finire anche in Regno Unito. Naturalmente,
+
+781
+00:54:50,154 --> 00:54:54,149
+da quello che è filtrato finora, perché mancano i dettagli,
+
+782
+00:54:54,182 --> 00:54:57,892
+ci abbiamo solamente una grande cornice,
+
+783
+00:54:58,860 --> 00:55:02,291
+poi la tela deve essere ancora istoriata, non è,
+
+784
+00:55:02,583 --> 00:55:06,482
+come vi ho detto, un'imposta locale aggiuntiva, non è un potere
+
+785
+00:55:06,982 --> 00:55:08,642
+di fissare autonomamente le aliquote dell'imposta sul reddito.
+
+786
+00:55:12,151 --> 00:55:15,922
+È semplicemente un trasferimento
+
+787
+00:55:16,003 --> 00:55:19,679
+che servirà per alcuni capitoli di spesa locale:
+
+788
+00:55:19,792 --> 00:55:23,156
+trasporto pubblico, edilizia abitativa,
+
+789
+00:55:23,382 --> 00:55:26,908
+rigenerazione urbana, infrastrutture locali
+
+790
+00:55:27,490 --> 00:55:29,567
+e programmi di sviluppo economico di area.
+
+791
+00:55:32,090 --> 00:55:35,691
+Quindi cosa possiamo dire? La volontà politica
+
+792
+00:55:36,191 --> 00:55:38,068
+della riforma È chiara,
+
+793
+00:55:39,096 --> 00:55:43,014
+l'indirizzo è chiaro, ma questo non elimina le criticità
+
+794
+00:55:43,514 --> 00:55:46,546
+e le contraddizioni. Perché qui sono
+
+795
+00:55:47,046 --> 00:55:50,271
+facilmente identificabili, no, le criticità, le contraddizioni.
+
+796
+00:55:51,668 --> 00:55:55,714
+Le aree economicamente più dinamiche, dove redditi e occupazione
+
+797
+00:55:56,214 --> 00:56:00,018
+sono più elevati, generano naturalmente molto più gettito
+
+798
+00:56:00,518 --> 00:56:01,832
+dell'imposta personale sui redditi.
+
+799
+00:56:03,630 --> 00:56:06,504
+Londra, la stessa Greater Manchester,
+
+800
+00:56:06,696 --> 00:56:10,324
+il Cambridgeshire potrebbero beneficiare di risorse
+
+801
+00:56:10,824 --> 00:56:14,627
+molto superiori rispetto a territori che hanno delle basi imponibili
+
+802
+00:56:14,707 --> 00:56:17,163
+più fragili ed epauperate.
+
+803
+00:56:18,078 --> 00:56:21,819
+Quindi serviranno i famosi meccanismi
+
+804
+00:56:21,931 --> 00:56:25,784
+perequativi che noi italiani tanto bene conosciamo. Ma anche qui
+
+805
+00:56:26,346 --> 00:56:29,557
+la struttura è da definire, per cui noi stiamo anticipando qualcosa che
+
+806
+00:56:30,057 --> 00:56:32,013
+dovremo analizzare in dettaglio quando avremo i dettagli.
+
+807
+00:56:34,223 --> 00:56:37,626
+Poi altra criticità: legare le
+
+808
+00:56:38,126 --> 00:56:41,950
+entrate locali all'imposta personale sui redditi aumenta
+
+809
+00:56:42,450 --> 00:56:45,967
+l'incentivo delle amministrazioni ad attrarre contribuenti
+
+810
+00:56:46,467 --> 00:56:50,113
+ad alto reddito, li porta ad attrarre
+
+811
+00:56:51,800 --> 00:56:55,919
+attività che hanno una maggiore capacità fiscale. Questo è un problema
+
+812
+00:56:56,419 --> 00:56:59,067
+comune a molti sistemi di federalismo fiscale.
+
+813
+00:57:00,717 --> 00:57:04,762
+Poi è evidente che l'imposta personale sui redditi segue
+
+814
+00:57:05,262 --> 00:57:09,239
+il ciclo economico, anche le imposte indirette seguono in maniera amplificata
+
+815
+00:57:09,739 --> 00:57:13,129
+il ciclo economico, anche i capital gain seguono il ciclo
+
+816
+00:57:13,178 --> 00:57:16,743
+economico. Però in caso di recessione e
+
+817
+00:57:17,243 --> 00:57:22,025
+di calo dell'occupazione i bilanci locali potrebbero subire delle
+
+818
+00:57:22,041 --> 00:57:25,901
+oscillazioni molto più marcate rispetto a un sistema fondato
+
+819
+00:57:26,401 --> 00:57:27,751
+prevalentemente sui trasferimenti statali.
+
+820
+00:57:30,339 --> 00:57:33,802
+Poi abbiamo la criticità del
+
+821
+00:57:34,988 --> 00:57:38,723
+depauperamento di competenze amministrative pubbliche locali,
+
+822
+00:57:38,755 --> 00:57:41,993
+perché negli ultimi 15 anni molti enti
+
+823
+00:57:42,493 --> 00:57:46,177
+locali inglesi hanno subito forti riduzioni di personale di competenze.
+
+824
+00:57:46,290 --> 00:57:49,768
+Quindi bisognerà trovare
+
+825
+00:57:50,268 --> 00:57:53,551
+una soluzione, perché se mancano i tecnici, i progettisti,
+
+826
+00:57:53,599 --> 00:57:57,448
+eccetera eccetera, non si va da nessuna parte. E anche questa è
+
+827
+00:57:57,948 --> 00:58:01,473
+una cosa che ha una certa aria di famiglia per quanto riguarda
+
+828
+00:58:01,973 --> 00:58:06,862
+noi italiani. E Burnham promette di agire sulla
+
+829
+00:58:06,974 --> 00:58:10,390
+pubblica amministrazione centrale, sul civil service centrale,
+
+830
+00:58:11,064 --> 00:58:15,474
+rendendolo più piccolo e più strategico, il che vuol dire distaccare
+
+831
+00:58:15,974 --> 00:58:19,563
+personale in sede locale, farlo assumere definitivamente dagli enti locali,
+
+832
+00:58:19,644 --> 00:58:22,948
+pagarlo con le entrate proprie,
+
+833
+00:58:23,159 --> 00:58:24,896
+o proprie tra virgolette.
+
+834
+00:58:27,550 --> 00:58:30,207
+Poi vedremo, ripeto, la percentuale di devoluzione.
+
+835
+00:58:31,633 --> 00:58:35,376
+E poi qua il diavolo veramente si entusiasma nascondendosi
+
+836
+00:58:35,876 --> 00:58:39,977
+nei dettagli. L'assegnazione di queste imposte sarà basato
+
+837
+00:58:40,477 --> 00:58:43,286
+sul luogo di residenza o sul luogo di lavoro del contribuente?
+
+838
+00:58:44,610 --> 00:58:46,891
+Come funzioneranno i meccanismi perequativi?
+
+839
+00:58:48,101 --> 00:58:51,611
+Quale sarà l'autonomia effettiva delle amministrazioni locali?
+
+840
+00:58:53,986 --> 00:58:57,649
+È chiaro che questa è potenzialmente una
+
+841
+00:58:58,149 --> 00:59:02,041
+rivoluzione, però ha il nodo, i nodi classici di
+
+842
+00:59:02,541 --> 00:59:04,272
+ogni processo di decentramento fiscale.
+
+843
+00:59:05,766 --> 00:59:09,434
+Aumentare l'autonomia può teoricamente migliorare gli
+
+844
+00:59:09,934 --> 00:59:14,363
+incentivi e la responsabilizzazione degli amministratori locali, ma senza
+
+845
+00:59:14,863 --> 00:59:18,873
+un efficace sistema di perequazione rischia di accentuare i
+
+846
+00:59:19,373 --> 00:59:22,594
+dualismi territoriali, cioè le differenze tra le aree ricche e le
+
+847
+00:59:23,094 --> 00:59:28,480
+aree economicamente più fragili. Poi vedrete che anche lì sorgeranno
+
+848
+00:59:28,641 --> 00:59:32,281
+le polemiche che noi conosciamo bene
+
+849
+00:59:32,781 --> 00:59:36,610
+sul residuo fiscale. Poi c'è naturalmente
+
+850
+00:59:37,110 --> 00:59:41,181
+un problema, un aspetto che si può ricondurre agli schieramenti politici.
+
+851
+00:59:41,261 --> 00:59:44,742
+Perché ad esempio i sindaci conservatori hanno
+
+852
+00:59:45,242 --> 00:59:49,475
+già detto che loro vorrebbero utilizzare la loro quota di gettito
+
+853
+00:59:49,975 --> 00:59:53,501
+dell'imposta personale sul reddito mandando degli assegni
+
+854
+00:59:54,001 --> 00:59:58,089
+ai contribuenti, cioè creando dei rebates. Ma questo
+
+855
+00:59:58,154 --> 01:00:01,908
+ovviamente ideologicamente non fa parte dello schema
+
+856
+01:00:02,389 --> 01:00:06,287
+che il Labour di Burnham ha in mente, cioè Il Labour dice:
+
+857
+01:00:06,400 --> 01:00:10,376
+noi non ti stiamo trasferendo una quota di quella che noi chiamiamo IRPEF
+
+858
+01:00:10,780 --> 01:00:14,366
+affinché tu la giri ai contribuenti attraverso assegni.
+
+859
+01:00:15,363 --> 01:00:18,595
+No, tu la devi spendere in un catalogo di
+
+860
+01:00:19,095 --> 01:00:23,202
+attività che noi andremo a definire. E anche qui ci sarà una contrattazione
+
+861
+01:00:23,899 --> 01:00:27,953
+sul tipo di attività. Ma cosa
+
+862
+01:00:28,066 --> 01:00:31,526
+accadrà quando progetti di sviluppo locale
+
+863
+01:00:32,026 --> 01:00:34,742
+finanziariamente impegnativi eccederanno le risorse disponibili? Verranno bloccati?
+
+864
+01:00:37,452 --> 01:00:40,947
+Avremo i residui di cantieri,
+
+865
+01:00:40,980 --> 01:00:44,797
+cantieri abbandonati? Ci sarà il commissariamento centrale
+
+866
+01:00:45,297 --> 01:00:48,647
+delle autorità locali? Ci saranno alti LAI
+
+867
+01:00:49,147 --> 01:00:52,756
+per avere maggiore, ancora maggiore autonomia impositiva? Quindi la
+
+868
+01:00:53,256 --> 01:00:56,190
+pressione fiscale si gonfierà attraverso il canale locale?
+
+869
+01:00:57,271 --> 01:01:01,146
+Passeremo dalla semplice devoluzione meccanica dell'imposta
+
+870
+01:01:01,646 --> 01:01:05,058
+personale sul reddito alle addizionali locali. Vedete il
+
+871
+01:01:05,074 --> 01:01:08,360
+percorso italiano? Lo vedete? Sì, lo vedrebbe chiunque,
+
+872
+01:01:09,466 --> 01:01:12,136
+anche un marziano appena arrivato sulla Terra.
+
+873
+01:01:14,986 --> 01:01:18,532
+Quindi è vero che, come dice
+
+874
+01:01:19,032 --> 01:01:22,884
+Burnham, è a livello locale che si comprendono le effettive esigenze
+
+875
+01:01:23,384 --> 01:01:27,520
+del territorio, ma tutto dipenderà
+
+876
+01:01:29,285 --> 01:01:33,547
+Dal sistema di incentivi e responsabilità in generale al disegno dei meccanismi
+
+877
+01:01:34,146 --> 01:01:37,354
+di queste forme di trasferimento. Se volete la mia opinione,
+
+878
+01:01:37,483 --> 01:01:41,147
+il Regno Unito è serenamente avviato
+
+879
+01:01:41,647 --> 01:01:45,134
+verso un ciclo molto impegnativo
+
+880
+01:01:45,634 --> 01:01:49,723
+di tassa e spendi a cui nessuna forza politica
+
+881
+01:01:50,125 --> 01:01:51,623
+potrà sottrarsi.
+
+882
+01:01:53,976 --> 01:01:58,111
+Probabilmente andranno nel giro di alcuni anni a convergere a
+
+883
+01:01:58,611 --> 01:02:02,872
+numeri di pressione fiscale come quelli dell'Europa continentale.
+
+884
+01:02:05,410 --> 01:02:08,614
+Stanno ancora sotto il 40%, ve lo ricordo, non so ancora per quanto,
+
+885
+01:02:08,727 --> 01:02:10,031
+di entrate su PIL.
+
+886
+01:02:12,592 --> 01:02:16,373
+Questa è l'ennesima conferma del percorso italiano del Regno Unito.
+
+887
+01:02:18,068 --> 01:02:21,049
+Anche noi Ire geologiche addietro,
+
+888
+01:02:21,161 --> 01:02:25,252
+poveri innocenti. Dibattevamo speranzosi
+
+889
+01:02:25,752 --> 01:02:28,670
+sulle virtù taumaturgiche del decentramento fiscale.
+
+890
+01:02:29,263 --> 01:02:33,290
+Fosse solo vero il decentramento fiscale, salvo non riuscire
+
+891
+01:02:33,790 --> 01:02:37,574
+a mettersi d'accordo su perimetro e profondità della
+
+892
+01:02:37,766 --> 01:02:41,104
+devoluzione del decentramento e sui meccanismi perequativi.
+
+893
+01:02:41,152 --> 01:02:44,553
+Altrimenti è la secessione dei ricchi, come dice qualcuno.
+
+894
+01:02:46,189 --> 01:02:49,644
+Con accuse incrociate di egoismo che
+
+895
+01:02:50,144 --> 01:02:53,903
+si contrappongono ad accuse di sfruttamento parassitario
+
+896
+01:02:54,403 --> 01:02:58,288
+del residuo fiscale altrui. Io ho
+
+897
+01:02:58,788 --> 01:03:03,981
+fatto il tema di maturità quando c'erano ancora le bighe sulla
+
+898
+01:03:04,481 --> 01:03:08,903
+cosiddetta questione meridionale. All'epoca ero molto più ingenuo, era tutto infarcito
+
+899
+01:03:09,548 --> 01:03:12,954
+di buoni sentimenti più o meno vagamente progressisti.
+
+900
+01:03:13,155 --> 01:03:16,872
+Non è cambiato uno iota da allora.
+
+901
+01:03:18,805 --> 01:03:23,922
+Semplicemente la dialettica, il dibattito pubblico si è incarognito e
+
+902
+01:03:24,439 --> 01:03:27,150
+la finanza pubblica si è ulteriormente deteriorata.
+
+903
+01:03:28,740 --> 01:03:32,947
+Tirando le somme, tutto si è risolto in un aumento
+
+904
+01:03:33,188 --> 01:03:37,412
+di pressione fiscale, perché prima vi ho detto la
+
+905
+01:03:37,912 --> 01:03:41,735
+strada dell'inferno riguardo il Colorado è lastricata di buone tassazioni e
+
+906
+01:03:42,341 --> 01:03:45,786
+Riguardo questa devoluzione di
+
+907
+01:03:45,883 --> 01:03:50,832
+Andy Burnham, la strada dell'inferno è anche lastricata
+
+908
+01:03:51,204 --> 01:03:55,031
+di buone devoluzioni. Perché? Perché la devoluzione è fiscale,
+
+909
+01:03:55,564 --> 01:03:59,568
+perché è una forma di tassazione secondo altre modalità.
+
+910
+01:04:02,246 --> 01:04:06,205
+È giunto il momento di girare la prua verso
+
+911
+01:04:06,705 --> 01:04:11,262
+le acque territoriali di Cialtronia.
+
+912
+01:04:11,762 --> 01:04:15,855
+Ebbene, questa settimana abbiamo
+
+913
+01:04:15,952 --> 01:04:19,736
+appreso che la cosiddetta riforma fiscale
+
+914
+01:04:20,236 --> 01:04:23,763
+del governo Meloni è terminata. Andate in pace, nel senso che
+
+915
+01:04:25,616 --> 01:04:28,644
+la finestra temporale della legge delega si è chiusa,
+
+916
+01:04:30,285 --> 01:04:34,387
+si è chiusa con l'emanazione di 21 decreti attuativi
+
+917
+01:04:34,484 --> 01:04:37,578
+e 8 testi unici. Tutto bene?
+
+918
+01:04:37,707 --> 01:04:41,980
+No. Vedo alcuni professori
+
+919
+01:04:42,480 --> 01:04:46,371
+di scienza delle finanze che dicono che non si può definire
+
+920
+01:04:47,229 --> 01:04:48,816
+riforma quello che è avvenuto,
+
+921
+01:04:50,953 --> 01:04:55,482
+perché in realtà no, non lo è stata, non ha avuto nessun effettivo
+
+922
+01:04:55,982 --> 01:05:00,245
+cambiamento sostanziale. E però questa
+
+923
+01:05:00,745 --> 01:05:05,127
+non riforma si caratterizza per un aspetto: manca Guarda
+
+924
+01:05:05,627 --> 01:05:08,820
+un po', poi non dite che non ve l'avevo detto, perché ve l'ho detto da
+
+925
+01:05:09,320 --> 01:05:13,013
+subito. La famosa riforma della
+
+926
+01:05:13,094 --> 01:05:16,749
+tassazione dei redditi finanziari che interessa
+
+927
+01:05:17,249 --> 01:05:21,723
+i risparmiatori. Ricordate, no, questa riforma tanto
+
+928
+01:05:22,030 --> 01:05:24,726
+anelata, agognata, concupita,
+
+929
+01:05:26,372 --> 01:05:29,903
+doveva fare cadere la demenziale
+
+930
+01:05:30,330 --> 01:05:33,160
+Distinzione, il demenziale steccato creato,
+
+931
+01:05:35,040 --> 01:05:36,442
+molti lustri addietro,
+
+932
+01:05:39,300 --> 01:05:42,909
+credo da Vincenzo Visco, se mi sbaglio mi corrigerete,
+
+933
+01:05:43,103 --> 01:05:47,373
+per fare che cosa? Per trattenere il più a lungo possibile
+
+934
+01:05:47,873 --> 01:05:51,315
+quanto più gettito possibile. Lo steccato tra
+
+935
+01:05:51,380 --> 01:05:54,226
+redditi di capitale, redditi diversi,
+
+936
+01:05:54,339 --> 01:05:57,884
+serviva a mantenere più gettito
+
+937
+01:05:58,384 --> 01:06:02,626
+nelle mani dello Stato. Una compensazione piena avrebbe
+
+938
+01:06:03,126 --> 01:06:06,505
+determinato una voragine da coprire opportunamente. Io vi
+
+939
+01:06:07,005 --> 01:06:09,682
+avevo detto di non trattenere il respiro.
+
+940
+01:06:11,496 --> 01:06:16,021
+Vedevo gente entusiasta: ah, finalmente potremo compensare
+
+941
+01:06:16,521 --> 01:06:19,302
+plusvalenze e minusvalenze degli ETF! Vi piacerebbe,
+
+942
+01:06:19,351 --> 01:06:21,242
+naturalmente.
+
+943
+01:06:21,662 --> 01:06:25,502
+Possiamo fare anche i malpensanti, no? Allora,
+
+944
+01:06:25,778 --> 01:06:29,213
+balza all'occhio che un intervento di riforma
+
+945
+01:06:29,713 --> 01:06:33,789
+di questo tipo sarebbe stato molto impegnativo,
+
+946
+01:06:35,502 --> 01:06:41,208
+sarebbe stato impegnativo in
+
+947
+01:06:41,708 --> 01:06:46,009
+termini di risorse necessarie. Ma facciamo
+
+948
+01:06:46,509 --> 01:06:51,058
+i malpensanti: avrebbe causato anche
+
+949
+01:06:51,558 --> 01:06:54,238
+dei dispiaceri alle banche.
+
+950
+01:06:55,093 --> 01:06:58,888
+Perché? Perché le banche, come sapete,
+
+951
+01:06:58,921 --> 01:07:02,448
+se non lo sapete sappiatelo, le gestioni
+
+952
+01:07:02,531 --> 01:07:05,548
+patrimoniali delle banche non hanno questo steccato.
+
+953
+01:07:07,360 --> 01:07:11,634
+Quindi le plus e le minus che
+
+954
+01:07:11,666 --> 01:07:15,651
+si generano all'interno dell'ambito giuridico della gestione
+
+955
+01:07:16,151 --> 01:07:18,178
+patrimoniale, che è eminentemente bancaria,
+
+956
+01:07:21,252 --> 01:07:25,338
+si compensano. Se noi avessimo
+
+957
+01:07:25,532 --> 01:07:27,519
+consentito la compensazione,
+
+958
+01:07:29,440 --> 01:07:33,776
+il fai da te, ma anche la consulenza finanziaria
+
+959
+01:07:34,276 --> 01:07:37,339
+indipendente, se ne sarebbero avvantaggiati, perché voi
+
+960
+01:07:37,839 --> 01:07:40,767
+avreste potuto compensare plus e minus, ad esempio degli ETF.
+
+961
+01:07:42,907 --> 01:07:46,140
+E quindi questa sarebbe stata una minaccia competitiva
+
+962
+01:07:46,349 --> 01:07:50,788
+manifesta e preclara
+
+963
+01:07:51,288 --> 01:07:54,652
+alla linea di business delle gestioni patrimoniali bancarie. Ma non solo,
+
+964
+01:07:54,733 --> 01:07:58,088
+c'era un'altra minaccia: i certificati,
+
+965
+01:07:58,120 --> 01:08:02,330
+certificates, no? Ve ne parlo ogni tanto, che sono un prodotto
+
+966
+01:08:02,379 --> 01:08:06,316
+tipico del sistema del cosiddetto
+
+967
+01:08:06,816 --> 01:08:10,984
+risparmio italiano. In realtà sono un prodotto enormemente
+
+968
+01:08:11,484 --> 01:08:15,170
+remunerativo per chi emette questo tipo di prodotto, e guarda caso sono
+
+969
+01:08:15,670 --> 01:08:18,857
+le banche. Perché dico questo? Perché i certificates,
+
+970
+01:08:19,468 --> 01:08:23,241
+tra le varie motivazioni, oltre al fatto di essere veramente
+
+971
+01:08:24,044 --> 01:08:27,978
+delle contorsioni incredibili su derivati strutturati
+
+972
+01:08:28,058 --> 01:08:32,008
+che non si possono smontare dal punto di vista concettuale—
+
+973
+01:08:32,508 --> 01:08:35,846
+io faccio questo lavoro da 30 anni, ho ancora qualche
+
+974
+01:08:36,346 --> 01:08:40,085
+problema a smontare un certificato complesso
+
+975
+01:08:40,585 --> 01:08:43,923
+nei suoi elementi costitutivi e a identificare la fregatura.
+
+976
+01:08:45,006 --> 01:08:48,890
+Le banche hanno avuto un ricco filone di
+
+977
+01:08:49,052 --> 01:08:52,547
+motivazione, un ricco driver all'emissione dei certificates. Perché?
+
+978
+01:08:52,612 --> 01:08:56,238
+Perché i certificates servivano a riassorbire
+
+979
+01:08:56,738 --> 01:09:00,475
+le minusvalenze con i loro cedoloni rinforzati
+
+980
+01:09:01,328 --> 01:09:04,179
+e fallaci e apparenti.
+
+981
+01:09:05,661 --> 01:09:09,896
+Quindi, se fosse passata la riforma della
+
+982
+01:09:10,009 --> 01:09:13,633
+piena compensazione tra redditi di capitale redditi diversi,
+
+983
+01:09:13,746 --> 01:09:17,702
+noi avremmo dato robusti dispiaceri alle
+
+984
+01:09:18,202 --> 01:09:23,023
+banche. È meglio non dare dispiaceri alle banche e indennizzarle
+
+985
+01:09:23,523 --> 01:09:26,236
+per tutto quello che è stato chiesto loro dal punto di vista fiscale, che poi
+
+986
+01:09:26,736 --> 01:09:30,173
+quello che viene chiesto loro dal punto di vista fiscale in realtà viene serenamente
+
+987
+01:09:30,673 --> 01:09:33,210
+prelevato dai clienti molto spesso.
+
+988
+01:09:34,956 --> 01:09:38,416
+E quindi magari dire, beh, ma io ti ho graziato su questa
+
+989
+01:09:38,916 --> 01:09:42,996
+cosa, quindi potresti anche fare la tua parte e mettere mano al portafoglio e darmi
+
+990
+01:09:43,496 --> 01:09:44,941
+qualcosa, che devo fare la campagna elettorale.
+
+991
+01:09:48,222 --> 01:09:52,354
+E a proposito di campagna elettorale,
+
+992
+01:09:53,512 --> 01:09:57,018
+questa, e anche di alfabetizzazione finanziaria,
+
+993
+01:10:00,610 --> 01:10:04,523
+questa settimana abbiamo fatto un grande passo
+
+994
+01:10:05,023 --> 01:10:09,002
+avanti nell'alfabetizzazione economico-finanziaria dell'opinione pubblica italiana.
+
+995
+01:10:09,115 --> 01:10:12,984
+Perché? Perché il governo presenta, chiede a Bruxelles
+
+996
+01:10:14,618 --> 01:10:18,906
+di attuare la famosa National Escape Clause, che noi traduciamo
+
+997
+01:10:19,406 --> 01:10:23,709
+come clausola di salvaguardia nazionale, per avere la cosiddetta
+
+998
+01:10:23,758 --> 01:10:28,803
+flessibilità in misura pari all'1,5%
+
+999
+01:10:28,965 --> 01:10:30,760
+nel triennio 2026-2028.
+
+1000
+01:10:33,867 --> 01:10:36,342
+Quindi sono oltre una trentina di miliardi.
+
+1001
+01:10:37,583 --> 01:10:41,468
+Lo 0,6 andrà alla voce energia, lo 0,9
+
+1002
+01:10:41,968 --> 01:10:45,830
+alla voce difesa. Però il
+
+1003
+01:10:46,330 --> 01:10:48,086
+denaro è fungibile,
+
+1004
+01:10:50,040 --> 01:10:54,565
+quindi questi soldi potrebbero
+
+1005
+01:10:54,646 --> 01:10:58,544
+tranquillamente andare, per quanto riguarda l'energia, a finanziare
+
+1006
+01:10:59,044 --> 01:11:02,842
+misure che sarebbero state finanziate dal bilancio ordinario.
+
+1007
+01:11:05,897 --> 01:11:09,673
+La parte di risorse che si libera può essere utilizzata
+
+1008
+01:11:10,155 --> 01:11:13,577
+dai partiti di maggioranza per farci la loro campagna elettorale.
+
+1009
+01:11:14,348 --> 01:11:18,268
+Avete visto, no, le proposte di Forza Italia e
+
+1010
+01:11:18,768 --> 01:11:23,056
+del suo consigliere Antonio Tajani? L'IRPEF al 33% fino a 60.000
+
+1011
+01:11:23,556 --> 01:11:27,298
+euro, il dito del ceto del dito medio, abolire o ridurre
+
+1012
+01:11:27,798 --> 01:11:30,686
+il bollo auto, che è un vecchia Un cavallo,
+
+1013
+01:11:30,798 --> 01:11:32,771
+vecchio cavallo di battaglia berlusconiano,
+
+1014
+01:11:34,182 --> 01:11:37,613
+una flat tax per tutti. Cioè, questa lista
+
+1015
+01:11:38,271 --> 01:11:42,264
+è la lista della spesa. Il denaro è fungibile. Ogni volta che
+
+1016
+01:11:42,764 --> 01:11:46,914
+voi chiedete flessibilità, che è un altro termine linguisticamente
+
+1017
+01:11:47,414 --> 01:11:51,564
+che ha subito una perversione incredibile, voi praticamente liberate margini
+
+1018
+01:11:52,064 --> 01:11:55,814
+per pagare altre voci. A me viene da sorridere
+
+1019
+01:11:56,314 --> 01:11:59,252
+quando dico Quando dicono, quando leggo: e beh,
+
+1020
+01:11:59,284 --> 01:12:02,938
+ma qui la flessibilità energetica non deve andare
+
+1021
+01:12:03,438 --> 01:12:06,510
+a ridurre le accise? No, però va a finanziare cose
+
+1022
+01:12:07,010 --> 01:12:10,182
+che sarebbero state finanziate dalla,
+
+1023
+01:12:10,907 --> 01:12:14,611
+dai tributi, e quei soldi che si liberano
+
+1024
+01:12:15,111 --> 01:12:18,628
+possono essere utilizzati per altro, per altro,
+
+1025
+01:12:18,678 --> 01:12:20,399
+per qualsiasi cosa d'altro.
+
+1026
+01:12:22,082 --> 01:12:25,807
+Sul titolo di Repubblica, Repubblica pavlovianamente scrive:
+
+1027
+01:12:26,015 --> 01:12:29,773
+i trucchi della destra per la manovra elettorale. La stessa
+
+1028
+01:12:29,853 --> 01:12:33,402
+cosa l'avrebbe fatta un governo di sinistra
+
+1029
+01:12:33,902 --> 01:12:38,459
+e probabilmente a Repubblica si sarebbero entusiasmati per questo
+
+1030
+01:12:38,959 --> 01:12:42,265
+afflato popolare che aiuta i ceti
+
+1031
+01:12:42,698 --> 01:12:46,279
+popolari. Il denaro è fungibile.
+
+1032
+01:12:47,742 --> 01:12:51,541
+Quindi questi episodi ci
+
+1033
+01:12:52,353 --> 01:12:55,162
+consentono di fare un po' di alfabetizzazione finanziaria.
+
+1034
+01:12:59,916 --> 01:13:03,970
+E a proposito, ci consentono anche di
+
+1035
+01:13:04,470 --> 01:13:08,040
+introdurre la rubrichina dell'Angolo di Celtronia
+
+1036
+01:13:08,104 --> 01:13:11,005
+che si chiama Dimmi che stampa hai e ti dirò quanto male stai.
+
+1037
+01:13:12,640 --> 01:13:15,942
+Perché io questa settimana Sono
+
+1038
+01:13:16,442 --> 01:13:20,055
+riuscito a leggere un paio di cose veramente pregevoli,
+
+1039
+01:13:20,087 --> 01:13:24,265
+si fa per dire. Cercherò di non dire il peccatore ma solo
+
+1040
+01:13:24,765 --> 01:13:28,648
+il peccato. Richiesta italiana di flessibilità all'Unione
+
+1041
+01:13:29,148 --> 01:13:33,046
+Europea. L'attacco dell'articolo di questo quotidiano nazionale:
+
+1042
+01:13:33,192 --> 01:13:36,665
+l'Italia presenta il conto all'Europa.
+
+1043
+01:13:38,248 --> 01:13:41,826
+Semmai presenta il conto a se stessa, non all'Europa.
+
+1044
+01:13:42,682 --> 01:13:45,615
+Quindi non si sa se questi sono gli effetti del caldo,
+
+1045
+01:13:46,309 --> 01:13:49,017
+una forma di autotrollata, che altro.
+
+1046
+01:13:50,516 --> 01:13:54,223
+E poi fatemi dire quanto male stai. Questa settimana
+
+1047
+01:13:54,723 --> 01:13:58,328
+su un giornale di opinione di area che
+
+1048
+01:13:58,828 --> 01:14:03,400
+potremmo definire progressista, eccetera eccetera, c'era un boxino:
+
+1049
+01:14:04,882 --> 01:14:08,588
+sfida Salis-D'Alema, il lancio
+
+1050
+01:14:09,088 --> 01:14:13,181
+dei due libri prenotato da Fazio.
+
+1051
+01:14:13,681 --> 01:14:16,974
+Io capisco che siamo a inizio agosto e non
+
+1052
+01:14:17,474 --> 01:14:20,978
+c'è nulla di cui scrivere perché il mondo è tranquillo, in pace, sereno. Soprattutto i
+
+1053
+01:14:21,478 --> 01:14:25,434
+nostri notisti politici non hanno nulla di cui scrivere,
+
+1054
+01:14:25,466 --> 01:14:29,115
+vero? No, no. A ottobre usciranno
+
+1055
+01:14:29,615 --> 01:14:33,259
+i libri di Silvia Salis e l'ennesimo libro di Massimo D'Alema.
+
+1056
+01:14:33,651 --> 01:14:37,524
+E Fabio Fazio, quello che Vincenzo
+
+1057
+01:14:38,024 --> 01:14:40,892
+De Luca definiva, credo, il fratacchione, il fratacchione della sinistra,
+
+1058
+01:14:41,867 --> 01:14:48,865
+è già pronto a ufficiare con un pubblico invisibilio
+
+1059
+01:14:49,365 --> 01:14:53,142
+la presentazione di questi libri. Ora, io capisco che, come dire,
+
+1060
+01:14:53,384 --> 01:14:56,550
+le relazioni esterne, gli uffici di comunicazione delle case
+
+1061
+01:14:57,050 --> 01:15:00,432
+editrici, sono a inizio agosto, svuotano le scrivanie prima
+
+1062
+01:15:00,932 --> 01:15:06,505
+di andare al mare e ti fanno questo lancio che
+
+1063
+01:15:07,005 --> 01:15:10,150
+magari arriva sino ai giornali, che poi se lo cucinano, riescono anche
+
+1064
+01:15:10,650 --> 01:15:14,890
+a farci un titolo e un articolino di spalla: sfida Salis
+
+1065
+01:15:14,922 --> 01:15:18,256
+d'Alema, il lancio dei due libri prenotato
+
+1066
+01:15:18,756 --> 01:15:22,399
+da Fazio. Dimmi che stampa
+
+1067
+01:15:22,899 --> 01:15:25,626
+hai e ti dirò quanto male stai.
+
+1068
+01:15:26,151 --> 01:15:28,386
+Stai sempre peggio!
+
+1069
+01:15:33,513 --> 01:15:38,632
+E questa settimana non possiamo esimerci da
+
+1070
+01:15:38,795 --> 01:15:43,529
+questa la saga della
+
+1071
+01:15:44,029 --> 01:15:48,051
+accozzaglia larga, del camposanto largo,
+
+1072
+01:15:49,666 --> 01:15:54,507
+perché c'è stata una manifesta fuga in avanti dell'avvocato
+
+1073
+01:15:55,007 --> 01:16:00,154
+del populismo Giuseppe Conte, il quale ha detto: ci
+
+1074
+01:16:00,654 --> 01:16:03,752
+vogliono le primarie, noi andiamo alle primarie, ci presentiamo alle primarie.
+
+1075
+01:16:05,237 --> 01:16:08,455
+Con un punto qualificante: basta armi a Kiev,
+
+1076
+01:16:10,032 --> 01:16:13,610
+parlo io con Putin. Bisogna restare
+
+1077
+01:16:13,659 --> 01:16:17,523
+seri leggendo queste cose. Non è, non è il calore che
+
+1078
+01:16:18,023 --> 01:16:21,323
+vi ha cotto il cervello e lo ha cotto a questa gente. Questa gente non
+
+1079
+01:16:21,823 --> 01:16:24,108
+ha il cervello cotto, lo stanno cuocendo a voi.
+
+1080
+01:16:26,956 --> 01:16:30,944
+Questo è uno schema in base
+
+1081
+01:16:31,444 --> 01:16:34,342
+al quale Si fanno le primarie,
+
+1082
+01:16:36,302 --> 01:16:39,999
+poi ci sono queste, queste indicazioni draconiane: chi
+
+1083
+01:16:40,079 --> 01:16:44,516
+prende un voto più dell'altro vince.
+
+1084
+01:16:44,937 --> 01:16:48,689
+E questo implica che chi vince con un voto più
+
+1085
+01:16:48,753 --> 01:16:52,441
+dell'altro avrà una squadra di schiavi che
+
+1086
+01:16:52,941 --> 01:16:56,081
+gli faranno codazzo. Ma voi pensate davvero che
+
+1087
+01:16:56,146 --> 01:16:58,232
+sia fattibile una cosa del genere?
+
+1088
+01:17:00,597 --> 01:17:04,758
+Magari è fattibile nell'ipotesi in cui
+
+1089
+01:17:04,774 --> 01:17:08,180
+vinca Giuseppe Conte con un voto di scarto, e quindi Elly
+
+1090
+01:17:08,680 --> 01:17:11,511
+Schlein gli porta l'acqua con le orecchie a Palazzo Chigi.
+
+1091
+01:17:12,602 --> 01:17:16,821
+Ma se dovesse vincere Elly Schlein con un voto di scarto, voi pensate
+
+1092
+01:17:17,321 --> 01:17:20,420
+davvero che Giuseppe Conte ci starebbe,
+
+1093
+01:17:20,549 --> 01:17:23,003
+o ci starebbe in maniera duratura?
+
+1094
+01:17:24,428 --> 01:17:29,259
+Poi leggiamo gli appelli del Machiavelli fiorentino
+
+1095
+01:17:30,225 --> 01:17:34,058
+che dice, ci vuole un contratto di ferro, un contratto di ferro.
+
+1096
+01:17:35,381 --> 01:17:37,848
+Quante altre volte avete sentito questa cosa?
+
+1097
+01:17:39,041 --> 01:17:42,324
+Un contratto che sarebbe scritto con l'inchiostro
+
+1098
+01:17:42,824 --> 01:17:45,736
+simpatico. Quindi simpatico c'è veramente poco,
+
+1099
+01:17:48,618 --> 01:17:51,628
+però questa è la situazione. Schlein ha avuto questo,
+
+1100
+01:17:51,790 --> 01:17:54,484
+questo soprassalto di,
+
+1101
+01:17:58,485 --> 01:18:02,771
+così, questo soprassalto di
+
+1102
+01:18:03,271 --> 01:18:07,054
+assertività dicendo: non funziona così,
+
+1103
+01:18:08,068 --> 01:18:11,468
+prima il programma e poi le primarie. E nel programma lei
+
+1104
+01:18:11,549 --> 01:18:15,283
+pensa davvero, in quanto testardamente
+
+1105
+01:18:15,299 --> 01:18:19,041
+unitaria, e rischia di essere testardamente
+
+1106
+01:18:19,541 --> 01:18:23,165
+coprofaga, di imbrigliare, di creare una sorta
+
+1107
+01:18:23,665 --> 01:18:27,027
+di vincolo di mandato di coalizione a Giuseppe Conte.
+
+1108
+01:18:30,216 --> 01:18:30,458
+E boh,
+
+1109
+01:18:33,288 --> 01:18:37,008
+crederci, credeteci, soprattutto ci
+
+1110
+01:18:37,508 --> 01:18:41,299
+credano gli elettori. Abbiamo visto l'accorato appello
+
+1111
+01:18:41,799 --> 01:18:45,902
+di Michele Serra su Repubblica Se non riuscite a tenere in piedi
+
+1112
+01:18:46,402 --> 01:18:49,769
+questo campo largo, trattateci da adulti e fatecelo
+
+1113
+01:18:50,269 --> 01:18:52,479
+sapere. Ma tenerissimo Michele Serra,
+
+1114
+01:18:52,673 --> 01:18:55,392
+tenerissimo! Le ragioni del cuore,
+
+1115
+01:18:56,638 --> 01:19:00,119
+non si discute con le ragioni del cuore, non si razionalizzano
+
+1116
+01:19:01,742 --> 01:19:03,008
+le ragioni del cuore.
+
+1117
+01:19:04,906 --> 01:19:08,291
+Il cuore sta a sinistra e anche quello già è
+
+1118
+01:19:08,791 --> 01:19:08,922
+un'indicazione.
+
+1119
+01:19:13,014 --> 01:19:17,650
+Valoriale. Però vi garantisco, adesso spergiurano che a settembre si
+
+1120
+01:19:18,150 --> 01:19:21,768
+metteranno a scrivere il programma. Scriveranno 300
+
+1121
+01:19:21,816 --> 01:19:24,969
+pagine dettagliate col notaio in
+
+1122
+01:19:25,469 --> 01:19:29,832
+attesa che salti, faranno la fine dell'Unione
+
+1123
+01:19:30,332 --> 01:19:34,231
+nella legislatura 2006-2008, anche meno.
+
+1124
+01:19:36,155 --> 01:19:39,880
+Ovemai riuscissero a vincere. Poi, come sapete,
+
+1125
+01:19:39,929 --> 01:19:44,168
+io sono cinico. Vi ho già detto che l'unico scopo per tutti
+
+1126
+01:19:44,668 --> 01:19:48,374
+gli schieramenti di fare campagna elettorale, di fare le elezioni, è quello di poter mettere
+
+1127
+01:19:48,874 --> 01:19:53,240
+mano allo spoil system, cioè alle nomine pubbliche. Sono arrivato a questo
+
+1128
+01:19:53,740 --> 01:19:57,061
+grado di spregevole cinismo e ve lo voglio dire, ve lo voglio
+
+1129
+01:19:57,414 --> 01:19:58,137
+ribadire.
+
+1130
+01:20:01,604 --> 01:20:05,517
+Andiamo in chiusura. Parliamo, visto che abbiamo questa sorta
+
+1131
+01:20:06,017 --> 01:20:08,965
+di panino estero tipo Europa-Italia-Europa,
+
+1132
+01:20:09,526 --> 01:20:12,862
+parliamo della maratona, maratona d'Europa,
+
+1133
+01:20:13,054 --> 01:20:17,962
+la Francia, dove l'obiettivo per
+
+1134
+01:20:18,462 --> 01:20:21,762
+il 2026 del deficit PIL al confortevolissimo 5%,
+
+1135
+01:20:21,794 --> 01:20:25,563
+con un ancor più lasco deficit
+
+1136
+01:20:26,063 --> 01:20:29,029
+primario, pare definitivamente sfuggito.
+
+1137
+01:20:31,078 --> 01:20:34,273
+Ci sarà da mettere mano alla legge di bilancio 2027,
+
+1138
+01:20:35,010 --> 01:20:39,456
+anno delle elezioni presidenziali. Per recuperare risorse torna
+
+1139
+01:20:39,617 --> 01:20:43,322
+lo spettro dell'anno bianco, come lo chiamano in
+
+1140
+01:20:43,822 --> 01:20:46,629
+Francia giornalisticamente e i politici. Cioè,
+
+1141
+01:20:47,184 --> 01:20:50,436
+l'anno bianco è la deindicizzazione totale
+
+1142
+01:20:50,936 --> 01:20:54,711
+o parziale di prestazioni sociali, scaglioni di imposta IRPEF per generare
+
+1143
+01:20:55,211 --> 01:20:55,572
+fiscal drag,
+
+1144
+01:20:58,336 --> 01:21:02,105
+deindicizzazione della defiscalizzazione degli oneri sociali per le imprese,
+
+1145
+01:21:02,137 --> 01:21:04,612
+per le quali quindi il costo del lavoro salirebbe.
+
+1146
+01:21:06,436 --> 01:21:10,502
+La Francia è un paese costantemente sull'orlo
+
+1147
+01:21:10,827 --> 01:21:14,680
+di una crisi di nervi. Pensate, hanno fatto
+
+1148
+01:21:15,180 --> 01:21:19,917
+due conti secondo
+
+1149
+01:21:20,497 --> 01:21:24,512
+uno specialista di finanza pubblica che
+
+1150
+01:21:24,576 --> 01:21:27,577
+è favorevole alla deindicizzazione parziale,
+
+1151
+01:21:27,705 --> 01:21:29,983
+all'anno bianco 2027,
+
+1152
+01:21:30,047 --> 01:21:34,219
+ipotizzando una inflazione
+
+1153
+01:21:34,347 --> 01:21:36,834
+del 2,7% alla fine di quest'anno,
+
+1154
+01:21:38,117 --> 01:21:42,369
+un anno bianco sulle prestazioni sociali, quindi bloccata l'indicizzazione
+
+1155
+01:21:42,931 --> 01:21:44,904
+tranne le minime sociali,
+
+1156
+01:21:45,818 --> 01:21:49,621
+genererebbe qualcosa come 12 miliardi e mezzo
+
+1157
+01:21:50,121 --> 01:21:54,003
+di euro, di cui 11 miliardi Dalle
+
+1158
+01:21:54,164 --> 01:21:57,504
+pensioni. Io ve l'ho detto che il vero tesoretto,
+
+1159
+01:21:57,536 --> 01:22:01,889
+il vero tesorone dei conti pubblici italiani
+
+1160
+01:22:02,389 --> 01:22:05,696
+e degli altri paesi europei è la spesa previdenziale,
+
+1161
+01:22:05,728 --> 01:22:08,667
+quella in essere e quella che deve materializzarsi.
+
+1162
+01:22:09,920 --> 01:22:13,068
+Infatti, quando ci fu lo shock inflazionistico, il governo
+
+1163
+01:22:13,568 --> 01:22:17,693
+Meloni-Giorgetti gelò l'indicizzazione
+
+1164
+01:22:18,193 --> 01:22:21,838
+delle pensioni e si portò a casa un pacco di soldi. Perché non
+
+1165
+01:22:21,871 --> 01:22:25,007
+farlo ci avrebbe dissestati, ci avrebbe esposti
+
+1166
+01:22:25,505 --> 01:22:30,155
+ad un attacco speculativo sui mercati. Quindi ricordate l'esperienza,
+
+1167
+01:22:30,493 --> 01:22:34,713
+i numeri francesi confermano che il
+
+1168
+01:22:34,826 --> 01:22:38,373
+vero maxi tesoretto dei paesi
+
+1169
+01:22:38,632 --> 01:22:41,910
+europei, Italia, Francia, la stessa Germania,
+
+1170
+01:22:42,300 --> 01:22:44,912
+risiede nella spesa pensionistica.
+
+1171
+01:22:45,906 --> 01:22:49,988
+Qualcuno ora mi dirà, ecco, vedi che sei d'accordo con tutti gli ottimati
+
+1172
+01:22:50,488 --> 01:22:54,700
+che dicono che è dalla spesa pensionistica che bisogna finanziare la
+
+1173
+01:22:54,732 --> 01:22:58,538
+rinascita del paese, la rinascita STEM del paese.
+
+1174
+01:22:58,827 --> 01:23:00,641
+No, non sono d'accordo,
+
+1175
+01:23:01,396 --> 01:23:04,575
+perché, e ve lo ripeto ad nauseam,
+
+1176
+01:23:05,009 --> 01:23:08,830
+questa spesa pensionistica tu la puoi attingere,
+
+1177
+01:23:09,264 --> 01:23:12,973
+come direbbe taglianescamente qualcuno, se sei
+
+1178
+01:23:13,473 --> 01:23:16,858
+in emergenza, se sei in un casino e non sai dove volgerti,
+
+1179
+01:23:16,907 --> 01:23:20,921
+hai le spalle al muro. Non la puoi, non puoi
+
+1180
+01:23:21,421 --> 01:23:25,320
+attingere alla spesa previdenziale in tempo di pace per fare
+
+1181
+01:23:25,820 --> 01:23:29,254
+tutte le tue belle pianificazioni. Taglio la pensione al nonno
+
+1182
+01:23:29,754 --> 01:23:33,589
+perché devo creare delle università d'eccellenza piene
+
+1183
+01:23:34,089 --> 01:23:37,764
+di prodigi STEM. Ma voi pensate davvero che una cosa
+
+1184
+01:23:38,264 --> 01:23:41,425
+del genere possa realizzarsi? Fatevela passare.
+
+1185
+01:23:44,043 --> 01:23:47,661
+E mentre voi ve la fate passare, noi abbiamo
+
+1186
+01:23:48,146 --> 01:23:51,910
+terminato. Vi ringrazio per l'ascolto,
+
+1187
+01:23:52,184 --> 01:23:55,919
+per la fedeltà. Vi ricordo che resta valido
+
+1188
+01:23:56,082 --> 01:24:02,190
+Phastidio.net/contacto e Phastidio.net/donazioni.
+
+1189
+01:24:02,302 --> 01:24:05,567
+Vi ricordo che c'è il Phastidio
+
+1190
+01:24:05,760 --> 01:24:09,507
+Substack dove potrete, abbonandovi,
+
+1191
+01:24:10,287 --> 01:24:14,060
+diventare, ascoltare il Phastidio Podcast
+
+1192
+01:24:14,560 --> 01:24:18,122
+senza avere la pubblicità tra i piedi, leggere i post di Phastidio senza
+
+1193
+01:24:18,138 --> 01:24:22,489
+avere la pubblicità tra i piedi. Noi siamo arrivati alla
+
+1194
+01:24:22,650 --> 01:24:25,941
+pausa agostana, che per quanto
+
+1195
+01:24:26,441 --> 01:24:32,074
+mi riguarda è meritata, perché sono abbastanza stanco di alcune dinamiche
+
+1196
+01:24:32,574 --> 01:24:37,255
+e di alcune coazioni a ripetere. Nel senso che io questa caratteristica probabilmente
+
+1197
+01:24:37,755 --> 01:24:41,458
+mi logoro cercando sempre di analizzare le cose
+
+1198
+01:24:41,587 --> 01:24:45,436
+in questa maniera. Ho bisogno effettivamente di non staccare
+
+1199
+01:24:45,936 --> 01:24:49,820
+il cervello, ma probabilmente di fare scendere
+
+1200
+01:24:50,320 --> 01:24:54,495
+il numero di giri del cervello medesimo. Pertanto direi
+
+1201
+01:24:54,995 --> 01:24:58,341
+che vi ringrazio, vi auguro un buona, una buona
+
+1202
+01:24:58,841 --> 01:25:02,912
+estate, una buona prosecuzione di estate. E noi ci
+
+1203
+01:25:03,105 --> 01:25:07,413
+risentiamo sempre al Fato Piacendo
+
+1204
+01:25:07,975 --> 01:25:10,850
+sabato 29 agosto.
+
+1205
+01:25:11,374 --> 01:25:12,734
+Buona vita se potete!
