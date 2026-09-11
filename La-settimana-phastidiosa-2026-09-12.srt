@@ -1,0 +1,4655 @@
+1
+00:00:00,032 --> 00:00:03,751
+Questo è Phastidio Podcast,
+
+2
+00:00:03,863 --> 00:00:07,405
+la Settimana Phastidiosa, il commento a fatti e notizie che
+
+3
+00:00:07,905 --> 00:00:11,637
+hanno attirato la mia attenzione. Lo trovate su tutte le maggiori piattaforme
+
+4
+00:00:12,137 --> 00:00:15,933
+podcast, YouTube, sulle app di aggregazione dei feed RSS.
+
+5
+00:00:16,543 --> 00:00:20,133
+I sostenitori su Spreaker e YouTube e gli abbonati al
+
+6
+00:00:20,633 --> 00:00:23,949
+Phastidio Substack ascoltano senza pubblicità e in anteprima.
+
+7
+00:00:24,478 --> 00:00:25,712
+Io sono Mario Seminerio.
+
+8
+00:00:44,380 --> 00:00:49,423
+Gli Houthi, che sono questa fazione yemenita
+
+9
+00:00:49,552 --> 00:00:52,267
+che controlla una parte dello Yemen,
+
+10
+00:00:52,557 --> 00:00:57,460
+inclusa la capitale Sana'a, che sono sponsorizzati
+
+11
+00:00:57,960 --> 00:01:01,783
+dall'Iran all'interno del cosiddetto Asse della Resistenza, anche se
+
+12
+00:01:03,089 --> 00:01:07,021
+si sono comportati con una relativa indipendenza
+
+13
+00:01:07,521 --> 00:01:11,274
+da Teheran rispetto ad altri tentacoli dell'asse
+
+14
+00:01:11,774 --> 00:01:14,645
+della resistenza, come ad esempio gli Hezbollah. Ebbene, gli Houthi,
+
+15
+00:01:15,624 --> 00:01:19,460
+abbiamo avuto notizia nella giornata di giovedì 10 settembre
+
+16
+00:01:19,960 --> 00:01:24,435
+che hanno esteso il proprio controllo sulla
+
+17
+00:01:24,935 --> 00:01:28,608
+costa occidentale yemenita prendendo
+
+18
+00:01:29,108 --> 00:01:33,281
+la città portuale di Moka, che è famosa, come suggerisce
+
+19
+00:01:33,781 --> 00:01:37,922
+il nome, perché era un antico hub commerciale per il commercio
+
+20
+00:01:38,422 --> 00:01:42,274
+del caffè, e si accingono a prendere, o hanno già preso, un paio di
+
+21
+00:01:42,774 --> 00:01:46,754
+isolotti che sono esattamente nel mezzo del
+
+22
+00:01:47,254 --> 00:01:50,945
+Mar Rosso, subito dopo l'ingresso nello stretto di Bab
+
+23
+00:01:51,445 --> 00:01:55,297
+al-Mandeb, che è praticamente l'altro stretto
+
+24
+00:01:55,987 --> 00:02:00,336
+che si trova nella penisola arabica controllando
+
+25
+00:02:00,836 --> 00:02:04,488
+il quale si creano enormi emicranie all'economia
+
+26
+00:02:04,988 --> 00:02:09,010
+mondiale perché si strangola letteralmente il
+
+27
+00:02:09,058 --> 00:02:12,393
+commercio di energia. Tra l'altro,
+
+28
+00:02:13,467 --> 00:02:17,876
+questa avanzata degli Houthi minaccia l'export
+
+29
+00:02:18,376 --> 00:02:22,221
+saudita. L'Arabia Saudita ha comunicato all'OPEC
+
+30
+00:02:22,942 --> 00:02:27,287
+un calo sostanzioso del proprio livello di produzione
+
+31
+00:02:28,058 --> 00:02:31,557
+che accade contemporaneamente a quello che sta accadendo a Hormuz.
+
+32
+00:02:31,686 --> 00:02:35,811
+E quindi questa notizia, diciamo, dal versante del Mar Rosso,
+
+33
+00:02:35,843 --> 00:02:39,230
+della penisola arabica, ha indotto un
+
+34
+00:02:39,730 --> 00:02:43,516
+ulteriore strappo al rialzo dei prezzi del greggio. Anche perché
+
+35
+00:02:44,191 --> 00:02:47,209
+gli Houthi hanno proclamato nel mese di luglio il
+
+36
+00:02:47,321 --> 00:02:51,414
+blocco marittimo dell'Arabia Saudita e stanno attaccando
+
+37
+00:02:51,896 --> 00:02:55,347
+le infrastrutture petrolifere saudite. Questo è uno
+
+38
+00:02:55,847 --> 00:02:59,775
+dei motivi, o probabilmente il motivo, per il quale la produzione
+
+39
+00:03:00,275 --> 00:03:03,913
+di greggio saudita ha denunciato una flessione
+
+40
+00:03:04,413 --> 00:03:06,450
+importante secondo le ultime statistiche.
+
+41
+00:03:07,396 --> 00:03:11,494
+L'Arabia Saudita ha realizzato dall'inizio
+
+42
+00:03:11,574 --> 00:03:15,994
+della guerra all'Iran un importante bypass petrolifero
+
+43
+00:03:17,119 --> 00:03:20,855
+che praticamente dirotta il
+
+44
+00:03:20,903 --> 00:03:24,768
+greggio al porto, al terminal
+
+45
+00:03:25,268 --> 00:03:29,462
+di Yanbu sul Mar Rosso, e da lì poi si va verso
+
+46
+00:03:29,847 --> 00:03:34,016
+il canale di Suez. È chiaro che se a sud del
+
+47
+00:03:34,400 --> 00:03:37,094
+porto terminale di Yanbu sul Mar Rosso,
+
+48
+00:03:38,008 --> 00:03:41,536
+cioè nello stretto di Bab al-Mandeb, c'è una situazione
+
+49
+00:03:42,036 --> 00:03:46,025
+per cui gli Houthi intimidiscono l'Arabia Saudita,
+
+50
+00:03:46,282 --> 00:03:50,387
+è chiaro che lo strangolamento e la possibilità
+
+51
+00:03:50,435 --> 00:03:54,299
+di gestire in maniera conveniente questo bypass
+
+52
+00:03:54,363 --> 00:03:56,338
+petrolifero viene meno.
+
+53
+00:03:57,898 --> 00:04:01,790
+Questa è la situazione di maggiore criticità
+
+54
+00:04:01,919 --> 00:04:06,683
+che si sta formando. Gli Houthi sino
+
+55
+00:04:07,183 --> 00:04:11,072
+a questo momento, sino a qualche settimana fa, non erano
+
+56
+00:04:11,330 --> 00:04:14,790
+entrati pesantemente nel conflitto a
+
+57
+00:04:15,290 --> 00:04:18,832
+fianco dell'Iran, dimostrando così una relativa autonomia
+
+58
+00:04:19,332 --> 00:04:23,265
+da Teheran, come dicevo poco fa, e poi improvvisamente,
+
+59
+00:04:24,939 --> 00:04:28,651
+in conseguenza del fatto che le truppe saudite
+
+60
+00:04:28,747 --> 00:04:32,025
+e l'esercito regolare yemenita avevano
+
+61
+00:04:32,990 --> 00:04:36,783
+bombardato la pista dell'aeroporto di Sana'a per impedire
+
+62
+00:04:37,283 --> 00:04:41,909
+l'atterraggio di un aereo proveniente
+
+63
+00:04:42,409 --> 00:04:46,500
+dall'Iran, dove gli Houthi vanno praticamente a prendere ordini
+
+64
+00:04:46,597 --> 00:04:50,439
+e accordi di rifornimento, E di conseguenza
+
+65
+00:04:50,939 --> 00:04:54,495
+da quel momento gli Houthi hanno deciso di dare una lezione all'Arabia
+
+66
+00:04:54,527 --> 00:04:58,984
+Saudita, che sono parecchi anni che, come sappiamo, non riesce
+
+67
+00:04:59,833 --> 00:05:03,873
+a piegare questa fazione militante.
+
+68
+00:05:04,787 --> 00:05:08,474
+Questo è il vero problema che ha determinato lo
+
+69
+00:05:08,974 --> 00:05:12,931
+strappo delle quotazioni del greggio, che a cascata hanno
+
+70
+00:05:12,995 --> 00:05:17,100
+determinato un aumento generalizzato dei rendimenti obbligazionari,
+
+71
+00:05:17,132 --> 00:05:21,703
+soprattutto negli Stati Uniti. Di questo Parliamo tra
+
+72
+00:05:22,203 --> 00:05:26,470
+poco, anzi parliamo subito, perché questa
+
+73
+00:05:26,970 --> 00:05:30,707
+settimana abbiamo avuto una presa di posizione del segretario
+
+74
+00:05:31,207 --> 00:05:34,318
+al Tesoro americano Scott Bessent che mi pare
+
+75
+00:05:34,818 --> 00:05:38,796
+indichi una sorta di problema psichico grave
+
+76
+00:05:38,876 --> 00:05:42,134
+quanto e più rispetto a quello del suo capo che sta alla Casa Bianca.
+
+77
+00:05:42,246 --> 00:05:45,937
+Bessent ha dichiarato io
+
+78
+00:05:46,033 --> 00:05:50,265
+ora sono il banco, I am the house now, quindi quando
+
+79
+00:05:50,842 --> 00:05:55,956
+interveniamo sullo yen giapponese ho delle informazioni
+
+80
+00:05:56,456 --> 00:05:59,931
+su quello che farà la Banca del Giappone, i giapponesi,
+
+81
+00:06:00,059 --> 00:06:03,971
+eccetera, quello che faranno i policymaker giapponesi. Quindi voi potete
+
+82
+00:06:04,471 --> 00:06:08,106
+scommettere contro di me se volete, ma io ho informazioni
+
+83
+00:06:08,155 --> 00:06:11,585
+asimmetriche. Quindi come vedete anche
+
+84
+00:06:12,085 --> 00:06:15,721
+Bessent si trova in una condizione di overdose di testosterone,
+
+85
+00:06:16,170 --> 00:06:19,363
+il che è tutto dire. Per quanto
+
+86
+00:06:19,863 --> 00:06:24,757
+riguarda il Giappone, questa frase di Bessent sembra
+
+87
+00:06:25,257 --> 00:06:28,770
+indicare che la Bank of Japan tra qualche giorno alzerà
+
+88
+00:06:29,270 --> 00:06:32,928
+i tassi, ma addirittura potrebbe imbarcarsi in un percorso di stretta
+
+89
+00:06:33,891 --> 00:06:37,680
+più accelerato di quello che abbiamo visto sinora, che mediamente
+
+90
+00:06:38,180 --> 00:06:41,693
+ha prodotto un aumento dei tassi di 25 punti base
+
+91
+00:06:42,193 --> 00:06:46,220
+ogni 6 mesi, quello che si definirebbe passo glaciale di stretta monetaria.
+
+92
+00:06:46,285 --> 00:06:49,626
+Ricordo che i rendimenti reali giapponesi restano
+
+93
+00:06:49,707 --> 00:06:53,805
+negativi, quindi è difficile che il cambio si rafforzi
+
+94
+00:06:53,885 --> 00:06:57,151
+quando tu hai rendimenti reali negativi rispetto al resto del mondo.
+
+95
+00:06:58,248 --> 00:07:01,910
+E poi c'è stata questa iniziativa di Bessent,
+
+96
+00:07:01,942 --> 00:07:05,862
+no, di dire io adesso vado a ricomprare la parte lunga,
+
+97
+00:07:05,959 --> 00:07:10,980
+come vi dicevo la settimana scorsa, non le
+
+98
+00:07:11,480 --> 00:07:15,574
+parti che sono realmente illiquide, i cosiddetti off-the-run,
+
+99
+00:07:15,691 --> 00:07:20,104
+quindi le emissioni più vecchie che perdono liquidità e quindi manifestano
+
+100
+00:07:20,604 --> 00:07:24,978
+un comportamento caratteristico in termini di aumento del differenziale
+
+101
+00:07:25,478 --> 00:07:29,067
+tra prezzo denaro e prezzo lettera, quindi condizioni
+
+102
+00:07:29,567 --> 00:07:32,995
+di acquisto e di vendita, e quindi un aumento dei rendimenti rispetto all'interpolazione
+
+103
+00:07:33,495 --> 00:07:36,090
+della curva, allora tutti i tesori nazionali,
+
+104
+00:07:37,004 --> 00:07:40,532
+compreso quello italiano che lo fa col BTP, entrano, fanno dei
+
+105
+00:07:41,032 --> 00:07:45,117
+concambi. Beh, Sant'Anno ha detto: la curva nella parte lunga e ultralunga
+
+106
+00:07:45,617 --> 00:07:49,241
+è illiquida, questo lo dice lui, E quindi noi dobbiamo intervenire.
+
+107
+00:07:49,851 --> 00:07:53,126
+E intervenendo praticamente vuole
+
+108
+00:07:53,626 --> 00:07:57,349
+fare uno switch dove lui ritira una piccola parte,
+
+109
+00:07:57,413 --> 00:08:00,801
+una piccolissima vista le munizioni scarse di cui dispone,
+
+110
+00:08:00,913 --> 00:08:03,530
+di debito decennale, ventennale,
+
+111
+00:08:03,642 --> 00:08:07,174
+trentennale, e si indebita per trovare i soldi per ricomprare
+
+112
+00:08:07,674 --> 00:08:10,995
+quel debito presumibilmente sulla parte breve, brevissima della
+
+113
+00:08:11,028 --> 00:08:14,702
+curva, sui T-bill. Quindi aumenta il rischio di rollover,
+
+114
+00:08:14,798 --> 00:08:17,331
+quindi di rinnovo delle passività.
+
+115
+00:08:18,245 --> 00:08:21,900
+Senonché ha annunciato buyback, quindi riacquisti
+
+116
+00:08:22,092 --> 00:08:25,923
+dei Treasury molto lunghi, per soli 6
+
+117
+00:08:25,939 --> 00:08:29,867
+miliardi di dollari. Tra l'altro aggiudicati
+
+118
+00:08:30,367 --> 00:08:33,570
+5 miliardi e 250 milioni, a riprova del fatto che
+
+119
+00:08:34,070 --> 00:08:38,042
+il mercato non gli dà retta, o comunque chiede
+
+120
+00:08:38,443 --> 00:08:42,049
+di farsi ricomprare questi Treasury a rendimenti
+
+121
+00:08:42,549 --> 00:08:46,386
+decisamente penalizzanti. Quindi il Tesoro americano è costretto ad abbandonare
+
+122
+00:08:47,048 --> 00:08:50,181
+alcune richieste. E quindi c'è
+
+123
+00:08:50,681 --> 00:08:54,965
+questa situazione. Pare che il mercato abbia reagito negativamente
+
+124
+00:08:55,465 --> 00:08:59,520
+all'annuncio di 6 miliardi di questi buyback perché se ne aspettava 8
+
+125
+00:09:00,020 --> 00:09:03,013
+o 10. Fossero stati anche 12, 15,
+
+126
+00:09:03,046 --> 00:09:06,511
+18, innanzitutto sarebbe stato un danno che sarebbe stato
+
+127
+00:09:07,011 --> 00:09:11,469
+pagato molto caro. Secondariamente rischia di essere assolutamente
+
+128
+00:09:11,615 --> 00:09:15,247
+ininfluente perché Ebessent sta praticamente
+
+129
+00:09:15,747 --> 00:09:19,175
+dipingendosi un mirino sulla fronte. Che, che lui ne
+
+130
+00:09:19,675 --> 00:09:23,022
+dica, in questo momento ha questo delirio di onnipotenza
+
+131
+00:09:23,522 --> 00:09:26,709
+tale per cui lui ha informazioni asimmetriche, lui è il banco,
+
+132
+00:09:26,789 --> 00:09:30,685
+coraggio, scommettete contro di me. Fa anche abbastanza impressione vedere uno che
+
+133
+00:09:31,518 --> 00:09:35,622
+per alcuni decenni ha fatto quel lavoro improvvisamente comportarsi
+
+134
+00:09:36,122 --> 00:09:38,940
+in una maniera che, vista da fuori, è piuttosto irrazionale.
+
+135
+00:09:39,693 --> 00:09:43,701
+Comunque, che siano o meno deliri di onnipotenza da parte
+
+136
+00:09:44,201 --> 00:09:48,555
+di Bessent, il mercato si prepara a ignorarli, perché il decennale
+
+137
+00:09:49,587 --> 00:09:53,680
+americano ha strappato ulteriormente, ora si avvicina alla soglia del
+
+138
+00:09:54,180 --> 00:09:58,152
+5%, i rendimenti sono ai
+
+139
+00:09:58,652 --> 00:10:01,756
+massimi dal 2023, la situazione è oggettivamente
+
+140
+00:10:02,256 --> 00:10:05,437
+critica, i rendimenti stanno salendo in tutto il pianeta tranne che
+
+141
+00:10:05,485 --> 00:10:09,807
+in Cina. Quindi non è che si possa isolare
+
+142
+00:10:10,307 --> 00:10:13,664
+con precisione chirurgica una serie di errori di comunicazione
+
+143
+00:10:14,164 --> 00:10:15,968
+da parte delle autorità americane, sia fiscali che monetarie.
+
+144
+00:10:18,030 --> 00:10:21,160
+Tutti si attendono che la Fed di
+
+145
+00:10:21,660 --> 00:10:24,660
+Kevin Warsh, che comunque resta un organo collegiale,
+
+146
+00:10:24,789 --> 00:10:28,241
+alzi i tassi la settimana prossima. Se non dovesse
+
+147
+00:10:28,741 --> 00:10:31,676
+accadere, poi naturalmente vedremo,
+
+148
+00:10:31,933 --> 00:10:36,573
+il mercato potrebbe anche reagire male perché potrebbe effettivamente
+
+149
+00:10:37,073 --> 00:10:41,004
+penalizzare una Fed guidata da un tizio che dice una cosa
+
+150
+00:10:41,504 --> 00:10:44,857
+e poi con i suoi colleghi ne fa un'altra. Quando si tratta di
+
+151
+00:10:45,357 --> 00:10:49,654
+occasioni pubbliche, come ad esempio a Jackson Hole qualche giorno
+
+152
+00:10:50,154 --> 00:10:53,538
+fa, dichiarazioni da falco della politica monetaria.
+
+153
+00:10:53,666 --> 00:10:56,875
+Poi magari quando si arriva al dunque, lui e i suoi colleghi, perché lui non
+
+154
+00:10:57,375 --> 00:11:00,758
+decide da solo, dicono aspettiamo, vediamo cosa va
+
+155
+00:11:00,983 --> 00:11:05,299
+a succedere. Ma è un fatto che lo
+
+156
+00:11:05,799 --> 00:11:09,199
+shock energetico sta oggettivamente peggiorando,
+
+157
+00:11:09,231 --> 00:11:13,432
+perché l'Iran anche che non ha più benzina,
+
+158
+00:11:14,282 --> 00:11:18,289
+come si dice, anche che ha una situazione della popolazione
+
+159
+00:11:18,789 --> 00:11:23,017
+civile che si sta aggravando progressivamente, però si sta praticamente
+
+160
+00:11:23,517 --> 00:11:27,024
+trincerando, sta scavando la trincea l'Iran per resistere un minuto
+
+161
+00:11:27,185 --> 00:11:29,076
+più degli Stati Uniti.
+
+162
+00:11:29,990 --> 00:11:33,836
+Naturalmente non è che la popolazione resista perché necessariamente
+
+163
+00:11:33,917 --> 00:11:36,850
+patriottica, ci saranno anche quelli che sono patriottici,
+
+164
+00:11:36,882 --> 00:11:40,137
+ci sono anche quelli che o resistono o vengono appesi.
+
+165
+00:11:40,250 --> 00:11:43,750
+Per cui bisogna anche mettersi nei panni della povera
+
+166
+00:11:43,782 --> 00:11:47,827
+popolazione civile iraniana mentre Trump e
+
+167
+00:11:47,891 --> 00:11:51,905
+il suo compare Netanyahu dicevano che la popolazione civile
+
+168
+00:11:52,405 --> 00:11:56,785
+iraniana doveva sollevarsi a mani nude. Questo vi dà la misura della
+
+169
+00:11:57,026 --> 00:12:00,879
+criminale negligenza di questi due personaggi e del danno
+
+170
+00:12:01,521 --> 00:12:05,133
+che stanno infliggendo al mondo, oltre che ad una pur
+
+171
+00:12:05,633 --> 00:12:09,141
+vaga come dire, concezione di giustizia o
+
+172
+00:12:09,641 --> 00:12:12,988
+di internazionalismo che regola in maniera
+
+173
+00:12:14,110 --> 00:12:17,476
+non cruenta i propri conti. Naturalmente queste sono delle pure
+
+174
+00:12:17,572 --> 00:12:21,403
+utopie. Comunque il mercato si prepara a curare il delirio
+
+175
+00:12:21,903 --> 00:12:25,667
+di onnipotenza di Scott Bessent, ma nel frattempo con
+
+176
+00:12:26,167 --> 00:12:30,331
+il mutuo trentennale americano che ha raggiunto, che è tornato dopo
+
+177
+00:12:30,831 --> 00:12:34,586
+circa un anno di tempo alla soglia critica La famosa
+
+178
+00:12:35,086 --> 00:12:39,207
+soglia psicologica, no, come direbbe la nostra stampa vigile collaborante,
+
+179
+00:12:39,722 --> 00:12:43,586
+il 7%. E si nota nelle
+
+180
+00:12:43,861 --> 00:12:47,547
+statistiche di investimento in costruzioni
+
+181
+00:12:48,760 --> 00:12:52,275
+che c'è un punto di flesso. La spesa per costruzioni,
+
+182
+00:12:52,790 --> 00:12:56,577
+la serie storica della spesa per costruzioni, è una grandezza nominale,
+
+183
+00:12:56,642 --> 00:12:57,737
+quindi non è disinflazionata,
+
+184
+00:13:00,034 --> 00:13:03,124
+e quindi tende a crescere con il passare del tempo fisiologicamente.
+
+185
+00:13:03,776 --> 00:13:07,477
+Eppure c'è questo grafico che
+
+186
+00:13:07,977 --> 00:13:11,307
+ho postato questa settimana. Si nota che il picco l'ha
+
+187
+00:13:11,807 --> 00:13:14,960
+fatto intorno al 2025 e dopodiché ha cominciato a flettere.
+
+188
+00:13:15,809 --> 00:13:19,639
+E attualmente la spesa per costruzioni americana in
+
+189
+00:13:20,139 --> 00:13:23,725
+valore nominale è ai minimi anch'essa
+
+190
+00:13:24,225 --> 00:13:27,458
+dal 2023, malgrado il boom dei data center.
+
+191
+00:13:27,570 --> 00:13:31,818
+Ma bisogna anche chiarire che i data center pare
+
+192
+00:13:32,318 --> 00:13:35,702
+che pesino oggi solo per il 3,5% della
+
+193
+00:13:36,202 --> 00:13:40,163
+spesa totale in costruzioni. Quindi gli elevati tassi
+
+194
+00:13:40,663 --> 00:13:44,545
+di interesse deprimono le costruzioni residenziali,
+
+195
+00:13:44,561 --> 00:13:48,348
+ma anche il commerciale industriale
+
+196
+00:13:48,445 --> 00:13:52,441
+è in contrazione, per cui questa flessione
+
+197
+00:13:52,941 --> 00:13:56,662
+della spesa per costruzioni in termini nominali è opera,
+
+198
+00:13:56,934 --> 00:14:01,027
+diciamo, della presidenza Trump, di questa Età
+
+199
+00:14:01,527 --> 00:14:04,286
+dell'oro che, come dicevo la settimana scorsa,
+
+200
+00:14:04,399 --> 00:14:07,658
+sta risultando piuttosto costosa.
+
+201
+00:14:07,770 --> 00:14:11,544
+Però Trump non se ne dà per inteso, si fa
+
+202
+00:14:12,044 --> 00:14:16,007
+per dire. C'è stata in settimana la convention
+
+203
+00:14:16,152 --> 00:14:19,539
+repubblicana per le elezioni di midterm,
+
+204
+00:14:20,631 --> 00:14:24,228
+il che indica quanto i repubblicani siano nervosi, perché creare una
+
+205
+00:14:24,728 --> 00:14:29,333
+convention con interventi reiterati del presidente e del vicepresidente
+
+206
+00:14:30,183 --> 00:14:34,335
+È un modo per rassicurare i poveri candidati
+
+207
+00:14:34,835 --> 00:14:38,471
+repubblicani che rischiano di fare la fine dei tacchini al giorno del ringraziamento.
+
+208
+00:14:38,583 --> 00:14:42,286
+Non rassicura alcunché, in realtà dovrebbe accentuare i timori
+
+209
+00:14:42,786 --> 00:14:45,604
+e le angosce. Però Trump si è presentato,
+
+210
+00:14:45,636 --> 00:14:48,409
+modalità Achille Lauro agli steroidi. Achille Lauro,
+
+211
+00:14:48,682 --> 00:14:52,882
+naturalmente lo dico a beneficio dei più giovani, non il cantante ma il
+
+212
+00:14:53,010 --> 00:14:57,418
+comandante napoletano, quello che prometteva la
+
+213
+00:14:57,918 --> 00:15:01,669
+scarpa destra e la scarpa sinistra prima e dopo le elezioni, pacchi di
+
+214
+00:15:02,169 --> 00:15:05,221
+pasta, eccetera eccetera. Quindi Trump ha
+
+215
+00:15:05,721 --> 00:15:09,854
+detto che promette questa— questa
+
+216
+00:15:10,354 --> 00:15:14,095
+cosa mi fa abbastanza sorridere perché praticamente c'è la stampa di tutto il pianeta
+
+217
+00:15:14,632 --> 00:15:17,706
+impegnati con delle poderose infografiche per fare i
+
+218
+00:15:18,206 --> 00:15:21,589
+conti: $5.000 ad ogni americano adulto
+
+219
+00:15:22,398 --> 00:15:25,522
+se i repubblicani vinceranno le elezioni di midterm.
+
+220
+00:15:25,635 --> 00:15:28,846
+Vincere vuol dire mantenere Camera e Senato.
+
+221
+00:15:29,295 --> 00:15:32,499
+Allora qualcuno ha fatto con un complesso algoritmo
+
+222
+00:15:32,999 --> 00:15:36,649
+un paio di conti, ipotizzando da
+
+223
+00:15:37,149 --> 00:15:40,494
+200 a 240 milioni di americani adulti,
+
+224
+00:15:41,375 --> 00:15:45,300
+sarebbe una sciocchezzuola tipo 1000-1200 miliardi
+
+225
+00:15:45,333 --> 00:15:49,034
+di dollari, che non è dato sapere da dove proverrebbe questa
+
+226
+00:15:49,098 --> 00:15:53,552
+sorta di helicopter money, che farebbe impallidire le erogazioni fiscali
+
+227
+00:15:54,052 --> 00:15:56,291
+che sono state pagate ad esempio durante il COVID.
+
+228
+00:15:56,992 --> 00:16:00,295
+Questo mi pare che sintetizzi plasticamente
+
+229
+00:16:00,795 --> 00:16:04,666
+la disperazione di Trump. Tra l'altro, Vance è intervenuto
+
+230
+00:16:05,718 --> 00:16:09,477
+per precisare dicendo, ma non andrà ai ricchi,
+
+231
+00:16:09,606 --> 00:16:13,301
+andrà alla classe lavoratrice. Come sapete che Vance è il paladino
+
+232
+00:16:13,801 --> 00:16:15,770
+della classe lavoratrice, viste le sue origini.
+
+233
+00:16:17,672 --> 00:16:21,063
+E quindi se cominciamo
+
+234
+00:16:21,563 --> 00:16:25,290
+a mettere la prova dei mezzi o a limitare eccetera eccetera, può darsi
+
+235
+00:16:25,790 --> 00:16:28,882
+che venga fuori qualche spicciolo. Qualcun altro ha detto,
+
+236
+00:16:28,994 --> 00:16:32,273
+qualche esegeta repubblicano del pensiero di Trump ha
+
+237
+00:16:32,773 --> 00:16:36,742
+detto: no, ma lui intendeva dire che questo è ciò che ci aspetta se avremo
+
+238
+00:16:37,242 --> 00:16:40,914
+modo di continuare con un legislativo
+
+239
+00:16:41,414 --> 00:16:45,692
+omogeneo all'esecutivo. Però ricordiamoli
+
+240
+00:16:45,709 --> 00:16:49,323
+i famosi $5.000 di assegno che voleva mandare
+
+241
+00:16:49,823 --> 00:16:52,954
+in conseguenza degli mirabolanti
+
+242
+00:16:53,002 --> 00:16:56,598
+risparmi del Doge di Elon Musk.
+
+243
+00:16:56,887 --> 00:17:00,509
+E naturalmente non se n'è fatto nulla, anche perché quei risparmi praticamente
+
+244
+00:17:01,009 --> 00:17:04,645
+non si sono visti, se non il furore ideologico di
+
+245
+00:17:05,145 --> 00:17:08,412
+devastare la cooperazione internazionale, quindi di demolire dalle
+
+246
+00:17:08,912 --> 00:17:12,820
+fondamenta il soft power americano lasciando strada ai cinesi in
+
+247
+00:17:13,320 --> 00:17:17,549
+giro per il mondo. Però insomma ci sono questi $5.000, la situazione
+
+248
+00:17:18,046 --> 00:17:21,885
+è sempre più grave ma sempre meno seria.
+
+249
+00:17:22,403 --> 00:17:26,287
+Però attenzione, bisogna fare
+
+250
+00:17:26,787 --> 00:17:30,623
+vincere i repubblicani perché Trump ci ha informato
+
+251
+00:17:30,656 --> 00:17:34,288
+sempre alla convention di midterm repubblicana in Texas
+
+252
+00:17:34,788 --> 00:17:38,421
+che la guerra con l'Iran finirà subito dopo le
+
+253
+00:17:38,921 --> 00:17:42,801
+elezioni di midterm e di conseguenza i prezzi dell'energia crolleranno.
+
+254
+00:17:42,914 --> 00:17:46,888
+Per cui come vedete c'è questo miraggio che si sposta, continua ad arretrare
+
+255
+00:17:47,426 --> 00:17:51,032
+con il procedere dei giorni. Però questo accadrà solo
+
+256
+00:17:51,532 --> 00:17:55,168
+se a vincere non sarà quello che Trump definisce il caucus dei comunisti,
+
+257
+00:17:55,520 --> 00:17:59,768
+cioè i democratici. Quindi Trump è ormai il relitto
+
+258
+00:18:00,104 --> 00:18:04,175
+alla deriva di un cabarettista. Ci sono notizie in
+
+259
+00:18:04,675 --> 00:18:08,231
+base alle quali i collaboratori di Trump, in primis il
+
+260
+00:18:08,731 --> 00:18:12,750
+segretario di Stato Marco Rubio, potrebbero avergli fatto
+
+261
+00:18:13,250 --> 00:18:16,775
+il discorsetto che La guerra
+
+262
+00:18:17,275 --> 00:18:21,412
+all'Iran potrebbe trascinarsi fino alla
+
+263
+00:18:21,493 --> 00:18:25,504
+fine del suo mandato, e quindi dopo probabilmente
+
+264
+00:18:25,584 --> 00:18:29,115
+passerà o a J.D. Vance o a qualche
+
+265
+00:18:29,195 --> 00:18:33,078
+democratico, verosimilmente socialista o
+
+266
+00:18:33,303 --> 00:18:36,656
+ultra progressista, che potrebbe vincere la Casa
+
+267
+00:18:37,156 --> 00:18:40,829
+Bianca. Vedremo se con una divisione
+
+268
+00:18:41,329 --> 00:18:45,632
+tra il Congresso e la Casa Bianca Sarà un bel problema
+
+269
+00:18:46,132 --> 00:18:49,305
+perché la situazione è quella
+
+270
+00:18:49,418 --> 00:18:52,917
+che è. E soprattutto, avendo il diesel negli
+
+271
+00:18:53,417 --> 00:18:56,665
+Stati Uniti oramai raggiunto la mitica soglia di $6 al
+
+272
+00:18:56,762 --> 00:19:00,236
+gallone e la benzina viaggia verso
+
+273
+00:19:00,736 --> 00:19:02,293
+i $4,50 al gallone,
+
+274
+00:19:03,691 --> 00:19:07,307
+visto tutta la menata che Trump ha fatto
+
+275
+00:19:07,387 --> 00:19:10,665
+per l'inflazione di Biden, Non lo so,
+
+276
+00:19:10,794 --> 00:19:14,784
+ognuno tragga le conseguenze. I sondaggi mostrano che
+
+277
+00:19:14,864 --> 00:19:18,663
+persino gli elettori repubblicani stanno avendo un momento
+
+278
+00:19:19,163 --> 00:19:21,724
+di soprassalto e si stanno ingrugnando.
+
+279
+00:19:23,118 --> 00:19:26,435
+Sempre troppo tardi, perché le percentuali di supporto a Trump non
+
+280
+00:19:26,935 --> 00:19:30,811
+sono da gente che sia, come dire, nella pienezza
+
+281
+00:19:31,311 --> 00:19:35,218
+delle proprie facoltà mentali. Però Trump sta lottando
+
+282
+00:19:35,378 --> 00:19:38,968
+per avere contemporaneamente il premio Nobel per la pace e quello per
+
+283
+00:19:39,468 --> 00:19:43,569
+l'economia, Perché quando sono usciti la settimana scorsa
+
+284
+00:19:44,069 --> 00:19:47,288
+i numeri del mercato del lavoro di agosto,
+
+285
+00:19:47,320 --> 00:19:50,173
+Trump ha reiterato la sua tesi molto alla Erdogan,
+
+286
+00:19:51,007 --> 00:19:54,181
+secondo la quale quando l'economia va bene i tassi devono scendere e
+
+287
+00:19:54,213 --> 00:19:57,740
+non il contrario. E però ha
+
+288
+00:19:57,980 --> 00:20:01,860
+lanciato anche una minaccia piuttosto singolare, penso una minaccia
+
+289
+00:20:02,360 --> 00:20:06,236
+rivolta alla Fed: abbassate i tassi oppure io smetterò
+
+290
+00:20:06,396 --> 00:20:09,843
+di commerciare con i paesi che hanno un avanzo commerciale
+
+291
+00:20:10,343 --> 00:20:13,903
+con gli Stati Uniti. Non so Come potrà mai fare una cosa del genere?
+
+292
+00:20:14,015 --> 00:20:17,660
+Non so cosa c'entri. C'entra nel senso che produrrebbe
+
+293
+00:20:18,160 --> 00:20:21,803
+una fiammata inflazionistica di quelle destinate a restare nei libri di storia.
+
+294
+00:20:23,087 --> 00:20:27,101
+Però si va avanti così con la condizione mentale di questo personaggio
+
+295
+00:20:27,663 --> 00:20:30,762
+che oramai è sempre più ammalorata.
+
+296
+00:20:32,255 --> 00:20:36,093
+Restiamo negli Stati Uniti e parliamo
+
+297
+00:20:36,896 --> 00:20:42,346
+dei data center dell'intelligenza artificiale. Perché raccordandoci
+
+298
+00:20:43,003 --> 00:20:46,530
+alle prossime elezioni di midterm, mancano meno di 2 mesi, ve lo
+
+299
+00:20:47,030 --> 00:20:50,682
+ricordo, c'è un tema che sta rapidamente occupando il centro
+
+300
+00:20:51,182 --> 00:20:55,170
+della scena politica statunitense: questa montante opposizione
+
+301
+00:20:55,670 --> 00:20:57,543
+dell'elettorato alla costruzione dei data center.
+
+302
+00:20:58,857 --> 00:21:03,217
+Mentre la spesa in data center sta continuamente
+
+303
+00:21:03,717 --> 00:21:06,808
+ritoccando nuovi record, i candidati al midterm sono costretti
+
+304
+00:21:07,308 --> 00:21:12,322
+ad abiurare precedenti dichiarazioni cambiare rapidamente la comunicazione sul
+
+305
+00:21:12,822 --> 00:21:16,170
+tema di fronte a movimenti di cittadini che sono incazzati
+
+306
+00:21:16,670 --> 00:21:20,226
+come dei puma. Trump per il momento mantiene la barra dritta,
+
+307
+00:21:20,258 --> 00:21:24,105
+manda messaggi social del tipo: se volete
+
+308
+00:21:24,605 --> 00:21:28,081
+degrado e povertà, rigettate i data center. Mi ricorda
+
+309
+00:21:28,129 --> 00:21:32,377
+molto quel divertitevi a restare poveri che
+
+310
+00:21:32,877 --> 00:21:36,531
+era un po' il grido di battaglia dei fedeli della chiesa
+
+311
+00:21:37,031 --> 00:21:40,224
+del Bitcoin. Trump ha usato anche l'espressione
+
+312
+00:21:40,724 --> 00:21:44,574
+molto più tradizionale, il messaggio molto più tradizionale: la Cina non potrebbe
+
+313
+00:21:45,074 --> 00:21:49,134
+essere più felice di questo movimento anti-data center. Infatti stanno
+
+314
+00:21:49,634 --> 00:21:52,987
+già sorgendo informazioni secondo le quali
+
+315
+00:21:53,083 --> 00:21:57,000
+i bot cinesi starebbero manipolando l'opinione pubblica americana
+
+316
+00:21:57,500 --> 00:22:01,495
+contro i data center. Io qui prendo atto di queste dichiarazioni
+
+317
+00:22:02,057 --> 00:22:06,600
+sempre con un certo scetticismo, non perché sia materialmente impossibile
+
+318
+00:22:07,434 --> 00:22:10,885
+tentare di fare delle campagne social di questo tipo, ma perché
+
+319
+00:22:11,385 --> 00:22:15,041
+credo che gli americani siano giunti in assoluta
+
+320
+00:22:15,541 --> 00:22:19,487
+autonomia, in numero crescente, a rigettare questa
+
+321
+00:22:19,987 --> 00:22:23,900
+avanzata dei data center e anche della stessa intelligenza
+
+322
+00:22:24,400 --> 00:22:27,832
+artificiale. Questa settimana Bloomberg ha pubblicato un ottimo
+
+323
+00:22:28,332 --> 00:22:31,909
+explainer a questo fenomeno del rigetto crescente
+
+324
+00:22:32,409 --> 00:22:36,399
+degli americani nei confronti dei data center. Un sondaggio della
+
+325
+00:22:36,899 --> 00:22:40,692
+University of Pennsylvania, dell'Hannenberg Public Policy Center,
+
+326
+00:22:41,702 --> 00:22:46,252
+il mese scorso indica che il 61%
+
+327
+00:22:46,752 --> 00:22:50,786
+degli adulti statunitensi si oppongono alla costruzione di nuovi data center.
+
+328
+00:22:51,779 --> 00:22:55,560
+Questo è un aumento del 12% rispetto ad un
+
+329
+00:22:56,060 --> 00:23:00,351
+analogo sondaggio condotto a febbraio e marzo. E soprattutto
+
+330
+00:23:00,851 --> 00:23:04,549
+la cosa più impressionante è che l'opposizione ai data
+
+331
+00:23:05,049 --> 00:23:08,943
+center è diventata un rarissimo tema bipartisan in
+
+332
+00:23:09,443 --> 00:23:13,674
+un paese che sono anni che vede una crescente virulenta polarizzazione
+
+333
+00:23:14,174 --> 00:23:18,822
+ideologica. Secondo un sondaggio Reuters/Ipsos, il 75%
+
+334
+00:23:19,031 --> 00:23:23,040
+dei democratici e il 63% dei repubblicani
+
+335
+00:23:23,922 --> 00:23:27,691
+non vogliono i data center nelle immediate vicinanze delle
+
+336
+00:23:28,191 --> 00:23:32,104
+loro abitazioni, quindi sono stati colti dalla versione della
+
+337
+00:23:32,604 --> 00:23:35,716
+sindrome NIMBY applicata ai data center. Cosa c'è
+
+338
+00:23:35,812 --> 00:23:39,681
+alla base di tutto questo? Molti, alcuni elementi
+
+339
+00:23:39,890 --> 00:23:43,535
+facilmente identificabili: il malcontento per il costo della vita,
+
+340
+00:23:43,567 --> 00:23:48,191
+no, il cosiddetto tema dell'affordability, che resterà stabilmente
+
+341
+00:23:48,691 --> 00:23:52,863
+nelle urne a novembre, perché i data center
+
+342
+00:23:52,895 --> 00:23:56,025
+fanno crescere il timore, che poi non è un timore perché
+
+343
+00:23:56,525 --> 00:24:00,339
+si sta già realizzando, di un impatto negativo sulle bollette elettriche.
+
+344
+00:24:00,452 --> 00:24:04,174
+Bloomberg ha segnalato che i
+
+345
+00:24:04,255 --> 00:24:07,621
+prezzi dell'energia sulla più grande rete elettrica degli Stati Uniti,
+
+346
+00:24:07,734 --> 00:24:11,931
+che copre 13 stati negli Stati Uniti
+
+347
+00:24:12,431 --> 00:24:17,000
+centrali e orientali, sono dal primo trimestre di
+
+348
+00:24:17,500 --> 00:24:21,087
+quest'anno aumentati del 76% a causa
+
+349
+00:24:21,459 --> 00:24:25,256
+della domanda proveniente dai data center. I costi
+
+350
+00:24:25,682 --> 00:24:28,808
+all'ingrosso dell'elettricità sono aumentati di circa
+
+351
+00:24:29,308 --> 00:24:33,169
+il 270% nelle aree vicino a
+
+352
+00:24:33,185 --> 00:24:37,978
+un cluster di data center nel periodo 2020-2025.
+
+353
+00:24:39,373 --> 00:24:42,611
+Chiaramente ci sono, ve ne ho dato conto, le promesse
+
+354
+00:24:43,111 --> 00:24:47,036
+delle big tech di pagare per l'elettricità di cui necessitano,
+
+355
+00:24:47,769 --> 00:24:51,878
+ma queste promesse non convincono gli elettori. C'è anche Il timore
+
+356
+00:24:52,378 --> 00:24:56,085
+per i consumi di acqua, anche se l'evoluzione della tecnologia
+
+357
+00:24:56,455 --> 00:25:00,276
+potrebbe ridurre considerevolmente questo incremento di consumi d'acqua.
+
+358
+00:25:00,886 --> 00:25:04,563
+I timori per l'inquinamento acustico, perché i data center emettono
+
+359
+00:25:04,965 --> 00:25:08,417
+suoni caratteristici che non sono esattamente
+
+360
+00:25:08,917 --> 00:25:12,238
+quelli che piacerebbero agli ornitologi. Poi,
+
+361
+00:25:13,073 --> 00:25:17,295
+ciliegina sulla torta, gli elettori si stanno imbufalendo per
+
+362
+00:25:17,795 --> 00:25:20,742
+i sussidi pagati dagli stati ai data center.
+
+363
+00:25:21,496 --> 00:25:25,697
+Ci sono alcuni stati come l'Ohio che ormai da
+
+364
+00:25:25,761 --> 00:25:29,273
+una decina di anni azzerano la sales
+
+365
+00:25:29,773 --> 00:25:33,458
+tax, quindi l'imposta sulle vendite su server e
+
+366
+00:25:33,958 --> 00:25:36,617
+altro hardware che serve ai data center.
+
+367
+00:25:36,713 --> 00:25:40,048
+L'Ohio è diventato uno dei maggiori
+
+368
+00:25:40,548 --> 00:25:44,105
+stati americani a ospitare dei cluster di data center oramai
+
+369
+00:25:44,605 --> 00:25:48,841
+da parecchi anni. Quindi la spinta alla realizzazione di ulteriori
+
+370
+00:25:49,341 --> 00:25:52,935
+data center determina che questo azzeramento
+
+371
+00:25:53,435 --> 00:25:56,789
+della sales tax crei un crescente
+
+372
+00:25:57,289 --> 00:26:00,450
+fabbisogno finanziario pubblico per l'Ohio.
+
+373
+00:26:01,526 --> 00:26:05,074
+Qui ha fatto una indagine il Wall Street Journal. Ci sono
+
+374
+00:26:05,574 --> 00:26:09,714
+alcuni stati americani che sono talmente nel panico che stanno studiando
+
+375
+00:26:10,536 --> 00:26:14,117
+una sorta di richiamo delle erogazioni già assegnate,
+
+376
+00:26:14,166 --> 00:26:17,860
+il che non è bello a vedersi, perché quando
+
+377
+00:26:18,360 --> 00:26:21,899
+c'è la certezza delle norme c'è tutto. Gli Stati Uniti che
+
+378
+00:26:22,399 --> 00:26:25,779
+stiano venendo colti dal panico in questa maniera fa
+
+379
+00:26:26,279 --> 00:26:30,062
+sicuramente una qualche impressione. Però, per quanto riguarda la percezione
+
+380
+00:26:30,562 --> 00:26:36,194
+pubblica dell'intelligenza artificiale, non è che aiutino prese
+
+381
+00:26:36,694 --> 00:26:40,181
+di posizione come quella di Sam Altman, il dominus di OpenAI, che qualche mese fa
+
+382
+00:26:41,462 --> 00:26:45,420
+Questa me la sono andata a cercare perché è divertentissima, tra virgolette.
+
+383
+00:26:46,190 --> 00:26:49,475
+Ha detto: una delle cose che sono ingiuste nel confronto tra gli
+
+384
+00:26:49,975 --> 00:26:53,306
+umani e l'intelligenza artificiale è che le persone
+
+385
+00:26:53,706 --> 00:26:57,890
+parlano di quanta energia ci vuole per addestrare un modello di intelligenza
+
+386
+00:26:58,390 --> 00:27:02,457
+artificiale, ma anche addestrare un essere umano richiede molta
+
+387
+00:27:02,957 --> 00:27:06,769
+energia. Ci vogliono 20 anni di vita circa e tutto il
+
+388
+00:27:07,269 --> 00:27:10,503
+cibo che mangi prima di quel momento, prima di diventare sveglio.
+
+389
+00:27:11,980 --> 00:27:15,835
+Quindi dice Sam Altman, il confronto equo è: se fate una
+
+390
+00:27:16,335 --> 00:27:20,412
+domanda a ChatGPT, chiedetevi quanta energia serve
+
+391
+00:27:20,428 --> 00:27:24,523
+a ChatGPT per rispondere a quella domanda quando il modello
+
+392
+00:27:25,023 --> 00:27:27,446
+è addestrato rispetto a quella che serve a un essere umano.
+
+393
+00:27:27,574 --> 00:27:30,706
+Allora voi capite che
+
+394
+00:27:31,206 --> 00:27:35,042
+un simile modo di argomentare suggerisce che i modelli di intelligenza
+
+395
+00:27:35,542 --> 00:27:38,958
+artificiale costano meno degli umani, quindi degli umani in teoria
+
+396
+00:27:39,458 --> 00:27:43,526
+si potrebbe anche fare progressivamente a meno. Quindi con simili premesse
+
+397
+00:27:44,889 --> 00:27:50,114
+non stupisce che l'opinione pubblica si stia irrigidendo
+
+398
+00:27:50,614 --> 00:27:53,880
+e stia diventando sempre più avversa e reattiva contro l'intelligenza
+
+399
+00:27:54,380 --> 00:27:58,032
+artificiale. Poi c'è questo crescente numero di ricercatori
+
+400
+00:27:58,913 --> 00:28:02,007
+delle startup, dei frontier lab di intelligenza artificiale,
+
+401
+00:28:02,039 --> 00:28:06,479
+che si dimettono e su X o sui social denunciano il
+
+402
+00:28:06,527 --> 00:28:09,893
+crescente rischio che i processi di autoapprendimento dei
+
+403
+00:28:10,393 --> 00:28:14,061
+modelli approdino all'intelligenza artificiale
+
+404
+00:28:14,561 --> 00:28:16,995
+generale, di conseguenza allo sterminio del genere umano.
+
+405
+00:28:18,229 --> 00:28:21,852
+Questa settimana è toccato a questo Jacob
+
+406
+00:28:22,076 --> 00:28:26,997
+Coxon, che appunto ex OpenAI
+
+407
+00:28:27,142 --> 00:28:31,053
+ed ex Anthropic si è dimesso da Anthropic dicendo: non
+
+408
+00:28:31,553 --> 00:28:35,113
+sottostimate la potenza di questa tecnologia.
+
+409
+00:28:35,225 --> 00:28:38,437
+Ci saranno presto sistemi superumani che
+
+410
+00:28:38,517 --> 00:28:42,628
+possono hackerare tutto, rivoluzionare qualsiasi
+
+411
+00:28:43,128 --> 00:28:46,112
+ambito di conoscenza in brevissimo tempo,
+
+412
+00:28:46,128 --> 00:28:50,608
+acquisire potere reale. Tutti abbiamo sperimentato,
+
+413
+00:28:50,720 --> 00:28:54,220
+tutti loro ricercatori, presumo, il progresso in ognuno di questi ambiti,
+
+414
+00:28:55,071 --> 00:28:58,588
+e non sta rallentando. La gente che
+
+415
+00:28:59,088 --> 00:29:02,172
+costruisce i modelli di intelligenza artificiale,
+
+416
+00:29:02,204 --> 00:29:07,603
+sempre più convinta che potrà ucciderci tutti
+
+417
+00:29:08,103 --> 00:29:12,054
+entro la fine del decennio. Vi faccio presente che siamo quasi alla fine del 2026.
+
+418
+00:29:12,166 --> 00:29:15,075
+Questo non è uno spin di marketing,
+
+419
+00:29:15,139 --> 00:29:20,876
+dice Jacob Coxon. Molti dirigenti
+
+420
+00:29:21,376 --> 00:29:25,502
+e ricercatori senior parlano espressamente di endgame e
+
+421
+00:29:26,002 --> 00:29:30,382
+probabilmente intendono quando arriverà il momento in cui si arriverà all'intelligenza
+
+422
+00:29:30,882 --> 00:29:35,214
+artificiale generale. Però, quindi, a determinare
+
+423
+00:29:35,714 --> 00:29:38,312
+questa ripulsa dell'opinione pubblica,
+
+424
+00:29:38,441 --> 00:29:41,363
+oltre ai timori per l'inquinamento acustico,
+
+425
+00:29:41,555 --> 00:29:45,023
+per l'affordability, per la sopravvivenza del genere
+
+426
+00:29:45,523 --> 00:29:49,534
+umano, eccetera eccetera, c'è anche questa divergenza
+
+427
+00:29:49,678 --> 00:29:53,146
+a livello di di questi, di queste
+
+428
+00:29:53,646 --> 00:29:57,482
+startup di intelligenza artificiale. Perché prima lanciano allarmi dicendo,
+
+429
+00:29:57,498 --> 00:30:01,223
+attenzione, lanciamo un modello che rischia
+
+430
+00:30:01,723 --> 00:30:04,804
+di sterminare il genere umano, attenzione! Poi però,
+
+431
+00:30:05,671 --> 00:30:09,139
+una volta che, come dire, hanno pronunciato questa,
+
+432
+00:30:09,412 --> 00:30:13,073
+questo rito apotropaico, non so se realmente apotropaico,
+
+433
+00:30:13,185 --> 00:30:17,038
+partono, investono come se non ci fosse un domani. Che in effetti Questo domani
+
+434
+00:30:17,538 --> 00:30:21,533
+potrebbe anche non esserci di questo passo. Sembra proprio una discreta
+
+435
+00:30:22,335 --> 00:30:25,835
+dose di ipocrisia. C'è la sindrome del FOMO, no,
+
+436
+00:30:25,899 --> 00:30:28,836
+del fear of missing out. Tutti dicono fermiamoci,
+
+437
+00:30:29,157 --> 00:30:33,090
+riflettiamo, pensiamo, poi sono lì che firmano contratti
+
+438
+00:30:33,590 --> 00:30:37,071
+di leasing per decine,
+
+439
+00:30:37,103 --> 00:30:40,602
+centinaia di miliardi. Fermiamoci e riflettiamo, partiamo,
+
+440
+00:30:40,634 --> 00:30:43,973
+partiamo, no? E via con i data center e l'infrastrutturazione.
+
+441
+00:30:45,145 --> 00:30:48,502
+E quindi ci sono le ovvie ricadute politiche che stanno
+
+442
+00:30:48,582 --> 00:30:52,275
+travolgendo la classe politica. Il governatore
+
+443
+00:30:52,775 --> 00:30:56,579
+della Pennsylvania, Josh Shapiro, che è democratico, quello del Texas,
+
+444
+00:30:56,691 --> 00:30:59,823
+Greg Abbott, che è repubblicano, sono i
+
+445
+00:31:00,323 --> 00:31:03,998
+due testimonial più importanti di questa giravolta della
+
+446
+00:31:04,498 --> 00:31:08,510
+politica che annusa l'aria e si mette al vento. Perché il texano
+
+447
+00:31:09,010 --> 00:31:12,509
+Abbott lo scorso anno aveva definito il Texas l'epicentro dello sviluppo
+
+448
+00:31:13,009 --> 00:31:16,119
+dell'intelligenza artificiale, quando annunciò un investimento
+
+449
+00:31:16,619 --> 00:31:18,749
+di 40 miliardi di dollari da parte di Google.
+
+450
+00:31:19,824 --> 00:31:23,175
+Invece quest'anno, a metà agosto, ha introdotto
+
+451
+00:31:23,675 --> 00:31:27,457
+una moratoria sulla costruzione di nuovi data center, mentre in Pennsylvania
+
+452
+00:31:27,957 --> 00:31:31,834
+il suo collega democratico Shapiro ha inizialmente aiutato
+
+453
+00:31:32,492 --> 00:31:36,357
+a velocizzare lo sviluppo dei data center, poi sempre ad agosto— ad agosto
+
+454
+00:31:36,857 --> 00:31:41,023
+si riflette maggiormente— ha firmato un ordine esecutivo che impone
+
+455
+00:31:41,714 --> 00:31:45,404
+alcune delle regolamentazioni più strette e severe
+
+456
+00:31:45,726 --> 00:31:48,819
+degli Stati Uniti sulla costruzione di data center.
+
+457
+00:31:50,011 --> 00:31:53,857
+I candidati politici in questo, per questo midterm, stanno spendendo
+
+458
+00:31:54,357 --> 00:31:56,721
+molto in spot elettorali contro i data center.
+
+459
+00:31:58,576 --> 00:32:02,585
+In stati come lo stesso Ohio, la stessa Pennsylvania,
+
+460
+00:32:02,731 --> 00:32:06,077
+Florida, Wyoming, a fine
+
+461
+00:32:06,577 --> 00:32:10,460
+agosto Si calcola che tutte le campagne elettorali avevano
+
+462
+00:32:10,960 --> 00:32:14,902
+speso 31 milioni di dollari in pubblicità che menzionano, ovviamente non
+
+463
+00:32:15,402 --> 00:32:19,056
+positivamente, i data center. Nel frattempo,
+
+464
+00:32:19,863 --> 00:32:23,368
+circa la metà dei data center pianificati negli Stati Uniti
+
+465
+00:32:23,868 --> 00:32:27,592
+sono a rischio di ritardi o cancellazioni, in parte a
+
+466
+00:32:28,092 --> 00:32:29,959
+causa della reazione politica.
+
+467
+00:32:30,088 --> 00:32:34,710
+75 progetti di data center
+
+468
+00:32:35,210 --> 00:32:39,913
+per un valore complessivo di 130 miliardi di dollari sono bloccati o ritardati
+
+469
+00:32:40,154 --> 00:32:43,655
+dall'opposizione locale nel solo primo trimestre di quest'anno,
+
+470
+00:32:43,687 --> 00:32:48,265
+secondo il Data Center Watch, che è un osservatorio delle
+
+471
+00:32:48,765 --> 00:32:52,602
+dinamiche di costruzione dei data center. Però questi ritardi sono
+
+472
+00:32:53,325 --> 00:32:56,810
+concausati non solo dalla reazione degli elettori locali,
+
+473
+00:32:56,826 --> 00:33:00,183
+ma anche dalla difficoltà di reperire
+
+474
+00:33:00,683 --> 00:33:04,246
+i componenti i materiali di costruzione, la difficoltà
+
+475
+00:33:04,746 --> 00:33:08,501
+delle reti elettriche a gestire l'enorme immissione di
+
+476
+00:33:09,001 --> 00:33:12,451
+capacità aggiuntiva. Perché i data center sono delle
+
+477
+00:33:12,951 --> 00:33:15,165
+opere pubbliche. Le opere pubbliche tendono,
+
+478
+00:33:15,967 --> 00:33:20,543
+quanto più sono grandi e impegnative, a bloccarsi
+
+479
+00:33:20,784 --> 00:33:25,168
+sul reperimento delle componenti, sulle autorizzazioni,
+
+480
+00:33:25,200 --> 00:33:29,647
+sulle proteste locali. È lo stesso effetto in
+
+481
+00:33:30,147 --> 00:33:33,667
+Occidente delle centrali nucleari. Quando i progetti
+
+482
+00:33:34,167 --> 00:33:38,091
+vanno avanti, le aziende devono spendere belle somme
+
+483
+00:33:38,591 --> 00:33:41,533
+per vincere la resistenza locale, ci riescono sempre meno,
+
+484
+00:33:44,126 --> 00:33:47,233
+gonfiano i bilanci della comunicazione pubblicitaria. Voi pensate,
+
+485
+00:33:47,910 --> 00:33:51,565
+dare soldi ai politici per propagandare
+
+486
+00:33:52,065 --> 00:33:55,732
+i data center, i politici non lo fanno più, perché se appena parlano a favore
+
+487
+00:33:56,232 --> 00:33:59,984
+dei data center vengono presi a pomodorate, a colpi di verdura.
+
+488
+00:34:01,462 --> 00:34:05,125
+Quindi oltre a capitale, chip, energia, terreni,
+
+489
+00:34:05,157 --> 00:34:08,900
+serve il consenso degli elettori che vivono accanto alle infrastrutture.
+
+490
+00:34:09,013 --> 00:34:12,627
+Quindi mi aspetto, se non è già accaduto, che qualcuno dica
+
+491
+00:34:13,127 --> 00:34:17,222
+che la Cina è strutturalmente avvantaggiata anche in questo, in quanto
+
+492
+00:34:17,722 --> 00:34:20,307
+è un regime non democratico. Come che sia,
+
+493
+00:34:20,419 --> 00:34:25,365
+queste saranno elezioni di midterm molto frizzanti,
+
+494
+00:34:25,878 --> 00:34:29,210
+per usare un eufemismo assoluto, ma questo l'avevamo
+
+495
+00:34:29,242 --> 00:34:33,056
+già segnalato e intuito. C'è da temere,
+
+496
+00:34:33,248 --> 00:34:36,934
+come sappiamo, un esito fortemente avverso a
+
+497
+00:34:37,014 --> 00:34:40,330
+Trump, che faccia di Trump un'anatra azzoppata.
+
+498
+00:34:40,459 --> 00:34:43,743
+Lui però ha già detto che se dovesse accadere bloccherà ogni
+
+499
+00:34:44,243 --> 00:34:48,086
+tentativo dei lunatici comunisti di rovinare gli Stati
+
+500
+00:34:48,586 --> 00:34:53,520
+Uniti, quindi vuole mantenere lui il primato di avere rovinato
+
+501
+00:34:53,536 --> 00:34:57,136
+un paese, di averlo avviato verso un clamoroso
+
+502
+00:34:57,457 --> 00:35:01,041
+declino. O forse bisogna invertire i flussi causali.
+
+503
+00:35:01,153 --> 00:35:06,308
+Forse Trump è comparso all'orizzonte in quanto effetto
+
+504
+00:35:06,405 --> 00:35:11,110
+e non causa del declino di lungo termine dell'impero
+
+505
+00:35:11,610 --> 00:35:15,209
+americano. Restiamo negli Stati Uniti.
+
+506
+00:35:15,340 --> 00:35:18,778
+Oggi la pagina americana è molto
+
+507
+00:35:19,278 --> 00:35:22,690
+ampia e non può essere altrimenti, visto che nel bene e
+
+508
+00:35:22,722 --> 00:35:26,020
+soprattutto nel male questo paese condiziona il
+
+509
+00:35:26,036 --> 00:35:29,980
+pianeta. Parliamo però di un'entità
+
+510
+00:35:30,480 --> 00:35:34,569
+che sta in Europa ma che impatta, che è correlata a
+
+511
+00:35:35,069 --> 00:35:39,387
+quello che sta accadendo negli Stati Uniti e per quanto riguarda anche i mercati finanziari:
+
+512
+00:35:39,436 --> 00:35:44,368
+il fondo sovrano norvegese, che si
+
+513
+00:35:44,868 --> 00:35:48,044
+propone di ridurre l'allocazione ai
+
+514
+00:35:48,061 --> 00:35:51,320
+titoli di Stato all'interno del suo portafoglio di investimento,
+
+515
+00:35:51,432 --> 00:35:56,008
+portandola dal 70% al 50% della
+
+516
+00:35:56,508 --> 00:35:59,187
+parte destinata al reddito fisso.
+
+517
+00:36:00,503 --> 00:36:04,437
+Se implementata, questa innovazione
+
+518
+00:36:05,641 --> 00:36:09,254
+determinerebbe una riduzione della
+
+519
+00:36:09,754 --> 00:36:13,925
+quota di possesso dei Treasury americani, ma questo non
+
+520
+00:36:14,425 --> 00:36:19,155
+equivarrebbe a una fuga dagli Stati Uniti, pur accentuando
+
+521
+00:36:19,219 --> 00:36:22,220
+un rischio specifico agli Stati Uniti. Allora,
+
+522
+00:36:22,990 --> 00:36:26,182
+andiamo con ordine, soprattutto cerchiamo di fare divulgazione
+
+523
+00:36:26,682 --> 00:36:29,921
+comprensibile per non addetti ai lavori. Prima,
+
+524
+00:36:31,236 --> 00:36:35,568
+cos'è il fondo sovrano norvegese? Il fondo sovrano norvegese si
+
+525
+00:36:36,068 --> 00:36:40,187
+chiama Government Petroleum Fund, è nato nel 1990,
+
+526
+00:36:41,101 --> 00:36:44,195
+nel 1998 è stato creato il suo gestore,
+
+527
+00:36:44,243 --> 00:36:47,593
+il suo asset manager, il Norges
+
+528
+00:36:48,093 --> 00:36:52,082
+Bank Investment Management, NBIM, che è una divisione della
+
+529
+00:36:52,582 --> 00:36:55,897
+banca centrale norvegese con la finalità di investire
+
+530
+00:36:56,827 --> 00:37:00,546
+i proventi del petrolio in mercati esteri.
+
+531
+00:37:01,860 --> 00:37:05,645
+Viene utilizzato per smorzare le
+
+532
+00:37:06,145 --> 00:37:10,125
+oscillazioni di breve termine del bilancio pubblico, sempre con dei paletti
+
+533
+00:37:10,783 --> 00:37:14,139
+assolutamente ammirevoli. Io sono certo che se
+
+534
+00:37:14,639 --> 00:37:18,394
+un fondo di quella entità fosse stato in qualunque altra parte del mondo avrebbe devastato
+
+535
+00:37:18,894 --> 00:37:21,975
+quel paese. Invece i norvegesi reggono benissimo.
+
+536
+00:37:22,264 --> 00:37:26,133
+Bisogna sempre fare i complimenti, no? Perché la maledizione delle
+
+537
+00:37:26,633 --> 00:37:28,863
+materie prime per il momento non ha colpito la Norvegia.
+
+538
+00:37:30,212 --> 00:37:34,887
+Questo fondo detiene attualmente
+
+539
+00:37:35,129 --> 00:37:39,416
+1650 miliardi di dollari equivalenti di
+
+540
+00:37:39,916 --> 00:37:43,818
+azioni, il che vuol dire che possiede quasi
+
+541
+00:37:44,318 --> 00:37:48,092
+l'1,5% di tutte le azioni di aziende
+
+542
+00:37:48,592 --> 00:37:52,683
+quotate nel mondo, e circa 600 miliardi di dollari equivalenti
+
+543
+00:37:52,780 --> 00:37:56,705
+in obbligazioni. Ha fatto dei profitti
+
+544
+00:37:57,205 --> 00:38:01,199
+record negli ultimi trimestri grazie ai suoi enormi investimenti
+
+545
+00:38:01,699 --> 00:38:05,778
+in aziende tecnologiche statunitensi e asiatiche e
+
+546
+00:38:05,794 --> 00:38:09,642
+in azioni dei semiconduttori. Tuttavia il
+
+547
+00:38:10,142 --> 00:38:14,166
+suo amministratore delegato che si chiama Nikolai Tangen ha
+
+548
+00:38:14,666 --> 00:38:18,417
+avvertito che in caso di un calo brutale del
+
+549
+00:38:18,917 --> 00:38:22,022
+mercato quei livelli di rendimento non saranno sostenibili.
+
+550
+00:38:23,041 --> 00:38:26,177
+Ad esempio abbiamo già avuto un antipasto
+
+551
+00:38:26,677 --> 00:38:29,946
+di questo tipo di previsione nel primo trimestre dello scorso
+
+552
+00:38:30,446 --> 00:38:34,211
+anno il fondo aveva una perdita di mark-to-market,
+
+553
+00:38:34,243 --> 00:38:37,889
+quindi di valorizzazione a mercato, di 40 miliardi
+
+554
+00:38:38,389 --> 00:38:43,009
+di dollari in conseguenza delle turbolenze che sono culminate
+
+555
+00:38:43,509 --> 00:38:46,725
+nel famoso Liberation Day di Trump. Poi hanno
+
+556
+00:38:47,225 --> 00:38:51,001
+condotto di recente uno stress test, di cui però ho cercato ma
+
+557
+00:38:51,501 --> 00:38:54,608
+non ho trovato i parametri di impatto critico,
+
+558
+00:38:54,900 --> 00:38:58,450
+e comunicano che una correzione profonda
+
+559
+00:38:58,950 --> 00:39:02,051
+dell'intelligenza artificiale— io non so di che ampiezza,
+
+560
+00:39:02,099 --> 00:39:05,611
+visto che non è dichiarata, potrebbe cancellare il
+
+561
+00:39:05,627 --> 00:39:09,204
+35% del valore di questo fondo,
+
+562
+00:39:09,797 --> 00:39:13,053
+che sono 740 miliardi di dollari.
+
+563
+00:39:13,245 --> 00:39:17,767
+Questo è un fondo che ha un asset allocation strategica
+
+564
+00:39:18,457 --> 00:39:22,306
+del tipo 70/30, cioè l'azionario
+
+565
+00:39:22,466 --> 00:39:26,283
+pesa per il 70%, l'obbligazionario per il 30%.
+
+566
+00:39:26,492 --> 00:39:30,458
+Questi sono i valori di asset allocation strategica.
+
+567
+00:39:30,972 --> 00:39:35,099
+Nella realtà attualmente il reddito fisso pesa il 26% perché il
+
+568
+00:39:35,599 --> 00:39:39,643
+piccolo delta è colmato
+
+569
+00:39:40,143 --> 00:39:44,429
+da investimenti immobiliari e infrastrutturali. Tra l'altro, una cosa curiosa:
+
+570
+00:39:44,477 --> 00:39:48,299
+i manager del fondo da tempo chiedono al
+
+571
+00:39:48,395 --> 00:39:52,008
+potere politico l'autorizzazione a investire in azionario
+
+572
+00:39:52,508 --> 00:39:55,977
+non quotato, quindi in private equity. E sinora la richiesta è stata
+
+573
+00:39:56,009 --> 00:39:59,267
+respinta. Vediamo se a questo giro riusciranno a
+
+574
+00:39:59,767 --> 00:40:02,111
+farla passare. Comunque,
+
+575
+00:40:02,759 --> 00:40:06,288
+l'asset manager del fondo petrolifero
+
+576
+00:40:06,531 --> 00:40:10,336
+norvegese ha scritto una lettera al Ministero delle
+
+577
+00:40:10,836 --> 00:40:14,084
+Finanze che è stata pubblicata il 4 settembre,
+
+578
+00:40:14,132 --> 00:40:17,832
+appunto, dove chiedono di portare dal 70
+
+579
+00:40:18,332 --> 00:40:22,447
+al 50% la quota di titoli
+
+580
+00:40:22,947 --> 00:40:27,071
+di Stato all'interno di quel 30%
+
+581
+00:40:27,571 --> 00:40:32,079
+di reddito fisso, perché secondo loro questo
+
+582
+00:40:32,579 --> 00:40:35,815
+livello comunque fornirebbe una liquidità sufficiente
+
+583
+00:40:36,315 --> 00:40:39,747
+durante le turbolenze di mercato. Voi sapete che titoli di Stato,
+
+584
+00:40:39,779 --> 00:40:43,626
+soprattutto i Treasury, sono il mercato più liquido e profondo del mondo,
+
+585
+00:40:43,675 --> 00:40:45,752
+vengono usati anche come riserva di liquidità.
+
+586
+00:40:46,602 --> 00:40:51,326
+Questa riallocazione porterebbe
+
+587
+00:40:51,826 --> 00:40:56,148
+praticamente la partecipazione in Treasury americani dal
+
+588
+00:40:56,648 --> 00:40:57,919
+34% al 22%,
+
+589
+00:40:58,177 --> 00:41:02,090
+quella in governativi dell'eurozona dal
+
+590
+00:41:02,186 --> 00:41:05,648
+17% al 14%, ma aumenterebbe quella in
+
+591
+00:41:06,148 --> 00:41:09,870
+titoli di Stato giapponesi dal 4,6% al 7,4%.
+
+592
+00:41:10,080 --> 00:41:13,271
+Per la posizione in Treasury quindi si tratta di un
+
+593
+00:41:13,303 --> 00:41:17,487
+taglio di circa 75-80
+
+594
+00:41:17,617 --> 00:41:21,231
+miliardi di dollari, mentre l'esposizione al dollaro
+
+595
+00:41:21,731 --> 00:41:25,649
+resterebbe pressoché invariata. Perché vogliono
+
+596
+00:41:26,149 --> 00:41:30,262
+fare questo? Perché vogliono ridurre i Treasury? Perché il
+
+597
+00:41:30,310 --> 00:41:33,606
+fondo secondo loro potrebbe incassare rendimenti
+
+598
+00:41:34,106 --> 00:41:36,579
+più alti, maggiori premi a termine,
+
+599
+00:41:37,261 --> 00:41:40,072
+diversificando in attivi più rischiosi. Quali sono?
+
+600
+00:41:40,348 --> 00:41:42,379
+Obbligazioni societarie,
+
+601
+00:41:43,491 --> 00:41:47,310
+obbligazioni ipotecarie tipo i mortgage-backed
+
+602
+00:41:47,326 --> 00:41:50,601
+security, che ritengono di poter
+
+603
+00:41:50,715 --> 00:41:53,339
+detenere agevolmente in un'ottica di lungo termine.
+
+604
+00:41:56,066 --> 00:41:59,587
+Perché non è una fuga dall'America? Perché il gestore del fondo
+
+605
+00:42:00,087 --> 00:42:03,841
+sovrano norvegese, contestualmente al
+
+606
+00:42:03,973 --> 00:42:07,911
+taglio dei Treasury, prevede di aumentare
+
+607
+00:42:08,721 --> 00:42:12,138
+la posizione in titoli a reddito fisso non governativi
+
+608
+00:42:12,638 --> 00:42:16,243
+americani. Quindi, come vedete,
+
+609
+00:42:17,728 --> 00:42:20,827
+c'è una sorta di compensazione, passerebbe dal 16,2% al
+
+610
+00:42:20,876 --> 00:42:25,237
+28%. Cosa vuol dire questo? Che qui
+
+611
+00:42:25,334 --> 00:42:28,556
+i norvegesi non stanno facendo una valutazione di rischio
+
+612
+00:42:29,056 --> 00:42:32,703
+geopolitico degli Stati Uniti, stanno dicendo che oggi possiedono
+
+613
+00:42:33,426 --> 00:42:37,415
+titoli governativi eccedenti rispetto
+
+614
+00:42:37,543 --> 00:42:41,157
+ai bisogni di liquidità e che
+
+615
+00:42:41,561 --> 00:42:44,925
+vogliono puntare, in quanto investitore di lungo termine,
+
+616
+00:42:44,973 --> 00:42:48,224
+a raccogliere rendimenti aggiuntivi investendo
+
+617
+00:42:48,724 --> 00:42:50,674
+in uno spettro più ampio di prodotti a spread.
+
+618
+00:42:52,497 --> 00:42:56,717
+Se applichiamo questo
+
+619
+00:42:57,217 --> 00:43:01,429
+ragionamento alla logica micro— micro si fa per dire, viste le dimensioni di
+
+620
+00:43:01,929 --> 00:43:05,183
+questo fondo. La logica di un singolo investitore non
+
+621
+00:43:05,247 --> 00:43:10,157
+fa una piega, perché è una banalissima
+
+622
+00:43:10,657 --> 00:43:14,810
+ottimizzazione del rapporto rischio-rendimento che posiziona
+
+623
+00:43:15,310 --> 00:43:19,687
+il fondo sulla frontiera efficiente. Cosa vuol dire? Che guadagna
+
+624
+00:43:20,187 --> 00:43:24,019
+di più a parità di rischio ex ante, o rischia di meno
+
+625
+00:43:24,275 --> 00:43:29,069
+a parità di ritorno atteso sull'investimento.
+
+626
+00:43:29,569 --> 00:43:33,277
+Quindi non è un atto ostile al
+
+627
+00:43:33,342 --> 00:43:38,266
+rischio Trump, al rischio America, è una banalissima
+
+628
+00:43:38,428 --> 00:43:41,985
+considerazione di razionalità di mercato come si
+
+629
+00:43:42,485 --> 00:43:46,478
+farebbe in un momento qualsiasi. Ma questo non è un momento qualsiasi, perché alla
+
+630
+00:43:46,978 --> 00:43:50,843
+Casa Bianca c'è Trump, al Tesoro c'è
+
+631
+00:43:51,343 --> 00:43:55,405
+Bessent, che hanno già fatto capire che intendono reagire
+
+632
+00:43:55,905 --> 00:43:59,872
+a qualsiasi ipotesi di uscita dai Treasury da parte dei grandi investitori globali,
+
+633
+00:44:02,006 --> 00:44:06,373
+il che come manifestazione di insicurezza non è male
+
+634
+00:44:06,873 --> 00:44:10,901
+per il paese che sostiene di non aver bisogno di nessuno o di
+
+635
+00:44:11,401 --> 00:44:13,340
+poter piegare il mondo ai propri voleri.
+
+636
+00:44:16,506 --> 00:44:20,649
+Io mi ricordo che in un'altra era geologica
+
+637
+00:44:21,046 --> 00:44:23,181
+alla quale probabilmente appartengo,
+
+638
+00:44:24,257 --> 00:44:27,725
+i rating delle obbligazioni societarie tendevano
+
+639
+00:44:28,225 --> 00:44:32,173
+a non poter superare il rating sovrano. E i motivi sono,
+
+640
+00:44:32,622 --> 00:44:36,460
+erano abbastanza logici, perché il sovrano impone
+
+641
+00:44:36,960 --> 00:44:39,157
+tasse e batte moneta, il corporate no.
+
+642
+00:44:40,169 --> 00:44:43,894
+Il sovrano può distruggere il corporate con un tratto di penna,
+
+643
+00:44:43,926 --> 00:44:46,142
+il contrario non accade o non accadeva.
+
+644
+00:44:47,198 --> 00:44:50,572
+Perché magari ora possiamo ipotizzare che il corporate
+
+645
+00:44:51,072 --> 00:44:54,685
+nel frattempo è diventato così potente da poter fare
+
+646
+00:44:55,185 --> 00:44:57,776
+a meno del sovrano, addirittura di piegarlo ai propri voleri.
+
+647
+00:44:59,195 --> 00:45:02,825
+E se pensate ai Tech Brothers,
+
+648
+00:45:03,212 --> 00:45:06,883
+forse capite quello che intendo. Se tutti
+
+649
+00:45:07,045 --> 00:45:10,719
+gli investitori globali dicessero, ma io
+
+650
+00:45:11,219 --> 00:45:14,585
+non ho niente contro gli Stati Uniti, però sai che c'è? Taglio i Treasury
+
+651
+00:45:15,326 --> 00:45:19,175
+e aumento i corporate e gli agency americani,
+
+652
+00:45:19,497 --> 00:45:23,307
+perché mi rende di più a parità di rischio. E cosa accadrebbe al
+
+653
+00:45:23,807 --> 00:45:27,578
+tesoro americano? Che dovrebbe comunque, in un momento in
+
+654
+00:45:28,078 --> 00:45:31,592
+cui il debito aumenta, il deficit aumenta,
+
+655
+00:45:31,624 --> 00:45:33,614
+quindi le emissioni aumentano,
+
+656
+00:45:35,720 --> 00:45:40,279
+dovrebbe trovare qualcuno che compra queste quantità crescenti
+
+657
+00:45:40,779 --> 00:45:44,330
+di Treasury proprio nel momento in cui gli investitori
+
+658
+00:45:44,830 --> 00:45:50,161
+globali stanno alleggerendo la posizione sui Treasury. Quindi probabilmente
+
+659
+00:45:50,920 --> 00:45:54,680
+cosa che sta per fare modificherebbe
+
+660
+00:45:56,342 --> 00:45:59,923
+alcuni pesi di alcuni
+
+661
+00:46:00,036 --> 00:46:04,108
+parametri di rischio ai fini di vigilanza per permettere alle
+
+662
+00:46:04,608 --> 00:46:05,955
+banche di possedere più Treasury,
+
+663
+00:46:08,051 --> 00:46:11,194
+riducendo appunto la penalizzazione per la quantità
+
+664
+00:46:11,694 --> 00:46:15,336
+di possesso. Ma probabilmente in un secondo momento metterebbe
+
+665
+00:46:15,836 --> 00:46:17,250
+una sorta di vincolo di portafoglio,
+
+666
+00:46:19,510 --> 00:46:23,208
+obbligando magari i grandi corporate americani a comprare i
+
+667
+00:46:23,708 --> 00:46:27,341
+Treasury, obbligando magari i cosiddetti
+
+668
+00:46:27,421 --> 00:46:30,293
+partner internazionali degli Stati Uniti a comprare Treasury,
+
+669
+00:46:31,930 --> 00:46:35,684
+una sorta di vincolo di portafoglio globale. Questa sarebbe,
+
+670
+00:46:36,151 --> 00:46:39,793
+e questa è una cosa molto interessante che magari svilupperemo nelle prossime settimane
+
+671
+00:46:40,293 --> 00:46:43,737
+e mesi, se tenderà a materializzarsi, ma se Bessent va
+
+672
+00:46:44,237 --> 00:46:48,144
+avanti così secondo me si materializza, una sorta di vincolo di portafoglio planetario,
+
+673
+00:46:48,176 --> 00:46:52,739
+nel senso che il mondo deve comprare i Treasury americani
+
+674
+00:46:53,816 --> 00:46:56,582
+con le buone o soprattutto con le cattive.
+
+675
+00:46:59,701 --> 00:47:03,759
+Noi non siamo più nel periodo che tanto piaceva
+
+676
+00:47:04,259 --> 00:47:08,257
+ai tedeschi del mercantilismo, no, dove si
+
+677
+00:47:08,757 --> 00:47:12,038
+poteva commerciare serenamente e fare quello che si voleva. No, siamo in
+
+678
+00:47:12,538 --> 00:47:15,948
+un periodo di blocchi geopolitici. Se noi siamo in un
+
+679
+00:47:16,448 --> 00:47:20,434
+periodo di blocchi geopolitici e gli americani tentano la repressione finanziaria
+
+680
+00:47:20,835 --> 00:47:24,857
+sul pianeta per ficcare
+
+681
+00:47:25,357 --> 00:47:29,407
+in gola al pianeta i treasury che gli americani devono emettere, i bei
+
+682
+00:47:29,907 --> 00:47:33,685
+ragionamenti da gestore cesellatore
+
+683
+00:47:33,733 --> 00:47:37,265
+come fa Mr. Tangen Voi sapete dove finiscono?
+
+684
+00:47:40,112 --> 00:47:43,417
+Quindi ribadisco, attenzione al
+
+685
+00:47:43,917 --> 00:47:47,451
+quadro d'insieme. Il fondo sovrano norvegese non sta votando la sfiducia
+
+686
+00:47:47,484 --> 00:47:51,272
+agli americani, però rischia di contribuire
+
+687
+00:47:51,772 --> 00:47:55,383
+a produrre effetti simili, soprattutto se, come detto,
+
+688
+00:47:55,723 --> 00:47:59,186
+i continui deficit federali costringeranno
+
+689
+00:47:59,687 --> 00:48:03,403
+a trovare sempre nuovi acquirenti per i
+
+690
+00:48:03,903 --> 00:48:07,509
+Treasury. Ora ci
+
+691
+00:48:08,009 --> 00:48:11,742
+spostiamo decisamente in Europa,
+
+692
+00:48:11,775 --> 00:48:15,472
+nel senso che lasciamo alle spalle per il momento gli americani.
+
+693
+00:48:16,860 --> 00:48:20,736
+Parliamo di quello che è accaduto in Germania
+
+694
+00:48:21,436 --> 00:48:25,185
+domenica scorsa. Come da attese, le elezioni nel
+
+695
+00:48:25,250 --> 00:48:29,526
+land tedesco orientale della Sassonia-Anhalt
+
+696
+00:48:30,026 --> 00:48:33,612
+hanno provocato delle scosse che si trasmetteranno al resto d'Europa.
+
+697
+00:48:34,310 --> 00:48:37,276
+C'è stato questo trionfo di Alternative für Deutschland,
+
+698
+00:48:38,356 --> 00:48:41,435
+che credo sia a 3 seggi dalla maggioranza
+
+699
+00:48:41,935 --> 00:48:45,620
+assoluta del Parlamento statale, 44% dei
+
+700
+00:48:45,701 --> 00:48:49,404
+voti. I cristianodemocratici del
+
+701
+00:48:49,420 --> 00:48:51,732
+cancelliere Merz dimezzati.
+
+702
+00:48:53,755 --> 00:48:57,717
+E quindi la ossimorica internazionale sovranista ha
+
+703
+00:48:58,217 --> 00:49:01,630
+ripreso fiato, almeno fin quando non si schianteranno
+
+704
+00:49:02,130 --> 00:49:06,656
+contro il muro della realtà. Però servono
+
+705
+00:49:07,156 --> 00:49:10,520
+alcune considerazioni su quello che è accaduto non
+
+706
+00:49:11,020 --> 00:49:13,880
+solo in Sassonia-Anhalt, ma anche nel resto della Germania,
+
+707
+00:49:14,089 --> 00:49:18,286
+e se vogliamo anche nel resto d'Europa. Intanto la Sassonia-Anhalt
+
+708
+00:49:18,367 --> 00:49:21,855
+è un land di 2,1 milioni di
+
+709
+00:49:22,355 --> 00:49:25,499
+anime nella ex DDR, è il più povero di Germania.
+
+710
+00:49:27,090 --> 00:49:30,998
+La spiegazione più pigra di questo esito elettorale porta
+
+711
+00:49:31,786 --> 00:49:35,362
+a queste caratteristiche demografiche e socioeconomiche.
+
+712
+00:49:36,931 --> 00:49:40,508
+Sarebbe altrettanto pigramente superficiale augurare a gente che
+
+713
+00:49:41,008 --> 00:49:44,020
+ha nostalgia della DDR di tornare a viverci il prima possibile,
+
+714
+00:49:45,105 --> 00:49:48,230
+sotto bandiere nere o rosse perché tanto la differenza non si vede,
+
+715
+00:49:48,263 --> 00:49:51,475
+ma In realtà non bisogna prendere questa chiave
+
+716
+00:49:51,975 --> 00:49:55,683
+di lettura, perché il punto rilevante è che AfD sta montando in tutto il
+
+717
+00:49:56,183 --> 00:49:59,962
+paese, anche all'ovest. Quindi non è più possibile inquadrarla come
+
+718
+00:50:00,848 --> 00:50:04,425
+un'aberrazione storico-geografica o un rigurgito di
+
+719
+00:50:04,925 --> 00:50:06,907
+nostalgia schizzato dai tombini.
+
+720
+00:50:08,806 --> 00:50:12,045
+Soprattutto, il fenomeno più interessante è
+
+721
+00:50:12,545 --> 00:50:16,174
+che AfD toglie l'astensionismo
+
+722
+00:50:16,674 --> 00:50:16,951
+dalla ghiacciaia.
+
+723
+00:50:18,880 --> 00:50:22,452
+170.000 voti di gente che non
+
+724
+00:50:22,952 --> 00:50:26,461
+votava si stima siano andati in
+
+725
+00:50:26,736 --> 00:50:28,640
+Sassonia-Anhalt a AfD.
+
+726
+00:50:30,949 --> 00:50:34,484
+Ora, io non credo di compiere una forzatura se immagino
+
+727
+00:50:34,806 --> 00:50:38,595
+più probabile che lo scongelamento di porzioni
+
+728
+00:50:39,095 --> 00:50:42,947
+dell'astensionismo avvenga attraverso messaggi estremisti e
+
+729
+00:50:43,124 --> 00:50:46,743
+ultranativisti anziché in base ad
+
+730
+00:50:47,243 --> 00:50:51,175
+argomentazioni razionali su quanto servirebbe per spingere la crescita
+
+731
+00:50:51,675 --> 00:50:55,755
+economica. Direi anzi che le argomentazioni razionali sono in svantaggio
+
+732
+00:50:56,433 --> 00:51:00,922
+rispetto alle altre più emotive e pre-politiche, perché c'è in
+
+733
+00:51:01,422 --> 00:51:04,251
+giro questa sorta di spirito del tempo, questo Zeitgeist,
+
+734
+00:51:04,316 --> 00:51:07,521
+per dirla con la Germania, coi tedeschi, visto che stiamo parlando della Germania,
+
+735
+00:51:09,376 --> 00:51:12,785
+che vuole la penalizzazione sempre e comunque dei governi incumbent,
+
+736
+00:51:12,818 --> 00:51:14,252
+dei governi in carica, anche quando le cose vanno bene.
+
+737
+00:51:17,088 --> 00:51:20,781
+Figuratevi quando vanno male. E la conferma a questo
+
+738
+00:51:21,281 --> 00:51:25,197
+spirito del tempo viene dalla Svezia, perché in Svezia il governo
+
+739
+00:51:25,697 --> 00:51:29,291
+di centrodestra, che ha l'appoggio esterno dei Democratici di
+
+740
+00:51:29,791 --> 00:51:32,936
+Svezia, che sono un altro partito di estrema destra con
+
+741
+00:51:33,436 --> 00:51:37,159
+radici neonaziste ma non sono al governo, ebbene, il governo svedese
+
+742
+00:51:37,659 --> 00:51:41,848
+di centrodestra ha ottenuto in questa legislatura dei risultati complessivamente
+
+743
+00:51:42,416 --> 00:51:44,562
+positivi, non solo in economia.
+
+744
+00:51:46,773 --> 00:51:50,211
+La migrazione netta è ai minimi da parecchi decenni.
+
+745
+00:51:51,096 --> 00:51:53,247
+La violenza delle gang giovanili,
+
+746
+00:51:54,496 --> 00:51:58,096
+sia di importazione che di seconda generazione,
+
+747
+00:51:58,128 --> 00:52:02,002
+sta venendo contrastata robustamente. L'economia nel
+
+748
+00:52:02,502 --> 00:52:05,771
+secondo trimestre cresceva del 3,2% annualizzato.
+
+749
+00:52:06,791 --> 00:52:10,306
+I mutui sono al 2,8%, cioè un punto percentuale meno della
+
+750
+00:52:10,338 --> 00:52:14,366
+Germania. L'inflazione svedese è
+
+751
+00:52:14,866 --> 00:52:18,308
+allo 0,7%, i salari stanno recuperando potere d'acquisto.
+
+752
+00:52:18,388 --> 00:52:21,428
+Ebbene, malgrado tutte queste splendide
+
+753
+00:52:21,928 --> 00:52:25,661
+notizie, la coalizione incumbent svedese
+
+754
+00:52:26,161 --> 00:52:30,010
+di centrodestra potrebbe perdere a
+
+755
+00:52:30,510 --> 00:52:31,831
+vantaggio di quella di opposizione.
+
+756
+00:52:34,826 --> 00:52:38,856
+Allora, torniamo alla Sassonia-Anhalt, il land tedesco più povero,
+
+757
+00:52:39,132 --> 00:52:44,031
+più rurale, e più anziano. Nel 2024
+
+758
+00:52:44,159 --> 00:52:48,112
+il suo reddito pro capite era il 72%
+
+759
+00:52:49,205 --> 00:52:53,211
+della media nazionale tedesca. Il Land orientale messo meglio è la Sassonia,
+
+760
+00:52:53,324 --> 00:52:57,236
+che non va confusa, che ha il 78% della
+
+761
+00:52:57,736 --> 00:53:01,345
+media nazionale. Soprattutto bisogna considerare che ci sono alcuni
+
+762
+00:53:01,845 --> 00:53:05,582
+Länder orientali che si stanno avvicinando
+
+763
+00:53:06,082 --> 00:53:10,557
+ai numeri di quelli occidentali meno agiati. Tipicamente quelli
+
+764
+00:53:11,057 --> 00:53:14,960
+occidentali meno agiati sono Schleswig-Holstein
+
+765
+00:53:15,460 --> 00:53:20,025
+e Saarland. Però è innegabile che il processo di convergenza
+
+766
+00:53:20,525 --> 00:53:23,436
+est-ovest è fortemente rallentato negli ultimi anni.
+
+767
+00:53:25,076 --> 00:53:28,488
+Però la Sassonia-Anhalt non è un land
+
+768
+00:53:28,812 --> 00:53:33,469
+oggettivamente depresso, come osservava anche Paul Krugman, perché il
+
+769
+00:53:33,485 --> 00:53:36,928
+tasso di occupazione maschile della fascia 15-64
+
+770
+00:53:37,428 --> 00:53:41,691
+anni— perché questo indicatore, perché questo è l'indicatore virile che
+
+771
+00:53:42,191 --> 00:53:45,393
+viene utilizzato dai MAGA e dai movimenti nativisti
+
+772
+00:53:45,893 --> 00:53:49,383
+affini, cioè quanto lavorano gli uomini, che sono gli unici che contano
+
+773
+00:53:49,883 --> 00:53:53,726
+dal punto di vista lavorativo. Ebbene, in Sassonia-Anhalt questo
+
+774
+00:53:54,226 --> 00:53:58,757
+indicatore è tornato verso l'80%
+
+775
+00:53:59,639 --> 00:54:03,020
+di occupati maschili 15-64, dopo i minimi di un ventennio
+
+776
+00:54:03,520 --> 00:54:07,072
+addietro. Naturalmente bisogna prendere tutto cum grano salis,
+
+777
+00:54:07,185 --> 00:54:10,662
+perché questo aumento del tasso
+
+778
+00:54:11,162 --> 00:54:15,925
+di occupazione specifico può derivare dal fatto che l'Irlanda
+
+779
+00:54:16,425 --> 00:54:20,287
+ha subito una robusta emigrazione, e quindi
+
+780
+00:54:20,608 --> 00:54:24,080
+questo potrebbe avere contribuito ad alzare il tasso di occupazione di chi
+
+781
+00:54:24,580 --> 00:54:28,049
+è rimasto. Comunque, com'è che sia, questa lunga marcia nera
+
+782
+00:54:28,194 --> 00:54:32,649
+è in atto. Ed è favorita dai
+
+783
+00:54:32,697 --> 00:54:36,256
+balbettii dell'establishment politico e da governi federali che
+
+784
+00:54:36,434 --> 00:54:40,554
+appaiono, non a caso, del tutto impotenti
+
+785
+00:54:41,119 --> 00:54:44,907
+di fronte a rivolgimenti epocali come quello che sta colpendo la
+
+786
+00:54:45,407 --> 00:54:49,339
+manifattura tedesca. Nel passaggio da Olaf
+
+787
+00:54:49,403 --> 00:54:53,211
+Scholz al disastroso, sul piano comunicativo
+
+788
+00:54:53,711 --> 00:54:57,783
+e non solo, Friedrich Merz, sembra esserci un climax Un climax
+
+789
+00:54:58,283 --> 00:55:01,981
+degli imbelli. Ogni rovescio politico gonfia
+
+790
+00:55:02,481 --> 00:55:05,077
+l'opposizione estrema che dice, vedete?
+
+791
+00:55:06,504 --> 00:55:10,799
+Ovviamente quando costoro arriveranno
+
+792
+00:55:11,299 --> 00:55:14,591
+nella stanza dei bottoni saranno devastati
+
+793
+00:55:15,091 --> 00:55:18,804
+dalla realtà e dalle dissonanze cognitive, ma questo è il secondo
+
+794
+00:55:19,304 --> 00:55:23,419
+tempo del film. Il problema delle internazionali
+
+795
+00:55:23,919 --> 00:55:27,390
+nazionaliste è che sono un ossimoro. Questo l'ho scritto Stavo
+
+796
+00:55:27,890 --> 00:55:31,388
+andando a guardare, penso nel lontano 2018, addirittura ho fatto
+
+797
+00:55:31,888 --> 00:55:35,595
+un podcast monografico, quello che all'epoca si chiamava il postcast,
+
+798
+00:55:36,912 --> 00:55:40,781
+di 8 anni fa, dove spiegavo perché
+
+799
+00:55:41,281 --> 00:55:43,383
+l'internazionale sovranista è un ossimoro.
+
+800
+00:55:44,635 --> 00:55:48,473
+Ogni tentativo dei leader sovranisti nazionali
+
+801
+00:55:48,973 --> 00:55:53,450
+di coalizzarsi a livello sovranazionale genera
+
+802
+00:55:53,611 --> 00:55:57,480
+fallimenti e soprattutto è qualcosa che oscilla tra il grottesco
+
+803
+00:55:57,980 --> 00:56:00,483
+e il ridicolo. Però continuano a provare.
+
+804
+00:56:01,511 --> 00:56:04,802
+Abbiamo visto l'incontro tra
+
+805
+00:56:04,850 --> 00:56:08,864
+Nigel Farage e Jordan Gigino
+
+806
+00:56:09,364 --> 00:56:13,296
+Bardella che hanno firmato questo accordo quadro per restituire ai francesi
+
+807
+00:56:13,796 --> 00:56:18,041
+i clandestini che tentano di attraversare la Manica. Naturalmente È
+
+808
+00:56:18,541 --> 00:56:21,382
+vero anche il contrario, però dobbiamo restare seri.
+
+809
+00:56:23,558 --> 00:56:27,173
+Su tutto è scontato che i francesi non dovranno tenersi i
+
+810
+00:56:27,673 --> 00:56:30,869
+clandestini restituiti da Londra, ma li invieranno testè
+
+811
+00:56:31,367 --> 00:56:35,051
+e tosto ai loro paesi di origine. Come non averci pensato prima?
+
+812
+00:56:35,361 --> 00:56:37,009
+Il fantasma del Ruanda.
+
+813
+00:56:39,176 --> 00:56:41,538
+Poi c'è l'assenza di ricette di policy.
+
+814
+00:56:43,136 --> 00:56:46,318
+Bardella ha detto: niente aumenti di tasse.
+
+815
+00:56:47,567 --> 00:56:51,076
+La sua capa— e Bardella potrebbe essere il premier
+
+816
+00:56:51,092 --> 00:56:54,553
+francese di una presidenza Marine Le Pen. Marine Le Pen va dagli
+
+817
+00:56:55,053 --> 00:56:58,543
+imprenditori del Medef e dice: noi faremo tagli
+
+818
+00:56:58,623 --> 00:57:00,754
+per 125 miliardi di euro.
+
+819
+00:57:01,843 --> 00:57:05,432
+È un peccato che questi tagli vengono da
+
+820
+00:57:05,932 --> 00:57:09,326
+voci contabili che sono del tutto incapienti per quei numeri,
+
+821
+00:57:09,999 --> 00:57:13,732
+tipo il contributo francese all'Unione Europea, gli sprechi,
+
+822
+00:57:13,764 --> 00:57:14,533
+le frodi.
+
+823
+00:57:14,758 --> 00:57:19,853
+L'accommodation, la sistemazione
+
+824
+00:57:20,353 --> 00:57:23,987
+temporanea degli immigrati. Questi non generano quei numeri.
+
+825
+00:57:25,381 --> 00:57:28,537
+Però serve a Marine Le Pen andare al Medef a dire
+
+826
+00:57:29,037 --> 00:57:32,367
+agli imprenditori: taglieremo la spesa per 125 miliardi di
+
+827
+00:57:32,867 --> 00:57:36,597
+euro, così potremo, tra le altre meravigliose cose che
+
+828
+00:57:37,097 --> 00:57:40,699
+ci accingiamo a fare, riportare l'età pensionabile
+
+829
+00:57:41,199 --> 00:57:42,493
+a 62, magari anche a 60 anni.
+
+830
+00:57:44,933 --> 00:57:45,817
+Questa non è policy.
+
+831
+00:57:47,005 --> 00:57:49,397
+Tra l'altro,
+
+832
+00:57:50,714 --> 00:57:53,973
+non parlo al momento del fenomeno italiano Vannacci,
+
+833
+00:57:54,005 --> 00:57:58,180
+ci sarà tempo. Vannacci resta un troll di momentaneo
+
+834
+00:57:58,680 --> 00:58:01,905
+successo e ha nella sua consorte un'assai valida
+
+835
+00:58:02,405 --> 00:58:05,614
+spalla. A volte riescono anche a essere simpatici, diciamo, nella loro,
+
+836
+00:58:06,289 --> 00:58:09,660
+nel loro essere odiosi. Però, parlando di cose
+
+837
+00:58:10,160 --> 00:58:12,324
+più serie, visto che caos chiama caos,
+
+838
+00:58:13,431 --> 00:58:16,961
+guardiamo cosa è successo in Germania. Perché la
+
+839
+00:58:17,461 --> 00:58:21,791
+sera stessa delle, dei risultati delle elezioni in Sassonia-Anhalt,
+
+840
+00:58:22,497 --> 00:58:26,926
+c'è stato il presidente della
+
+841
+00:58:27,426 --> 00:58:31,644
+SPD, nonché vicecancelliere federale, nonché ministro
+
+842
+00:58:32,144 --> 00:58:35,383
+delle Finanze del governo Merz, cioè Lars Klingbeil,
+
+843
+00:58:36,665 --> 00:58:40,299
+che ha invocato una riflessione sulle riforme
+
+844
+00:58:41,849 --> 00:58:45,302
+approvate dal governo di grande coalizione
+
+845
+00:58:45,544 --> 00:58:49,409
+solo poche settimane addietro, tra cui soprattutto
+
+846
+00:58:49,909 --> 00:58:54,321
+quella delle pensioni, che tra le altre cose prevede
+
+847
+00:58:54,821 --> 00:58:59,700
+di impedire di andare in pensione anticipata ai
+
+848
+00:58:59,716 --> 00:59:03,549
+precoci, no, quelli che hanno 63 anni di età e
+
+849
+00:59:04,049 --> 00:59:07,748
+45 di contributi. Questo soprattutto nei lender
+
+850
+00:59:08,248 --> 00:59:11,641
+orientali, dove c'è molta gente che ha iniziato a lavorare molto giovane, è un tabù,
+
+851
+00:59:14,163 --> 00:59:17,569
+è intoccabile. Quindi probabilmente Klingbeil,
+
+852
+00:59:18,183 --> 00:59:21,735
+colto dal panico, dice: non possiamo fare una cosa del genere perché altrimenti
+
+853
+00:59:22,235 --> 00:59:26,142
+ci devastano. Però questa retromarcia immediata
+
+854
+00:59:26,545 --> 00:59:30,657
+di un partner di governo di fronte ad un esito elettorale ricorda
+
+855
+00:59:31,492 --> 00:59:35,216
+Veramente i momenti italiani degli ultimi decenni. Fa impressione
+
+856
+00:59:35,716 --> 00:59:39,071
+perché dice molto sulla prognosi per la Germania.
+
+857
+00:59:40,905 --> 00:59:42,155
+A proposito di Italia,
+
+858
+00:59:44,896 --> 00:59:48,466
+a proposito soprattutto di grandi coalizioni che sono in
+
+859
+00:59:48,966 --> 00:59:52,638
+realtà sempre più piccole, a proposito della malattia italiana
+
+860
+00:59:53,138 --> 00:59:54,927
+e del nostro provincialismo consunto,
+
+861
+00:59:56,262 --> 01:00:00,062
+Nei giorni scorsi abbiamo letto che
+
+862
+01:00:00,562 --> 01:00:04,136
+il GEP Gambardella di Rignano, che è quello che non vuole partecipare
+
+863
+01:00:04,185 --> 01:00:07,373
+alle coalizioni ma avere il potere di farle fallire,
+
+864
+01:00:09,041 --> 01:00:12,976
+ha estratto dal suo cilindro pieno di freddure, di calambur
+
+865
+01:00:12,992 --> 01:00:17,287
+da scout attempato, che cosa? Il contratto
+
+866
+01:00:17,787 --> 01:00:21,385
+alla tedesca per tenere in piedi con lo
+
+867
+01:00:21,885 --> 01:00:25,517
+spago e con lo sputo il Camposanto Largo. A confronto
+
+868
+01:00:26,017 --> 01:00:29,545
+del quale la gioiosa macchina da guerra di occhettiana memoria
+
+869
+01:00:29,594 --> 01:00:32,781
+era un Caterpillar. A parte
+
+870
+01:00:33,281 --> 01:00:37,441
+che di questo passo l'espressione alla tedesca diventerà
+
+871
+01:00:39,194 --> 01:00:44,083
+indistinguibile per negatività dall'espressione all'italiana.
+
+872
+01:00:47,038 --> 01:00:51,042
+Però proviamo a usare la logica: Renzi visto che
+
+873
+01:00:51,542 --> 01:00:55,938
+stiamo parlando di lui, il Jeppe Gambardella di Rignano propone di applicare alla
+
+874
+01:00:56,051 --> 01:00:59,367
+coalizione progressista italiana un tipico
+
+875
+01:00:59,867 --> 01:01:04,319
+strumento delle grandi coalizioni tra partiti ideologicamente
+
+876
+01:01:04,819 --> 01:01:07,894
+distanti. È già accaduto,
+
+877
+01:01:08,655 --> 01:01:12,541
+ricorderete, per il governo gialloverde
+
+878
+01:01:12,622 --> 01:01:16,110
+Di Maio-Salvini che regalò alla Repubblica un impacciato
+
+879
+01:01:16,610 --> 01:01:20,087
+figurante, poi emancipatosi alla grande dai suoi due burattini
+
+880
+01:01:20,935 --> 01:01:22,279
+di nome Giuseppe Conte.
+
+881
+01:01:24,417 --> 01:01:28,856
+Contratto alla tedesca. A parte questo provincialismo
+
+882
+01:01:29,356 --> 01:01:33,376
+che veramente ci ha lacerato le gonadi, ma contratto
+
+883
+01:01:33,876 --> 01:01:37,884
+alla tedesca indica un participio passato il cui sostantivo
+
+884
+01:01:38,384 --> 01:01:40,573
+è contrazione, più che altro stiramento.
+
+885
+01:01:42,492 --> 01:01:46,224
+A me affascina sempre il modo in cui noi italiani riusciamo a renderci
+
+886
+01:01:46,257 --> 01:01:49,893
+ridicoli prendendoci maledettamente sul serio,
+
+887
+01:01:49,909 --> 01:01:53,254
+ma i tempi sono realmente tragicamente
+
+888
+01:01:53,754 --> 01:01:56,961
+ridicoli. Prendete ancora il caso dell'AfD.
+
+889
+01:01:58,470 --> 01:02:02,068
+L'AfD, come tutti i partiti nativisti, sovranisti,
+
+890
+01:02:03,746 --> 01:02:07,538
+è uno dei tanti cunei, delle tante leve che servono alle potenze
+
+891
+01:02:08,038 --> 01:02:10,254
+esterne per disarticolare l'Unione Europea.
+
+892
+01:02:12,686 --> 01:02:16,671
+Tra gli estimatori dell'AfD C'è la Russia
+
+893
+01:02:17,955 --> 01:02:21,648
+che da anni, come sappiamo, soprattutto come sanno dalle
+
+894
+01:02:22,148 --> 01:02:26,080
+parti dei nostri, delle nostre associazioni di partigiani e non
+
+895
+01:02:26,096 --> 01:02:30,431
+solo, la Russia è impegnata da anni a denazificare l'Ucraina
+
+896
+01:02:30,576 --> 01:02:34,735
+e invece oggi è in una corrispondenza di amorosi sensi
+
+897
+01:02:35,235 --> 01:02:39,086
+con un partito tedesco di palesi e ostentate
+
+898
+01:02:39,586 --> 01:02:40,563
+radici neonaziste.
+
+899
+01:02:42,118 --> 01:02:45,621
+Molotov e Ribbentrop sono vivi e lottano assieme a noi.
+
+900
+01:02:47,996 --> 01:02:51,240
+Se la Russia fosse coerente coi suoi principi, dovrebbe a questo
+
+901
+01:02:51,740 --> 01:02:55,101
+punto minacciare di invadere la Germania per denazificarla.
+
+902
+01:02:56,780 --> 01:03:00,801
+Naturalmente col vibrante plauso di alcuni coglioni italiani,
+
+903
+01:03:00,817 --> 01:03:04,742
+specie di quelli che si richiamano al grande spirito dell'Unione
+
+904
+01:03:05,242 --> 01:03:08,895
+Sovietica che ha liberato l'Europa. O partigiano,
+
+905
+01:03:09,219 --> 01:03:12,473
+portami via! Il cervello
+
+906
+01:03:12,973 --> 01:03:15,257
+è iniziato già ad andarsene prima del corpo.
+
+907
+01:03:17,752 --> 01:03:21,241
+Però, sempre parlando dei bolsi teatranti italici,
+
+908
+01:03:21,289 --> 01:03:24,698
+abbiamo la menzione, anche la minzione d'onore,
+
+909
+01:03:24,907 --> 01:03:28,647
+all'avvocato del populismo, il quale
+
+910
+01:03:29,405 --> 01:03:33,359
+si è presentato davanti alle telecamere domenica sera esprimendo la sua
+
+911
+01:03:33,859 --> 01:03:36,980
+forte preoccupazione per il vento di destra che spazza l'Europa.
+
+912
+01:03:38,261 --> 01:03:42,705
+Secondo lui a causa del bellicismo occidentale che
+
+913
+01:03:43,205 --> 01:03:46,422
+ci ha travolti tutti per il solo fatto di esserci opposti a
+
+914
+01:03:46,503 --> 01:03:50,052
+quella sciocchezzuola che è l'invasione di un paese sovrano?
+
+915
+01:03:51,143 --> 01:03:54,928
+Cosa sarà mai? Volete mettere in
+
+916
+01:03:55,042 --> 01:03:58,786
+quali e quanti cappotti termici noi potremmo
+
+917
+01:03:59,286 --> 01:04:02,434
+avvolgere le case degli italiani se non spendessimo
+
+918
+01:04:02,934 --> 01:04:06,236
+fantastilioni immaginari in armi.
+
+919
+01:04:07,813 --> 01:04:10,302
+Potremmo sconfiggere la povertà se solo volessimo.
+
+920
+01:04:12,510 --> 01:04:16,638
+Quindi viviamo in questo periodo tragicamente grottesco in cui i cosiddetti leader
+
+921
+01:04:17,138 --> 01:04:19,509
+politici riescono a rendersi ridicoli oltre ogni limite.
+
+922
+01:04:22,266 --> 01:04:25,486
+Conte è preoccupato per il vento di destra che
+
+923
+01:04:25,986 --> 01:04:30,397
+spazza l'Europa e lo dice restando serio come
+
+924
+01:04:30,897 --> 01:04:34,630
+potrebbe esserlo chi è stato il premier della coalizione gialloverde italiana.
+
+925
+01:04:36,053 --> 01:04:40,036
+Soprattutto scordando che ospite d'onore di Nova
+
+926
+01:04:41,713 --> 01:04:45,888
+a novembre del 2024, la convenzione programmatica
+
+927
+01:04:46,388 --> 01:04:50,721
+rifondativa post-grillina, ci fu quella Sahra
+
+928
+01:04:51,221 --> 01:04:55,304
+Wagenknecht, cioè la rossobruna filorussa tedesca
+
+929
+01:04:55,482 --> 01:04:59,668
+uscita dalla Linke, che oggi si batte contro
+
+930
+01:04:59,765 --> 01:05:03,943
+ogni sorta di cordone sanitario o di firewall
+
+931
+01:05:04,443 --> 01:05:07,504
+contro AfD, al punto che potrebbe fornire ad AfD i seggi
+
+932
+01:05:07,520 --> 01:05:11,436
+necessari per governare la Sassonia-Anhalt con maggioranza assoluta.
+
+933
+01:05:13,337 --> 01:05:16,994
+Il Movimento 5 Stelle, basta andare a vedersi le cronache
+
+934
+01:05:17,810 --> 01:05:22,973
+dell'hausorgan del Movimento 5 Stelle, nonché l'eco di Mosca, nonché chiamato
+
+935
+01:05:23,069 --> 01:05:26,697
+Il Fatto Quotidiano, ci informava
+
+936
+01:05:26,795 --> 01:05:30,264
+ai tempi di Nova, nel novembre del '24, che tra
+
+937
+01:05:30,652 --> 01:05:34,893
+il Movimento 5 Stelle e il partito personale
+
+938
+01:05:35,393 --> 01:05:39,520
+di Sahra Wagenknecht c'era un'evidente affinità su alcuni temi,
+
+939
+01:05:40,435 --> 01:05:43,905
+ma io sono assolutamente certo che lo smemorato di Volturara
+
+940
+01:05:44,405 --> 01:05:47,985
+Appula ha rimosso queste cose, perché è impegnato
+
+941
+01:05:48,485 --> 01:05:52,242
+nei suoi borborigmi mentali a esercitare la sua schiacciante egemonia
+
+942
+01:05:52,742 --> 01:05:56,531
+culturale nei confronti del PD. PD vuol dire partito
+
+943
+01:05:56,579 --> 01:06:00,596
+decomposto guidato dalla povera rappresentante
+
+944
+01:06:00,677 --> 01:06:04,405
+d'istituto Elena Etel Schlein, la secchiona,
+
+945
+01:06:04,614 --> 01:06:08,317
+la nerd, che forse necessiterebbe
+
+946
+01:06:08,817 --> 01:06:11,958
+di una bella secchiata d'acqua gelata alla secchiona
+
+947
+01:06:12,458 --> 01:06:15,932
+per riprendersi, o detto meglio, detto alla meridionale,
+
+948
+01:06:15,964 --> 01:06:17,065
+per ripigliarsi.
+
+949
+01:06:19,233 --> 01:06:22,727
+L'Europa è una farsa che rischia di volgere in tragedia,
+
+950
+01:06:22,759 --> 01:06:26,801
+ma con tutti questi clown potrebbe persino
+
+951
+01:06:26,915 --> 01:06:32,073
+riuscire a diventare un horror artisticamente
+
+952
+01:06:32,154 --> 01:06:32,769
+pregevole.
+
+953
+01:06:35,308 --> 01:06:38,875
+Segnaliamo anche, per quanto riguarda l'horror e la tragica
+
+954
+01:06:39,375 --> 01:06:43,107
+farsa, questa settimana c'è il giro
+
+955
+01:06:44,240 --> 01:06:48,412
+delle capitali europee da parte del presidente del Consiglio Europeo,
+
+956
+01:06:49,706 --> 01:06:53,081
+il portoghese Costa. Voi sapete che
+
+957
+01:06:53,130 --> 01:06:56,593
+i tedeschi, i cosiddetti paesi frugali, austriaci, svedesi, finlandesi,
+
+958
+01:06:56,658 --> 01:07:00,167
+olandesi, eccetera eccetera, sono ferocemente
+
+959
+01:07:00,667 --> 01:07:04,179
+contrari alla proposta della Commissione von der Leyen
+
+960
+01:07:04,679 --> 01:07:08,913
+di un bilancio ordinario settennale da 2000 miliardi, vogliono parecchie centinaia
+
+961
+01:07:08,993 --> 01:07:12,893
+di miliardi di tagli. Allora cosa fa Antonio Costa?
+
+962
+01:07:14,289 --> 01:07:18,028
+Incontra Merz a Berlino e dice:
+
+963
+01:07:18,140 --> 01:07:21,318
+beh, noi non possiamo chiedere di più ai bilanci degli stati membri,
+
+964
+01:07:21,912 --> 01:07:25,939
+dobbiamo creare delle risorse proprie dell'Unione, cioè delle entrate
+
+965
+01:07:26,439 --> 01:07:29,691
+aggiuntive incarico all'Unione per proteggere i
+
+966
+01:07:29,723 --> 01:07:33,912
+bilanci nazionali, perché tutti i bilanci nazionali devono essere rispettati.
+
+967
+01:07:34,765 --> 01:07:38,411
+Quindi cosa dice Costa? Aumentiamo le tasse dell'Unione Europea, magari anche
+
+968
+01:07:38,911 --> 01:07:43,027
+sulle aziende, non solo sul
+
+969
+01:07:44,129 --> 01:07:48,322
+Carbon Border Adjustment Mechanism, così i contributi
+
+970
+01:07:48,822 --> 01:07:53,664
+dei singoli governi non solo aumenteranno ma potranno diminuire. Ma se diminuiscono E
+
+971
+01:07:53,744 --> 01:07:58,337
+noi abbiamo un buco di
+
+972
+01:07:58,837 --> 01:08:02,317
+denaro atteso nel bilancio settennale. Quindi, a parte questa logica disassata,
+
+973
+01:08:05,036 --> 01:08:09,348
+queste sono le elaborazioni di soggetti presunti
+
+974
+01:08:09,848 --> 01:08:13,827
+adulti. Servono più tasse dell'Unione Europea
+
+975
+01:08:14,327 --> 01:08:18,548
+alle cosiddette risorse proprie? Perché? Perché così gli
+
+976
+01:08:19,048 --> 01:08:21,874
+stati possono evitare di pagare di più.
+
+977
+01:08:22,164 --> 01:08:27,226
+Non fa una grinza, non fa una grinza perché è l'elettroencefalogramma
+
+978
+01:08:27,426 --> 01:08:29,601
+che è talmente piatto che non fa una grinza.
+
+979
+01:08:34,626 --> 01:08:38,835
+Comunque, un'altra notizia sfiziosa
+
+980
+01:08:38,916 --> 01:08:42,963
+che viene dall'Europa in
+
+981
+01:08:43,463 --> 01:08:47,359
+senso lato, dalla crisi, dalla policrisi di credibilità
+
+982
+01:08:47,859 --> 01:08:52,010
+dalla, dal dramma farsesco, dalla tragedia farsesca europea
+
+983
+01:08:53,293 --> 01:08:58,104
+viene esattamente dal Regno Unito. Perché questa settimana la
+
+984
+01:08:58,604 --> 01:09:02,145
+ministra, la segretaria all'Abitazione,
+
+985
+01:09:02,433 --> 01:09:06,940
+che è quella Angela Rayner, che aveva lasciato il
+
+986
+01:09:07,084 --> 01:09:10,259
+governo Starmer perché coinvolta in un problemino,
+
+987
+01:09:10,403 --> 01:09:13,996
+nel senso che non aveva pagato le tasse su quella che era seconda
+
+988
+01:09:14,496 --> 01:09:17,813
+abitazione, l'aveva fatta passare per prima, Con Burnham
+
+989
+01:09:17,925 --> 01:09:21,922
+è tornata, anche perché Rayner è una delle maggiorenti
+
+990
+01:09:22,003 --> 01:09:25,486
+dell'ala sinistra del Labour, per cui bisogna, bisognava farle
+
+991
+01:09:25,986 --> 01:09:29,468
+spazio, e ha annunciato che il governo di Andy Burnham
+
+992
+01:09:29,968 --> 01:09:33,963
+concederà ai sindaci inglesi di applicare una
+
+993
+01:09:34,043 --> 01:09:36,387
+tassa di soggiorno, una tourist tax,
+
+994
+01:09:37,736 --> 01:09:41,268
+senza un tetto massimo fissato
+
+995
+01:09:41,829 --> 01:09:45,275
+dal governo centrale. Non in
+
+996
+01:09:45,775 --> 01:09:49,316
+somma fissa, perché la somma fissa della tassa
+
+997
+01:09:49,816 --> 01:09:53,439
+di soggiorno è regressiva, ma in percentuale del costo dei
+
+998
+01:09:53,939 --> 01:09:57,868
+pernottamenti. E i sindaci potranno scegliere che fare
+
+999
+01:09:58,162 --> 01:10:01,476
+del gettito. Londra, per fare un esempio,
+
+1000
+01:10:02,856 --> 01:10:05,241
+applica una tourist tax massima del 5%,
+
+1001
+01:10:08,437 --> 01:10:11,612
+e questo è un impegno del sindaco di Londra, Sadiq Khan,
+
+1002
+01:10:11,724 --> 01:10:16,032
+di non eccedere il 5%, ma il 5% del costo dei pernottamenti.
+
+1003
+01:10:16,129 --> 01:10:19,427
+Quindi se voi pernottate in una locanda
+
+1004
+01:10:19,459 --> 01:10:23,197
+pagate il 5% di un importo esiguo, se prenotate
+
+1005
+01:10:23,697 --> 01:10:27,021
+in un 5 stelle lusso pagate il 5% di un 5 stelle lusso.
+
+1006
+01:10:28,336 --> 01:10:31,550
+Il che, vabbè, può anche starci, siamo tutti de sinistra quindi
+
+1007
+01:10:31,583 --> 01:10:33,742
+dobbiamo stare attenti a non fare cose regressive.
+
+1008
+01:10:35,520 --> 01:10:39,938
+Ma la cosa più interessante è che i sindaci, sempre nell'ambito
+
+1009
+01:10:40,438 --> 01:10:44,633
+di questo decentramento promosso da Burnham, questa devoluzione
+
+1010
+01:10:45,133 --> 01:10:48,531
+fiscale, potranno mettere quello che vogliono. Perché uno dice, vabbè,
+
+1011
+01:10:48,659 --> 01:10:52,492
+è una vostra responsabilità, se voi mettete una tourist tax al 50% non vi
+
+1012
+01:10:52,992 --> 01:10:57,096
+viene più nessuno, imparerete, imparerete. Ma nel frattempo perderanno
+
+1013
+01:10:57,596 --> 01:11:01,266
+risorse e cominceranno a piangere che vorranno le famose perequazioni
+
+1014
+01:11:01,766 --> 01:11:04,474
+dal governo centrale. Attenzione, perequazione, no?
+
+1015
+01:11:04,683 --> 01:11:08,067
+Penso che il Regno Unito si stia rapidamente italianizzando
+
+1016
+01:11:08,567 --> 01:11:12,303
+anche negli accenti se va avanti così. Soprattutto ci sono
+
+1017
+01:11:12,803 --> 01:11:16,797
+comuni che hanno messo l'impegno al tetto percentuale
+
+1018
+01:11:17,297 --> 01:11:21,291
+della tourist tax sul costo dei pernottamenti, ma hanno anche messo l'impegno
+
+1019
+01:11:21,371 --> 01:11:25,223
+morale, politico, elettorale di destinare
+
+1020
+01:11:25,319 --> 01:11:28,561
+al settore turistico le entrate della
+
+1021
+01:11:28,673 --> 01:11:31,273
+tassa di soggiorno, che diventa una tassa di scopo.
+
+1022
+01:11:32,525 --> 01:11:35,783
+Qui i sindaci potranno fare quello che vogliono.
+
+1023
+01:11:36,377 --> 01:11:39,797
+Quindi anche usare il gettito della tassa di soggiorno,
+
+1024
+01:11:39,829 --> 01:11:43,474
+della tourist tax, per ripianare il deficit corrente della loro
+
+1025
+01:11:43,974 --> 01:11:47,296
+amministrazione. Naturalmente il
+
+1026
+01:11:47,796 --> 01:11:51,551
+settore dell'hospitality, che è già stato duramente colpito dall'aumento
+
+1027
+01:11:52,273 --> 01:11:55,902
+dei contributi a carico dei datori di lavoro, dal forte aumento del
+
+1028
+01:11:55,918 --> 01:11:59,338
+salario minimo soprattutto per gli under 21, dice, guardate che se va avanti
+
+1029
+01:11:59,838 --> 01:12:03,224
+così noi chiudiamo in massa E guardate che se va
+
+1030
+01:12:03,724 --> 01:12:05,458
+avanti così noi licenziamo in massa,
+
+1031
+01:12:08,022 --> 01:12:10,687
+quindi sarà interessante vedere come andrà a finire.
+
+1032
+01:12:12,506 --> 01:12:16,330
+Però mi pare che per il momento stia procedendo tutto
+
+1033
+01:12:16,378 --> 01:12:20,330
+come previsto, come prevedibile e previsto da
+
+1034
+01:12:20,830 --> 01:12:24,276
+me, nel senso che quando un paese è
+
+1035
+01:12:24,453 --> 01:12:28,086
+in dissesto fiscale Si finisce
+
+1036
+01:12:28,586 --> 01:12:31,963
+così e la si chiama autonomia, che di fatto
+
+1037
+01:12:32,787 --> 01:12:34,839
+l'autonomia di tassare.
+
+1038
+01:12:36,736 --> 01:12:39,939
+Poi succede pure che voi sapete, se non lo sapete ve lo dico,
+
+1039
+01:12:40,635 --> 01:12:43,854
+in Regno Unito c'è in gestazione
+
+1040
+01:12:44,354 --> 01:12:48,219
+una legge che vuole proteggere l'eredità culturale e
+
+1041
+01:12:48,477 --> 01:12:53,373
+economica dei pub. Anche questa è sotto
+
+1042
+01:12:53,873 --> 01:12:57,649
+le amorevoli cure di Angela Rayner, visto che si
+
+1043
+01:12:58,149 --> 01:13:01,922
+parla proprio di questo tipo di attività. E per farvela breve,
+
+1044
+01:13:02,842 --> 01:13:06,795
+si vuole vietare il cambio
+
+1045
+01:13:07,295 --> 01:13:10,942
+di destinazione d'uso di locali pub al momento della vendita
+
+1046
+01:13:13,005 --> 01:13:16,954
+se i pub non sono rimasti sul mercato
+
+1047
+01:13:17,034 --> 01:13:18,372
+per almeno un anno.
+
+1048
+01:13:20,461 --> 01:13:24,055
+Cioè, come dire, io vi faccio esplodere il costo del lavoro,
+
+1049
+01:13:25,957 --> 01:13:29,618
+voi fallite. Quando siete
+
+1050
+01:13:30,118 --> 01:13:34,001
+falliti, cercate di vendere almeno i
+
+1051
+01:13:34,501 --> 01:13:37,723
+muri del pub per rientrare in parte dalle
+
+1052
+01:13:38,223 --> 01:13:41,961
+perdite. Ma attenzione, visto che il pub fa parte dell'eredità culturale
+
+1053
+01:13:42,461 --> 01:13:45,839
+inglese, noi non vi permettiamo
+
+1054
+01:13:46,339 --> 01:13:51,799
+di venderla a qualcuno che magari potrebbe creare un negozio di No,
+
+1055
+01:13:51,963 --> 01:13:55,050
+lì deve esserci un pub, cadesse il cielo.
+
+1056
+01:13:56,780 --> 01:14:00,660
+Deve passare un anno prima
+
+1057
+01:14:01,160 --> 01:14:04,620
+che poi possiate dirmi: e in un anno non me l'ha comprato nessuno. Ma dopo
+
+1058
+01:14:05,120 --> 01:14:08,317
+io entrerò a sindacare se il prezzo che hai chiesto era realistico. Quindi,
+
+1059
+01:14:08,722 --> 01:14:12,008
+come vedete, questo dirigismo socialisteggiante,
+
+1060
+01:14:12,283 --> 01:14:15,650
+quando comincia ad avviarsi, non lo fermate più.
+
+1061
+01:14:16,819 --> 01:14:20,879
+Voi fate letteralmente marcire il tessuto economico
+
+1062
+01:14:20,927 --> 01:14:23,472
+delle origini, lo fate marcire dalle radici.
+
+1063
+01:14:25,910 --> 01:14:29,556
+Prima vi massacro dal lato del costo del lavoro, poi voi cercate di—
+
+1064
+01:14:30,282 --> 01:14:33,558
+voi alzate bandiera bianca, chiudete, cercate di vendere il pub.
+
+1065
+01:14:33,751 --> 01:14:36,844
+Non ve lo compra nessuno come pub perché l'avviamento del pub
+
+1066
+01:14:36,892 --> 01:14:40,638
+nel frattempo è andato a farsi benedire, per non dire altro.
+
+1067
+01:14:41,313 --> 01:14:44,802
+Però il pub fa parte dell'eredità culturale ancestrale
+
+1068
+01:14:44,819 --> 01:14:48,521
+inglese, quindi bisogna fare di tutto affinché resti
+
+1069
+01:14:48,570 --> 01:14:52,165
+un pub. E poi naturalmente succederà che
+
+1070
+01:14:52,214 --> 01:14:56,179
+ci sarà gente che dirà, ma io allora ho una grande idea, diamo dei sussidi
+
+1071
+01:14:56,679 --> 01:15:00,259
+ai proprietari dei pub, facciamo una partita di giro, li tassiamo
+
+1072
+01:15:00,759 --> 01:15:04,926
+di più e gli diamo dei sussidi. E voi capite come
+
+1073
+01:15:05,426 --> 01:15:08,530
+stanno messi? Stanno messi
+
+1074
+01:15:09,030 --> 01:15:11,738
+in un modo che noi conosciamo sicuramente molto bene.
+
+1075
+01:15:16,500 --> 01:15:19,544
+Allora, andiamo a chiudere questa settimana. Non ho fatto il panino,
+
+1076
+01:15:19,657 --> 01:15:22,040
+no, tipo America, Europa,
+
+1077
+01:15:22,556 --> 01:15:26,426
+cialtronia, resto del mondo. Questa settimana chiudiamo così
+
+1078
+01:15:26,926 --> 01:15:30,100
+vi resta sullo stomaco, vi resta in gola con cialtronia.
+
+1079
+01:15:30,391 --> 01:15:34,276
+Ma è chiaro che ho già parlato di cialtronia parlando della
+
+1080
+01:15:34,776 --> 01:15:37,135
+situazione in Germania, del nativismo,
+
+1081
+01:15:38,050 --> 01:15:42,355
+eccetera eccetera. Volevo parlarvi di
+
+1082
+01:15:42,855 --> 01:15:46,645
+alcune cosucce, tipo il buon Sigfrido Ranucci,
+
+1083
+01:15:46,677 --> 01:15:50,514
+che non è ben chiaro se sia pronto a bere l'amaro calice e a candidarsi
+
+1084
+01:15:50,563 --> 01:15:53,944
+in politica, magari con quei noti talent scout
+
+1085
+01:15:54,444 --> 01:15:57,714
+di anzianità, vecchiaia, superstiti. Perché Ranucci in settimana ha
+
+1086
+01:15:57,746 --> 01:16:00,815
+dichiarato: per il 63% degli italiani potrei
+
+1087
+01:16:01,315 --> 01:16:02,398
+guidare il paese, ma non mi candido.
+
+1088
+01:16:06,421 --> 01:16:10,224
+63% degli italiani è poco, Ranucci. E cerchiamo
+
+1089
+01:16:10,724 --> 01:16:14,060
+di darci da fare, perché qui bisogna avere delle percentuali assolutamente
+
+1090
+01:16:14,560 --> 01:16:17,976
+esplosive. Quando dico percentuali esplosive, come dire, faccio una
+
+1091
+01:16:18,476 --> 01:16:22,373
+battuta troppo scontata. Noi non sappiamo se Ranucci berrà
+
+1092
+01:16:22,873 --> 01:16:25,888
+l'amaro calice, però ha detto che di lui si è parlato anche in Pakistan.
+
+1093
+01:16:26,016 --> 01:16:29,852
+Ora, è un peccato che non esista un ufficio di corrispondenza
+
+1094
+01:16:30,352 --> 01:16:34,105
+della RAI in Pakistan, almeno a mia conoscenza. Poi se c'è segnalatemelo, perché alla
+
+1095
+01:16:34,605 --> 01:16:39,171
+fine avremmo potuto, come dire, unire l'utile al dilettevole e offrirgli l'ufficio
+
+1096
+01:16:39,671 --> 01:16:43,749
+di corrispondenza del Pakistan, altro paese molto friccicarello.
+
+1097
+01:16:45,071 --> 01:16:49,102
+Potrei parlarvi di quello che prima o poi finirà su
+
+1098
+01:16:49,602 --> 01:16:52,944
+Netflix, cioè la saga della famiglia Del Vecchio,
+
+1099
+01:16:52,977 --> 01:16:57,179
+degli eredi Del Vecchio, in particolare
+
+1100
+01:16:57,679 --> 01:16:59,717
+di Leonardo Maria Del Vecchio,
+
+1101
+01:17:01,780 --> 01:17:05,604
+che pare si vedrà chiedere dai suoi due fratelli 500
+
+1102
+01:17:06,104 --> 01:17:09,524
+milioni di penale perché si è
+
+1103
+01:17:09,686 --> 01:17:13,192
+scordato nella sua proposta di acquisto delle quote dei suoi fratelli, che poi
+
+1104
+01:17:13,692 --> 01:17:17,809
+è andata a monte per i noti motivi, di mettere delle condizioni
+
+1105
+01:17:18,309 --> 01:17:21,531
+sospensive del
+
+1106
+01:17:22,031 --> 01:17:25,657
+tipo: se non può accadere, non può accadere. Non c'è quella clausola, quindi io
+
+1107
+01:17:26,558 --> 01:17:30,418
+Vado pazzo per i piani ben riusciti e soprattutto ho una grande ammirazione
+
+1108
+01:17:30,918 --> 01:17:34,166
+per i consulenti molto abili.
+
+1109
+01:17:35,710 --> 01:17:38,712
+Volevo parlarvi anche di questo, ma non ve ne parlerò perché alla fine pare che
+
+1110
+01:17:38,809 --> 01:17:44,686
+arriverà tutto su Netflix. Volevo però chiudere
+
+1111
+01:17:45,186 --> 01:17:49,064
+in bellezza, in bruttezza, l'orrore, diciamo, sempre con Giuseppe
+
+1112
+01:17:49,146 --> 01:17:53,222
+Conte. Voi sapete che io sono anni che vi segnalo che Giuseppe Conte si
+
+1113
+01:17:53,722 --> 01:17:57,812
+limita ad esistere perché lui è il prodotto
+
+1114
+01:17:58,312 --> 01:18:02,210
+di sentina del degrado del discorso pubblico italiano.
+
+1115
+01:18:02,322 --> 01:18:06,833
+Non è colpa sua, cioè lui proprio— gli ecosistemi per selezione naturale
+
+1116
+01:18:07,719 --> 01:18:11,697
+producono degli
+
+1117
+01:18:11,761 --> 01:18:15,368
+individui. Ecco, lui è il prodotto della selezione naturale
+
+1118
+01:18:15,868 --> 01:18:17,496
+del degrado del discorso pubblico italiano.
+
+1119
+01:18:19,596 --> 01:18:23,586
+Nei giorni scorsi Conte ha detto: la crescita accumulata negli ultimi 4
+
+1120
+01:18:24,086 --> 01:18:26,441
+anni di governo Meloni è stata del 3%.
+
+1121
+01:18:29,181 --> 01:18:32,844
+Il debito pubblico italiano nel 2022 era
+
+1122
+01:18:32,893 --> 01:18:36,249
+calato del 20%, mentre oggi
+
+1123
+01:18:36,749 --> 01:18:39,835
+è proiettato verso il 138%.
+
+1124
+01:18:41,741 --> 01:18:45,332
+Allora, è proiettato verso il 138% perché
+
+1125
+01:18:45,660 --> 01:18:50,158
+fino al 2027 Si trasformeranno
+
+1126
+01:18:50,658 --> 01:18:54,666
+non in una zucca ma in debito tutti i crediti d'imposta del maledetto
+
+1127
+01:18:55,166 --> 01:18:59,296
+Superbonus introdotto dal governo Conte
+
+1128
+01:19:00,964 --> 01:19:04,932
+2 con l'entusiastico
+
+1129
+01:19:05,432 --> 01:19:07,684
+supporto del partito decomposto,
+
+1130
+01:19:09,464 --> 01:19:14,507
+quelli che vanno al TG1 tutte le sere dietro le fresche frasche e lanciano accuse
+
+1131
+01:19:15,007 --> 01:19:18,678
+sdegnate nei confronti del governo Meloni, quelli.
+
+1132
+01:19:21,054 --> 01:19:25,127
+Però soprattutto colpisce: nel 2022
+
+1133
+01:19:25,627 --> 01:19:28,811
+il debito pubblico era calato del 20%. Nel 2022 c'era
+
+1134
+01:19:29,671 --> 01:19:33,782
+il governo giallorosso guidato
+
+1135
+01:19:34,282 --> 01:19:38,314
+dal fortissimo punto di riferimento dei progressisti italiani. Ma ora
+
+1136
+01:19:39,147 --> 01:19:43,998
+Qui l'avvocato del populismo scorda che nel 2022 il
+
+1137
+01:19:44,498 --> 01:19:48,673
+rapporto debito-PIL crollò perché l'uscita dal COVID, cioè le riaperture,
+
+1138
+01:19:50,290 --> 01:19:53,350
+fecero rimbalzare con violenza il denominatore,
+
+1139
+01:19:53,463 --> 01:19:56,167
+cioè il PIL. Per quello è crollato,
+
+1140
+01:19:58,228 --> 01:20:02,331
+non per altro. Quindi di
+
+1141
+01:20:02,831 --> 01:20:05,870
+fronte a una frase del genere io sono in dubbio se assegnare a Conte il
+
+1142
+01:20:06,370 --> 01:20:10,736
+premio Giacchetti il premio per l'analfabetismo disfunzionale
+
+1143
+01:20:11,236 --> 01:20:13,293
+di sola andata o entrambi? Facciamo entrambi.
+
+1144
+01:20:16,966 --> 01:20:20,806
+Sono certo che se Conte dovesse tornare a Palazzo Chigi— sapete
+
+1145
+01:20:21,306 --> 01:20:25,887
+che in questi giorni c'è stata la polemica sulle scuole italiane prive di climatizzazione—
+
+1146
+01:20:26,387 --> 01:20:29,831
+oibo, ci hanno inondati di miliardi e non
+
+1147
+01:20:30,331 --> 01:20:33,759
+abbiamo pensato alla climatizzazione delle
+
+1148
+01:20:34,259 --> 01:20:38,100
+scuole italiane! Ma tu pensa, e quindi quando tornerà
+
+1149
+01:20:38,132 --> 01:20:40,366
+lui, caro lei, con il Conte 3,
+
+1150
+01:20:42,322 --> 01:20:46,352
+io già vedo delle fantasmagoriche iniziative
+
+1151
+01:20:46,852 --> 01:20:48,779
+come i climatizzatori a rotelle.
+
+1152
+01:20:53,553 --> 01:20:56,853
+Bene, si fa per dire, abbiamo terminato.
+
+1153
+01:20:57,531 --> 01:21:03,256
+Vi ringrazio per l'ascolto. Vi ricordo come sempre Phastidio.net/contacto,
+
+1154
+01:21:03,289 --> 01:21:06,939
+Phastidio.net/donazioni. Vi ricordo il Phastidio
+
+1155
+01:21:07,439 --> 01:21:11,474
+Substack. Vi ricordo l'ossimorica donazione
+
+1156
+01:21:11,555 --> 01:21:15,353
+con controprestazione, che vuol dire che tutti quelli che faranno donazioni,
+
+1157
+01:21:15,497 --> 01:21:18,878
+erogazioni liberali a fastidio,
+
+1158
+01:21:19,904 --> 01:21:23,990
+otterranno in omaggio un abbonamento di durata proporzionata
+
+1159
+01:21:24,490 --> 01:21:28,349
+alla donazione al Phastidio Substack, e quindi potranno leggersi i post senza avere
+
+1160
+01:21:28,382 --> 01:21:32,484
+la pubblicità tra i piedi e potranno ascoltare il podcast senza
+
+1161
+01:21:32,984 --> 01:21:37,003
+avere la pubblicità tra i piedi. Cosa volete di più dalla vita? Un tucano?
+
+1162
+01:21:37,132 --> 01:21:41,024
+Finiamo! Grazie per l'ascolto,
+
+1163
+01:21:41,137 --> 01:21:44,627
+ci risentiamo al fato piacendo sabato prossimo!
+
+1164
+01:21:44,756 --> 01:21:46,010
+Buona vita, se potete!
