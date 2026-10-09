@@ -1,0 +1,4603 @@
+1
+00:00:02,112 --> 00:00:05,703
+Questo è Phastidio Podcast, la Settimana Phastidiosa,
+
+2
+00:00:05,914 --> 00:00:09,262
+il commento a fatti e notizie che hanno attirato la mia attenzione.
+
+3
+00:00:09,920 --> 00:00:12,644
+Lo trovate su tutte le maggiori piattaforme podcast,
+
+4
+00:00:12,773 --> 00:00:16,351
+YouTube, sulle app di aggregazione dei feed RSS.
+
+5
+00:00:16,963 --> 00:00:20,466
+I sostenitori su Spreaker e YouTube e gli abbonati al
+
+6
+00:00:20,580 --> 00:00:24,343
+Phastidio Substack ascoltano senza pubblicità e in anteprima.
+
+7
+00:00:24,876 --> 00:00:26,201
+Io sono Mario Seminerio.
+
+8
+00:00:44,330 --> 00:00:48,121
+Questa puntata sarà necessariamente dedicata
+
+9
+00:00:48,137 --> 00:00:51,540
+in via prevalente al caso Francia, anche perché
+
+10
+00:00:52,250 --> 00:00:55,571
+è un problema di grande rilevanza che parte
+
+11
+00:00:56,071 --> 00:01:00,643
+da lontano, che, e il cui bubbone sta giungendo rapidamente
+
+12
+00:01:00,707 --> 00:01:04,253
+a maturazione in conseguenza dell'innesco del rialzo
+
+13
+00:01:04,753 --> 00:01:09,193
+dei tassi, oltre che delle disfunzionalità di governance istituzionale
+
+14
+00:01:09,693 --> 00:01:13,461
+di quel paese con il collasso del centro. Però, visto che
+
+15
+00:01:13,961 --> 00:01:18,209
+è tradizione iniziare ogni puntata parlando delle avventure
+
+16
+00:01:18,257 --> 00:01:21,626
+di Al Trampone e del suo cerchio più o
+
+17
+00:01:22,126 --> 00:01:26,133
+meno magico, questa settimana almeno Sino
+
+18
+00:01:26,633 --> 00:01:30,046
+al momento in cui sto registrando non c'è stato nulla di
+
+19
+00:01:30,126 --> 00:01:33,862
+particolarmente eclatante dal lato specifico di Trump,
+
+20
+00:01:33,991 --> 00:01:37,502
+o meglio minaccia pesanti
+
+21
+00:01:38,002 --> 00:01:42,281
+bombardamenti sull'Iran ma non prima delle
+
+22
+00:01:42,489 --> 00:01:45,873
+elezioni di midterm, così non si sa perché abbia
+
+23
+00:01:46,373 --> 00:01:50,331
+messo questa scadenza, quindi non c'è nulla di particolarmente
+
+24
+00:01:50,831 --> 00:01:54,099
+significativo. Quello che di significativo
+
+25
+00:01:54,516 --> 00:01:58,107
+arriva dagli Stati Uniti e altro,
+
+26
+00:01:58,988 --> 00:02:02,146
+nel senso che voi sapete, io ho scritto
+
+27
+00:02:02,646 --> 00:02:06,988
+Il paziente zero per illustrare la diffusione a
+
+28
+00:02:07,488 --> 00:02:12,535
+livello internazionale, non solo europeo, di alcune disfunzionalità
+
+29
+00:02:12,856 --> 00:02:15,950
+tipicamente italiane che abbiamo sotto gli occhi da lustri.
+
+30
+00:02:17,120 --> 00:02:20,743
+E questa settimana, naturalmente queste sono disfunzionalità
+
+31
+00:02:20,791 --> 00:02:25,472
+da declino strutturale, Questa settimana un
+
+32
+00:02:26,441 --> 00:02:29,136
+editoriale sul Financial Times di Rana Forwar,
+
+33
+00:02:30,136 --> 00:02:33,659
+che è appunto una editorialista che io seguo
+
+34
+00:02:33,790 --> 00:02:35,151
+da parecchio tempo,
+
+35
+00:02:37,216 --> 00:02:40,616
+disegna una sorta di parallelismo tra gli
+
+36
+00:02:41,116 --> 00:02:44,421
+Stati Uniti e l'Italia. Gli Stati Uniti sembrano
+
+37
+00:02:44,664 --> 00:02:46,982
+sempre più assomigliare all'Italia.
+
+38
+00:02:48,312 --> 00:02:52,480
+La premessa è che oggi gli Stati Uniti hanno degli aspetti da paesi
+
+39
+00:02:52,980 --> 00:02:57,108
+emergenti. Questo lo segnalavo anch'io all'indomani del famoso Liberation
+
+40
+00:02:57,608 --> 00:03:02,215
+Day del 2 aprile 2025, ma anche divergenze persistenti.
+
+41
+00:03:02,488 --> 00:03:06,439
+Ma in questo momento, come correttamente
+
+42
+00:03:06,939 --> 00:03:09,410
+illustra Rana Forward,
+
+43
+00:03:10,197 --> 00:03:14,212
+sarebbe anche ingiusto e ingeneroso nei
+
+44
+00:03:14,712 --> 00:03:17,746
+confronti dei paesi emergenti questo
+
+45
+00:03:18,246 --> 00:03:21,921
+paragone, perché i paesi emergenti alla fine stanno mostrando
+
+46
+00:03:22,017 --> 00:03:25,292
+un grado di disciplina fiscale molto
+
+47
+00:03:25,792 --> 00:03:29,354
+consistente, che non è iniziato oggi ma si protrae da tempo,
+
+48
+00:03:29,403 --> 00:03:33,079
+al di là dei sommovimenti elettorali e di altre
+
+49
+00:03:33,579 --> 00:03:37,013
+criticità. Però la disciplina fiscale e
+
+50
+00:03:37,190 --> 00:03:40,786
+una governance complessivamente stabile
+
+51
+00:03:41,669 --> 00:03:45,249
+dovrebbero spingere a usare meno di frequente,
+
+52
+00:03:45,314 --> 00:03:48,573
+o a smettere di usare, l'appellativo paese emergente in
+
+53
+00:03:49,073 --> 00:03:52,180
+senso dispregiativo. Io stesso, come ricorderete,
+
+54
+00:03:52,420 --> 00:03:55,882
+tendo a definire l'Italia come quel paese
+
+55
+00:03:56,382 --> 00:04:00,193
+alla deriva tra Medio Oriente e Sudamerica. Però,
+
+56
+00:04:00,433 --> 00:04:03,718
+tornando al punto, ci sono 3 aspetti
+
+57
+00:04:04,218 --> 00:04:08,061
+di similitudine tra Stati Uniti e Italia, dice Forward.
+
+58
+00:04:08,301 --> 00:04:12,164
+Il primo è che la corruzione conclamata
+
+59
+00:04:12,308 --> 00:04:15,897
+e manifesta può anche non essere così
+
+60
+00:04:16,154 --> 00:04:19,503
+eclatante nei 2 paesi. Avrei i miei dubbi, visto che quello
+
+61
+00:04:20,003 --> 00:04:23,365
+che riesce a fare Trump con il suo cerchio magico e i suoi
+
+62
+00:04:23,865 --> 00:04:27,689
+famigli e la che. Non è così manifesta e
+
+63
+00:04:27,721 --> 00:04:31,275
+conclamata come in mercati emergenti, o specificamente nei mercati di
+
+64
+00:04:31,775 --> 00:04:35,266
+frontiera, che sono quelli finanziariamente ancor meno evoluti degli
+
+65
+00:04:35,766 --> 00:04:39,311
+emergenti. Ma Stati Uniti e Italia sembra
+
+66
+00:04:39,811 --> 00:04:44,052
+si stiano allontanando dalla necessità di perseguire
+
+67
+00:04:44,165 --> 00:04:47,463
+la corruzione, per cui tendono a lasciar correre,
+
+68
+00:04:47,495 --> 00:04:53,326
+laissez-faire, laissez-passer, come direbbero i francesi, visto che oggi la puntata sarà prevalentemente dedicata a
+
+69
+00:04:53,826 --> 00:04:57,621
+loro. Secondo punto di contatto tra Stati Uniti e Italia:
+
+70
+00:04:58,550 --> 00:05:02,700
+il populismo, che vabbè si manifesta in maniera relativamente
+
+71
+00:05:03,200 --> 00:05:06,434
+simile. Vi ricordo che possiamo considerare il
+
+72
+00:05:06,626 --> 00:05:10,760
+creatore del populismo italiano nella figura di Silvio Berlusconi.
+
+73
+00:05:12,251 --> 00:05:15,520
+Ultimo punto, il più importante: il mercato
+
+74
+00:05:16,020 --> 00:05:19,285
+del lavoro negli Stati Uniti appare sempre più simile a
+
+75
+00:05:20,301 --> 00:05:23,438
+a quello italiano in un aspetto cruciale, cioè che gli anziani,
+
+76
+00:05:23,470 --> 00:05:26,989
+lavoratori più anziani, tengono la
+
+77
+00:05:27,489 --> 00:05:31,270
+presa sui loro lavori che vengono considerati mediamente di
+
+78
+00:05:31,770 --> 00:05:36,134
+qualità, mentre i giovani hanno problemi crescenti
+
+79
+00:05:36,634 --> 00:05:40,747
+a entrare nel mondo del lavoro o a trovare dei lavori decenti.
+
+80
+00:05:40,859 --> 00:05:45,665
+Quindi, come si nota, c'è questo parallelismo del
+
+81
+00:05:45,777 --> 00:05:50,604
+paziente zero, il contagio, la sindrome italiana
+
+82
+00:05:51,104 --> 00:05:54,309
+è manifestamente presente anche negli Stati Uniti. Voi potreste
+
+83
+00:05:54,809 --> 00:05:58,061
+dire, sì, ma non c'entra nulla perché gli Stati Uniti stanno crescendo in una maniera
+
+84
+00:05:58,561 --> 00:06:01,702
+impressionante, stanno drenando capitali dal pianeta,
+
+85
+00:06:01,910 --> 00:06:05,663
+eccetera eccetera. Sicuramente, ma quando
+
+86
+00:06:06,144 --> 00:06:09,881
+voi avete qualcuno che scuote con violenza una gabbia,
+
+87
+00:06:09,913 --> 00:06:13,567
+per usare un'immagine mutuata da un'espressione anglosassone,
+
+88
+00:06:13,599 --> 00:06:16,803
+prima o poi qualcosa accade, cioè il punto di rottura prima o poi
+
+89
+00:06:16,819 --> 00:06:21,530
+avviene. Considerate anche le forti limitazioni all'immigrazione
+
+90
+00:06:22,030 --> 00:06:25,503
+qualificata che hanno colpito questa settimana particolarmente Microsoft.
+
+91
+00:06:25,599 --> 00:06:29,861
+JD Vance ha detto che nessuna azienda
+
+92
+00:06:29,941 --> 00:06:33,754
+tende a violare le norme di immigrazione qualificata come
+
+93
+00:06:33,866 --> 00:06:36,959
+Microsoft. Questo è un punto piuttosto importante.
+
+94
+00:06:37,071 --> 00:06:39,987
+Sicuramente ci saranno stati e ci saranno degli abusi,
+
+95
+00:06:40,035 --> 00:06:44,201
+ma su questa strada, se gli Stati Uniti diventano
+
+96
+00:06:45,178 --> 00:06:49,167
+un po' più chiusi all'immigrazione qualificata, le conseguenze
+
+97
+00:06:49,199 --> 00:06:51,539
+non dovrebbero tardare malgrado tutto.
+
+98
+00:06:52,933 --> 00:06:54,214
+Poi questa settimana,
+
+99
+00:06:55,672 --> 00:06:59,309
+naturalmente io qui sto citando in maniera abbastanza così random,
+
+100
+00:06:59,406 --> 00:07:03,187
+abbastanza loose, ho visto un commento
+
+101
+00:07:03,687 --> 00:07:07,144
+del capo economista di Apollo, Torsten Slok, che ha questa rubrica giornaliera
+
+102
+00:07:07,644 --> 00:07:11,438
+molto interessante che sono pillole di commenti sull'andamento
+
+103
+00:07:11,938 --> 00:07:16,165
+dei mercati che praticamente ci spiega una
+
+104
+00:07:16,665 --> 00:07:19,803
+relazione controintuitiva. Cioè, noi sappiamo dal
+
+105
+00:07:20,303 --> 00:07:23,184
+libro di testo che tassi di interesse elevati,
+
+106
+00:07:24,097 --> 00:07:28,039
+deprimendo l'attività economica, tendono anche
+
+107
+00:07:28,539 --> 00:07:32,462
+a raffreddare l'inflazione. Bene, può accadere in realtà qualcosa
+
+108
+00:07:32,962 --> 00:07:37,593
+di assolutamente controintuitivo, dice Torsten Slok, cioè Tassi
+
+109
+00:07:37,689 --> 00:07:42,017
+elevati deprimono la costruzione di nuove abitazioni
+
+110
+00:07:42,838 --> 00:07:46,047
+e di conseguenza fanno salire i prezzi
+
+111
+00:07:46,547 --> 00:07:50,224
+degli affitti, che sono un'ampia parte dell'indice dei prezzi
+
+112
+00:07:50,724 --> 00:07:54,884
+al consumo headline e core. Quindi questa
+
+113
+00:07:54,964 --> 00:07:58,645
+conseguenza molto alla Erdogan, secondo cui
+
+114
+00:07:59,964 --> 00:08:04,002
+esistono delle situazioni in cui elevati e persistentemente
+
+115
+00:08:04,502 --> 00:08:09,698
+elevati tassi di interesse possono alimentare l'inflazione, viene in
+
+116
+00:08:10,198 --> 00:08:13,994
+questo legame con il peso del capitolo shelter,
+
+117
+00:08:14,106 --> 00:08:17,792
+cioè abitazione, sia sull'inflazione complessiva che
+
+118
+00:08:18,292 --> 00:08:22,040
+sull'inflazione di fondo. E questo è un punto che vi segnalo perché
+
+119
+00:08:22,200 --> 00:08:26,063
+può, come dire, dico minare
+
+120
+00:08:26,563 --> 00:08:30,534
+antiche certezze, perché quelle restano, però diciamo viviamo
+
+121
+00:08:30,631 --> 00:08:33,836
+in un periodo in cui probabilmente bisogna
+
+122
+00:08:34,336 --> 00:08:38,246
+avere anche una maggiore propensione a non
+
+123
+00:08:38,471 --> 00:08:42,166
+ripetere acriticamente le antiche certezze, che poi non vuol
+
+124
+00:08:42,666 --> 00:08:45,716
+dire trasformarsi in un venditore di olio di serpente
+
+125
+00:08:46,216 --> 00:08:50,215
+e far passare la qualunque approfittando del fatto che la cosiddetta scienza economica
+
+126
+00:08:50,715 --> 00:08:54,617
+è assai poco scienza, pur essendo scienza sociale, perché quella è una classica
+
+127
+00:08:55,117 --> 00:08:58,408
+degenerazione che noi abbiamo visto nel corso degli anni, che ha
+
+128
+00:08:58,908 --> 00:09:02,119
+regalato a qualcuno delle robuste rendite
+
+129
+00:09:02,248 --> 00:09:05,825
+politiche parlamentari. Possiamo chiudere
+
+130
+00:09:05,938 --> 00:09:10,070
+questo capitolo abbastanza contenuto relativo
+
+131
+00:09:10,248 --> 00:09:13,987
+agli Stati Uniti. Ci spostiamo in Francia
+
+132
+00:09:14,780 --> 00:09:19,323
+e parliamo della situazione francese,
+
+133
+00:09:20,989 --> 00:09:24,809
+perché è sempre più grave la situazione francese, ma è anche
+
+134
+00:09:25,599 --> 00:09:29,368
+una situazione che parte da lontano. Io stavo riguardando lo
+
+135
+00:09:29,868 --> 00:09:33,309
+storico, l'archivio del mio sito Phastidio.net
+
+136
+00:09:33,501 --> 00:09:37,901
+e nell'ormai remoto marzo
+
+137
+00:09:38,142 --> 00:09:42,637
+del 2024 segnalavo
+
+138
+00:09:42,878 --> 00:09:46,105
+che la Francia era destinata a diventare il
+
+139
+00:09:46,170 --> 00:09:49,268
+canarino nella miniera del populismo fiscale.
+
+140
+00:09:50,280 --> 00:09:54,278
+Ed è effettivamente quello che è accaduto. Chi mi segue
+
+141
+00:09:54,778 --> 00:09:58,707
+con sufficiente attenzione Questo red flag,
+
+142
+00:09:58,851 --> 00:10:02,989
+questa bandiera rossa, questa spia accesa sul cruscotto della navigazione,
+
+143
+00:10:03,662 --> 00:10:06,902
+la vede da circa 2 anni e mezzo.
+
+144
+00:10:07,046 --> 00:10:10,654
+È poco? È tanto? Non lo so. Però diciamo che in un momento
+
+145
+00:10:11,154 --> 00:10:14,728
+in cui ci sono molti veggenti del giorno dopo
+
+146
+00:10:14,904 --> 00:10:18,897
+o del penultimo giorno, è utile, visto che gli archivi
+
+147
+00:10:18,994 --> 00:10:22,233
+esistono per essere consultati e per lasciare traccia,
+
+148
+00:10:22,907 --> 00:10:26,229
+che io vi ricordi che questa dinamica della
+
+149
+00:10:26,729 --> 00:10:30,418
+lenta ma inesorabile discesa agli inferi della Francia io la segnalo
+
+150
+00:10:31,092 --> 00:10:35,200
+da oltre 2 anni e mezzo. Quindi chiusa la parte relativa
+
+151
+00:10:35,700 --> 00:10:39,196
+al mio ego, parliamo di quello che sta succedendo in Francia sotto
+
+152
+00:10:39,696 --> 00:10:43,128
+diversi aspetti e parliamo anche di una sorta di,
+
+153
+00:10:43,706 --> 00:10:47,237
+anche qui, punto di tangenza tra l'Italia
+
+154
+00:10:47,737 --> 00:10:51,669
+e la Francia, nel senso che Se pensate che le agevolazioni
+
+155
+00:10:52,169 --> 00:10:55,829
+fiscali, quelle che con termine anglosassone sono note come tax
+
+156
+00:10:56,329 --> 00:11:00,519
+expenditures, siano un prodotto tipico italiano, ebbene dovete ripensarci,
+
+157
+00:11:00,551 --> 00:11:04,920
+perché la Francia nel suo cammino verso l'inferno
+
+158
+00:11:05,420 --> 00:11:09,514
+fiscale ne enumera ben 459,
+
+159
+00:11:09,626 --> 00:11:12,838
+così come ricordato nel progetto di legge
+
+160
+00:11:13,338 --> 00:11:17,090
+di bilancio del prossimo anno. Sono 6 in meno di quelle del
+
+161
+00:11:17,590 --> 00:11:21,739
+2026, ma hanno un costo che il prossimo anno dovrebbe
+
+162
+00:11:21,819 --> 00:11:25,795
+toccare circa 92 miliardi. Per la cronaca,
+
+163
+00:11:25,923 --> 00:11:30,524
+l'ultimo dato italiano indica 573
+
+164
+00:11:30,957 --> 00:11:34,772
+tax expenditures per un totale di 110 miliardi.
+
+165
+00:11:34,900 --> 00:11:38,010
+Ebbene, il governo Le Cornu punta
+
+166
+00:11:38,587 --> 00:11:42,098
+a recuperare il prossimo anno un paio di miliardi
+
+167
+00:11:42,258 --> 00:11:46,830
+da questi interventi sulle agevolazioni che colpiranno soprattutto
+
+168
+00:11:47,330 --> 00:11:50,772
+le persone fisiche. In Francia le tax expenditures
+
+169
+00:11:51,272 --> 00:11:55,229
+si chiamano niche fiscale, quindi le nicchie fiscali tendono
+
+170
+00:11:55,729 --> 00:12:00,083
+ovviamente a lievitare col passare del tempo in conseguenza
+
+171
+00:12:00,164 --> 00:12:04,414
+dell'inflazione. Nella legge di bilancio
+
+172
+00:12:04,914 --> 00:12:09,294
+dello scorso anno si prevedeva un costo di 88 miliardi
+
+173
+00:12:09,326 --> 00:12:12,960
+rivisto a consuntivo, è risultato superiore
+
+174
+00:12:13,460 --> 00:12:16,808
+per circa 4 miliardi e mezzo e ha toccato
+
+175
+00:12:17,145 --> 00:12:19,822
+i 92,5 miliardi.
+
+176
+00:12:20,111 --> 00:12:23,381
+Ebbene, in testa alla classifica delle nicchie
+
+177
+00:12:23,881 --> 00:12:27,981
+fiscali c'è il credito d'imposta per la ricerca, che costa 7,4
+
+178
+00:12:28,481 --> 00:12:32,069
+miliardi, che praticamente sostiene l'investimento in
+
+179
+00:12:32,569 --> 00:12:35,964
+ricerca e sviluppo da parte delle aziende francesi, ma che il
+
+180
+00:12:36,464 --> 00:12:40,500
+prossimo anno, pur essendo lasciato intonso dal governo,
+
+181
+00:12:40,533 --> 00:12:44,380
+prevede un tiraggio incrementale
+
+182
+00:12:44,880 --> 00:12:48,307
+di soli 300 milioni, il che sembrerebbe suggerire
+
+183
+00:12:48,807 --> 00:12:52,491
+che, visto che la situazione è piuttosto problematica, le aziende
+
+184
+00:12:52,991 --> 00:12:57,364
+abbiano meno investimenti in ricerca e sviluppo. Non approfondisco
+
+185
+00:12:57,864 --> 00:13:01,852
+quali sono le spese che finiscono in ricerca e sviluppo. Voi sapete che una
+
+186
+00:13:02,352 --> 00:13:06,020
+voce del genere, se esistesse in maniera estensiva in Italia— sicuramente
+
+187
+00:13:06,520 --> 00:13:10,269
+c'è qualcosa di analogo— ma se esistesse in maniera estensiva metterebbe le
+
+188
+00:13:10,769 --> 00:13:14,765
+spese strettamente correnti nella ricerca e sviluppo, perché voglio
+
+189
+00:13:15,265 --> 00:13:18,619
+dire, l'incentivo fa l'uomo ladro. Al secondo posto
+
+190
+00:13:19,119 --> 00:13:23,131
+della classifica delle nicchie fiscali francesi c'è il credito d'imposta per i servizi
+
+191
+00:13:23,631 --> 00:13:26,535
+alla persona, che costa 7,1 miliardi di euro.
+
+192
+00:13:27,610 --> 00:13:31,255
+Viene concesso ai privati che assumono babysitter,
+
+193
+00:13:31,480 --> 00:13:34,402
+addetti alle pulizie, giardinieri, eccetera.
+
+194
+00:13:35,092 --> 00:13:39,434
+E Lecornu in persona ha detto che intende proteggere questa
+
+195
+00:13:39,934 --> 00:13:43,889
+misura. In terza posizione c'è l'abbattimento
+
+196
+00:13:44,049 --> 00:13:48,135
+fiscale per i pensionati, perché come sapete, ve ne
+
+197
+00:13:48,635 --> 00:13:52,558
+parlavo nelle scorse puntate, attualmente le pensioni beneficiano di
+
+198
+00:13:53,058 --> 00:13:56,387
+un abbattimento del 10% sul loro imponibile
+
+199
+00:13:56,948 --> 00:14:00,634
+con un tetto massimo di 4.439 euro
+
+200
+00:14:01,134 --> 00:14:04,968
+per nucleo familiare. Dal prossimo anno il
+
+201
+00:14:05,468 --> 00:14:09,467
+governo si propone, poi vedremo il percorso parlamentare, di limitare
+
+202
+00:14:09,967 --> 00:14:14,047
+questo vantaggio a 3.000 euro a famiglia, con un risparmio
+
+203
+00:14:14,547 --> 00:14:18,626
+di 1,4 miliardi di euro, che viene presentata
+
+204
+00:14:19,126 --> 00:14:22,274
+come una misura che aumenterà
+
+205
+00:14:22,322 --> 00:14:26,660
+la progressività delle imposte colpendo 4,6
+
+206
+00:14:27,160 --> 00:14:30,848
+milioni di famiglie un terzo del totale di quelle che
+
+207
+00:14:31,348 --> 00:14:34,750
+comprendono almeno un pensionato e sarà
+
+208
+00:14:34,799 --> 00:14:38,954
+priva di effetti in coloro
+
+209
+00:14:39,470 --> 00:14:43,157
+che hanno pensioni inferiori a 30.000
+
+210
+00:14:43,657 --> 00:14:47,404
+euro l'anno. Come vedete, le famose soglie di benessere stanno
+
+211
+00:14:47,436 --> 00:14:50,972
+cominciando a disegnarsi anche in Francia su livelli
+
+212
+00:14:51,390 --> 00:14:54,936
+analoghi a quelli italiani. Poi al quarto posto
+
+213
+00:14:55,436 --> 00:14:59,660
+c'è Il beneficio fiscale che facilita
+
+214
+00:15:00,160 --> 00:15:04,333
+le trasmissioni di imprese familiari, che è noto come Pacte Dutreil,
+
+215
+00:15:05,441 --> 00:15:09,712
+vale 3,8 miliardi. E poi ci sono— arriva
+
+216
+00:15:10,212 --> 00:15:14,352
+al quinto posto dopo una grande rincorsa un'agevolazione che
+
+217
+00:15:14,852 --> 00:15:18,447
+si è gonfiata col passare del tempo, cioè l'esenzione fiscale
+
+218
+00:15:18,947 --> 00:15:22,059
+sul malus per il peso perché
+
+219
+00:15:22,559 --> 00:15:26,519
+c'è anche quella, perché veicoli pesanti logorano l'infrastruttura
+
+220
+00:15:26,551 --> 00:15:29,279
+stradale, quindi causano esternalità negative.
+
+221
+00:15:30,242 --> 00:15:34,253
+Però tra i veicoli più pesanti ci sono quelli che hanno
+
+222
+00:15:35,136 --> 00:15:39,147
+la batteria, sia le auto elettriche
+
+223
+00:15:39,227 --> 00:15:43,287
+che le auto a idrogeno che hanno le celle a idrogeno.
+
+224
+00:15:43,399 --> 00:15:47,732
+Quindi è stata introdotta un'agevolazione
+
+225
+00:15:48,232 --> 00:15:52,194
+fiscale per esentare queste vetture dal
+
+226
+00:15:52,258 --> 00:15:55,597
+malus che deriva dal loro maggiore peso che
+
+227
+00:15:56,097 --> 00:15:59,209
+logora la sede stradale. Però, visto che il numero di queste
+
+228
+00:15:59,709 --> 00:16:03,302
+vetture sta aumentando, ecco che questo beneficio
+
+229
+00:16:03,802 --> 00:16:07,588
+si gonfia perché c'è un maggiore tiraggio. È come il crollo delle
+
+230
+00:16:08,088 --> 00:16:11,810
+accise sulla vendita dei carburanti che deriva dalla diffusione dei
+
+231
+00:16:12,310 --> 00:16:16,545
+veicoli elettrici. Qui c'è un costo di 1,5 miliardi
+
+232
+00:16:16,706 --> 00:16:21,637
+nel 2025, il prossimo anno diventerà 3,4
+
+233
+00:16:22,137 --> 00:16:25,757
+miliardi. Poi ci sono altre aree che sono più
+
+234
+00:16:25,838 --> 00:16:29,606
+pesantemente colpite, che riguardano nello
+
+235
+00:16:30,106 --> 00:16:34,934
+specifico le malattie dei lavoratori dipendenti, perché c'è
+
+236
+00:16:35,434 --> 00:16:39,713
+un problema che ha la Francia come ha la Germania: i
+
+237
+00:16:39,793 --> 00:16:43,465
+costi legati all'assenteismo sul lavoro,
+
+238
+00:16:44,866 --> 00:16:49,023
+perché nel 2025 è
+
+239
+00:16:49,103 --> 00:16:52,925
+costato in Francia 5,8 miliardi di euro di indennità,
+
+240
+00:16:52,957 --> 00:16:56,778
+più 10% rispetto al 2024,
+
+241
+00:16:56,891 --> 00:17:00,552
+principalmente a causa di un incremento della durata media delle assenze.
+
+242
+00:17:01,788 --> 00:17:05,288
+Cosa prevede il governo nel progetto della
+
+243
+00:17:05,788 --> 00:17:11,309
+loi de finances dell'anno prossimo? Di eliminare l'esenzione
+
+244
+00:17:12,951 --> 00:17:16,587
+del 50% sulle indennità
+
+245
+00:17:17,087 --> 00:17:20,547
+giornaliere percepite dalle vittime di incidenti sul lavoro, di malattie
+
+246
+00:17:21,047 --> 00:17:25,629
+professionali, con un gettito stimato in 515
+
+247
+00:17:26,066 --> 00:17:29,625
+milioni di euro. Altra misura: i
+
+248
+00:17:30,125 --> 00:17:33,601
+dipendenti e gli autonomi che soffrono di patologie
+
+249
+00:17:33,682 --> 00:17:37,555
+croniche fino ad ora avevano un'esenzione fiscale
+
+250
+00:17:38,092 --> 00:17:41,562
+integrale su tutte le indennità percepite, dal prossimo
+
+251
+00:17:42,062 --> 00:17:46,032
+anno questo vantaggio dovrebbe essere dimezzato.
+
+252
+00:17:47,113 --> 00:17:50,905
+Quindi il fisco avrà una
+
+253
+00:17:51,502 --> 00:17:55,628
+riduzione del mancato introito di 450 milioni.
+
+254
+00:17:55,837 --> 00:17:59,454
+Allora, queste due misure mi dicono che
+
+255
+00:17:59,954 --> 00:18:04,293
+l'incazzatura francese toccherà nuove inesplorate
+
+256
+00:18:04,793 --> 00:18:08,314
+vette. E posso anche capire il motivo. Poi c'è
+
+257
+00:18:08,814 --> 00:18:13,603
+un'altra potatura che va sempre ricondotta
+
+258
+00:18:13,748 --> 00:18:17,467
+al capitolo della, così, egualitario,
+
+259
+00:18:17,579 --> 00:18:21,426
+dell'equità per quelli più fortunati, visto che c'è in Francia
+
+260
+00:18:21,926 --> 00:18:25,513
+proprio questa retorica abbastanza appiccicosa
+
+261
+00:18:26,013 --> 00:18:30,082
+sui fortunati. Finora le indennità di
+
+262
+00:18:30,582 --> 00:18:35,999
+cessazione del contratto fino a 288.000
+
+263
+00:18:36,499 --> 00:18:38,972
+euro erano esentasse.
+
+264
+00:18:40,397 --> 00:18:44,285
+Ebbene, dal prossimo
+
+265
+00:18:44,785 --> 00:18:48,082
+anno ci sarà un
+
+266
+00:18:48,147 --> 00:18:52,100
+drastico abbassamento di questo
+
+267
+00:18:52,600 --> 00:18:56,078
+plafond che verrà portato al livello
+
+268
+00:18:56,578 --> 00:18:59,810
+del limite annuale della previdenza sociale, quindi L'esenzione
+
+269
+00:19:00,310 --> 00:19:03,580
+dovrebbe passare da 288.000 a circa 50.000
+
+270
+00:19:04,080 --> 00:19:07,559
+euro sui primi 50.000 euro percepiti per le risoluzioni
+
+271
+00:19:08,059 --> 00:19:11,858
+consensuali dei contratti di lavoro, sorta di severance package.
+
+272
+00:19:12,291 --> 00:19:16,094
+Quindi il 5% dei licenziamenti diventerà
+
+273
+00:19:16,158 --> 00:19:20,072
+imponibile con un gettito atteso di 380
+
+274
+00:19:20,152 --> 00:19:24,243
+milioni. Allora, sperando di non avervelo fatto troppo a sushi
+
+275
+00:19:24,743 --> 00:19:27,202
+con questa Pedante enumerazione,
+
+276
+00:19:29,011 --> 00:19:32,759
+veniamo al bilancio ombra del Rassemblement National presentato da
+
+277
+00:19:33,259 --> 00:19:37,452
+Marine Le Pen, perché quest'anno questa misura palesemente propagandistica
+
+278
+00:19:37,517 --> 00:19:41,260
+ha un valore particolare, perché se a maggio
+
+279
+00:19:41,341 --> 00:19:45,500
+Le Pen dovesse diventare Presidente della Repubblica potrebbe
+
+280
+00:19:46,000 --> 00:19:49,118
+lanciare l'iniziativa di una legge di bilancio rettificativa di
+
+281
+00:19:49,618 --> 00:19:53,561
+quella che sta per iniziare l'iter parlamentare. Vi ricordo che viene
+
+282
+00:19:54,061 --> 00:19:57,490
+considerato un progetto di legge di bilancio reversibile perché una parte
+
+283
+00:19:57,990 --> 00:20:01,851
+delle voci di maggiori entrate e minori spese vengono attivate
+
+284
+00:20:01,915 --> 00:20:04,818
+attraverso regolamenti. Allora,
+
+285
+00:20:06,309 --> 00:20:09,997
+dunque, noi sappiamo che Lecornu sta tentando disperatamente
+
+286
+00:20:10,497 --> 00:20:13,236
+di portare il deficit PIL del prossimo anno al 5%.
+
+287
+00:20:14,326 --> 00:20:17,709
+Marine Le Pen rilancia, dice che il prossimo anno lo porterà
+
+288
+00:20:18,209 --> 00:20:21,880
+al 3,7%. Se mai dovesse accadere
+
+289
+00:20:22,380 --> 00:20:25,795
+una cosa del genere, noi avremmo per le strade di
+
+290
+00:20:26,295 --> 00:20:30,849
+Francia cumuli di macerie fumanti, non solo quelle causate
+
+291
+00:20:31,349 --> 00:20:35,262
+dalla nutrita tassonomia di cassero che da sempre
+
+292
+00:20:35,762 --> 00:20:37,797
+caratterizzano le incazzature francesi.
+
+293
+00:20:38,872 --> 00:20:43,252
+Però Le Pen vuole portare nel 2032
+
+294
+00:20:43,365 --> 00:20:47,376
+la spesa pubblica francese al 50% del PIL contro
+
+295
+00:20:47,876 --> 00:20:51,872
+l'attuale 57%. Questa è letteralmente una visione
+
+296
+00:20:52,372 --> 00:20:56,608
+mistica, perché come dice Le Pen la Francia deve tornare
+
+297
+00:20:56,624 --> 00:20:58,503
+a essere un partner affidabile,
+
+298
+00:20:59,691 --> 00:21:03,320
+talmente affidabile che dopo avere annunciato
+
+299
+00:21:03,820 --> 00:21:08,169
+queste misure draconiane però indolori— ecco, c'è questa natura lisergica
+
+300
+00:21:08,669 --> 00:21:12,424
+delle misure draconiane indolori— subito Le Pen bussa
+
+301
+00:21:12,826 --> 00:21:16,420
+la Banca Centrale Europea chiede un calo dei tassi, come per dire: avete visto che
+
+302
+00:21:16,920 --> 00:21:20,497
+ho fatto i compiti a casa? Adesso mi dovete dare medaglia, medaglia, medaglia,
+
+303
+00:21:20,529 --> 00:21:23,947
+come diceva un cartone animato dei tempi che furono,
+
+304
+00:21:23,979 --> 00:21:27,430
+cioè dei miei di tempi. Ma la cosa più eclatante è che in
+
+305
+00:21:27,930 --> 00:21:32,356
+questo budget ombra Le Pen vuole ridurre
+
+306
+00:21:32,856 --> 00:21:36,673
+l'IVA e riportare l'età pensionabile a 62
+
+307
+00:21:37,173 --> 00:21:40,990
+anni. Sono misure che in questo universo causerebbero delle
+
+308
+00:21:41,490 --> 00:21:44,760
+devastazioni ai conti. Invece no, perché lei
+
+309
+00:21:45,260 --> 00:21:48,944
+sa come si fa. Lei produrrà 140 miliardi di risparmi
+
+310
+00:21:49,444 --> 00:21:53,064
+entro il 2032. Qual è la ricetta segreta?
+
+311
+00:21:53,817 --> 00:21:57,040
+Ma intanto correzioni a misure ingiuste o
+
+312
+00:21:57,540 --> 00:22:01,705
+inefficaci del sistema pensionistico attuale. Io non vedo l'ora che
+
+313
+00:22:02,205 --> 00:22:05,712
+nei prossimi giorni vengano dettagliate per avere risparmi tra i 15 e i 20
+
+314
+00:22:06,212 --> 00:22:09,357
+miliardi annui a lungo termine. Per poter
+
+315
+00:22:09,453 --> 00:22:13,094
+finanziare la controriforma e portarla a 62
+
+316
+00:22:13,594 --> 00:22:17,676
+anni. Tra l'altro, Le Pen annuncia la creazione
+
+317
+00:22:18,176 --> 00:22:21,932
+di un pilastrino a capitalizzazione individuale,
+
+318
+00:22:22,935 --> 00:22:26,286
+che è un po' uno scimmiottamento di quello che vogliono fare i tedeschi,
+
+319
+00:22:26,414 --> 00:22:29,695
+e sarebbe bellissimo se non fosse che
+
+320
+00:22:29,711 --> 00:22:33,668
+in ogni caso per creare il pilastrino a capitalizzazione
+
+321
+00:22:34,757 --> 00:22:38,123
+Nei prelievi obbligatori ci vuole una
+
+322
+00:22:38,623 --> 00:22:42,131
+contribuzione aggiuntiva che si risolve in un minor
+
+323
+00:22:42,631 --> 00:22:45,978
+netto in busta per i lavoratori e in un aumento del costo del
+
+324
+00:22:46,478 --> 00:22:50,594
+lavoro per i datori di lavoro. Non si può girare
+
+325
+00:22:50,723 --> 00:22:54,762
+a capitalizzazione quello che oggi è a ripartizione, a meno di provocare
+
+326
+00:22:54,874 --> 00:22:58,802
+voragini e fallire. Questo è il punto che dico da almeno una
+
+327
+00:22:59,302 --> 00:23:03,393
+decina d'anni a tutti i nostri cocoriti che dicevano: facciamo come
+
+328
+00:23:03,893 --> 00:23:07,233
+il Cile con le pensioni a capitalizzazione. Infatti si è visto
+
+329
+00:23:07,796 --> 00:23:11,256
+come sono andate a finire quelle pensioni a capitalizzazione. Per avere
+
+330
+00:23:11,756 --> 00:23:15,178
+fatto notare questa cosa io mi sono preso del comunista più volte dai nostri
+
+331
+00:23:15,614 --> 00:23:19,326
+liberisti che si portano al traino, al guinzaglio, i loro
+
+332
+00:23:19,826 --> 00:23:23,613
+barboncini liberali. Però la
+
+333
+00:23:24,113 --> 00:23:28,354
+cosa più divertente è che per raggiungere questo epico
+
+334
+00:23:28,993 --> 00:23:32,750
+Obiettivo di risanamento. Marine Le Pen vuole fare la tedesca
+
+335
+00:23:33,393 --> 00:23:36,764
+proprio quando i tedeschi hanno smesso di essere
+
+336
+00:23:37,264 --> 00:23:40,955
+tali, cioè vuole introdurre una regola
+
+337
+00:23:41,455 --> 00:23:45,274
+aurea, una golden rule, che però, visto che parliamo di Francia, si chiama règle
+
+338
+00:23:45,774 --> 00:23:49,176
+d'or, e sottoporla al referendum ai francesi.
+
+339
+00:23:49,690 --> 00:23:53,672
+Marine Le Pen pensa che i francesi siano improvvisamente diventati svizzeri.
+
+340
+00:23:55,680 --> 00:23:58,915
+Propongo ai francesi di autorizzare solo
+
+341
+00:23:59,012 --> 00:24:02,538
+un deficit pubblico inferiore
+
+342
+00:24:03,094 --> 00:24:06,757
+alla soglia che stabilizza il debito francese,
+
+343
+00:24:07,846 --> 00:24:12,019
+cioè almeno 0,5%
+
+344
+00:24:12,165 --> 00:24:15,721
+inferiore alla soglia di stabilizzazione
+
+345
+00:24:16,221 --> 00:24:19,968
+finché il debito supera il 60% del
+
+346
+00:24:19,986 --> 00:24:24,200
+del PIL. Vi faccio notare che la Francia,
+
+347
+00:24:24,312 --> 00:24:27,517
+ma anche il Regno Unito, tutti gli altri, quasi tutti gli altri
+
+348
+00:24:28,017 --> 00:24:31,123
+paesi europei, stanno andando verso uno scenario di
+
+349
+00:24:31,623 --> 00:24:35,642
+palla di neve avversa dove il costo medio del debito eccede
+
+350
+00:24:36,491 --> 00:24:39,937
+la crescita nominale del PIL e quindi il rapporto di debito
+
+351
+00:24:40,017 --> 00:24:44,183
+PIL si autoalimenta. E Marine Le Pen vuole praticamente
+
+352
+00:24:44,683 --> 00:24:48,597
+fare delle strette che sono nettamente
+
+353
+00:24:49,079 --> 00:24:52,839
+superiori al vecchio obiettivo di medio termine del
+
+354
+00:24:52,935 --> 00:24:54,911
+Patto di Stabilità dell'Unione Europea.
+
+355
+00:24:56,906 --> 00:25:00,417
+Però quindi dobbiamo fare il tifo
+
+356
+00:25:00,610 --> 00:25:04,766
+per Marine Le Pen all'Eliseo, non per adesione
+
+357
+00:25:04,814 --> 00:25:09,654
+ideologica al personaggio, ma quanto per vedere come realizzerebbe
+
+358
+00:25:09,670 --> 00:25:13,237
+i numeri lisergici di rettifica del bilancio del prossimo
+
+359
+00:25:13,737 --> 00:25:17,404
+anno, perché Dai documenti del Rassemblement National
+
+360
+00:25:17,420 --> 00:25:20,865
+si vede razionalizzazioni di spesa nel 2027
+
+361
+00:25:21,365 --> 00:25:23,877
+per 28 miliardi in un anno,
+
+362
+00:25:24,966 --> 00:25:28,635
+una misteriosa equità fiscale che dovrebbe essere la
+
+363
+00:25:29,135 --> 00:25:32,352
+lotta alle truffe e all'evasione per 20 miliardi,
+
+364
+00:25:33,361 --> 00:25:37,126
+15 miliardi di risparmi sulle spese per immigrazione,
+
+365
+00:25:38,423 --> 00:25:42,653
+11 miliardi in un anno, il prossimo, dal taglio dei contributi
+
+366
+00:25:43,153 --> 00:25:46,662
+francesi al bilancio dell'Unione Europea. Lei va
+
+367
+00:25:46,743 --> 00:25:50,868
+praticamente a Bruxelles e dice, salve, vi tolgo 11
+
+368
+00:25:51,368 --> 00:25:53,935
+miliardi. Perché? Perché sono Marine Le Pen, enchantée.
+
+369
+00:25:55,412 --> 00:25:59,184
+Poi ben 11 miliardi di gettito dalla tassa
+
+370
+00:25:59,684 --> 00:26:04,033
+sul riacquisto di azioni proprie. Ha trovato praticamente l'albero
+
+371
+00:26:04,533 --> 00:26:08,127
+magico dei soldi. Stando così le cose, mi vien
+
+372
+00:26:08,175 --> 00:26:11,193
+da dire che il più furbo di tutti è Jean-Luc Mélenchon.
+
+373
+00:26:11,948 --> 00:26:16,122
+Perché lui prende la scorciatoia, vuole bruciare il debito pubblico
+
+374
+00:26:16,622 --> 00:26:20,458
+francese detenuto dalla BCE per il tramite della Banque
+
+375
+00:26:20,958 --> 00:26:23,958
+de France. Come andrà a finire, mi chiedete?
+
+376
+00:26:24,070 --> 00:26:28,486
+Beh, andrà comunque vada, la Francia conserverà
+
+377
+00:26:28,646 --> 00:26:32,741
+la propria facoltà di scelta, può scegliere
+
+378
+00:26:33,241 --> 00:26:37,179
+tra un fungo atomico sul suo debito pubblico le
+
+379
+00:26:37,679 --> 00:26:39,019
+immancabili rivolte popolari.
+
+380
+00:26:41,280 --> 00:26:45,338
+Quindi nel 2027 sarà la realtà a prendersi
+
+381
+00:26:45,838 --> 00:26:49,462
+la Bastiglia della fantasia fiscale, e questo
+
+382
+00:26:50,271 --> 00:26:52,644
+rischia di essere un massacro.
+
+383
+00:26:53,984 --> 00:26:57,454
+Tra l'altro ci
+
+384
+00:26:57,954 --> 00:27:00,869
+sono alcune altre cose da enumerare. Allora,
+
+385
+00:27:01,072 --> 00:27:04,209
+ha parlato Christine Lagarde. Christine Lagarde
+
+386
+00:27:04,290 --> 00:27:07,737
+non sappiamo se e quando vuole togliere il disturbo, se a
+
+387
+00:27:07,753 --> 00:27:11,698
+inizio del '27, se a fine del '27 con la fine
+
+388
+00:27:12,198 --> 00:27:16,316
+naturale del suo mandato. È un mistero perché probabilmente la signora
+
+389
+00:27:16,816 --> 00:27:20,453
+Lagarde, come direbbe qualche nostro sveglissimo statista,
+
+390
+00:27:20,485 --> 00:27:24,077
+deve scegliere bene dove andare a planare per
+
+391
+00:27:24,109 --> 00:27:27,300
+il suo prossimo incarico, che potrebbe essere il World Economic
+
+392
+00:27:27,800 --> 00:27:31,790
+Forum o altrove. Ma magari potrebbe anche partecipare alla tensione elettorale
+
+393
+00:27:32,290 --> 00:27:36,090
+francese, non so cosa porterebbe a casa, ma vabbè. Sono in democrazia,
+
+394
+00:27:36,155 --> 00:27:39,495
+siamo in democrazia. Però ha detto: la Banca
+
+395
+00:27:39,995 --> 00:27:43,671
+Centrale Europea ha alcuni strumenti
+
+396
+00:27:43,751 --> 00:27:47,605
+per agire contro l'ingiustificato rialzo
+
+397
+00:27:48,105 --> 00:27:52,632
+dei rendimenti. Ora, la parola chiave qui è ingiustificato.
+
+398
+00:27:53,628 --> 00:27:57,498
+Cioè, cos'è ingiustificato? Il fatto che i francesi non vedano
+
+399
+00:27:57,998 --> 00:28:00,823
+un avanzo primario dalla notte dei tempi?
+
+400
+00:28:02,073 --> 00:28:05,197
+Il fatto che non siano in grado di licenziare
+
+401
+00:28:05,697 --> 00:28:09,218
+una legge di bilancio che riduca il deficit. Cioè, questi sono tutti
+
+402
+00:28:09,718 --> 00:28:13,993
+elementi ingiustificati per azionare il TPI, il Transmission
+
+403
+00:28:14,493 --> 00:28:18,238
+Protection Instrument, che non è mai stato azionato e che quando
+
+404
+00:28:18,738 --> 00:28:22,003
+nacque suscitò dei lazzi perché si diceva che
+
+405
+00:28:22,503 --> 00:28:25,095
+TPI volesse dire To Protect Italy.
+
+406
+00:28:26,569 --> 00:28:30,975
+Devono esserci delle condizionalità, non si può dare il TPI a un paese
+
+407
+00:28:32,584 --> 00:28:36,810
+che ha una classe sedicente dirigente che vuole bruciare il debito pubblico
+
+408
+00:28:37,310 --> 00:28:40,353
+manco fossero italiani della metà degli anni '10.
+
+409
+00:28:41,529 --> 00:28:44,730
+No, perché aiutati che la BCE ti
+
+410
+00:28:45,230 --> 00:28:48,915
+aiuta. Uno potrebbe anche dire, beh, ma se succede
+
+411
+00:28:49,415 --> 00:28:53,567
+qualcosa alla Francia viene giù tutto, come abbiamo visto già da un paio di settimane.
+
+412
+00:28:53,680 --> 00:28:57,391
+C'è questo movimento sincronizzato gli spread
+
+413
+00:28:57,891 --> 00:29:01,729
+francesi si allargano, portano dietro in pari magnitudine quelli greci
+
+414
+00:29:02,229 --> 00:29:05,931
+e quelli italiani. Quindi potrebbe accadere che la BCE
+
+415
+00:29:06,431 --> 00:29:10,218
+sia costretta ad agire perché un eventuale attacco
+
+416
+00:29:10,718 --> 00:29:14,747
+di mercato alla Francia rischierebbe di essere molto più pesante
+
+417
+00:29:15,247 --> 00:29:17,868
+di quello che abbiamo visto noi nel 2011 in Italia.
+
+418
+00:29:19,806 --> 00:29:23,629
+Non lo so, vedremo. Però nel frattempo accadono delle
+
+419
+00:29:24,129 --> 00:29:27,833
+cose strane, non troppo sane, sui mercati
+
+420
+00:29:28,351 --> 00:29:32,558
+del debito francese. Che cosa accade? Come riporta
+
+421
+00:29:33,058 --> 00:29:36,441
+Bloomberg, che ha fatto delle ricerche
+
+422
+00:29:36,619 --> 00:29:39,402
+e ha estratto dei numeri,
+
+423
+00:29:39,435 --> 00:29:44,726
+praticamente in questo momento ci sono un
+
+424
+00:29:44,791 --> 00:29:49,549
+elevato volume, c'è un elevato volume di debiti
+
+425
+00:29:50,277 --> 00:29:53,989
+corporate investment grade di
+
+426
+00:29:54,489 --> 00:29:57,616
+emittenti francesi che rendono meno
+
+427
+00:29:58,830 --> 00:30:02,730
+del corrispondente titolo di Stato francese di pari
+
+428
+00:30:03,230 --> 00:30:07,048
+scadenza. E come vi dicevo una
+
+429
+00:30:07,548 --> 00:30:11,489
+o due puntate fa, questa è un'anomalia, perché non è che il corporate
+
+430
+00:30:13,029 --> 00:30:16,538
+batte moneta o impone tasse a differenza del sovrano.
+
+431
+00:30:17,804 --> 00:30:21,400
+È vero che ci sono dei corporate che ricavano il grosso dei loro
+
+432
+00:30:21,900 --> 00:30:25,976
+ricavi, appunto dei loro profitti, fuori dalla Francia, quindi probabilmente
+
+433
+00:30:26,476 --> 00:30:30,151
+vengono privilegiati dagli investitori sulla
+
+434
+00:30:30,651 --> 00:30:33,860
+base di queste considerazioni. Ma finché questi corporate
+
+435
+00:30:34,360 --> 00:30:37,537
+hanno la sede legale e anche parte della sede operativa sul suolo
+
+436
+00:30:38,037 --> 00:30:41,711
+francese, restano pienamente esposti a turbolenze
+
+437
+00:30:42,211 --> 00:30:45,321
+di varia natura. Però A ottobre,
+
+438
+00:30:45,722 --> 00:30:49,826
+215 miliardi di valore nominale di debito corporate
+
+439
+00:30:50,326 --> 00:30:54,316
+investment grade di emittenti francesi avevano rendimenti inferiori
+
+440
+00:30:54,816 --> 00:30:58,790
+ai corrispondenti titoli di Stato francesi. A gennaio erano 12
+
+441
+00:30:58,950 --> 00:31:03,279
+miliardi. Quindi, come vedete, questo è un
+
+442
+00:31:03,779 --> 00:31:08,058
+dato, una metrica che ci mostra quanto è grave
+
+443
+00:31:08,266 --> 00:31:13,597
+e profonda la dislocation della
+
+444
+00:31:14,293 --> 00:31:18,257
+situazione francese, perché probabilmente sulla
+
+445
+00:31:18,757 --> 00:31:21,622
+Francia ci sono degli hedge fund che si stanno muovendo pesantemente,
+
+446
+00:31:22,340 --> 00:31:26,712
+quindi loro sono in grado di produrre delle dislocation piuttosto
+
+447
+00:31:27,519 --> 00:31:29,649
+problematiche, piuttosto pesanti.
+
+448
+00:31:31,860 --> 00:31:35,698
+Ci possono essere tanti motivi, possono essere i disinvestimenti da
+
+449
+00:31:36,198 --> 00:31:39,900
+parte di non residenti, soprattutto da parte dei giapponesi
+
+450
+00:31:40,400 --> 00:31:43,798
+che avevano premiato negli anni scorsi la Francia ritenendola solida.
+
+451
+00:31:43,991 --> 00:31:47,601
+Però la Francia si è oramai sganciata dal nucleo core con la
+
+452
+00:31:48,101 --> 00:31:51,579
+Germania ed è diventato un paese periferico.
+
+453
+00:31:51,692 --> 00:31:55,061
+Se esistessero ancora i PIGS ci vorrebbe la F di
+
+454
+00:31:55,561 --> 00:31:59,023
+Francia. Adesso non so i PIGS effettivamente chi siano, perché sono tutti e
+
+455
+00:31:59,523 --> 00:32:03,243
+nessuno, soprattutto in questa Unione Europea così tragicamente
+
+456
+00:32:03,323 --> 00:32:07,818
+sgarrupata. Questo è un altro elemento
+
+457
+00:32:07,978 --> 00:32:12,554
+sul quale bisogna spendere un
+
+458
+00:32:13,054 --> 00:32:17,805
+po' di tempo, osservare, perché effettivamente si
+
+459
+00:32:18,305 --> 00:32:21,193
+stanno creando delle situazioni problematiche.
+
+460
+00:32:21,305 --> 00:32:27,005
+Potrebbe anche essere una
+
+461
+00:32:27,505 --> 00:32:30,959
+situazione in cui la
+
+462
+00:32:30,991 --> 00:32:34,288
+Banca Centrale Europea interviene, ma solo
+
+463
+00:32:34,321 --> 00:32:38,859
+dopo— quindi questa sarebbe la cura italiana— che il governo
+
+464
+00:32:38,940 --> 00:32:44,037
+sovrano francese, qualsiasi esso sia, ha messo
+
+465
+00:32:44,085 --> 00:32:48,203
+nel forno una stretta devastante e ovviamente
+
+466
+00:32:48,804 --> 00:32:52,523
+recessiva. E parlando di
+
+467
+00:32:53,023 --> 00:32:56,216
+strette, oltre che dell'archivio di fastidio,
+
+468
+00:32:56,410 --> 00:33:00,373
+mi piace ricordarvi che Alcuni mesi
+
+469
+00:33:00,873 --> 00:33:06,113
+fa io vi ho segnalato che questa
+
+470
+00:33:07,649 --> 00:33:12,120
+situazione dei paesi dell'eurozona, caratterizzata da debito crescente,
+
+471
+00:33:13,678 --> 00:33:15,976
+sostanziale indisciplina fiscale,
+
+472
+00:33:17,229 --> 00:33:20,860
+in presenza di assenza di unione fiscale, rischiano di
+
+473
+00:33:21,185 --> 00:33:25,113
+porre gravi rischi per la stabilità della moneta
+
+474
+00:33:25,613 --> 00:33:28,985
+unica, che rischia di diventare il punto di pressione di
+
+475
+00:33:29,485 --> 00:33:33,256
+queste incoerenze. Le rigidità di
+
+476
+00:33:33,756 --> 00:33:37,816
+una Unione Europea incompiuta, priva di meccanismi
+
+477
+00:33:38,316 --> 00:33:42,231
+di compensazione fiscale, rischiano di scaricarsi tutti sulla
+
+478
+00:33:42,731 --> 00:33:45,876
+moneta unica, di aumentare il premio al rischio. E infatti
+
+479
+00:33:46,376 --> 00:33:49,890
+l'euro si sta pesantemente indebolendo
+
+480
+00:33:50,661 --> 00:33:54,519
+contro dollaro, paga l'aumento
+
+481
+00:33:55,019 --> 00:33:58,439
+del premio al rischio geopolitico. Il fatto che l'Unione
+
+482
+00:33:58,471 --> 00:34:01,407
+Europea e l'eurozona, che ha delle rigidità aggiuntive,
+
+483
+00:34:02,350 --> 00:34:05,625
+sono in questo momento il vero vaso di coccio tra vasi più o
+
+484
+00:34:06,125 --> 00:34:08,282
+meno di ferro, anche se alcuni sono di ferro arrugginito.
+
+485
+00:34:10,446 --> 00:34:13,985
+E in un momento in cui i costi dell'energia sono
+
+486
+00:34:14,485 --> 00:34:17,685
+così elevati, vedere l'euro che frana
+
+487
+00:34:18,718 --> 00:34:22,816
+così tanto determina un effetto
+
+488
+00:34:23,459 --> 00:34:27,123
+facilmente intuibile. Qual è questo effetto?
+
+489
+00:34:27,880 --> 00:34:32,166
+Beh, l'aumento dell'inflazione importata, che quindi determina
+
+490
+00:34:32,666 --> 00:34:35,728
+tensioni sociali, problemi sui conti, eccetera eccetera.
+
+491
+00:34:35,792 --> 00:34:40,164
+Quindi un altro punto di pressione
+
+492
+00:34:41,016 --> 00:34:44,711
+sulla costruzione europea è inequivocabilmente
+
+493
+00:34:45,211 --> 00:34:49,486
+la moneta unica. Soprattutto nel momento in cui ci sono
+
+494
+00:34:49,566 --> 00:34:53,471
+continue richieste di flessibilità. Avete visto la
+
+495
+00:34:53,971 --> 00:34:57,876
+richiesta italiana e anche greca, mi pare anche spagnola, di dare
+
+496
+00:34:58,376 --> 00:35:02,848
+una sorta di scorporo che tenga conto dell'impatto inflazionistico. Allora Dombrovskis,
+
+497
+00:35:03,849 --> 00:35:07,335
+fedele al suo personaggio, ma direi anche fedele al senso comune, dice: non è
+
+498
+00:35:07,835 --> 00:35:11,508
+che possiamo continuamente dare flessibilità. Aggiungo io:
+
+499
+00:35:11,572 --> 00:35:14,863
+perché prima o poi succede qualcosa di non piacevole se si continua a
+
+500
+00:35:15,363 --> 00:35:15,722
+dare flessibilità in questa maniera.
+
+501
+00:35:18,792 --> 00:35:22,972
+Quindi anche lì vedremo. Io continuo a essere particolarmente
+
+502
+00:35:23,472 --> 00:35:26,764
+scettico, cioè mi sfugge la logica economica della richiesta
+
+503
+00:35:27,264 --> 00:35:31,231
+di Meloni che dice, ve ne parlavo la settimana scorsa,
+
+504
+00:35:32,846 --> 00:35:36,727
+le spese aumentano in conseguenza dell'inflazione, le spese
+
+505
+00:35:37,698 --> 00:35:41,224
+vincolate come quelle per le pensioni, che vincolate non sono,
+
+506
+00:35:41,499 --> 00:35:46,470
+le spese per gli acquisti della pubblica amministrazione Ma contemporaneamente
+
+507
+00:35:46,631 --> 00:35:50,596
+c'è anche un aumento di entrate che deriva dal fiscal drag dall'inflazione
+
+508
+00:35:51,096 --> 00:35:52,340
+medesima, ad esempio le entrate IVA.
+
+509
+00:35:54,547 --> 00:35:57,930
+Quindi Meloni dice: io voglio un ulteriore scorporo perché la
+
+510
+00:35:58,430 --> 00:36:02,364
+traiettoria di spesa primaria netta mi salta. Ma spesa
+
+511
+00:36:02,864 --> 00:36:06,851
+primaria si chiama netta perché è al netto degli incrementi corrispondenti
+
+512
+00:36:06,883 --> 00:36:10,458
+di entrate. L'inflazione fa lievitare molte
+
+513
+00:36:10,958 --> 00:36:14,569
+voci di entrata, non solo le voci di spesa. Quindi, in tutta franchezza, per quanto
+
+514
+00:36:15,069 --> 00:36:18,486
+io mi sforzi, ma probabilmente è un mio limite, una mia ignoranza, non capisco
+
+515
+00:36:18,567 --> 00:36:21,939
+quale sia la ratio della richiesta di Meloni. O meglio, la capisco fin troppo,
+
+516
+00:36:22,501 --> 00:36:25,471
+perché comunque ci sono delle esigenze a cui rispondere,
+
+517
+00:36:26,932 --> 00:36:30,095
+esigenze che sono legate al ciclo elettorale.
+
+518
+00:36:31,251 --> 00:36:36,786
+Però a me fa sorridere l'opposizione italiana così
+
+519
+00:36:36,948 --> 00:36:40,508
+frastagliata, che se Meloni chiede
+
+520
+00:36:41,008 --> 00:36:44,797
+flessibilità, ah, Meloni vuole poter avere soldi
+
+521
+00:36:45,297 --> 00:36:48,691
+per pagare la mancia elettorale. Se non la chiede, Meloni non fa
+
+522
+00:36:49,191 --> 00:36:50,282
+niente, ci porta all'inferno.
+
+523
+00:36:52,790 --> 00:36:57,950
+Veramente, cioè, io non ho mai visto a mia memoria un'opposizione
+
+524
+00:36:58,161 --> 00:37:02,318
+italiana così disastrata così
+
+525
+00:37:02,736 --> 00:37:05,504
+incongrua, così infantile,
+
+526
+00:37:06,421 --> 00:37:10,074
+non l'ho mai vista a mia memoria. E vi ricordo che
+
+527
+00:37:10,574 --> 00:37:14,221
+la mia memoria è più che decente e purtroppo ho un discreto numero
+
+528
+00:37:14,721 --> 00:37:17,725
+di anni sul groppone, a differenza di molti tra voi,
+
+529
+00:37:17,757 --> 00:37:20,794
+beati voi, che magari non avete visto la Prima Repubblica.
+
+530
+00:37:24,186 --> 00:37:26,908
+Poi parleremo anche di Prima, Seconda, Terza Repubblica,
+
+531
+00:37:26,940 --> 00:37:30,994
+retromarcia, eccetera eccetera. Però stiamo sulla
+
+532
+00:37:31,494 --> 00:37:36,193
+Francia e parliamo di un'enorme
+
+533
+00:37:36,693 --> 00:37:41,445
+voce di spesa, il nucleare. Perché nel
+
+534
+00:37:41,945 --> 00:37:45,514
+2022, a febbraio, Emmanuel Macron annunciò il rilancio del
+
+535
+00:37:46,014 --> 00:37:49,548
+nucleare civile francese. Febbraio '22,
+
+536
+00:37:50,164 --> 00:37:51,752
+vi dice niente questa data? Sì,
+
+537
+00:37:52,466 --> 00:37:55,870
+l'invasione dell'Ucraina da parte
+
+538
+00:37:56,370 --> 00:38:00,063
+della Russia. Macron annuncia la costruzione di
+
+539
+00:38:00,224 --> 00:38:04,991
+6 nuovi reattori EPR2 e l'opzione
+
+540
+00:38:05,491 --> 00:38:09,139
+per altri 8. 4 anni dopo, il progetto
+
+541
+00:38:09,187 --> 00:38:12,705
+si avvicina alla decisione finale di investimento,
+
+542
+00:38:12,738 --> 00:38:17,054
+che dovrebbe essere entro la fine di quest'anno. La prima stima
+
+543
+00:38:17,102 --> 00:38:20,500
+pubblica dei costi complessivi è arrivata con
+
+544
+00:38:21,000 --> 00:38:23,576
+il progetto di legge di bilancio francese per il 2027.
+
+545
+00:38:24,438 --> 00:38:27,344
+Allora, inquadriamo il contesto.
+
+546
+00:38:27,456 --> 00:38:31,149
+Le prime 3 coppie di reattori verranno
+
+547
+00:38:31,230 --> 00:38:33,124
+costruite a Penly,
+
+548
+00:38:33,959 --> 00:38:37,171
+Gravelines e Bugey per una capacità totale di
+
+549
+00:38:37,331 --> 00:38:39,852
+9.990 megawatt.
+
+550
+00:38:40,783 --> 00:38:44,958
+Dovrebbero entrare in servizio tra il 2038
+
+551
+00:38:45,458 --> 00:38:48,956
+e il 2044 con una vita operativa stimata di 60
+
+552
+00:38:49,456 --> 00:38:52,970
+anni. Ma i tempi ovviamente stanno slittando,
+
+553
+00:38:53,729 --> 00:38:56,957
+perché Pin Li 3 è stato
+
+554
+00:38:57,457 --> 00:39:01,269
+posticipato. Il primo getto di calcestruzzo dovrebbe
+
+555
+00:39:01,769 --> 00:39:05,361
+avvenire nel 2029, quindi addio deadline
+
+556
+00:39:05,861 --> 00:39:10,376
+del 2035. A Grablin un
+
+557
+00:39:10,876 --> 00:39:14,421
+decreto ha dato il via ai lavori preparatori, ma manca l'avvio della
+
+558
+00:39:14,921 --> 00:39:19,347
+costruzione degli edifici Nel frattempo il preventivo è lievitato
+
+559
+00:39:19,717 --> 00:39:23,690
+a ogni revisione. Stima di
+
+560
+00:39:23,754 --> 00:39:27,298
+EDF, che ha una grande
+
+561
+00:39:27,798 --> 00:39:32,436
+expertise di costruzione di impianti nucleari: a
+
+562
+00:39:32,936 --> 00:39:37,041
+fine 2023 il costo dei primi 6 reattori
+
+563
+00:39:37,541 --> 00:39:39,923
+EPR2 era già salito del 30%.
+
+564
+00:39:42,602 --> 00:39:46,297
+A condizioni economiche invariate, senza effetti di inflazione.
+
+565
+00:39:49,010 --> 00:39:52,866
+A dicembre del '25 un altro aumento
+
+566
+00:39:53,366 --> 00:39:56,770
+di circa il 10%, sempre espresso in euro del 2020,
+
+567
+00:39:56,819 --> 00:40:00,805
+al netto, cioè non considerando i costi di finanziamento.
+
+568
+00:40:00,870 --> 00:40:05,275
+Il che vuol dire che complessivamente questi
+
+569
+00:40:05,775 --> 00:40:10,090
+reattori EPR-2 Dall'annuncio
+
+570
+00:40:10,252 --> 00:40:13,741
+con il costing a valori 2020 alla fine
+
+571
+00:40:14,241 --> 00:40:17,271
+del 2025 erano già lievitati del 40%.
+
+572
+00:40:21,104 --> 00:40:24,711
+Il bilancio, il progetto di bilancio 2027 traduce
+
+573
+00:40:25,211 --> 00:40:28,451
+la cifra in euro correnti. Lo abbiamo letto
+
+574
+00:40:28,951 --> 00:40:32,677
+sull'Éco, che è il quotidiano economico politico
+
+575
+00:40:33,177 --> 00:40:37,724
+finanziario francese. I 72,8
+
+576
+00:40:38,224 --> 00:40:42,298
+miliardi a valore del 2020 diventano 100
+
+577
+00:40:42,798 --> 00:40:47,302
+miliardi correnti, a cui bisogna sommare 54
+
+578
+00:40:47,802 --> 00:40:52,384
+miliardi di copertura degli oneri finanziari che,
+
+579
+00:40:53,450 --> 00:40:56,180
+a seconda delle fasi,
+
+580
+00:40:58,523 --> 00:41:03,849
+devono essere pagati nell'ipotesi
+
+581
+00:41:04,349 --> 00:41:07,931
+di un prestito di una sessantina di miliardi.
+
+582
+00:41:09,859 --> 00:41:13,193
+Il che vuol dire che nello scenario centrale
+
+583
+00:41:13,693 --> 00:41:17,610
+del governo il costo totale arriva
+
+584
+00:41:18,110 --> 00:41:21,807
+a 153 miliardi correnti.
+
+585
+00:41:22,612 --> 00:41:26,919
+Gli oneri finanziari superano il 50% del
+
+586
+00:41:27,048 --> 00:41:31,002
+costo totale. La Francia ha notificato
+
+587
+00:41:31,502 --> 00:41:34,780
+a Bruxelles questo schema di
+
+588
+00:41:35,280 --> 00:41:38,937
+aiuti di Stato che si basa su 3 strumenti,
+
+589
+00:41:38,970 --> 00:41:42,821
+cioè un prestito agevolato che copre il 60%
+
+590
+00:41:43,501 --> 00:41:47,529
+dei costi di costruzione, un CFD, un contratto
+
+591
+00:41:48,029 --> 00:41:51,635
+per differenza, che dura 40 anni, e un meccanismo
+
+592
+00:41:52,135 --> 00:41:55,923
+di condivisione dei rischi che però si limita a eventi fuori
+
+593
+00:41:56,423 --> 00:42:00,209
+dal controllo di EDF: catastrofi naturali, modifiche della legge
+
+594
+00:42:00,709 --> 00:42:04,527
+nazionale. Il veicolo è una società di progetto
+
+595
+00:42:05,027 --> 00:42:08,780
+interamente controllata da EDF che sosterrà
+
+596
+00:42:09,280 --> 00:42:13,066
+i costi di costruzione e diverrà proprietaria della produzione
+
+597
+00:42:13,114 --> 00:42:16,838
+elettrica. Allora, questo prestito fino al 60% del costo totale,
+
+598
+00:42:16,855 --> 00:42:20,033
+quindi a oggi fino a 60 miliardi di euro,
+
+599
+00:42:20,338 --> 00:42:23,930
+è finanziato dal fonds d'épargne, cioè dal fondo
+
+600
+00:42:24,430 --> 00:42:28,049
+di risparmio della Caisse des Dépôts et Consignations, che è l'equivalente della
+
+601
+00:42:28,549 --> 00:42:31,960
+nostra Cassa Depositi e Prestiti. La Caisse des Dépôts
+
+602
+00:42:32,460 --> 00:42:36,513
+et Consignations gestisce una parte significativa del risparmio
+
+603
+00:42:37,013 --> 00:42:40,119
+retail francese, che è un'istituzione, si chiama
+
+604
+00:42:40,619 --> 00:42:44,431
+Livret A, Libretto A, che è il prodotto di risparmio retail
+
+605
+00:42:44,527 --> 00:42:48,054
+più comune in Francia. È distribuito da banche e
+
+606
+00:42:48,554 --> 00:42:48,823
+dalla Poste.
+
+607
+00:42:51,080 --> 00:42:54,432
+L'83% dei francesi possiede un Livret
+
+608
+00:42:54,496 --> 00:42:58,526
+A. Il tasso attualmente
+
+609
+00:42:59,026 --> 00:42:59,767
+all'1,7%.
+
+610
+00:43:02,300 --> 00:43:05,727
+440 miliardi di euro di risparmi francesi
+
+611
+00:43:06,227 --> 00:43:10,356
+sono nel Livret A. Avete presente i famosi risparmi
+
+612
+00:43:10,856 --> 00:43:14,878
+dormienti, no, di cui ogni tanto i nostri saltimbanchi
+
+613
+00:43:15,282 --> 00:43:18,881
+fanno menzione? Ecco, allora Qui i risparmi
+
+614
+00:43:19,011 --> 00:43:23,482
+sono tutt'altro che dormienti, perché per
+
+615
+00:43:23,982 --> 00:43:28,111
+EDF durante il periodo di costruzione tasso zero sui
+
+616
+00:43:28,611 --> 00:43:32,122
+finanziamenti, quindi lo Stato indennizza la Caisse
+
+617
+00:43:32,622 --> 00:43:36,538
+des Dépôts. I primi 137 milioni verranno spesati
+
+618
+00:43:36,586 --> 00:43:40,243
+il prossimo anno. Quando le centrali entrano
+
+619
+00:43:40,743 --> 00:43:44,237
+in esercizio, EDF inizia a
+
+620
+00:43:44,737 --> 00:43:48,971
+rimborsare capitali, capitale e interessi con
+
+621
+00:43:49,471 --> 00:43:51,821
+un tetto del 3% sugli interessi.
+
+622
+00:43:53,756 --> 00:43:58,186
+Quindi tutto ciò che eccede viene ripartito
+
+623
+00:43:59,130 --> 00:44:00,599
+su Stato ed EDF.
+
+624
+00:44:03,963 --> 00:44:08,873
+Secondo il governo, questa struttura è necessaria per evitare di gonfiare
+
+625
+00:44:09,373 --> 00:44:12,770
+il debito pubblico francese con nuove emissioni da parte del
+
+626
+00:44:13,270 --> 00:44:17,578
+Tesoro, il che è verissimo, ma questo non evita di gonfiare
+
+627
+00:44:18,078 --> 00:44:21,892
+il debito pubblico francese attingendo al risparmio retail nazionale.
+
+628
+00:44:23,990 --> 00:44:27,583
+E peraltro ricorderei che EDF è
+
+629
+00:44:28,083 --> 00:44:33,290
+di totale proprietà dello Stato francese. C'è stato un buyout
+
+630
+00:44:33,597 --> 00:44:37,282
+da parte dello Stato francese, minority buyout, è stata tolta
+
+631
+00:44:37,315 --> 00:44:41,422
+dalla quotazione di borsa anni addietro proprio per avere mani libere per
+
+632
+00:44:41,438 --> 00:44:44,136
+fungere da volano dello sviluppo energetico,
+
+633
+00:44:44,168 --> 00:44:47,781
+soprattutto nucleare. Veniamo ai ricavi. I ricavi:
+
+634
+00:44:48,279 --> 00:44:52,453
+il CFD, contratto per differenza, prezzo massimo 100
+
+635
+00:44:52,953 --> 00:44:56,098
+euro per megawattora espressi in euro del 2024.
+
+636
+00:44:57,415 --> 00:45:01,044
+Con il CFD, se il prezzo di mercato scende sotto
+
+637
+00:45:01,544 --> 00:45:05,138
+i 100 euro per megawattora, lo Stato compensa ed
+
+638
+00:45:05,638 --> 00:45:09,167
+è Se il prezzo di mercato è sopra i 100
+
+639
+00:45:09,667 --> 00:45:13,201
+euro per megawattora, EDF restituisce allo Stato la parte dei ricavi
+
+640
+00:45:13,701 --> 00:45:17,940
+eccedenti. Lo so, EDF e lo Stato sono due mani della stessa entità,
+
+641
+00:45:18,342 --> 00:45:21,724
+lo so. Gli eventuali
+
+642
+00:45:22,224 --> 00:45:26,122
+sforamenti del costo di costruzione vengono ripartiti a scaglioni perché
+
+643
+00:45:27,463 --> 00:45:31,372
+i primi 15 miliardi li paga tutti EDF.
+
+644
+00:45:34,103 --> 00:45:37,823
+Da 15 a 30 miliardi di sforamento, lo Stato
+
+645
+00:45:37,904 --> 00:45:41,639
+concede a EDF un prestito per
+
+646
+00:45:42,139 --> 00:45:45,413
+il 90% dello sforamento ulteriore. Non è chiaro
+
+647
+00:45:45,493 --> 00:45:48,956
+cosa accadrebbe in caso di sforamento eccedente
+
+648
+00:45:49,294 --> 00:45:52,432
+i 30 miliardi di euro, però è un continuo. La mano destra
+
+649
+00:45:52,929 --> 00:45:54,550
+gira i soldi alla mano sinistra.
+
+650
+00:45:56,840 --> 00:46:01,157
+La Commissione Europea ha aperto ovviamente
+
+651
+00:46:01,302 --> 00:46:05,412
+un'indagine conoscitiva approfondita dopo la notifica
+
+652
+00:46:06,119 --> 00:46:09,988
+e ha espresso finora due dubbi: la concorrenza,
+
+653
+00:46:11,241 --> 00:46:14,452
+perché questa misura di ultrasussidio
+
+654
+00:46:14,952 --> 00:46:18,547
+può rafforzare il potere di mercato di EDF, che già controlla
+
+655
+00:46:19,285 --> 00:46:23,010
+oltre il 75% della produzione di elettricità in Francia,
+
+656
+00:46:24,087 --> 00:46:27,234
+Poi c'è un problema di proporzionalità, perché Bruxelles
+
+657
+00:46:27,734 --> 00:46:31,108
+dubita che questo pacchetto bilanci
+
+658
+00:46:32,076 --> 00:46:35,894
+la riduzione dei rischi necessari all'investimento
+
+659
+00:46:36,394 --> 00:46:39,200
+con il mantenimento degli incentivi all'efficienza. Che vuol dire?
+
+660
+00:46:41,966 --> 00:46:45,448
+Che sostanzialmente diventa una sorta di ripianamento
+
+661
+00:46:45,948 --> 00:46:49,241
+a piedi lista dei costi. I precedenti,
+
+662
+00:46:49,273 --> 00:46:52,931
+volete che vi ricordi i precedenti? Così facciamo ingrossare il
+
+663
+00:46:53,431 --> 00:46:56,555
+fegato di qualche propagandista. In Francia,
+
+664
+00:46:56,588 --> 00:47:00,134
+Flamanville è entrato in servizio nel
+
+665
+00:47:00,634 --> 00:47:03,410
+2024 con 12 anni di ritardo,
+
+666
+00:47:04,339 --> 00:47:08,712
+17 anni di cantiere. Il preventivo
+
+667
+00:47:09,212 --> 00:47:13,356
+era 3,3 miliardi, il consuntivo è stato di 24 miliardi
+
+668
+00:47:13,918 --> 00:47:16,961
+comprensivi di oneri finanziari e inflazione.
+
+669
+00:47:17,964 --> 00:47:19,777
+Poi Regno Unito, ve ne ho parlato,
+
+670
+00:47:21,711 --> 00:47:25,197
+La Corte dei Conti britannica sulla
+
+671
+00:47:25,647 --> 00:47:29,263
+centrale di Hinkley Point C: aumento
+
+672
+00:47:29,423 --> 00:47:32,846
+considerevole dei costi, ulteriore ritardo di 2 anni,
+
+673
+00:47:33,039 --> 00:47:36,783
+pesante stress finanziario dovuto all'uscita del socio cinese.
+
+674
+00:47:37,715 --> 00:47:40,077
+Hinkley Point C è costruita da EDF.
+
+675
+00:47:40,623 --> 00:47:43,804
+L'altra centrale britannica, anche questo
+
+676
+00:47:44,206 --> 00:47:46,054
+vi ho detto, Sizewell C,
+
+677
+00:47:47,591 --> 00:47:51,163
+verrà finanziata anche ricorrendo alla
+
+678
+00:47:51,372 --> 00:47:54,831
+regulatory asset base, cioè mettendo in
+
+679
+00:47:55,331 --> 00:47:58,696
+bolletta un piccolo aggravio all'inizio dei
+
+680
+00:47:59,196 --> 00:48:02,868
+cantieri. C'è poi ovviamente
+
+681
+00:48:03,368 --> 00:48:08,128
+l'alea sui costi finanziari, perché l'ipotesi
+
+682
+00:48:08,208 --> 00:48:12,197
+centrale è un tasso sul livretto A al 2%
+
+683
+00:48:12,504 --> 00:48:16,132
+nel lungo periodo. Chiaramente, se il tasso
+
+684
+00:48:16,632 --> 00:48:20,612
+scendesse, Caisse des Dépôts dovrebbe pagare meno. Se sale,
+
+685
+00:48:21,855 --> 00:48:26,050
+sono soldi. E tutto questo mentre,
+
+686
+00:48:26,131 --> 00:48:29,271
+come detto, la Francia è in una crisi fiscale sempre più pesante.
+
+687
+00:48:31,530 --> 00:48:35,035
+Punta al 5% di deficit PIL con
+
+688
+00:48:35,100 --> 00:48:39,090
+54 miliardi di manovra, di cui 43
+
+689
+00:48:39,590 --> 00:48:43,036
+nuova e 11 trascinamento di manovre precedenti.
+
+690
+00:48:44,770 --> 00:48:48,323
+Malgrado ciò, il debito PIL
+
+691
+00:48:49,166 --> 00:48:53,076
+cresce del 2,4% e si
+
+692
+00:48:53,576 --> 00:48:56,169
+avvicina al 122% nel prossimo anno.
+
+693
+00:48:57,247 --> 00:49:00,867
+La spesa per interessi lievita di una dozzina
+
+694
+00:49:01,367 --> 00:49:05,715
+di miliardi. In questo quadro, lo Stato francese si impegna
+
+695
+00:49:06,818 --> 00:49:11,475
+Su 3 fronti di durata pluridecennale: l'indennizzo
+
+696
+00:49:11,975 --> 00:49:14,975
+degli interessi durante la costruzione, il cosiddetto grace period,
+
+697
+00:49:16,051 --> 00:49:19,776
+la copertura parziale degli sforamenti tra preventivo
+
+698
+00:49:19,921 --> 00:49:24,240
+e stato di avanzamento, e le
+
+699
+00:49:24,336 --> 00:49:27,564
+integrazioni al CFD quando i prezzi
+
+700
+00:49:28,064 --> 00:49:30,630
+di mercato restano sotto i 100 euro a megawattora.
+
+701
+00:49:32,933 --> 00:49:37,155
+Il progetto di bilancio del prossimo anno afferma che
+
+702
+00:49:37,204 --> 00:49:41,118
+senza sostegno pubblico nessun investitore
+
+703
+00:49:41,166 --> 00:49:43,718
+potrebbe intraprendere il programma,
+
+704
+00:49:44,316 --> 00:49:47,789
+data l'entità degli investimenti, la durata
+
+705
+00:49:48,370 --> 00:49:50,209
+e la volatilità dei ricavi attesi.
+
+706
+00:49:53,442 --> 00:49:57,670
+Capisco, però I
+
+707
+00:49:58,170 --> 00:50:02,140
+rischi cadono sul bilancio pubblico e su un'impresa
+
+708
+00:50:02,640 --> 00:50:06,019
+che è controllata al 100% dallo Stato. Notate che EDF
+
+709
+00:50:06,990 --> 00:50:10,417
+è uno dei grandi player mondiali del nucleare civile,
+
+710
+00:50:12,900 --> 00:50:15,816
+malgrado ciò è,
+
+711
+00:50:17,507 --> 00:50:21,535
+come dire, afflitta da sovraccosti
+
+712
+00:50:23,200 --> 00:50:24,555
+e allungamenti dei tempi,
+
+713
+00:50:27,710 --> 00:50:30,798
+a differenza di quello che accade in Cina.
+
+714
+00:50:32,930 --> 00:50:36,668
+Però alla fine di questo 2026 ci saranno 3 eventi chiave: il
+
+715
+00:50:37,168 --> 00:50:40,842
+giudizio della Commissione dell'Unione Europea, che secondo me sarà ovviamente favorevole,
+
+716
+00:50:42,566 --> 00:50:46,016
+il parere dell'Autorità di Sicurezza francese sul decreto di
+
+717
+00:50:46,516 --> 00:50:49,670
+autorizzazione per Penly, che aumenterà
+
+718
+00:50:49,686 --> 00:50:53,353
+i costi con ulteriori requisiti di sicurezza. Qualcuno potrebbe dire:
+
+719
+00:50:53,466 --> 00:50:56,746
+tutti questi requisiti di sicurezza sono il problema dei costi!
+
+720
+00:50:56,875 --> 00:50:59,927
+Eh beh, credo anch'io, se non ci fossero
+
+721
+00:51:00,427 --> 00:51:03,125
+sarebbe meglio! È una battuta, ovviamente.
+
+722
+00:51:04,870 --> 00:51:09,463
+E poi naturalmente la decisione finale di EDEF sarà influenzata dai
+
+723
+00:51:09,963 --> 00:51:14,558
+primi due. Se Bruxelles dovesse chiedere delle modifiche
+
+724
+00:51:15,280 --> 00:51:19,067
+Su durata del contratto, prezzo di riferimento, eccetera, cambia tutto
+
+725
+00:51:19,229 --> 00:51:21,453
+per EDF, Stato francese, risparmiatori.
+
+726
+00:51:22,952 --> 00:51:26,883
+Tutto questo evento avverrebbe
+
+727
+00:51:26,963 --> 00:51:29,751
+poco prima che Macron lasci l'Élysée.
+
+728
+00:51:31,491 --> 00:51:36,006
+Un impegno di 50 o 60 anni verrebbe formalizzato
+
+729
+00:51:36,506 --> 00:51:40,313
+e avviato da un governo in scadenza, da un governo di minoranza in scadenza,
+
+730
+00:51:41,080 --> 00:51:45,530
+durante una manovra di aggiustamento di bilancio di 54 miliardi
+
+731
+00:51:45,546 --> 00:51:49,251
+e durante una tempesta, una crisi di debito
+
+732
+00:51:49,751 --> 00:51:50,809
+sovrano sui mercati globali.
+
+733
+00:51:53,776 --> 00:51:57,594
+Tutto quello che accadrà in itinere, cioè a cantieri
+
+734
+00:51:57,691 --> 00:51:59,755
+avviati, resta nel grembo di Giove.
+
+735
+00:52:01,516 --> 00:52:05,656
+I francesi, secondo il loro solito standard,
+
+736
+00:52:05,673 --> 00:52:09,435
+hanno definito il progetto degli EPR2 il
+
+737
+00:52:09,935 --> 00:52:14,289
+cantiere del secolo. Allora è chiaro che l'obiettivo
+
+738
+00:52:14,789 --> 00:52:18,577
+dei prossimi anni per la Francia sarà evitare che
+
+739
+00:52:18,675 --> 00:52:22,756
+il bilancio pubblico perda l'imbracatura e
+
+740
+00:52:22,869 --> 00:52:26,950
+precipiti dal ponteggio, perché sarebbe effettivamente
+
+741
+00:52:28,147 --> 00:52:28,989
+un grande problema.
+
+742
+00:52:32,355 --> 00:52:35,812
+Allora passiamo abbastanza
+
+743
+00:52:36,312 --> 00:52:41,512
+rapidamente. Anzi, restiamo in Europa perché si
+
+744
+00:52:42,012 --> 00:52:47,262
+sono tenuti i colloqui commerciali tra il rappresentante della
+
+745
+00:52:47,762 --> 00:52:50,478
+politica commerciale europea, Maroš Šefčovič, e i cinesi.
+
+746
+00:52:52,720 --> 00:52:56,399
+Chiaramente non andranno bene, la Cina è
+
+747
+00:52:56,899 --> 00:53:00,101
+minacciosa. Perché a buoi scappati l'Unione Europea tenta di chiudere
+
+748
+00:53:00,601 --> 00:53:04,791
+la stalla delle auto ibride. Anche qui Sono
+
+749
+00:53:05,359 --> 00:53:09,208
+2 anni che vi segnalo che la Cina avrebbe
+
+750
+00:53:09,273 --> 00:53:13,116
+alluvionato l'Europa con le sue auto ibride.
+
+751
+00:53:14,135 --> 00:53:19,357
+Infatti l'Unione Europea ha messo i dazi sulle
+
+752
+00:53:19,857 --> 00:53:23,893
+elettriche pure, non sulle ibride o sulle plug-in hybrid. E quindi uno
+
+753
+00:53:24,393 --> 00:53:28,003
+dice, lo fanno apposta? Non lo so, però i cinesi hanno
+
+754
+00:53:28,503 --> 00:53:32,413
+travolto il mercato europeo. In agosto, ultimo dato disponibile,
+
+755
+00:53:33,800 --> 00:53:38,072
+i marchi cinesi rappresentavano il 12%
+
+756
+00:53:38,202 --> 00:53:41,760
+delle vendite di auto nuove in
+
+757
+00:53:42,260 --> 00:53:46,098
+Europa, ma il 25%
+
+758
+00:53:46,227 --> 00:53:50,193
+delle vendite degli ibridi e più
+
+759
+00:53:50,693 --> 00:53:53,044
+del 30% delle plug-in hybrid,
+
+760
+00:53:54,219 --> 00:53:58,436
+perché i veicoli ibridi cinesi attualmente hanno un piccolo
+
+761
+00:53:58,936 --> 00:54:02,164
+dazio del 10%, a differenza delle elettriche pure, delle BEV.
+
+762
+00:54:02,228 --> 00:54:06,666
+Quindi
+
+763
+00:54:06,757 --> 00:54:08,172
+vedremo come andrà a finire.
+
+764
+00:54:10,806 --> 00:54:13,811
+L'Unione Europea vuole, spinta da Macron e da Merz,
+
+765
+00:54:14,019 --> 00:54:17,474
+perché, perché Merz si è accorto che ha
+
+766
+00:54:17,974 --> 00:54:22,067
+preso atto meglio tardi che mai che il mercato cinese per la Germania è chiuso,
+
+767
+00:54:22,164 --> 00:54:23,572
+e quindi adesso fa la voce grossa.
+
+768
+00:54:25,268 --> 00:54:28,959
+Assieme a Macron, perché ci stanno devastando
+
+769
+00:54:29,120 --> 00:54:33,140
+farmaceutica, chimica, i capital goods,
+
+770
+00:54:33,173 --> 00:54:35,486
+cioè i macchinari, l'automotive è persa.
+
+771
+00:54:37,946 --> 00:54:42,620
+Per me l'europrognosi resta assolutamente sfavorevole.
+
+772
+00:54:44,146 --> 00:54:47,487
+È inutile mandare Sefcovic a Pechino a dire:
+
+773
+00:54:47,503 --> 00:54:51,030
+noi adesso vi imporremo Un
+
+774
+00:54:51,530 --> 00:54:54,944
+sistema di quote. Un sistema di quote?
+
+775
+00:54:56,507 --> 00:55:00,017
+Sì, che entro una data quota voi non pagate dazio,
+
+776
+00:55:00,049 --> 00:55:03,473
+lo pagate minimo, dopo quella quota pagate un'apocalisse di dazio.
+
+777
+00:55:03,681 --> 00:55:08,085
+I cinesi spingono per avere un meccanismo
+
+778
+00:55:08,894 --> 00:55:11,935
+che fissi i prezzi minimi, e grazie al piffero,
+
+779
+00:55:12,938 --> 00:55:16,077
+perché se i prezzi minimi devono adeguarsi ai
+
+780
+00:55:16,174 --> 00:55:19,399
+costruttori più inefficienti, che in questo momento sono quelli
+
+781
+00:55:19,899 --> 00:55:23,818
+europei, E beh, si regala alle
+
+782
+00:55:24,318 --> 00:55:28,313
+case cinesi degli autentici extra profitti, visto che
+
+783
+00:55:28,813 --> 00:55:32,246
+passiamo il tempo a parlare di extra profitti. Perché se loro hanno costi
+
+784
+00:55:32,746 --> 00:55:36,902
+per 100 e gli permetti di vendere a 150
+
+785
+00:55:37,402 --> 00:55:40,964
+mentre prima vendevano a 110, voi capite che gli si fa un regalo.
+
+786
+00:55:41,076 --> 00:55:45,010
+Poi non dimentichiamo che la Cina ha questa grandissima
+
+787
+00:55:45,510 --> 00:55:48,911
+pistola carica sul tavolo Che è il controllo delle terre rare,
+
+788
+00:55:48,943 --> 00:55:52,909
+dei magneti, che potrebbe praticamente devastare
+
+789
+00:55:53,409 --> 00:55:56,859
+l'industria automobilistica europea, e non solo quella, nel giro di poche settimane.
+
+790
+00:55:56,972 --> 00:56:00,504
+Quindi io francamente non so quali siano le
+
+791
+00:56:01,004 --> 00:56:04,647
+leve difensive francesi o franco-tedesche
+
+792
+00:56:05,723 --> 00:56:09,335
+portate avanti da due leader che sono ben oltre la
+
+793
+00:56:09,835 --> 00:56:13,702
+linea del capolinea. Quindi è veramente
+
+794
+00:56:14,202 --> 00:56:18,032
+una tristezza vedere l'Unione Europea conciata in questa maniera.
+
+795
+00:56:21,723 --> 00:56:25,938
+Allora, visto che stiamo parlando
+
+796
+00:56:27,763 --> 00:56:31,958
+di Europa e di questo quadro veramente
+
+797
+00:56:32,458 --> 00:56:35,936
+triste, andiamo a fare rotta sulle acque
+
+798
+00:56:36,065 --> 00:56:40,764
+territoriali di Cialtronia, perché questa settimana Sono
+
+799
+00:56:41,264 --> 00:56:45,240
+proseguite con assertività crescente le
+
+800
+00:56:45,740 --> 00:56:49,783
+dichiarazioni programmatiche di politica economica e industriale del presidente
+
+801
+00:56:49,815 --> 00:56:51,728
+pro tempore di Confindustria.
+
+802
+00:56:53,566 --> 00:56:57,034
+E qui devo fare ammenda, perché tempo addietro avevo osservato
+
+803
+00:56:57,534 --> 00:57:00,857
+che il repertorio di Emanuele Orsini tendeva ad essere
+
+804
+00:57:01,357 --> 00:57:05,199
+piuttosto statico, cioè che ripete in modo più o meno robotico gli stessi, le stesse
+
+805
+00:57:05,699 --> 00:57:09,716
+frasi, gli stessi slogan. Adesso però Noto delle new entry nel suo repertorio
+
+806
+00:57:10,216 --> 00:57:14,177
+comunicativo che sono piuttosto sfiziose, anche se purtroppo
+
+807
+00:57:14,980 --> 00:57:18,623
+confermano una imperfetta comprensione
+
+808
+00:57:19,123 --> 00:57:22,684
+delle dinamiche europee, cioè di
+
+809
+00:57:23,184 --> 00:57:26,888
+quelle tra una serie di paesi che partecipano in modo cooperativo
+
+810
+00:57:27,388 --> 00:57:30,275
+e competitivo a un'organizzazione sovranazionale.
+
+811
+00:57:31,206 --> 00:57:35,378
+Orsini è andato al Salone Nautico di Genova e ha bacchettato
+
+812
+00:57:35,878 --> 00:57:39,611
+l'Europa che non dà risposte
+
+813
+00:57:39,788 --> 00:57:43,346
+urgenti per l'industria europea e italiana.
+
+814
+00:57:44,340 --> 00:57:48,427
+Bisogna creare le condizioni abilitanti affinché le imprese restino
+
+815
+00:57:48,927 --> 00:57:51,841
+nel Paese. Dobbiamo intervenire su energia,
+
+816
+00:57:51,873 --> 00:57:55,399
+fiscalità, burocrazia. Vogliamo questo, abbiamo bisogno
+
+817
+00:57:55,899 --> 00:57:59,278
+di questo. Ma cosa significa
+
+818
+00:57:59,903 --> 00:58:03,093
+affinché le imprese restino nel Paese quando
+
+819
+00:58:03,593 --> 00:58:07,332
+si parla di Europa? Che se queste imprese dovessero
+
+820
+00:58:07,832 --> 00:58:11,949
+spostarsi dall'Italia alla Germania, all'Olanda, alla Svezia,
+
+821
+00:58:12,078 --> 00:58:14,696
+alla Spagna, sarebbe colpa dell'Unione Europea?
+
+822
+00:58:15,327 --> 00:58:19,015
+Ovviamente no. Quindi c'è un primo
+
+823
+00:58:19,096 --> 00:58:21,167
+problema di logica in questa,
+
+824
+00:58:22,412 --> 00:58:26,585
+questo modo di esprimersi. Era preferibile dire: bisogna
+
+825
+00:58:26,698 --> 00:58:30,127
+creare le condizioni abilitanti affinché le imprese
+
+826
+00:58:30,370 --> 00:58:34,133
+restino nell'Unione Europea. Ma ovvio che se Orsini
+
+827
+00:58:34,149 --> 00:58:36,373
+avesse pronunciato una frase del genere,
+
+828
+00:58:36,438 --> 00:58:39,539
+l'effetto non sarebbe stato lo stesso,
+
+829
+00:58:40,426 --> 00:58:43,768
+perché qualcuno avrebbe detto: come restino in Unione Europea? Devono restare in Italia!
+
+830
+00:58:45,970 --> 00:58:50,070
+Però occorre che qualcuno avverta Orsini che con il famoso detto
+
+831
+00:58:50,167 --> 00:58:53,781
+aiutati che Dio ti aiuta si intende anche che un
+
+832
+00:58:54,281 --> 00:58:58,299
+paese dell'Unione Europea deve costruirsi la competitività
+
+833
+00:58:58,622 --> 00:59:02,091
+da sé. Poi Orsini ha ribadito che in Europa
+
+834
+00:59:02,591 --> 00:59:06,991
+manca la politica energetica comune. Voi sapete che purtroppo
+
+835
+00:59:07,072 --> 00:59:10,477
+per Orsini politica energetica comune vuol dire che
+
+836
+00:59:10,977 --> 00:59:15,122
+il prezzo dell'energia deve essere uguale ovunque, e non accade nemmeno
+
+837
+00:59:15,443 --> 00:59:20,289
+negli Stati Uniti. Questo è un altro punto su cui i suoi collaboratori dovrebbero
+
+838
+00:59:20,789 --> 00:59:22,807
+effettivamente spiegargli alcune cose.
+
+839
+00:59:24,630 --> 00:59:28,161
+Poi dice Orsini, noi perdiamo Competitività: la
+
+840
+00:59:28,661 --> 00:59:33,028
+Cina sussidia le proprie imprese, quindi bisogna
+
+841
+00:59:33,141 --> 00:59:36,321
+che ci proteggiamo, dobbiamo diventare competitivi.
+
+842
+00:59:37,076 --> 00:59:41,493
+Questo è un altro cortocircuito, perché se diventiamo competitivi
+
+843
+00:59:41,895 --> 00:59:45,589
+ci proteggiamo di sicuro, ma se per diventare competitivi occorre dare
+
+844
+00:59:46,089 --> 00:59:49,364
+sussidi a nostra volta, questo non è il concetto
+
+845
+00:59:49,864 --> 00:59:53,139
+canonico di competitività e soprattutto temo non sia neppure
+
+846
+00:59:53,639 --> 00:59:57,206
+finanziariamente sostenibile. Poi Orsini reitera che
+
+847
+00:59:57,706 --> 01:00:01,327
+lui vuole gli eurobond. Per Natale, immagino. Nessuno dei
+
+848
+01:00:01,827 --> 01:00:06,232
+suoi lo informa che ci sono almeno 5 paesi dell'Unione Europea,
+
+849
+01:00:08,206 --> 01:00:11,919
+grandi contributori netti al bilancio comune, che esigono
+
+850
+01:00:12,080 --> 01:00:15,793
+un taglio di parecchie centinaia di miliardi
+
+851
+01:00:15,890 --> 01:00:18,429
+all'ipotesi di bilancio settennale ordinario.
+
+852
+01:00:19,513 --> 01:00:22,071
+Come si fanno gli eurobond con queste premesse?
+
+853
+01:00:23,486 --> 01:00:27,349
+È colpa dell'Europa se alcuni suoi paesi la vedono in modo molto
+
+854
+01:00:27,849 --> 01:00:33,217
+differente da Orsini? Però qui arriva l'assertività,
+
+855
+01:00:33,411 --> 01:00:36,772
+quello che io ho definito il crescendo orsiniano.
+
+856
+01:00:38,559 --> 01:00:41,525
+L'Italia deve avere più coraggio,
+
+857
+01:00:42,927 --> 01:00:45,635
+dice Orsini. Se l'Europa ci frena,
+
+858
+01:00:45,990 --> 01:00:49,354
+faremo infrazione. Quel che chiamo in modalità tenetemi o
+
+859
+01:00:49,854 --> 01:00:53,387
+infrango. Preferisco salvare le nostre imprese
+
+860
+01:00:53,467 --> 01:00:56,598
+che vederle— e qui riporto quello
+
+861
+01:00:57,098 --> 01:01:00,885
+che scrive il Sole— rasate al suolo. Forse era rase al suolo. Per il
+
+862
+01:01:01,385 --> 01:01:05,205
+fatto che vogliamo tenere sempre perfettamente i conti in ordine. Eh, ma questa
+
+863
+01:01:05,705 --> 01:01:08,287
+ubbia di tenere i conti in ordine, signora mia!
+
+864
+01:01:08,400 --> 01:01:12,189
+Questo concetto faremo
+
+865
+01:01:12,689 --> 01:01:16,669
+infrazione è la nuova La new entry
+
+866
+01:01:17,713 --> 01:01:21,038
+di Orsini, che nei prossimi mesi verrà
+
+867
+01:01:21,538 --> 01:01:25,022
+ripetuta prima e dopo i pasti. Ma che tipo di infrazione dovrebbe
+
+868
+01:01:25,102 --> 01:01:28,748
+commettere l'Italia? Più debito contro il
+
+869
+01:01:28,796 --> 01:01:32,266
+logorio dei conti in ordine? E allora qui andiamo a citofonare
+
+870
+01:01:32,766 --> 01:01:36,072
+a Parigi. L'Italia dovrebbe violare le norme europee,
+
+871
+01:01:36,137 --> 01:01:39,686
+magari quelle sugli ETS, sospendendoli unilateralmente?
+
+872
+01:01:40,618 --> 01:01:44,454
+È infattibile. Però, se così fosse, in ogni caso
+
+873
+01:01:44,954 --> 01:01:48,677
+vorrei sapere se le associate Confindustria sono pronte
+
+874
+01:01:49,177 --> 01:01:53,126
+a pagare le multe dell'Unione Europea, visto che in un altro evento Orsini
+
+875
+01:01:53,626 --> 01:01:57,503
+ha detto: Confindustria appoggerà eventuali infrazioni del governo
+
+876
+01:01:58,003 --> 01:01:59,654
+italiano. Cos'è?
+
+877
+01:02:00,991 --> 01:02:03,148
+Armiamoci, partite e pagate?
+
+878
+01:02:03,310 --> 01:02:07,093
+Quindi io vorrei avere qualche dettaglio in più su chi pagherebbe
+
+879
+01:02:07,593 --> 01:02:10,231
+questo endorsement pesante. Poi c'è un altro slogan, pardon,
+
+880
+01:02:10,873 --> 01:02:14,545
+Un altro punto programmatico: vanno incentivate le aggregazioni
+
+881
+01:02:15,045 --> 01:02:18,555
+tra piccole imprese. Perché le nostre grandi aziende
+
+882
+01:02:19,055 --> 01:02:22,195
+sono appena sotto quelle tedesche, le medie sono le migliori
+
+883
+01:02:22,695 --> 01:02:26,012
+d'Europa, il problema riguarda le piccole. Allora fatemi
+
+884
+01:02:26,092 --> 01:02:29,781
+dire che io sono incondizionatamente d'accordo
+
+885
+01:02:30,281 --> 01:02:33,438
+con questa constatazione di Orsini, ma resto perplesso dalla terapia.
+
+886
+01:02:34,689 --> 01:02:38,121
+In che modo agevolazioni fiscali per aggregazioni
+
+887
+01:02:38,621 --> 01:02:42,128
+tra piccole e microimprese E comunque voi ce
+
+888
+01:02:42,628 --> 01:02:46,083
+le vedete due piccole o piccolissime imprese con
+
+889
+01:02:46,583 --> 01:02:49,683
+la loro cultura padronale, più o meno illuminata, più o meno retriva,
+
+890
+01:02:51,110 --> 01:02:54,500
+imbozzolate contro il mondo esterno, che si aggregano?
+
+891
+01:02:55,344 --> 01:02:58,717
+Io no. Presidente Orsini, ci mandi lumi!
+
+892
+01:03:00,604 --> 01:03:04,234
+Ma soprattutto Orsini ha detto: dobbiamo pensare a
+
+893
+01:03:04,250 --> 01:03:07,703
+un piano Rilancio Italia. Perché sapete che
+
+894
+01:03:08,203 --> 01:03:11,746
+c'è sempre uno slogan, no, per dare l'appalto a qualche agenzia
+
+895
+01:03:12,246 --> 01:03:17,350
+di comunicazione. Utilizzando capitali pazienti. Io questa
+
+896
+01:03:17,850 --> 01:03:21,913
+storia, questa menata dei capitali pazienti mi fa perdere la pazienza.
+
+897
+01:03:22,349 --> 01:03:27,869
+Capitali pazienti come quelli dei fondi pensione e
+
+898
+01:03:27,933 --> 01:03:31,338
+i risparmi delle famiglie, remunerandoli per investire in
+
+899
+01:03:31,886 --> 01:03:35,306
+infrastrutture, sanità, scuola e crescita. Ora, a parte
+
+900
+01:03:35,984 --> 01:03:39,887
+che Voglio dire, come avrebbe detto Max Catalano, sempre meglio investire
+
+901
+01:03:40,387 --> 01:03:42,001
+in crescita che investire in decrescita.
+
+902
+01:03:43,830 --> 01:03:47,300
+Però gli investimenti, come da libri di testo,
+
+903
+01:03:47,332 --> 01:03:50,202
+si fanno in qualcosa che produce flussi di reddito.
+
+904
+01:03:51,159 --> 01:03:54,616
+Io non ho chiaro quanto e quale possa essere il
+
+905
+01:03:55,116 --> 01:03:58,850
+flusso di reddito di investimenti in scuola e sanità,
+
+906
+01:04:00,086 --> 01:04:03,757
+che vanno fatte, eh! Adesso non vorrei che arrivasse l'idiota di turno a dirmi,
+
+907
+01:04:03,805 --> 01:04:06,333
+ecco il liberista che vuole stroncare scuola e sanità! No!
+
+908
+01:04:08,090 --> 01:04:12,365
+Va speso in scuola e sanità in maniera efficiente, ma non sono investimenti
+
+909
+01:04:12,865 --> 01:04:16,639
+nel senso canonico del termine, perché l'investimento è una spesa
+
+910
+01:04:17,605 --> 01:04:20,874
+destinata ad essere ammortizzata lungo un arco pluriennale
+
+911
+01:04:21,148 --> 01:04:22,968
+che produce flussi di reddito.
+
+912
+01:04:25,680 --> 01:04:29,600
+Quanto rende un investimento in infrastrutture se non sono coinvolti
+
+913
+01:04:29,712 --> 01:04:33,810
+pedaggi? Nel senso che migliora, o dovrebbe migliorare, la produttività
+
+914
+01:04:34,310 --> 01:04:35,971
+totale dei fattori, va in quel grande calderone.
+
+915
+01:04:37,951 --> 01:04:41,896
+Ma se dobbiamo remunerare i risparmi delle famiglie
+
+916
+01:04:42,396 --> 01:04:46,562
+per fare 'ste spese, ci serve sicuramente uno strumento molto innovativo
+
+917
+01:04:47,062 --> 01:04:50,316
+che però esiste già. Pensate, si chiama BTP.
+
+918
+01:04:51,348 --> 01:04:54,992
+Evitando però di emetterne troppi, perché altrimenti son problemi.
+
+919
+01:04:56,074 --> 01:04:59,027
+Quindi anche qui mancano i dettagli agli slogan.
+
+920
+01:05:00,893 --> 01:05:04,280
+Poi c'è il refrain più gettonato da Orsini in
+
+921
+01:05:04,312 --> 01:05:07,649
+questo periodo, che dice: dei 74 miliardi che
+
+922
+01:05:08,149 --> 01:05:10,617
+l'Unione Europea incassa dagli ETS,
+
+923
+01:05:11,328 --> 01:05:15,337
+14 vanno a finanziare la Commissione Europea.
+
+924
+01:05:15,466 --> 01:05:19,217
+Allora, io qui ho chiesto all'intelligenza artificiale,
+
+925
+01:05:19,249 --> 01:05:22,488
+pregandola di non allucinarsi, e infatti mi ha tirato
+
+926
+01:05:22,988 --> 01:05:26,453
+fuori anche le fonti, e viene
+
+927
+01:05:26,953 --> 01:05:29,761
+fuori che questi numeri di Orsini semplicemente non esistono.
+
+928
+01:05:30,782 --> 01:05:33,925
+Perché nel 2025 le
+
+929
+01:05:34,425 --> 01:05:38,423
+aste degli ETS hanno generato 43 miliardi
+
+930
+01:05:38,584 --> 01:05:42,249
+di euro, di cui 24 sono
+
+931
+01:05:42,749 --> 01:05:44,634
+andati ai bilanci degli stati membri.
+
+932
+01:05:45,990 --> 01:05:49,616
+La parte restante non finanzia la Commissione Europea,
+
+933
+01:05:49,729 --> 01:05:53,809
+Presidente Orsini, finanzia strumenti europei
+
+934
+01:05:53,857 --> 01:05:57,718
+che si chiamano Innovation Fund, Modernization Fund,
+
+935
+01:05:58,388 --> 01:06:01,936
+In alcuni casi l'RRF, il Recovery
+
+936
+01:06:02,114 --> 01:06:03,685
+and Resilience Facility.
+
+937
+01:06:05,747 --> 01:06:09,633
+Non c'è alcun riscontro dei 14 miliardi che vanno alle spese
+
+938
+01:06:10,133 --> 01:06:12,110
+di funzionamento della Commissione Europea.
+
+939
+01:06:15,130 --> 01:06:19,601
+Voi sapete che il bilancio è
+
+940
+01:06:20,101 --> 01:06:24,988
+finanziato, il bilancio dell'Unione Europea è finanziato da
+
+941
+01:06:25,068 --> 01:06:28,559
+contributi basati sul reddito nazionale lordo, dalla quota
+
+942
+01:06:29,059 --> 01:06:32,309
+IVA, dai dazi doganali, dal contributo su plastica non riciclata.
+
+943
+01:06:32,357 --> 01:06:36,501
+Quindi l'ETS non è una
+
+944
+01:06:37,001 --> 01:06:38,864
+risorsa propria del bilancio europeo.
+
+945
+01:06:40,821 --> 01:06:46,068
+Però per il progetto di bilancio 2028-2034
+
+946
+01:06:46,568 --> 01:06:50,574
+la Commissione vorrebbe destinare al bilancio dell'Unione il
+
+947
+01:06:50,590 --> 01:06:52,982
+30% dei proventi dell'ETS.
+
+948
+01:06:55,898 --> 01:07:00,033
+In 7 anni sarebbero 75 miliardi di euro.
+
+949
+01:07:01,673 --> 01:07:05,068
+Ma 75 miliardi di euro in
+
+950
+01:07:05,568 --> 01:07:07,729
+7 anni, non di incassi annuali.
+
+951
+01:07:10,022 --> 01:07:14,869
+I 14 miliardi non sono neanche spesa
+
+952
+01:07:15,369 --> 01:07:16,517
+amministrativa della Commissione.
+
+953
+01:07:18,752 --> 01:07:22,620
+Quest'anno 10 miliardi di euro per l'amministrazione
+
+954
+01:07:23,120 --> 01:07:26,857
+di tutte le istituzioni europee. Esiste invece
+
+955
+01:07:27,357 --> 01:07:30,821
+un fondo ETS che ha una dotazione di circa 14 miliardi di euro,
+
+956
+01:07:30,933 --> 01:07:35,026
+che è il Modernization Fund, ma queste sono
+
+957
+01:07:35,526 --> 01:07:39,070
+risorse destinate a finanziare la transizione energetica in 10 stati
+
+958
+01:07:39,570 --> 01:07:42,248
+membri, non a finanziare la Commissione. Quindi,
+
+959
+01:07:43,372 --> 01:07:46,790
+facendo un minimo di fact-checking, persino in un paese come l'Italia,
+
+960
+01:07:46,822 --> 01:07:51,007
+che è a cui il fact-checking provoca shock anafilattici,
+
+961
+01:07:51,087 --> 01:07:54,357
+la frase di Orsini non sta né in cielo né in terra.
+
+962
+01:07:57,570 --> 01:07:59,828
+Quindi attendiamo ulteriori precisazioni.
+
+963
+01:08:02,370 --> 01:08:07,754
+Invece le precisazioni a Orsini sono arrivate a strettissimo giro perché
+
+964
+01:08:08,254 --> 01:08:10,491
+ha fatto un'affermazione su Generali,
+
+965
+01:08:11,475 --> 01:08:16,160
+Assicurazioni Generali Leone di Trieste, la nostra politica Oramai
+
+966
+01:08:16,660 --> 01:08:19,424
+vede Generali come la cassaforte degli italiani.
+
+967
+01:08:22,006 --> 01:08:24,799
+Dice Orsini,
+
+968
+01:08:25,429 --> 01:08:29,675
+riportato dal Messaggero: Generali ha in pancia 600
+
+969
+01:08:30,175 --> 01:08:34,067
+miliardi di risparmi italiani. Se qualcheduno mi dice: sai,
+
+970
+01:08:34,131 --> 01:08:36,959
+stanno pensando a una fusione tra AXA e Generali,
+
+971
+01:08:36,991 --> 01:08:40,205
+forse la sede la vogliono mettere a Parigi, io rispondo
+
+972
+01:08:40,705 --> 01:08:43,957
+che dentro Generali ci sono 600 miliardi nostri,
+
+973
+01:08:44,372 --> 01:08:47,155
+Quella roba lì sta in Italia,
+
+974
+01:08:47,350 --> 01:08:50,878
+quella roba lì deve servire a fare investimenti
+
+975
+01:08:50,926 --> 01:08:54,262
+in Italia, quindi io sto con quelli che stanno con quella roba lì.
+
+976
+01:08:55,364 --> 01:08:58,617
+Punto. Non ho casacche. Allora, a parte che
+
+977
+01:08:59,117 --> 01:09:00,503
+questa sembra una citazione di Verga,
+
+978
+01:09:02,580 --> 01:09:04,536
+quella roba lì è roba nostra.
+
+979
+01:09:05,980 --> 01:09:09,809
+E pensate che Generali su un'affermazione del genere si
+
+980
+01:09:10,309 --> 01:09:14,131
+è sentita in dovere, e ha fatto bene, di precisare a strettissimo
+
+981
+01:09:14,631 --> 01:09:19,488
+giro comunicando che Generali
+
+982
+01:09:19,520 --> 01:09:23,604
+gestisce quasi 1000 miliardi e trattandosi del leader
+
+983
+01:09:23,653 --> 01:09:27,189
+europeo nell'assicurazione vita retail, oltre due terzi di questa
+
+984
+01:09:27,689 --> 01:09:31,092
+cifra appartengono a cittadini europei ma anche americani e
+
+985
+01:09:31,592 --> 01:09:33,067
+asiatici che non sono italiani.
+
+986
+01:09:35,066 --> 01:09:38,871
+Quindi cosa vi devo dire? Che abbiamo un Orsini preciso ma non precisissimo.
+
+987
+01:09:40,776 --> 01:09:44,423
+Poi, per chiudere, in un
+
+988
+01:09:44,923 --> 01:09:48,844
+altro evento Orsini ha detto: serve un mercato unico europeo
+
+989
+01:09:49,344 --> 01:09:53,184
+dei capitali. Ma io chiedo umilmente: serve
+
+990
+01:09:53,684 --> 01:09:57,363
+un mercato unico europeo dei capitali con o senza quella
+
+991
+01:09:57,863 --> 01:10:01,297
+roba lì di Generali? Quindi,
+
+992
+01:10:01,330 --> 01:10:04,862
+come vedete, ci portiamo avanti chiedendo più debito,
+
+993
+01:10:04,944 --> 01:10:08,492
+ma soprattutto portando avanti, chiedendo più debito
+
+994
+01:10:08,992 --> 01:10:13,800
+formativo, nel senso che non capiamo come diavolo funziona l'Unione
+
+995
+01:10:13,930 --> 01:10:17,073
+Europea e non capiamo quali sono i numeri in gioco.
+
+996
+01:10:20,916 --> 01:10:24,263
+È triste questa cosa qui, no? È molto triste.
+
+997
+01:10:27,120 --> 01:10:30,586
+Poi, andando a chiudere sempre con
+
+998
+01:10:30,978 --> 01:10:31,600
+cialtronia,
+
+999
+01:10:34,442 --> 01:10:37,908
+Abbiamo AVS, Anzianità Vecchiaia Superstiti,
+
+1000
+01:10:37,989 --> 01:10:41,099
+che sarebbe il partito di Mimì e Cocò, che hanno
+
+1001
+01:10:41,599 --> 01:10:45,898
+una grandissima expertise nel talent scouting delle candidature
+
+1002
+01:10:47,244 --> 01:10:49,872
+elettorali. Mi aspetto a qualche altro botto significativo.
+
+1003
+01:10:51,940 --> 01:10:54,426
+Propone una patrimoniale. E vabbè,
+
+1004
+01:10:55,669 --> 01:10:59,227
+però siccome si dice: eh, ma la patrimoniale, quando arriva la patrimoniale
+
+1005
+01:10:59,727 --> 01:11:01,782
+la gente porta i soldi fuori confine, almeno chi ha i mezzi per permettersi di
+
+1006
+01:11:01,814 --> 01:11:05,042
+portare i i voti, i voti,
+
+1007
+01:11:05,074 --> 01:11:08,721
+sì, anche i voti votano coi piedi, di portare i soldi fuori confine.
+
+1008
+01:11:09,726 --> 01:11:13,117
+E allora dicono anzianità, vecchiaia, superstiti, famose,
+
+1009
+01:11:13,279 --> 01:11:17,317
+famose angurie verdi fuori rosse dentro, e beh, e noi mettiamo una
+
+1010
+01:11:17,414 --> 01:11:21,169
+exit tax del 26% sulle
+
+1011
+01:11:21,363 --> 01:11:24,861
+plusvalenze latenti di tutti quelli che si azzarderanno
+
+1012
+01:11:25,361 --> 01:11:29,716
+a varcare il confine. Sembra geniale.
+
+1013
+01:11:30,308 --> 01:11:32,773
+Sembra la soluzione ai mali del mondo.
+
+1014
+01:11:33,933 --> 01:11:37,655
+Basta con questi liberisti che dicono, se metti la patrimoniale solo da
+
+1015
+01:11:38,155 --> 01:11:41,192
+una parte la gente fugge, e noi mettiamo la exit tax.
+
+1016
+01:11:41,257 --> 01:11:44,760
+Ma piccolo problema, chi sfugge?
+
+1017
+01:11:46,415 --> 01:11:50,530
+In chi evidentemente ha un enorme debito formativo sull'economia di
+
+1018
+01:11:54,193 --> 01:11:58,039
+Tu non stai impedendo il deflusso di
+
+1019
+01:11:58,539 --> 01:12:02,002
+capitali, stai impedendo soprattutto l'ingresso con una
+
+1020
+01:12:02,502 --> 01:12:06,216
+costruzione di questo tipo. E siccome l'ingresso di capitali serve,
+
+1021
+01:12:08,016 --> 01:12:10,917
+serve per finanziare investimenti tra le altre cose,
+
+1022
+01:12:12,296 --> 01:12:17,390
+allora io invito tutti coloro che dicono
+
+1023
+01:12:18,765 --> 01:12:22,576
+la soluzione, il fix, il proiettile d'argento
+
+1024
+01:12:22,740 --> 01:12:28,468
+per far funzionare la patrimoniale: mettere un exit E
+
+1025
+01:12:28,968 --> 01:12:33,308
+beh no, tenete presente agli effetti a specchio in
+
+1026
+01:12:33,808 --> 01:12:37,577
+economia. Pensate a un concetto di effetti a specchio, non quelli
+
+1027
+01:12:38,077 --> 01:12:42,213
+solo da un lato, quelli anche dal lato opposto. Quindi in questo caso dal disincentivo
+
+1028
+01:12:42,713 --> 01:12:46,700
+all'ingresso di capitali nel paese. Poi ho apprezzato molto
+
+1029
+01:12:47,200 --> 01:12:50,861
+che Ernesto Maria Ruffini, che è l'ex zar dell'Agenzia delle Entrate,
+
+1030
+01:12:51,326 --> 01:12:54,939
+si sia detto contrario alla patrimoniale perché dice che c'è già un eccesso
+
+1031
+01:12:55,439 --> 01:12:58,744
+di pressione fiscale con soldi che sono amministrati
+
+1032
+01:12:59,244 --> 01:13:02,967
+e gestiti male. Mi sembra coraggioso che all'interno dello schieramento di
+
+1033
+01:13:03,467 --> 01:13:06,724
+centrosinistra molto nebuloso ci sia qualcuno, soprattutto con
+
+1034
+01:13:06,740 --> 01:13:09,069
+la storia personale e professionale di Ruffini,
+
+1035
+01:13:10,514 --> 01:13:13,805
+che si esprime in questi termini. Questo non è un endorsement, è una
+
+1036
+01:13:14,305 --> 01:13:15,299
+banale considerazione.
+
+1037
+01:13:18,530 --> 01:13:22,879
+E naturalmente questa considerazione non vale solo per le angurie
+
+1038
+01:13:23,379 --> 01:13:26,597
+di anzianità vecchiaia superstiti, vale anche per i
+
+1039
+01:13:27,097 --> 01:13:30,594
+nostri statisti come Carlo Calenda che dicono: beh sì,
+
+1040
+01:13:31,776 --> 01:13:35,951
+sono favorevole alla patrimoniale ma a livello europeo. A livello europeo?
+
+1041
+01:13:37,380 --> 01:13:39,131
+Così l'Europa si suicida!
+
+1042
+01:13:39,244 --> 01:13:42,699
+Nel momento in cui
+
+1043
+01:13:43,199 --> 01:13:46,363
+viene annunciata, i soldi fuggono verso gli Stati Uniti.
+
+1044
+01:13:47,897 --> 01:13:51,383
+Sapete quando noi potremo mettere una patrimoniale vera?
+
+1045
+01:13:52,235 --> 01:13:56,846
+Quando la faranno gli Stati Uniti, semmai accadrà. Perché se
+
+1046
+01:13:57,346 --> 01:14:00,870
+la fanno gli Stati Uniti, da lì in avanti sarà discesa per tutto
+
+1047
+01:14:01,370 --> 01:14:05,346
+il resto del mondo. Quindi lo dobbiamo dire anche ai nostri progressisti a
+
+1048
+01:14:05,846 --> 01:14:07,451
+targhe alterne che non riescono a capire.
+
+1049
+01:14:11,280 --> 01:14:15,765
+Infatti Schlein che è una furbacchiona, anche se sembrerebbe
+
+1050
+01:14:16,265 --> 01:14:20,307
+esattamente il contrario guardandola e sentendola parlare, ha detto: noi siamo favorevoli alla patrimoniale,
+
+1051
+01:14:20,742 --> 01:14:23,951
+ma deve essere una patrimoniale europea, che così, che è un modo per dire: allora
+
+1052
+01:14:23,983 --> 01:14:27,991
+non lo facciamo e non scontentiamo nessuno. Meno male
+
+1053
+01:14:28,491 --> 01:14:31,738
+che c'è Anzianità, Vecchiaia e Superstiti che preme a bestia con le sue
+
+1054
+01:14:32,238 --> 01:14:33,392
+innovative proposte.
+
+1055
+01:14:36,310 --> 01:14:39,543
+Innovative proposte, poi vedremo come faranno sintesi sul programma,
+
+1056
+01:14:39,576 --> 01:14:42,698
+nel frattempo Alla Leopolda questa settimana ho sentito
+
+1057
+01:14:43,198 --> 01:14:46,557
+Matteo Renzi che, voi sapete,
+
+1058
+01:14:46,670 --> 01:14:50,261
+Conte ha chiesto garanzie per far entrare Renzi in coalizione.
+
+1059
+01:14:50,406 --> 01:14:53,836
+Renzi ha ribattuto a sua volta che
+
+1060
+01:14:54,336 --> 01:14:58,081
+lui vuole 3 garanzie da Conte: mai con Trump, Salvini e Giorgetti.
+
+1061
+01:14:58,291 --> 01:15:02,123
+Io non capisco cosa c'entri il povero Giorgetti, che è
+
+1062
+01:15:02,623 --> 01:15:05,951
+uno dei rari adulti nella stanza italiana.
+
+1063
+01:15:07,011 --> 01:15:08,704
+Pur con tutti i suoi limiti.
+
+1064
+01:15:12,240 --> 01:15:15,604
+Poi Renzi mette la ciliegina sulla torta con il Movimento 5
+
+1065
+01:15:16,104 --> 01:15:19,260
+Stelle: più cose che uniscono che divisioni.
+
+1066
+01:15:19,535 --> 01:15:23,191
+Ma davvero? Cioè, anche Renzi
+
+1067
+01:15:23,691 --> 01:15:26,702
+è diventato un tifoso di Putin? Ce lo faccia sapere.
+
+1068
+01:15:27,995 --> 01:15:30,828
+E poi il contratto alla tedesca.
+
+1069
+01:15:31,950 --> 01:15:34,349
+La accozzaglia larga, dice Renzi,
+
+1070
+01:15:35,508 --> 01:15:38,809
+della serie vita in provincia prendendo informazioni
+
+1071
+01:15:39,309 --> 01:15:42,650
+su Internet Explorer. Adesso arriva Renzi con il contratto alla
+
+1072
+01:15:42,682 --> 01:15:46,413
+tedesca. Cosa non si farebbe pur di salire a
+
+1073
+01:15:46,913 --> 01:15:49,950
+bordo di una coalizione taxi e tornare in Parlamento?
+
+1074
+01:15:52,010 --> 01:15:56,040
+Il nostro Gepp Gambardella che non vuole partecipare alle coalizioni
+
+1075
+01:15:56,540 --> 01:16:00,402
+ma vuole avere il potere di farle fallire. Però io riconosco
+
+1076
+01:16:00,659 --> 01:16:03,902
+in Matteo Renzi una funzione molto utile,
+
+1077
+01:16:04,978 --> 01:16:08,414
+che Renzi riesce, pur avendo una consistenza
+
+1078
+01:16:08,914 --> 01:16:12,091
+elettorale ormai risibile, a far cadere delle coalizioni nocive.
+
+1079
+01:16:12,685 --> 01:16:17,101
+Quindi almeno quella può essere la sua funzione all'interno
+
+1080
+01:16:17,601 --> 01:16:21,532
+dell'ecosistema di risulta che è il centrosinistra
+
+1081
+01:16:22,032 --> 01:16:26,746
+italiano, che è veramente ai minimi storici,
+
+1082
+01:16:26,892 --> 01:16:29,025
+è veramente ai minimi storici.
+
+1083
+01:16:33,310 --> 01:16:37,198
+Questa settimana è stata approvata la nuova
+
+1084
+01:16:37,698 --> 01:16:41,346
+legge elettorale, lo Stabilicum. Questa è una legge che prevede
+
+1085
+01:16:41,846 --> 01:16:46,752
+appunto premio di maggioranza per la coalizione
+
+1086
+01:16:47,252 --> 01:16:51,574
+che supera il 42%, attenzione, in entrambi i rami del Parlamento.
+
+1087
+01:16:52,016 --> 01:16:53,704
+Se lo supera alla Camera ma non al Senato, o viceversa, non c'è il premio
+
+1088
+01:16:56,050 --> 01:16:58,602
+Però fatemi dire,
+
+1089
+01:16:59,614 --> 01:17:02,006
+è una legge abbastanza sghemba,
+
+1090
+01:17:03,130 --> 01:17:07,626
+si iscrive nel solco della tradizione delle leggi elettorali
+
+1091
+01:17:08,509 --> 01:17:11,961
+fatte per cristallizzare i propri presunti
+
+1092
+01:17:12,461 --> 01:17:15,814
+vantaggi da sondaggi. Poi quando si arriva al dunque e si
+
+1093
+01:17:16,314 --> 01:17:18,784
+va a votare, l'elettorato ti fa marameo,
+
+1094
+01:17:19,908 --> 01:17:23,681
+vota da tutt'altra parte e ti invalida pesantemente
+
+1095
+01:17:24,181 --> 01:17:28,917
+gli esiti che tu speravi quella nuova legge elettorale avrebbe cristallizzato,
+
+1096
+01:17:29,094 --> 01:17:32,908
+è così da lustri, potrebbe accadere anche
+
+1097
+01:17:32,956 --> 01:17:34,055
+questa volta.
+
+1098
+01:17:35,916 --> 01:17:40,429
+Tra l'altro non ci vuole un politologo per
+
+1099
+01:17:40,445 --> 01:17:45,152
+capire che lo stabilicum è praticamente
+
+1100
+01:17:45,652 --> 01:17:49,176
+il second best della mancata
+
+1101
+01:17:49,676 --> 01:17:52,942
+riforma costituzionale che va sotto il nome di premierato.
+
+1102
+01:17:54,910 --> 01:17:59,003
+Che visto com'è finita la riforma della magistratura,
+
+1103
+01:18:00,223 --> 01:18:03,336
+il cui esito nel referendum confermativo ha
+
+1104
+01:18:03,836 --> 01:18:07,460
+dato fiato alla accozzaglia larga facendogli credere di essere praticamente
+
+1105
+01:18:07,926 --> 01:18:11,842
+in splendida solitaria volata, una donna
+
+1106
+01:18:12,342 --> 01:18:16,175
+sola al comando verso il traguardo, e da lì in avanti non
+
+1107
+01:18:16,675 --> 01:18:19,593
+si sono più rialzati. Ogni giorno è uno spettacolo penoso.
+
+1108
+01:18:20,587 --> 01:18:24,114
+Quindi che ha fatto Meloni? Visto che
+
+1109
+01:18:24,274 --> 01:18:28,137
+la riforma costituzionale del premierato non tirava
+
+1110
+01:18:28,637 --> 01:18:32,129
+aria, ha usato come second best la legge elettorale che passa
+
+1111
+01:18:32,629 --> 01:18:37,210
+con legge ordinaria. Adesso ci saranno grandinate
+
+1112
+01:18:37,710 --> 01:18:40,673
+di ricorsi alla magistratura, si pronuncerà la consulta,
+
+1113
+01:18:40,705 --> 01:18:45,113
+vedremo. Infatti la accozzaglia Larga dice: noi potremmo
+
+1114
+01:18:45,613 --> 01:18:49,602
+chiamarci Uniti per la Costituzione. Sì, perché l'unico elemento che
+
+1115
+01:18:50,102 --> 01:18:53,613
+può fare da collante simbolico all'impotenza di questa
+
+1116
+01:18:53,693 --> 01:18:57,274
+gente è l'invocazione della Costituzione,
+
+1117
+01:18:57,402 --> 01:19:01,159
+o al più il solito grido fascisti, che quello si porta
+
+1118
+01:19:01,659 --> 01:19:05,222
+con tutto. Però questo non serve a governare,
+
+1119
+01:19:05,254 --> 01:19:09,220
+bisogna dirle queste cose. Serve al più a
+
+1120
+01:19:09,720 --> 01:19:12,527
+raggiungere l'unico vero obiettivo di una coalizione di governo,
+
+1121
+01:19:12,592 --> 01:19:16,365
+cioè lo spoil system e le nomine delle partecipate pubbliche, ma non serve
+
+1122
+01:19:16,865 --> 01:19:20,901
+a governare. Comunque staremo,
+
+1123
+01:19:21,389 --> 01:19:22,609
+staremo a vedere. Ecco,
+
+1124
+01:19:24,886 --> 01:19:28,476
+chiudo come devo chiudere.
+
+1125
+01:19:28,782 --> 01:19:32,368
+Un dato uscito questa settimana sull'estero:
+
+1126
+01:19:33,692 --> 01:19:38,016
+da inizio 2024 l'economia britannica è cresciuta del 2,5%,
+
+1127
+01:19:38,049 --> 01:19:40,985
+quindi il doppio di Francia, Germania e Italia,
+
+1128
+01:19:41,876 --> 01:19:44,621
+eppure sta sanguinando occupazione.
+
+1129
+01:19:45,384 --> 01:19:49,066
+E ha una crisi conclamata di occupazione giovanile, il che
+
+1130
+01:19:49,566 --> 01:19:53,182
+vuol dire che è in corso un recupero di produttività piuttosto doloroso
+
+1131
+01:19:53,682 --> 01:19:58,950
+in Regno Unito. Vedremo il budget della—
+
+1132
+01:19:59,450 --> 01:20:02,844
+il primo budget di Andy Burnham e del suo cancelliere dello scacchiere,
+
+1133
+01:20:02,909 --> 01:20:05,904
+Healey, che verrà presentato a fine ottobre.
+
+1134
+01:20:07,063 --> 01:20:11,179
+Vi informerò anche su quello. Però la situazione è abbastanza
+
+1135
+01:20:11,679 --> 01:20:15,112
+singolare. Qualcuno dice sarà l'intelligenza artificiale, non lo so. Però se il fenomeno
+
+1136
+01:20:17,839 --> 01:20:21,374
+di rimbalzino della crescita è
+
+1137
+01:20:21,454 --> 01:20:25,005
+partito nel 2025, mi sembra difficile che
+
+1138
+01:20:25,505 --> 01:20:28,635
+almeno inizialmente possa essere stata l'intelligenza artificiale.
+
+1139
+01:20:30,472 --> 01:20:33,887
+Tra i sospettati c'è la progressione del salario
+
+1140
+01:20:34,387 --> 01:20:35,521
+minimo sugli under 21,
+
+1141
+01:20:36,992 --> 01:20:40,786
+l'aumento della onerosità della National
+
+1142
+01:20:41,286 --> 01:20:44,532
+Insurance per i datori di lavoro che ha danneggiato i settori labor intensive,
+
+1143
+01:20:44,564 --> 01:20:48,132
+quindi magari hanno spremuto prendendo i
+
+1144
+01:20:48,632 --> 01:20:52,715
+camerieri, i camerieri e gli addetti ai ristoranti e facendoli lavorare sulla soglia del burnout.
+
+1145
+01:20:52,829 --> 01:20:54,902
+Non lo so, bisogna vedere come va in manifattura.
+
+1146
+01:20:57,036 --> 01:21:00,973
+Tutte cose molto interessanti che seguiremo con il passare del tempo.
+
+1147
+01:21:01,792 --> 01:21:05,922
+Abbiamo terminato, vi ringrazio per l'ascolto e per l'attenzione.
+
+1148
+01:21:06,195 --> 01:21:07,839
+Vi ricordo Phastidio.net/contacto,
+
+1149
+01:21:09,200 --> 01:21:13,626
+Phastidio.net/donazioni. Vi ricordo il Phastidio
+
+1150
+01:21:13,674 --> 01:21:17,612
+Substack e vi ricordo che noi ci risentiamo al
+
+1151
+01:21:18,112 --> 01:21:21,893
+fatto piacendo sabato prossimo. Buona vita, se potete!
