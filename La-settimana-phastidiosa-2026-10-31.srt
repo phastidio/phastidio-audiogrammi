@@ -1,0 +1,4863 @@
+1
+00:00:00,032 --> 00:00:04,472
+Questo è Phastidio Podcast, la Settimana Phastidiosa,
+
+2
+00:00:04,680 --> 00:00:08,159
+il commento a fatti e notizie che hanno attirato la mia attenzione.
+
+3
+00:00:08,752 --> 00:00:12,166
+Lo trovate su tutte le maggiori piattaforme podcast, YouTube,
+
+4
+00:00:12,519 --> 00:00:16,607
+sulle app di aggregazione dei feed RSS. I sostenitori
+
+5
+00:00:17,107 --> 00:00:20,630
+su Spreaker e YouTube e gli abbonati al Phastidio Substack
+
+6
+00:00:21,130 --> 00:00:24,991
+ascoltano senza pubblicità e in anteprima. Io sono Mario Seminerio.
+
+7
+00:00:44,105 --> 00:00:47,468
+Avremo modo di parlare la prossima puntata dei
+
+8
+00:00:47,968 --> 00:00:51,894
+risultati del midterm degli Stati Uniti e soprattutto
+
+9
+00:00:52,394 --> 00:00:56,320
+delle conseguenze in termini di reazione di Donald
+
+10
+00:00:56,336 --> 00:00:59,863
+Trump. Questa settimana parlerei
+
+11
+00:01:00,427 --> 00:01:03,728
+di una miscellanea
+
+12
+00:01:04,228 --> 00:01:08,076
+di esteri che ha come denominatore comune
+
+13
+00:01:08,093 --> 00:01:12,197
+il rapporto con gli Stati Uniti. E quindi partiamo
+
+14
+00:01:12,440 --> 00:01:16,397
+necessariamente con i due eventi elettorali della
+
+15
+00:01:16,897 --> 00:01:20,060
+settimana: le elezioni in
+
+16
+00:01:20,655 --> 00:01:24,350
+Brasile, le presidenziali, e le elezioni
+
+17
+00:01:24,431 --> 00:01:28,860
+politiche in Israele. In Brasile Clamorosamente,
+
+18
+00:01:29,405 --> 00:01:32,625
+al secondo turno, il presidente uscente
+
+19
+00:01:33,234 --> 00:01:37,352
+Lula, il presidente operaio, ha ribaltato
+
+20
+00:01:37,737 --> 00:01:41,646
+i risultati del primo turno. È riuscito a vincere con
+
+21
+00:01:42,146 --> 00:01:46,052
+3 punti percentuali di scarto sullo sfidante
+
+22
+00:01:46,552 --> 00:01:49,738
+Flavio Bolsonaro, sfidante conservatore,
+
+23
+00:01:49,898 --> 00:01:54,208
+figlio del golpista agli arresti domiciliari Jair
+
+24
+00:01:54,384 --> 00:01:57,556
+Bolsonaro. Flavio è indagato
+
+25
+00:01:57,847 --> 00:02:02,413
+per corruzione e riciclaggio.
+
+26
+00:02:02,623 --> 00:02:06,827
+E infatti pochi minuti dopo la proclamazione dei
+
+27
+00:02:07,068 --> 00:02:11,456
+risultati è sparito. Anzi, pochi minuti dopo la proclamazione
+
+28
+00:02:11,956 --> 00:02:15,051
+dei risultati un giudice gli ha invalidato i passaporti.
+
+29
+00:02:15,164 --> 00:02:18,531
+Lui è riuscito fortunosamente, avventurosamente,
+
+30
+00:02:19,308 --> 00:02:23,360
+a passare il confine. È entrato in Argentina e
+
+31
+00:02:23,860 --> 00:02:27,448
+da lì ha preso il volo verso gli Stati Uniti. È atterrato
+
+32
+00:02:27,544 --> 00:02:31,471
+a Miami con la moglie e le due figlie. Gli Stati
+
+33
+00:02:31,971 --> 00:02:35,719
+Uniti gli daranno ovviamente il visto. Ricordiamo che c'è
+
+34
+00:02:36,219 --> 00:02:39,471
+anche un altro fratello di Flavio Bolsonaro che
+
+35
+00:02:39,971 --> 00:02:41,843
+vive in Texas da qualche tempo.
+
+36
+00:02:42,596 --> 00:02:46,363
+Trump ha detto che secondo lui c'è una probabilità
+
+37
+00:02:46,444 --> 00:02:50,323
+che le elezioni in Brasile siano state truccate, però contemporaneamente
+
+38
+00:02:50,823 --> 00:02:53,689
+ha anche detto che di quella cosa non vuole sapere nulla. Non in che senso.
+
+39
+00:02:54,779 --> 00:02:58,146
+Bolsonaro ha già iniziato a delirare considerandosi
+
+40
+00:02:58,723 --> 00:03:01,929
+il legittimo presidente costretto all'esilio per
+
+41
+00:03:02,429 --> 00:03:06,177
+evitare il carcere. Pare che dietro tutta l'operazione
+
+42
+00:03:06,962 --> 00:03:10,217
+ci sia il segretario di Stato Marco Rubio.
+
+43
+00:03:11,451 --> 00:03:14,865
+Però il punto vero sul quale richiamo la vostra attenzione,
+
+44
+00:03:15,058 --> 00:03:18,424
+soprattutto pro futuro, è un altro: il
+
+45
+00:03:18,924 --> 00:03:23,313
+mercato, i mercati finanziari brasiliani si sono letteralmente
+
+46
+00:03:23,813 --> 00:03:27,669
+sbriciolati alla notizia del ribaltamento dei
+
+47
+00:03:28,169 --> 00:03:32,265
+risultati del primo turno, perché Flávio
+
+48
+00:03:32,765 --> 00:03:36,139
+Bolsonaro prometteva un grande risanamento, tagli di
+
+49
+00:03:36,639 --> 00:03:40,400
+spesa, eccetera eccetera, salvo poi mettersi in scia alle
+
+50
+00:03:40,900 --> 00:03:44,834
+promesse di regali elettorali in modalità Achille Lauro da
+
+51
+00:03:45,334 --> 00:03:48,803
+parte di Lula. Ora Lula si trova ad avere un
+
+52
+00:03:48,851 --> 00:03:52,600
+congresso, quindi un parlamento brasiliano, che gli è ostile.
+
+53
+00:03:53,558 --> 00:03:57,169
+Dove il Partito Liberale di Bolsonaro ha la maggioranza relativa e
+
+54
+00:03:57,669 --> 00:04:01,824
+dove soprattutto c'è un'enorme palude di centro con la quale il
+
+55
+00:04:02,324 --> 00:04:05,595
+Partito dei Lavoratori di Lula dovrà fare i conti, ma si
+
+56
+00:04:06,095 --> 00:04:08,966
+trova soprattutto a gestire un debito PIL che,
+
+57
+00:04:09,126 --> 00:04:12,818
+se sembra relativamente contenuto
+
+58
+00:04:13,318 --> 00:04:16,830
+rispetto agli standard dei paesi sviluppati, perché poco
+
+59
+00:04:17,330 --> 00:04:20,844
+sotto il 90%, è comunque alto per i paesi
+
+60
+00:04:21,021 --> 00:04:25,117
+emergenti, un deficit PIL intorno
+
+61
+00:04:25,617 --> 00:04:29,196
+al 10% fatto quasi esclusivamente da
+
+62
+00:04:30,079 --> 00:04:33,773
+spesa per interessi. Ed è questa
+
+63
+00:04:34,273 --> 00:04:37,676
+peculiarità dell'economia brasiliana che non è data da oggi,
+
+64
+00:04:38,110 --> 00:04:41,691
+perché c'è da quando io facevo il giovane
+
+65
+00:04:41,723 --> 00:04:43,538
+gestore obbligazionario,
+
+66
+00:04:43,731 --> 00:04:47,393
+quindi è passata molta acqua sotto i ponti.
+
+67
+00:04:48,389 --> 00:04:51,248
+Cioè che i tassi reali brasiliani,
+
+68
+00:04:51,360 --> 00:04:55,825
+quindi il tasso nominale meno l'inflazione corrente o l'inflazione attesa,
+
+69
+00:04:56,837 --> 00:05:00,242
+è molto alto. Perché il Brasile, se non erro,
+
+70
+00:05:00,290 --> 00:05:03,985
+ha circa il 4,5% di inflazione e
+
+71
+00:05:04,485 --> 00:05:08,225
+ha il tasso Selic, che è il tasso ufficiale di politica monetaria, sopra il
+
+72
+00:05:08,725 --> 00:05:13,092
+13%. Ora è chiaro che anche per il Brasile si pone prospetticamente,
+
+73
+00:05:13,220 --> 00:05:17,796
+e qui rischio di diventare stucchevole e ripetitivo, il rischio
+
+74
+00:05:18,296 --> 00:05:21,911
+di palla di neve avversa, cioè di una crescita nominale del
+
+75
+00:05:22,008 --> 00:05:25,815
+PIL che è assolutamente insufficiente per
+
+76
+00:05:26,315 --> 00:05:30,024
+raffrontarsi, paragonarsi al costo
+
+77
+00:05:30,524 --> 00:05:33,189
+medio del debito. Quindi Lula,
+
+78
+00:05:33,625 --> 00:05:36,983
+che non controlla il congresso, dovrà stringere
+
+79
+00:05:37,096 --> 00:05:40,407
+delle alleanze con il congresso, e quindi
+
+80
+00:05:40,907 --> 00:05:44,556
+sarà anche abbastanza difficile mantenere tutte le promesse,
+
+81
+00:05:44,589 --> 00:05:48,069
+soprattutto perché la società brasiliana è palesemente
+
+82
+00:05:48,438 --> 00:05:51,678
+spaccata in due. Io ricordo
+
+83
+00:05:51,726 --> 00:05:54,934
+che un po' di anni fa, durante la presidenza di
+
+84
+00:05:55,095 --> 00:05:59,634
+Michel Temer, fu approvato un emendamento
+
+85
+00:05:59,666 --> 00:06:03,114
+costituzionale, perché in Brasile la cosa singolare è che
+
+86
+00:06:03,195 --> 00:06:06,691
+passa tutto dalla Costituzione, quasi come la Svizzera,
+
+87
+00:06:06,723 --> 00:06:11,343
+però i risultati pratici sono differenti. Un emendamento costituzionale
+
+88
+00:06:12,096 --> 00:06:16,136
+che metteva praticamente un tetto alla crescita
+
+89
+00:06:16,264 --> 00:06:19,711
+della spesa pubblica. La spesa
+
+90
+00:06:20,211 --> 00:06:23,943
+pubblica in termini nominali non poteva crescere più del
+
+91
+00:06:24,039 --> 00:06:27,934
+tasso di inflazione, quindi crescita reale zero.
+
+92
+00:06:29,088 --> 00:06:32,134
+Se mi ascoltate da qualche tempo sapete
+
+93
+00:06:32,634 --> 00:06:36,174
+che uno dei miei grandi punti è quello che si può
+
+94
+00:06:36,222 --> 00:06:40,069
+sintetizzare dicendo: non esiste camicia di forza
+
+95
+00:06:40,149 --> 00:06:43,580
+cucita dagli esseri umani che gli esseri umani non riescano
+
+96
+00:06:43,692 --> 00:06:47,127
+ad allentare o scucire. E infatti è andata proprio
+
+97
+00:06:47,627 --> 00:06:51,059
+così, perché quel tetto alla spesa pubblica introdotto
+
+98
+00:06:51,559 --> 00:06:55,039
+durante la presidenza di Michel Temer è stato fatto saltare.
+
+99
+00:06:55,633 --> 00:06:58,891
+Vedremo cosa accadrà in Brasile, cosa farà Lula,
+
+100
+00:06:59,003 --> 00:07:02,454
+perché all'indomani della notizia della
+
+101
+00:07:02,534 --> 00:07:05,985
+nuova vittoria di Lula, come detto, i mercati
+
+102
+00:07:06,065 --> 00:07:08,665
+sono sprofondati. Perdite del 30%,
+
+103
+00:07:09,772 --> 00:07:13,526
+il cambio del real che cede l'8% in una singola
+
+104
+00:07:14,026 --> 00:07:17,536
+sessione, manco fosse un mercato di frontiera. I mercati di frontiera
+
+105
+00:07:18,036 --> 00:07:21,466
+sono i mercati emergenti dei mercati emergenti, cioè quelli
+
+106
+00:07:21,547 --> 00:07:25,798
+che hanno maggiore fragilità,
+
+107
+00:07:26,519 --> 00:07:29,744
+minore liquidità, che sono praticamente
+
+108
+00:07:30,244 --> 00:07:33,834
+allo stato embrionale, minori infrastrutture economiche e
+
+109
+00:07:34,334 --> 00:07:37,610
+istituzionali. Ebbene, la reazione dei
+
+110
+00:07:37,771 --> 00:07:41,391
+mercati finanziari brasiliani alla notizia della
+
+111
+00:07:41,891 --> 00:07:45,412
+vittoria di Lula o della sconfitta di Flávio Bolsonaro
+
+112
+00:07:46,311 --> 00:07:50,554
+è stata simile a quella di uno stagno che era stato gonfiato
+
+113
+00:07:52,659 --> 00:07:56,589
+oltre la sua capacità, o meglio, è stata simile a quella di un meteorite
+
+114
+00:07:57,089 --> 00:08:01,277
+che precipita in uno stagno che ha una superficie di pochi centimetri
+
+115
+00:08:01,777 --> 00:08:05,929
+quadrati. Il Brasile rischia di fare la fine dell'Argentina
+
+116
+00:08:06,429 --> 00:08:09,752
+peronista? Chiederà qualcuno tra voi. Io questo ovviamente non lo so,
+
+117
+00:08:10,266 --> 00:08:12,803
+però seguiremo molto attentamente.
+
+118
+00:08:13,590 --> 00:08:17,846
+L'altra grande elezione di questa settimana
+
+119
+00:08:17,910 --> 00:08:20,592
+ovviamente è quella israeliana.
+
+120
+00:08:22,070 --> 00:08:26,246
+Benjamin Netanyahu, che è noto in
+
+121
+00:08:26,746 --> 00:08:30,052
+patria con il soprannome il Mago, probabilmente perché
+
+122
+00:08:30,196 --> 00:08:33,424
+è un illusionista, è anche una specie di
+
+123
+00:08:33,924 --> 00:08:38,048
+Houdini, no? Vi ricorderete che Harry Houdini era quell'esperto
+
+124
+00:08:38,548 --> 00:08:42,143
+di fughe, riusciva a liberarsi praticamente
+
+125
+00:08:42,643 --> 00:08:45,836
+da qualunque situazione costrittiva
+
+126
+00:08:46,558 --> 00:08:49,320
+venisse posizionato.
+
+127
+00:08:50,492 --> 00:08:54,105
+Beh, diciamo che la coalizione nazionalista
+
+128
+00:08:54,605 --> 00:08:58,096
+religiosa del Likud e dei partiti ortodossi,
+
+129
+00:08:58,129 --> 00:09:01,580
+quella degli ayatollah, degli Smotrich, dei Ben-Gvir,
+
+130
+00:09:01,612 --> 00:09:03,119
+gli ayatollah ebraici,
+
+131
+00:09:04,736 --> 00:09:06,953
+non ha la maggioranza alla Knesset.
+
+132
+00:09:07,227 --> 00:09:11,807
+126 seggi maggioranza, 61 la coalizione che
+
+133
+00:09:12,307 --> 00:09:16,849
+vede il Likud come primo partito con 27-28 seggi, ne ha 54.
+
+134
+00:09:17,769 --> 00:09:21,593
+Dall'altra parte la coalizione guidata
+
+135
+00:09:22,367 --> 00:09:26,090
+dall'ex alto ufficiale
+
+136
+00:09:26,699 --> 00:09:30,226
+Ghadi Eisenkot ne ha
+
+137
+00:09:30,306 --> 00:09:33,592
+poco più di 40. Qui vado veramente
+
+138
+00:09:33,608 --> 00:09:37,471
+a memoria, non scrivetemi puntualizzando i numeri dopo
+
+139
+00:09:37,971 --> 00:09:41,287
+averli letti googlando, perché ovviamente non trovereste
+
+140
+00:09:41,787 --> 00:09:45,070
+risposta. Però la cosa più interessante
+
+141
+00:09:45,570 --> 00:09:49,702
+è il vero e proprio exploit dei partiti arabi, che avrebbero
+
+142
+00:09:49,734 --> 00:09:53,424
+ottenuto 19 seggi. E che quindi di fatto
+
+143
+00:09:53,472 --> 00:09:57,454
+rischiano di essere i kingmaker della politica israeliana.
+
+144
+00:09:57,566 --> 00:10:01,981
+Naturalmente Netanyahu è già partito di
+
+145
+00:10:02,481 --> 00:10:06,477
+sprone dicendo che sarebbe un'autentica blasfemia se
+
+146
+00:10:06,977 --> 00:10:10,217
+qualche partito israeliano di radici sioniste,
+
+147
+00:10:10,330 --> 00:10:13,813
+come del resto la coalizione di Eisenkot, si alleasse
+
+148
+00:10:14,022 --> 00:10:17,747
+con i partiti arabi, il che conferma
+
+149
+00:10:18,677 --> 00:10:22,608
+che in quella che è stata definita la più grande democrazia o l'unica
+
+150
+00:10:23,108 --> 00:10:26,651
+democrazia del Medio Oriente ci sono degli scricchiolii
+
+151
+00:10:26,795 --> 00:10:30,501
+abbastanza evidenti, ed è fatale che finisse così viste
+
+152
+00:10:30,630 --> 00:10:34,480
+le tensioni terribili a cui viene sottoposto
+
+153
+00:10:34,576 --> 00:10:38,699
+Israele da anni. Ma Netanyahu
+
+154
+00:10:38,747 --> 00:10:42,261
+ha detto: nessuno vada ad allearsi con i partiti arabi
+
+155
+00:10:42,293 --> 00:10:45,710
+perché sarebbe di fatto alto tradimento della
+
+156
+00:10:46,210 --> 00:10:50,253
+causa sionista. Però, non contento di ciò,
+
+157
+00:10:50,461 --> 00:10:55,904
+ha già lanciato un ulteriore sasso nello stagno dicendo
+
+158
+00:10:56,404 --> 00:11:00,978
+che c'è questa indagine in corso che
+
+159
+00:11:01,478 --> 00:11:05,057
+è stata sollecitata dallo Shin Bet, il servizio
+
+160
+00:11:05,298 --> 00:11:08,637
+di sicurezza interno che è guidato ovviamente
+
+161
+00:11:09,312 --> 00:11:12,812
+da una persona che è stata scelta da Netanyahu.
+
+162
+00:11:13,262 --> 00:11:16,585
+Questo partito arabo-israeliano Ra'am,
+
+163
+00:11:16,794 --> 00:11:20,551
+alcuni suoi esponenti sarebbero stati
+
+164
+00:11:20,712 --> 00:11:25,368
+colti in flagrante nell'atto di pagare con
+
+165
+00:11:25,868 --> 00:11:30,185
+denaro altri elettori arabo-israeliani. Non pago
+
+166
+00:11:30,685 --> 00:11:34,119
+di ciò, Netanyahu ha rilanciato dicendo che ci sono delle
+
+167
+00:11:34,619 --> 00:11:39,370
+palesi interferenze di stati esteri e puntando
+
+168
+00:11:39,870 --> 00:11:44,877
+il dito contro il Qatar e la Turchia. Voi dovete sapere che in Israele la
+
+169
+00:11:45,377 --> 00:11:48,410
+coalizione di destra praticamente da sempre,
+
+170
+00:11:48,586 --> 00:11:51,926
+ogni volta che succede qualcosa, punta il dito contro
+
+171
+00:11:52,426 --> 00:11:55,812
+il Qatar. Piove, Qatar ladro, il Qatar sta cercando di
+
+172
+00:11:56,312 --> 00:11:59,296
+ingerirsi nelle nubi che sono sopra Israele.
+
+173
+00:12:00,773 --> 00:12:03,422
+Vedremo anche qui come andrà a finire.
+
+174
+00:12:04,467 --> 00:12:08,260
+Però c'è un punto: prima che scoppiasse
+
+175
+00:12:08,760 --> 00:12:11,052
+questo che è già stato definito come Ramgate,
+
+176
+00:12:13,344 --> 00:12:17,875
+era già scoppiata in realtà la disputa giuridica
+
+177
+00:12:18,487 --> 00:12:21,796
+che ha uno e un solo punto. Può un governo
+
+178
+00:12:22,847 --> 00:12:27,799
+caretaker, che noi in Italia chiameremmo burocraticamente
+
+179
+00:12:28,299 --> 00:12:30,582
+in carica per il disbrigo degli affari correnti,
+
+180
+00:12:31,338 --> 00:12:34,462
+visto che non ha più la maggioranza di 61 seggi alla Knesset,
+
+181
+00:12:37,062 --> 00:12:39,520
+in attesa dell'insediamento del nuovo Parlamento,
+
+182
+00:12:39,553 --> 00:12:42,900
+decidere la ripresa delle azioni belliche
+
+183
+00:12:43,400 --> 00:12:47,014
+nei confronti dell'Iran. Ecco, questo è il punto principale
+
+184
+00:12:47,641 --> 00:12:51,932
+e si discute di quello. C'è già chi avanza il sospetto
+
+185
+00:12:51,964 --> 00:12:55,771
+che Netanyahu voglia in qualche modo congelare
+
+186
+00:12:56,271 --> 00:12:59,219
+l'esito elettorale, la proclamazione degli eletti,
+
+187
+00:13:00,608 --> 00:13:05,023
+per mantenere il paese sotto questa
+
+188
+00:13:05,826 --> 00:13:09,117
+cappa emergenziale che gli consente di
+
+189
+00:13:09,617 --> 00:13:13,051
+restare pervicacemente al potere. Voi capite
+
+190
+00:13:13,551 --> 00:13:17,193
+che qualunque democrazia, anche quelle più forti,
+
+191
+00:13:17,305 --> 00:13:20,805
+più solide, più navigate, eccetera eccetera,
+
+192
+00:13:20,837 --> 00:13:24,530
+sottoposta a sollecitazioni di questo tipo è
+
+193
+00:13:24,851 --> 00:13:28,562
+molto difficile che continui a restare una
+
+194
+00:13:29,062 --> 00:13:32,351
+democrazia per come la classificheremmo noi per
+
+195
+00:13:32,367 --> 00:13:34,786
+senso comune. Tra l'altro,
+
+196
+00:13:35,140 --> 00:13:39,137
+Netanyahu in questa sua sorta di sindrome da accerchiamento,
+
+197
+00:13:39,249 --> 00:13:43,407
+che è una tecnica classica vecchia quanto l'uomo sulla Terra,
+
+198
+00:13:45,680 --> 00:13:49,286
+praticamente ha lanciato l'idea di un maggiore ricorso
+
+199
+00:13:49,786 --> 00:13:53,494
+alle criptovalute quando non vengono hackerate chiaramente
+
+200
+00:13:53,994 --> 00:13:56,227
+da hacker nordcoreani. Mi verrebbe da dire, vedi l'ultimissimo caso Binance,
+
+201
+00:13:58,378 --> 00:14:02,265
+Cioè, Israele dovrebbe, visto che Israele secondo
+
+202
+00:14:02,765 --> 00:14:06,715
+Netanyahu, soprattutto se i repubblicani dovessero perdere il
+
+203
+00:14:06,731 --> 00:14:11,180
+potere negli Stati Uniti, Israele è diretto verso un
+
+204
+00:14:11,680 --> 00:14:15,533
+regime sanzionatorio molto pesante, allora secondo Netanyahu
+
+205
+00:14:15,581 --> 00:14:20,095
+Israele dovrebbe sviluppare e utilizzare
+
+206
+00:14:20,143 --> 00:14:24,456
+le tecnologie di criptovalute per
+
+207
+00:14:24,585 --> 00:14:27,965
+i pagamenti e per aggirare le sanzioni. Naturalmente è
+
+208
+00:14:28,465 --> 00:14:31,734
+stato bacchettato dal governatore della Banca Centrale Israeliana,
+
+209
+00:14:31,766 --> 00:14:36,287
+come pure da altri esponenti politici dell'attuale
+
+210
+00:14:36,303 --> 00:14:39,918
+opposizione. Ora, c'è una cosa da considerare
+
+211
+00:14:40,418 --> 00:14:44,128
+dell'attuale composizione demografica
+
+212
+00:14:44,305 --> 00:14:48,023
+israeliana, e cioè che lo
+
+213
+00:14:48,523 --> 00:14:51,924
+sviluppo molto forte della popolazione
+
+214
+00:14:52,424 --> 00:14:56,015
+degli ebrei ortodossi, degli haredim, che sono quelli
+
+215
+00:14:56,095 --> 00:14:59,545
+che fanno cadere i governi perché loro non
+
+216
+00:15:00,045 --> 00:15:04,150
+possono partecipare alle forze armate. E quindi a
+
+217
+00:15:04,650 --> 00:15:08,450
+difendere il paese, compresi gli haredim che passano
+
+218
+00:15:08,950 --> 00:15:12,622
+il tempo a pregare e direi anche a riprodursi, visto il loro tasso
+
+219
+00:15:13,122 --> 00:15:16,793
+di crescita demografica, devono andare tutti gli altri israeliani a
+
+220
+00:15:17,293 --> 00:15:20,832
+difendere la patria. Quindi qui c'è un cortocircuito sul quale
+
+221
+00:15:21,281 --> 00:15:25,415
+la politica israeliana si sta letteralmente scannando
+
+222
+00:15:25,687 --> 00:15:29,533
+da anni. È chiaro che le dinamiche
+
+223
+00:15:30,033 --> 00:15:34,099
+demografiche vanno a impattare anche
+
+224
+00:15:34,599 --> 00:15:37,993
+su quelle elettorali, e questa è la scoperta dell'acqua calda.
+
+225
+00:15:38,345 --> 00:15:42,031
+Quindi questa crescita demografica
+
+226
+00:15:42,111 --> 00:15:46,037
+differenziale degli ultraortodossi ha
+
+227
+00:15:46,537 --> 00:15:50,528
+degli evidenti impatti nella composizione delle forze
+
+228
+00:15:51,028 --> 00:15:54,938
+politiche e nei risultati elettorali, perché premia i partiti
+
+229
+00:15:55,051 --> 00:15:58,916
+religiosi, i partiti ultranazionalisti, i partiti nativisti,
+
+230
+00:15:59,445 --> 00:16:02,717
+i partiti ipersionisti, eccetera eccetera, se così
+
+231
+00:16:03,217 --> 00:16:07,047
+possiamo definirli. Quindi questo è un altro punto
+
+232
+00:16:07,547 --> 00:16:11,378
+molto importante che racconta l'evoluzione della
+
+233
+00:16:11,538 --> 00:16:15,229
+società civile israeliana nel corso degli anni, e che
+
+234
+00:16:15,729 --> 00:16:19,448
+va tenuto presente. L'unica considerazione che mi viene da fare in un contesto
+
+235
+00:16:19,948 --> 00:16:24,006
+del genere è una di questo tipo: la
+
+236
+00:16:24,506 --> 00:16:27,944
+proposta di Netanyahu di usare delle criptovalute perché siamo
+
+237
+00:16:28,444 --> 00:16:32,075
+soli contro il mondo, dobbiamo aggirare le sanzioni, e in più questo
+
+238
+00:16:32,575 --> 00:16:36,654
+sviluppo demografico impetuoso degli ultraortodossi
+
+239
+00:16:36,751 --> 00:16:40,622
+stanno progressivamente mettendo Israele su una strada
+
+240
+00:16:41,122 --> 00:16:45,202
+di iranizzazione. Cioè Israele sta diventando una sorta
+
+241
+00:16:45,603 --> 00:16:49,986
+di immagine speculare dell'Iran,
+
+242
+00:16:50,515 --> 00:16:53,951
+il che non depone né per la democrazia né per la
+
+243
+00:16:54,111 --> 00:16:58,927
+stabilità della regione. Poi fatemi
+
+244
+00:16:59,427 --> 00:17:02,892
+dire, questa settimana è uscita la notizia in base alla quale
+
+245
+00:17:03,020 --> 00:17:06,118
+gli americani, quindi l'amministrazione Trump,
+
+246
+00:17:06,167 --> 00:17:09,249
+avrebbero avuto una pazza idea,
+
+247
+00:17:09,281 --> 00:17:12,572
+cioè quella di mettendosi
+
+248
+00:17:12,652 --> 00:17:15,816
+preventivamente d'accordo con Cina e Russia,
+
+249
+00:17:16,506 --> 00:17:19,717
+nominare Viktor Orbán nuovo Segretario
+
+250
+00:17:20,217 --> 00:17:24,245
+Generale delle Nazioni Unite. Ora, so che
+
+251
+00:17:24,775 --> 00:17:28,388
+molti tra voi hanno già cominciato a obiettare: non può esserci
+
+252
+00:17:28,645 --> 00:17:31,968
+un europeo a succedere a un europeo!
+
+253
+00:17:32,241 --> 00:17:37,476
+Sì, però, al di là di queste considerazioni meramente formalistiche
+
+254
+00:17:37,976 --> 00:17:41,602
+e notarili, voi capite che se ci fosse un asse tra Cina,
+
+255
+00:17:41,666 --> 00:17:45,584
+Russia e Stati Uniti per mettere Viktor Orbán
+
+256
+00:17:46,226 --> 00:17:50,593
+a fare il cameriere di questa nuova Ialta, la cosa sarebbe
+
+257
+00:17:50,946 --> 00:17:54,285
+piuttosto problematica. Alla fine
+
+258
+00:17:55,281 --> 00:17:59,054
+si dovrebbe giocare il tutto sul sistema di
+
+259
+00:17:59,554 --> 00:18:03,550
+veti all'interno del Consiglio di Sicurezza, ma All'interno
+
+260
+00:18:04,050 --> 00:18:07,517
+del Consiglio di Sicurezza, Francia e Regno Unito. Beh, la Francia
+
+261
+00:18:08,017 --> 00:18:12,143
+sta per cambiare cavallo e probabilmente all'Élysée dalla prossima primavera
+
+262
+00:18:12,785 --> 00:18:16,560
+ci sarà qualcuno che potrebbe non essere ostile a Orbán. Il Regno Unito
+
+263
+00:18:16,640 --> 00:18:20,495
+si mantiene la sua, rischia di essere veramente l'ultimo
+
+264
+00:18:20,995 --> 00:18:24,141
+baluardo, l'ultimo bastione di non si sa bene che cosa.
+
+265
+00:18:24,993 --> 00:18:29,376
+Però la notizia di per sé è abbastanza inquietante.
+
+266
+00:18:30,867 --> 00:18:35,181
+Una considerazione sull'andamento
+
+267
+00:18:35,681 --> 00:18:39,190
+di mercato: non parlerò di questi spasmi
+
+268
+00:18:39,690 --> 00:18:43,488
+che colpiscono a intervalli regolari le big tech, si stanno intensificando,
+
+269
+00:18:43,552 --> 00:18:47,048
+forse ci avviciniamo a un breakthrough, cioè a un punto
+
+270
+00:18:47,548 --> 00:18:51,858
+di discontinuità sul mercato che naturalmente determinerebbe
+
+271
+00:18:52,358 --> 00:18:55,787
+crolli e la ripresa del flight to safety verso i
+
+272
+00:18:56,287 --> 00:19:00,198
+Treasury. Di questo ne avevo già accennato la settimana scorsa, però Questa
+
+273
+00:19:00,698 --> 00:19:04,919
+settimana è uscita la notizia che Microsoft
+
+274
+00:19:05,015 --> 00:19:09,190
+sta mettendo in piedi un programma di dimissioni incentivate
+
+275
+00:19:09,206 --> 00:19:14,328
+a un numero massimo di 60.000 dei suoi 223.000
+
+276
+00:19:14,828 --> 00:19:18,503
+dipendenti. Questo numero, circa 220.000 dipendenti
+
+277
+00:19:19,003 --> 00:19:22,998
+per Microsoft, è stabile dal 2022, il che vuol dire che
+
+278
+00:19:23,498 --> 00:19:27,169
+dal 2022 ad oggi Lo stesso numero di dipendenti ha
+
+279
+00:19:27,669 --> 00:19:31,368
+generato una mole crescente di ricavi, quindi la produttività
+
+280
+00:19:31,833 --> 00:19:36,161
+è stata agevolmente spremuta con o senza l'intelligenza
+
+281
+00:19:36,661 --> 00:19:40,873
+artificiale. La cosa interessante è che sono state identificate
+
+282
+00:19:41,373 --> 00:19:45,168
+le divisioni e gli ambiti aziendali interessati all'offerta e quelli che verranno esclusi.
+
+283
+00:19:45,921 --> 00:19:49,079
+Le divisioni come Xbox, Windows,
+
+284
+00:19:49,127 --> 00:19:52,573
+Copilot e la divisione finanza partecipano
+
+285
+00:19:53,073 --> 00:19:57,006
+pienamente all'offerta. Altri gruppi di dipendenti,
+
+286
+00:19:57,103 --> 00:20:00,208
+ad esempio quelli che operano sui data center,
+
+287
+00:20:00,322 --> 00:20:03,551
+sul commerciale, marketing, cybersecurity,
+
+288
+00:20:04,681 --> 00:20:08,633
+quantum computing, non possono partecipare al programma
+
+289
+00:20:08,875 --> 00:20:13,073
+di dimissioni incentivate. Tra l'altro Microsoft aveva
+
+290
+00:20:13,573 --> 00:20:17,448
+messo in piedi un programma di dimissioni incentivate per i propri dipendenti
+
+291
+00:20:17,948 --> 00:20:21,643
+in età pensionabile, fino a 8.000
+
+292
+00:20:22,143 --> 00:20:25,967
+dipendenti, e ha avuto un intake, cioè una tasso
+
+293
+00:20:26,467 --> 00:20:30,089
+di partecipazione di circa il 30%. Naturalmente,
+
+294
+00:20:30,297 --> 00:20:33,906
+cosa succede in questi casi per quanto riguarda
+
+295
+00:20:34,406 --> 00:20:37,595
+la gestione delle risorse umane? Che il primo step è
+
+296
+00:20:38,493 --> 00:20:42,984
+l'offerta di dimissioni incentivate, eventualmente abbinata
+
+297
+00:20:43,484 --> 00:20:47,186
+al blocco del turnover, quello che gli anglosassoni chiamano attrition.
+
+298
+00:20:47,859 --> 00:20:51,596
+Dopodiché, se non bastano queste misure,
+
+299
+00:20:51,628 --> 00:20:56,009
+si passa direttamente ai licenziamenti collettivi con
+
+300
+00:20:56,137 --> 00:20:59,060
+un bel severance package.
+
+301
+00:20:59,574 --> 00:21:03,188
+Però, come si nota, visto che i
+
+302
+00:21:03,688 --> 00:21:07,846
+grandi hyperscaler e più in generale le big tech hanno questa
+
+303
+00:21:08,086 --> 00:21:11,507
+caratteristica che sta cominciando veramente a terrorizzare la borsa,
+
+304
+00:21:11,556 --> 00:21:15,330
+ogni volta che c'è una trimestrale che mostra un
+
+305
+00:21:15,830 --> 00:21:19,329
+aumento del free cash flow negativo, cioè un aumento del cash
+
+306
+00:21:19,829 --> 00:21:23,714
+burn, la quota di liquidità che viene bruciata, il mercato
+
+307
+00:21:23,746 --> 00:21:27,295
+crolla e penalizza fortemente quella
+
+308
+00:21:27,795 --> 00:21:31,648
+azione. Cioè, non è più il tempo in cui si diceva esce
+
+309
+00:21:32,148 --> 00:21:36,049
+la trimestrale, questa data società del big tech promette enormi investimenti
+
+310
+00:21:36,549 --> 00:21:39,727
+in intelligenza artificiale, il mercato comprava. Adesso il mercato
+
+311
+00:21:40,227 --> 00:21:43,935
+si terrorizza, poi va a vedere contestualmente il cash burn,
+
+312
+00:21:44,063 --> 00:21:48,207
+cioè la parte di free cash flow negativa, e se c'è una variazione
+
+313
+00:21:48,336 --> 00:21:51,840
+ulteriormente peggiorativa da trimestre a trimestre,
+
+314
+00:21:51,856 --> 00:21:55,874
+si mette a vendere a mani basse. Le correlazioni
+
+315
+00:21:56,374 --> 00:21:59,666
+sono belle perché variano, un po' come il mondo
+
+316
+00:21:59,763 --> 00:22:02,701
+è bello perché vario e anche avariato.
+
+317
+00:22:04,300 --> 00:22:07,658
+Questa settimana cambio radicalmente,
+
+318
+00:22:07,771 --> 00:22:11,467
+ma non troppo, argomento e anziché passare
+
+319
+00:22:11,967 --> 00:22:15,223
+direttamente dall'Europa per approdare a Cialtronia, questa settimana
+
+320
+00:22:15,723 --> 00:22:19,112
+avremo un modulo di cialtronia particolarmente
+
+321
+00:22:19,612 --> 00:22:23,247
+ricco, vorrei parlare della Cina. Cioè,
+
+322
+00:22:23,280 --> 00:22:26,566
+parliamo della situazione cinese, parliamo di
+
+323
+00:22:27,066 --> 00:22:30,750
+quella che è oramai manifestamente la bolla delle
+
+324
+00:22:31,250 --> 00:22:34,469
+auto cinesi elettriche, ibride, ma anche a combustione interna.
+
+325
+00:22:34,581 --> 00:22:38,123
+Perché sul mercato cinese dell'auto è arrivato
+
+326
+00:22:38,623 --> 00:22:42,355
+un inverno decisamente gelido che rischia di terminare non
+
+327
+00:22:42,855 --> 00:22:46,443
+con la primavera, ma con la produzione di ulteriore debito
+
+328
+00:22:46,943 --> 00:22:51,012
+statale che avverrà quando la ripulitura degli eccessi
+
+329
+00:22:51,512 --> 00:22:54,507
+di capacità produttiva del settore auto sarà stata completata.
+
+330
+00:22:55,517 --> 00:22:59,508
+Ancora una volta abbiamo al centro della crisi i governi
+
+331
+00:23:00,008 --> 00:23:04,478
+locali, con i loro investimenti forsennati
+
+332
+00:23:04,494 --> 00:23:08,005
+alimentati da un sistema di incentivi distorti
+
+333
+00:23:08,085 --> 00:23:12,012
+che di fatto spengono il sistema dei prezzi e il loro
+
+334
+00:23:12,173 --> 00:23:16,664
+valore segnaletico. Questo è un difetto strutturale
+
+335
+00:23:17,164 --> 00:23:21,204
+della grande crescita cinese che è destinato a presentare un conto molto salato,
+
+336
+00:23:21,236 --> 00:23:24,974
+che sta già presentando un conto molto salato.
+
+337
+00:23:25,167 --> 00:23:29,210
+Un'indagine molto ampia, molto ricca del
+
+338
+00:23:29,226 --> 00:23:32,948
+Wall Street Journal è partita dall'esempio
+
+339
+00:23:33,028 --> 00:23:36,814
+paradigmatico di un costruttore cinese che si chiama Skyworth
+
+340
+00:23:37,314 --> 00:23:41,291
+Auto, che nel 2021 dichiarava una capacità produttiva
+
+341
+00:23:41,791 --> 00:23:45,593
+di 100.000 veicoli annui nel suo principale impianto
+
+342
+00:23:45,625 --> 00:23:49,477
+per le auto elettriche. Ebbene, nei primi 9 mesi
+
+343
+00:23:49,557 --> 00:23:53,730
+di quest'anno Skyworth ha venduto 660
+
+344
+00:23:53,810 --> 00:23:57,020
+vetture. Ci sono già concessionarie
+
+345
+00:23:57,520 --> 00:24:01,081
+fantasma chiuse che hanno cessato l'attività,
+
+346
+00:24:01,113 --> 00:24:04,484
+però questa azienda continua a presentare nuovi
+
+347
+00:24:04,984 --> 00:24:10,027
+modelli, a cercare personale, ed è sostenuta in questo dall'amministrazione
+
+348
+00:24:10,382 --> 00:24:13,553
+locale che detiene in essa il 5%.
+
+349
+00:24:14,648 --> 00:24:17,707
+Quindi c'è questo puntello dei governi
+
+350
+00:24:18,207 --> 00:24:21,936
+locali di un'azienda che è morta, è zombie praticamente,
+
+351
+00:24:21,969 --> 00:24:25,826
+che vende meno di 100 auto al mese ma che continua a
+
+352
+00:24:26,326 --> 00:24:29,532
+restare in vita. Qual è
+
+353
+00:24:30,032 --> 00:24:33,905
+il problema? Che nel frattempo è tutta la crescita
+
+354
+00:24:34,098 --> 00:24:38,657
+domestica della domanda di auto che in Cina si è schiantata,
+
+355
+00:24:38,769 --> 00:24:42,751
+si è impiombata, perché da inizio anno
+
+356
+00:24:42,799 --> 00:24:46,989
+a tutto settembre c'è un bel -22%
+
+357
+00:24:47,359 --> 00:24:51,452
+di auto comprate dai cinesi rispetto allo stesso
+
+358
+00:24:51,952 --> 00:24:55,466
+periodo dello scorso anno. Oggi la Cina ha una capacità
+
+359
+00:24:55,966 --> 00:24:59,881
+produttiva di auto per circa
+
+360
+00:25:00,042 --> 00:25:03,542
+63 milioni di veicoli leggeri,
+
+361
+00:25:03,654 --> 00:25:05,838
+quindi passeggeri e van,
+
+362
+00:25:06,818 --> 00:25:09,966
+secondo la stima di un data provider. Ebbene,
+
+363
+00:25:10,641 --> 00:25:15,170
+questo è più di 3 volte il numero di auto che
+
+364
+00:25:15,299 --> 00:25:18,993
+si prevede i cinesi compreranno quest'anno, che dovrebbe essere
+
+365
+00:25:19,025 --> 00:25:22,848
+circa 18 milioni, il peggior risultato
+
+366
+00:25:23,348 --> 00:25:26,478
+dal 2014. Quindi è evidente che
+
+367
+00:25:26,978 --> 00:25:30,157
+in Cina deve avviarsi una selezione naturale che
+
+368
+00:25:30,657 --> 00:25:33,802
+si preannuncia estremamente dolorosa Però è bloccata,
+
+369
+00:25:34,492 --> 00:25:38,185
+non è nemmeno iniziata, essenzialmente per un motivo: i governi
+
+370
+00:25:38,685 --> 00:25:41,877
+locali sono decenni che collaborano con il
+
+371
+00:25:42,377 --> 00:25:45,939
+settore privato per investire nell'industria dell'auto.
+
+372
+00:25:46,051 --> 00:25:50,595
+Quando le auto elettriche sono diventate una priorità nazionale,
+
+373
+00:25:50,627 --> 00:25:53,966
+cioè nell'ultimo decennio, le città cinesi,
+
+374
+00:25:54,014 --> 00:25:57,530
+i governi provinciali cinesi hanno
+
+375
+00:25:58,030 --> 00:26:01,463
+versato l'equivalente di miliardi di dollari nei campioni
+
+376
+00:26:01,963 --> 00:26:05,640
+locali Sperando di diventare le Detroit dell'era
+
+377
+00:26:06,122 --> 00:26:09,658
+dell'auto elettrica. Voi pensate che secondo
+
+378
+00:26:09,674 --> 00:26:14,655
+un conteggio della società di consulenza AlixPartners,
+
+379
+00:26:15,378 --> 00:26:18,945
+alla fine del 2025 in Cina esistevano
+
+380
+00:26:19,218 --> 00:26:22,882
+143 produttori,
+
+381
+00:26:23,155 --> 00:26:26,530
+costruttori di auto
+
+382
+00:26:27,028 --> 00:26:30,352
+elettriche. Ma 143 marchi.
+
+383
+00:26:31,348 --> 00:26:34,960
+Non solo, il marchio medio cinese
+
+384
+00:26:35,041 --> 00:26:39,183
+di auto elettriche lo scorso anno ha venduto 87.000
+
+385
+00:26:39,215 --> 00:26:42,989
+veicoli, ma c'è una coda lunga di
+
+386
+00:26:43,489 --> 00:26:47,131
+zombie che vendono sotto le 1.000 unità annue.
+
+387
+00:26:48,609 --> 00:26:52,494
+Quindi in un paese che ha una crisi demografica
+
+388
+00:26:52,559 --> 00:26:56,313
+evidente, Un sistema di trasporto pubblico locale
+
+389
+00:26:56,634 --> 00:26:59,923
+particolarmente affidabile e conveniente nei grandi
+
+390
+00:26:59,955 --> 00:27:03,533
+centri urbani, un settore dei robotaxi che
+
+391
+00:27:03,613 --> 00:27:06,822
+per quanto ancora acerbo sta tentando di decollare
+
+392
+00:27:06,918 --> 00:27:10,640
+a spese dei tassisti in carne e ossa,
+
+393
+00:27:10,753 --> 00:27:14,041
+quindi producendo ulteriori tensioni sociali che il regime
+
+394
+00:27:14,541 --> 00:27:18,052
+dovrà in qualche modo gestire. Vi ricordo che in Cina c'è
+
+395
+00:27:18,552 --> 00:27:22,147
+questo fenomeno dei gig jobs, dei lavoretti,
+
+396
+00:27:22,227 --> 00:27:26,403
+che sono il grande polmone che sta assorbendo
+
+397
+00:27:26,981 --> 00:27:30,659
+i soggetti esclusi ed espulsi dalle attività
+
+398
+00:27:30,675 --> 00:27:32,827
+economiche tradizionali di massa.
+
+399
+00:27:34,289 --> 00:27:37,694
+Allora serve una selezione naturale in questa pletora
+
+400
+00:27:38,208 --> 00:27:40,665
+di costruttori di auto elettriche e ibride,
+
+401
+00:27:41,500 --> 00:27:45,435
+che però determinerebbe una falcidie
+
+402
+00:27:45,999 --> 00:27:50,677
+di posti di lavoro. Allora, per tentare disperatamente
+
+403
+00:27:51,177 --> 00:27:54,468
+di sopravvivere, almeno chi è in grado di farlo, c'è la valvola di sfogo
+
+404
+00:27:54,968 --> 00:27:59,026
+delle esportazioni. Anche se i produttori cinesi
+
+405
+00:27:59,526 --> 00:28:04,020
+non possono vendere al momento negli Stati Uniti, i 5 principali
+
+406
+00:28:04,181 --> 00:28:08,211
+costruttori hanno, avevano a settembre in
+
+407
+00:28:08,244 --> 00:28:11,290
+Europa una quota di mercato di poco meno del 12%.
+
+408
+00:28:13,465 --> 00:28:17,402
+Sono usciti questa settimana i dati di Volkswagen che sta letteralmente
+
+409
+00:28:17,532 --> 00:28:18,150
+morendo.
+
+410
+00:28:20,670 --> 00:28:24,145
+Poi c'è la stessa BMW con i profit warning,
+
+411
+00:28:24,177 --> 00:28:26,256
+Mercedes con i profit warning,
+
+412
+00:28:27,610 --> 00:28:31,604
+Stellantis che in Europa perde soldi anche soprattutto a causa
+
+413
+00:28:32,104 --> 00:28:33,472
+della concorrenza dei marchi cinesi.
+
+414
+00:28:34,870 --> 00:28:39,068
+L'unico mercato importante dove produttori
+
+415
+00:28:39,568 --> 00:28:42,837
+di auto cinesi non causano sconvolgimenti in questo momento è
+
+416
+00:28:43,337 --> 00:28:47,104
+quello degli Stati Uniti, perché il mercato americano è sigillato. Trump è
+
+417
+00:28:47,604 --> 00:28:51,178
+abbastanza ondivago, a volte promette di non fare entrare
+
+418
+00:28:51,678 --> 00:28:55,429
+nessuno dei cinesi, altre volte dice che beh, se si mettessero a
+
+419
+00:28:55,929 --> 00:28:58,926
+creare impianti negli Stati Uniti assumendo manodopera locale,
+
+420
+00:28:58,974 --> 00:29:02,615
+allora potrebbe andare bene, suscitando letteralmente il terrore
+
+421
+00:29:03,610 --> 00:29:05,663
+dei grandi costruttori americani.
+
+422
+00:29:07,220 --> 00:29:11,042
+C'è un altro esempio di dissesto precoce,
+
+423
+00:29:11,154 --> 00:29:14,317
+perché avvenuto ben 6 anni fa.
+
+424
+00:29:14,606 --> 00:29:18,460
+NIO, che è uno dei veri e propri pionieri
+
+425
+00:29:18,960 --> 00:29:22,361
+cinesi delle auto elettriche, tra l'altro quotato alla
+
+426
+00:29:22,474 --> 00:29:26,809
+Borsa di New York, nel 2020 aveva finito la
+
+427
+00:29:27,309 --> 00:29:31,305
+cassa e quindi la città di Hefei lo ha salvato
+
+428
+00:29:31,482 --> 00:29:35,074
+sborsando l'equivalente di 700 milioni di
+
+429
+00:29:35,574 --> 00:29:39,083
+dollari perché voleva rendere NIO uno dei punti
+
+430
+00:29:39,583 --> 00:29:43,284
+di riferimento di un hub industriale centrato sulle auto elettriche.
+
+431
+00:29:44,535 --> 00:29:49,154
+Le azioni NIO schizzarono al rialzo perché
+
+432
+00:29:49,763 --> 00:29:53,836
+è arrivata la nuova Tesla, si diceva. Per un certo
+
+433
+00:29:54,336 --> 00:29:58,086
+periodo di tempo NIO è stato il quarto
+
+434
+00:29:58,586 --> 00:30:02,143
+produttore di auto più capitalizzato al mondo, superando General Motors.
+
+435
+00:30:02,352 --> 00:30:05,675
+Poi naturalmente è finita anche quella,
+
+436
+00:30:05,868 --> 00:30:09,352
+però questo è il template dei salvataggi
+
+437
+00:30:09,852 --> 00:30:12,499
+di costruttori in affanno da parte delle amministrazioni locali.
+
+438
+00:30:13,896 --> 00:30:17,284
+Le startup ricevono impianti
+
+439
+00:30:17,784 --> 00:30:21,732
+a basso costo dalle autorità locali, crediti d'imposta per i macchinari,
+
+440
+00:30:21,764 --> 00:30:25,778
+le banche locali concedono finanziamenti
+
+441
+00:30:26,278 --> 00:30:29,913
+senza fare troppe domande. Ad esempio, a Pechino,
+
+442
+00:30:29,945 --> 00:30:33,919
+Xiaomi, che è il produttore di
+
+443
+00:30:34,419 --> 00:30:37,263
+smartphone ma che ora è impegnato anche nelle auto elettriche,
+
+444
+00:30:38,566 --> 00:30:41,905
+in soli 3 anni ha realizzato una fabbrica
+
+445
+00:30:42,405 --> 00:30:45,470
+di auto con l'aiuto dei soldi pubblici.
+
+446
+00:30:47,306 --> 00:30:51,736
+Attrezzature all'avanguardia, macchinari per la pressofusione all'avanguardia,
+
+447
+00:30:51,753 --> 00:30:54,171
+quindi una sorta di nuova Tesla.
+
+448
+00:30:55,043 --> 00:30:59,003
+Ora, in questo momento i cinesi, i costruttori cinesi, hanno due opzioni:
+
+449
+00:30:59,131 --> 00:31:02,834
+o inasprire la guerra dei prezzi per,
+
+450
+00:31:03,363 --> 00:31:08,253
+diciamo, conquistare quote di un mercato domestico che sta collassando e
+
+451
+00:31:08,753 --> 00:31:13,158
+dove i margini stanno letteralmente evaporando, e/o spingere
+
+452
+00:31:13,658 --> 00:31:16,990
+l'export creando un vero e proprio
+
+453
+00:31:17,490 --> 00:31:19,843
+dumping anche per gli standard cinesi.
+
+454
+00:31:21,558 --> 00:31:25,011
+Nel 2023 la Cina ha superato il Giappone come
+
+455
+00:31:25,044 --> 00:31:26,957
+primo esportatore di auto al mondo,
+
+456
+00:31:28,260 --> 00:31:31,938
+grazie anche alla conquista del mercato russo dopo
+
+457
+00:31:32,036 --> 00:31:34,185
+il ritiro degli occidentali.
+
+458
+00:31:36,239 --> 00:31:39,340
+Però voi capite, capacità produttiva 63
+
+459
+00:31:39,840 --> 00:31:43,889
+milioni di veicoli, domanda interna intorno ai 18-19
+
+460
+00:31:44,389 --> 00:31:47,678
+milioni di veicoli, export quest'anno intorno ai 12
+
+461
+00:31:47,711 --> 00:31:51,670
+milioni di veicoli. Con un complesso algoritmo la saturazione
+
+462
+00:31:52,170 --> 00:31:55,790
+della capacità produttiva cinese non arriva al 50%. Allora o
+
+463
+00:31:56,479 --> 00:32:00,005
+ci mettiamo a esportare auto cinesi su Marte,
+
+464
+00:32:00,197 --> 00:32:03,291
+se c'è qualcuno che le compra, oppure questa
+
+465
+00:32:04,028 --> 00:32:08,339
+abnorme sovraccapacità produttiva deve scomparire
+
+466
+00:32:08,355 --> 00:32:12,779
+e questo sarà estremamente doloroso. Tra l'altro
+
+467
+00:32:13,340 --> 00:32:16,914
+una parte della sovraccapacità produttiva cinese origina anche
+
+468
+00:32:17,414 --> 00:32:20,604
+dalle linee degli impianti tradizionali che
+
+469
+00:32:21,104 --> 00:32:24,856
+producono i motori a combustione interna. Allora potrebbero iniziare
+
+470
+00:32:25,356 --> 00:32:28,884
+da quelli. In realtà sono prontissimi, lo stanno già
+
+471
+00:32:29,384 --> 00:32:33,201
+in parte facendo, a inondare l'Europa di auto
+
+472
+00:32:33,701 --> 00:32:37,228
+col motore termico. Perché voi sapete che l'Europa si
+
+473
+00:32:37,728 --> 00:32:41,705
+illude di poter tenere in vita il motore termico invocando
+
+474
+00:32:42,668 --> 00:32:46,246
+questa misteriosa neutralità tecnologica, che è una sorta
+
+475
+00:32:46,279 --> 00:32:50,580
+di mantra in bocca a politici e imprenditori europei.
+
+476
+00:32:50,693 --> 00:32:54,112
+La neutralità tecnologica, qualsiasi cosa ciò significhi,
+
+477
+00:32:54,144 --> 00:32:57,966
+per qualcuno significa semplicemente lo status quo ante
+
+478
+00:32:58,399 --> 00:33:02,172
+del motore termico. Poi arrivano i cinesi con le loro auto a motore termico e
+
+479
+00:33:02,672 --> 00:33:03,344
+ti spazzano via.
+
+480
+00:33:03,938 --> 00:33:07,149
+Qualche costruttore cinese,
+
+481
+00:33:08,129 --> 00:33:12,801
+echeggiando Elon Musk, ha detto che bisogna
+
+482
+00:33:12,865 --> 00:33:16,301
+evolvere da un business monolinea,
+
+483
+00:33:16,381 --> 00:33:19,972
+che oramai è diventato a bassa marginalità come quello delle auto,
+
+484
+00:33:20,004 --> 00:33:24,626
+verso una produzione integrata
+
+485
+00:33:24,674 --> 00:33:28,094
+di robot umanoidi e robotaxi. Allora, a parte che non
+
+486
+00:33:28,594 --> 00:33:32,557
+si conosce la marginalità, però resta il problema degli
+
+487
+00:33:32,606 --> 00:33:36,554
+impatti occupazionali e soprattutto resta questa
+
+488
+00:33:36,878 --> 00:33:40,690
+sindrome del campanile, perché lo scorso anno due
+
+489
+00:33:41,190 --> 00:33:44,171
+costruttori pubblici, Dongfeng e Chang'an,
+
+490
+00:33:44,948 --> 00:33:49,154
+spero di pronunciare correttamente, abbiano annunciato
+
+491
+00:33:49,979 --> 00:33:53,601
+in contemporanea una ristrutturazione che a molti ha fatto
+
+492
+00:33:54,425 --> 00:33:58,982
+ipotizzare che in realtà stessero convergendo verso un'aggregazione.
+
+493
+00:33:59,192 --> 00:34:03,930
+In realtà non si è fatto nulla perché le rispettive amministrazioni
+
+494
+00:34:04,430 --> 00:34:06,554
+cittadine non volevano perdere il controllo.
+
+495
+00:34:08,293 --> 00:34:11,045
+Allora, come finirà questa dinamica,
+
+496
+00:34:11,638 --> 00:34:14,762
+questa abnorme bolla delle auto
+
+497
+00:34:15,262 --> 00:34:18,624
+che ricorda la bolla immobiliare che è in atto da oltre
+
+498
+00:34:19,124 --> 00:34:22,615
+un lustro e dalla quale la Cina non riesce a uscire?
+
+499
+00:34:23,608 --> 00:34:27,182
+Ebbene, quando la crisi della bolla auto cinese
+
+500
+00:34:27,682 --> 00:34:31,845
+risulterà ingestibile, l'inchiostro rosso avrà sommerso
+
+501
+00:34:32,345 --> 00:34:35,242
+i governi locali dissestandoli più di quanto già non lo siano,
+
+502
+00:34:36,435 --> 00:34:40,356
+Il governo centrale di Pechino dovrà ripulire la scena e
+
+503
+00:34:40,856 --> 00:34:44,616
+tenersi i cocci, cioè il debito extra
+
+504
+00:34:45,116 --> 00:34:46,747
+necessario per la bonifica.
+
+505
+00:34:48,740 --> 00:34:52,994
+Questo è un altro clamoroso esempio di malinvestment
+
+506
+00:34:53,547 --> 00:34:56,275
+dove i governi locali cinesi hanno un ruolo.
+
+507
+00:34:58,452 --> 00:35:02,169
+Quanto può durare un modello di sviluppo come quello
+
+508
+00:35:02,669 --> 00:35:05,589
+cinese in queste condizioni? Allora,
+
+509
+00:35:05,621 --> 00:35:09,715
+come vi ho già spiegato, secondo me qualcuno
+
+510
+00:35:10,293 --> 00:35:15,175
+a Pechino è sicuro che basti resistere
+
+511
+00:35:15,335 --> 00:35:19,831
+per farlo durare un minuto più dei concorrenti
+
+512
+00:35:20,313 --> 00:35:25,049
+nel resto del mondo, cioè conquistare
+
+513
+00:35:25,290 --> 00:35:28,929
+il resto del mondo e vedere poi di
+
+514
+00:35:29,758 --> 00:35:32,863
+aggiustare i prezzi per recuperare redditività.
+
+515
+00:35:34,916 --> 00:35:35,961
+Allora, arriviamo in Europa.
+
+516
+00:35:38,140 --> 00:35:41,546
+Banca Centrale Europea, Christine Lagarde, che sono 2
+
+517
+00:35:42,046 --> 00:35:45,546
+anni che è palese che è
+
+518
+00:35:45,643 --> 00:35:48,739
+in uscita dal vertice della Banca Centrale Europea,
+
+519
+00:35:48,788 --> 00:35:52,425
+ha finalmente ufficializzato che uscirà
+
+520
+00:35:52,523 --> 00:35:55,722
+il 7 febbraio del prossimo anno fiscale.
+
+521
+00:35:57,710 --> 00:36:01,691
+Naturalmente questo consentirà a Macron
+
+522
+00:36:01,836 --> 00:36:05,415
+e agli altri governi europei di negoziare
+
+523
+00:36:05,947 --> 00:36:09,504
+secondo la famosa logica a pacchetto le nuove
+
+524
+00:36:10,475 --> 00:36:13,955
+nomine, perché all'interno della Banca Centrale Europea c'è da
+
+525
+00:36:14,522 --> 00:36:19,495
+sostituire il capo economista, l'irlandese Philip
+
+526
+00:36:19,576 --> 00:36:23,747
+Lane, c'è da sostituire il super falco,
+
+527
+00:36:23,779 --> 00:36:26,657
+che era in realtà la capo economista ombra,
+
+528
+00:36:28,276 --> 00:36:32,589
+ma che formalmente aveva il ruolo di responsabile delle market
+
+529
+00:36:33,089 --> 00:36:35,297
+operation, cioè la tedesca Isabel Schnabel,
+
+530
+00:36:37,960 --> 00:36:40,372
+e c'è da sostituire Christine Lagarde.
+
+531
+00:36:41,635 --> 00:36:45,261
+Il tutto prima che Marine Le Pen arrivi
+
+532
+00:36:45,520 --> 00:36:50,460
+all'Eliseo. Voi sapete che in Francia c'è questa fuga generalizzata
+
+533
+00:36:50,960 --> 00:36:55,148
+che ha già portato il governatore
+
+534
+00:36:55,999 --> 00:37:00,030
+della Banca di Francia a ritirarsi dicendo che doveva impegnarsi
+
+535
+00:37:00,530 --> 00:37:04,028
+in attività del terzo settore, in maniera tale che Macron ha potuto
+
+536
+00:37:04,528 --> 00:37:08,524
+far cooptare nel Governing Council un suo fedelissimo
+
+537
+00:37:09,567 --> 00:37:13,309
+competente, per carità, ma pur sempre un fedele di Macron.
+
+538
+00:37:13,421 --> 00:37:17,146
+Quindi ci sarà da negoziare secondo la logica
+
+539
+00:37:17,210 --> 00:37:20,945
+a pacchetto. E anche qui vedremo
+
+540
+00:37:21,508 --> 00:37:25,481
+come andrà a finire. I candidati sono l'ex governatore della banca
+
+541
+00:37:25,981 --> 00:37:30,603
+centrale olandese Klaas Knot e l'attuale
+
+542
+00:37:31,167 --> 00:37:34,358
+direttore generale della Banca dei Regolamenti Internazionali,
+
+543
+00:37:34,390 --> 00:37:38,207
+lo spagnolo ex governatore della banca centrale spagnola
+
+544
+00:37:38,707 --> 00:37:42,455
+Pablo Hernández de Cos. Quindi vedremo
+
+545
+00:37:42,955 --> 00:37:46,843
+il Club Med cosa farà. Soprattutto teniamo presente che ci sono i paesi
+
+546
+00:37:47,343 --> 00:37:50,846
+nordici che dicono, beh, abbiamo avuto 2 francesi
+
+547
+00:37:50,862 --> 00:37:53,713
+e un italiano nelle ultime 3 nomine,
+
+548
+00:37:54,896 --> 00:37:58,606
+sarebbe tempo di avere qualcuno
+
+549
+00:37:59,106 --> 00:38:03,351
+dei nostri. E naturalmente questa
+
+550
+00:38:03,851 --> 00:38:07,791
+povera Unione Europea che incespica e si annoda anche
+
+551
+00:38:08,276 --> 00:38:11,525
+sulle definizioni, no? Adesso von der
+
+552
+00:38:12,025 --> 00:38:15,725
+Leyen, ve ne ho parlato settimane passate, Aveva lanciato questa
+
+553
+00:38:16,225 --> 00:38:21,094
+strana idea che è uno spin mediatico della
+
+554
+00:38:23,548 --> 00:38:26,702
+membership associata per il
+
+555
+00:38:27,202 --> 00:38:31,275
+Canada, che non si sa cosa volesse dire. Per un motivo banale: non esiste
+
+556
+00:38:32,677 --> 00:38:37,352
+giuridicamente all'interno dei codici
+
+557
+00:38:38,098 --> 00:38:41,280
+europei dell'Unione Europea il concetto di associate
+
+558
+00:38:41,362 --> 00:38:45,495
+membership. L'aveva ipoteticamente lanciata Merz,
+
+559
+00:38:45,560 --> 00:38:49,930
+ma parlando dell'Ucraina, del tipo: fate
+
+560
+00:38:50,430 --> 00:38:55,497
+parte dell'Unione ma non avete subito i voti per gli organismi collettivi
+
+561
+00:38:55,997 --> 00:38:59,087
+dell'Unione. Naturalmente il problema è,
+
+562
+00:38:59,361 --> 00:39:03,603
+certo, il Canada, ma non è che i canadesi, le province canadesi,
+
+563
+00:39:03,716 --> 00:39:07,693
+che sono quelle che hanno il boccino del potere rispetto
+
+564
+00:39:08,193 --> 00:39:12,153
+al primo ministro pro tempore, che sono quelle che creano delle formidabili
+
+565
+00:39:12,653 --> 00:39:17,337
+barriere interne, non è che siano pronte a commerciare con
+
+566
+00:39:17,466 --> 00:39:20,387
+l'Unione Europea e viceversa,
+
+567
+00:39:21,542 --> 00:39:24,640
+prodotti agricoli, auto e quant'altro.
+
+568
+00:39:25,555 --> 00:39:29,439
+Però vedremo una— voi siete associati senza essere
+
+569
+00:39:29,939 --> 00:39:33,500
+associati. Adesso si stanno letteralmente annodando su
+
+570
+00:39:34,302 --> 00:39:37,449
+definizioni nominalistiche che non fanno
+
+571
+00:39:37,949 --> 00:39:41,448
+altro che confermare la triste condizione di
+
+572
+00:39:41,948 --> 00:39:45,559
+questa Unione Europea di cui vi parlo
+
+573
+00:39:46,059 --> 00:39:48,402
+oramai da anni. In questo caso potrei dire,
+
+574
+00:39:49,719 --> 00:39:53,300
+mutuando il gergo di qualche ganassa, che se vedeva, no?
+
+575
+00:39:53,413 --> 00:39:57,026
+Nel senso che si vedeva che gli interessi nazionali
+
+576
+00:39:57,444 --> 00:40:01,121
+avrebbero fatto dei paesi dell'Unione Europea i
+
+577
+00:40:01,621 --> 00:40:05,088
+polli di Renzo. Ed è esattamente quello che sta
+
+578
+00:40:05,588 --> 00:40:10,627
+accadendo. Adesso c'è questo deprimente fuggifuggi per sistemare
+
+579
+00:40:10,675 --> 00:40:14,416
+tutte le caselline di potere prima che arrivi il babau
+
+580
+00:40:14,529 --> 00:40:17,949
+Marine Le Pen all'Eliseo. Ma piccolo problema: il babau Marine
+
+581
+00:40:17,981 --> 00:40:21,706
+Le Pen all'Eliseo verrà punita dai
+
+582
+00:40:22,206 --> 00:40:25,608
+mercati in casa prima di andare a fare lo
+
+583
+00:40:26,108 --> 00:40:29,917
+spaventapasseri in Europa. Se non andrà incontro ad un processo
+
+584
+00:40:30,417 --> 00:40:31,531
+di vera e propria melonizzazione.
+
+585
+00:40:34,436 --> 00:40:39,217
+Parleremo anche di questo. Ora però abbiamo
+
+586
+00:40:39,314 --> 00:40:43,220
+una ricchissima pagina delle
+
+587
+00:40:43,268 --> 00:40:46,711
+cronache di cialtronia, non può essere altrimenti,
+
+588
+00:40:46,743 --> 00:40:50,411
+perché come ogni anno di questi tempi c'è
+
+589
+00:40:50,911 --> 00:40:54,832
+stato il famoso rito della presentazione della
+
+590
+00:40:55,346 --> 00:40:58,875
+legge di bilancio. E vabbè, molte cose
+
+591
+00:40:59,375 --> 00:41:01,522
+già si potevano intuire.
+
+592
+00:41:02,725 --> 00:41:05,933
+Si intuisce che sostanzialmente una legge di
+
+593
+00:41:06,433 --> 00:41:11,547
+bilancio asfittica, con molte martellate
+
+594
+00:41:11,964 --> 00:41:15,317
+al margine. Proviamo ad analizzare i singoli
+
+595
+00:41:15,817 --> 00:41:19,246
+punti, compresi quelli più esilaranti. Poi però cerchiamo
+
+596
+00:41:19,746 --> 00:41:23,589
+di lanciare l'ombelico oltre confine per renderci conto che E
+
+597
+00:41:24,089 --> 00:41:27,872
+questi vincoli di realtà non sono un'esclusiva italiana,
+
+598
+00:41:27,904 --> 00:41:31,743
+perché c'è l'Europa, almeno l'Europa, non solo l'Europa,
+
+599
+00:41:31,776 --> 00:41:35,224
+che si sta pesantemente italianizzando. Allora,
+
+600
+00:41:35,985 --> 00:41:39,590
+la manovra del prossimo anno: 26 miliardi nel prossimo anno,
+
+601
+00:41:40,105 --> 00:41:43,181
+27 miliardi nel 2028.
+
+602
+00:41:43,245 --> 00:41:46,546
+Le coperture, le clausole
+
+603
+00:41:47,046 --> 00:41:51,036
+della NEC. La National Escape Clause,
+
+604
+00:41:52,207 --> 00:41:53,801
+che sono quelle del settore energia.
+
+605
+00:41:55,890 --> 00:41:59,021
+Poi maggiori entrate dal settore finanziario,
+
+606
+00:41:59,861 --> 00:42:03,671
+cioè banche, assicurazioni. Una addizionale IRAP
+
+607
+00:42:04,478 --> 00:42:07,977
+anche sul settore energetico. Ci sarà
+
+608
+00:42:08,042 --> 00:42:11,582
+una piccola spending review anche su ministeri e
+
+609
+00:42:12,082 --> 00:42:17,704
+Presidenza del Consiglio. E quali sono i punti qualificanti,
+
+610
+00:42:17,736 --> 00:42:20,328
+si fa per dire, di questa manovra? Beh,
+
+611
+00:42:20,828 --> 00:42:24,670
+l'IRPEF del 33% arriva
+
+612
+00:42:25,496 --> 00:42:29,223
+ai redditi fino a 55.000.
+
+613
+00:42:29,723 --> 00:42:33,221
+Volevano portarla a 60.000 per, come dire,
+
+614
+00:42:33,334 --> 00:42:38,918
+gratificare il ceto del dito medio. Si fermerà a 55.000.
+
+615
+00:42:39,081 --> 00:42:43,065
+Si conferma l'imposta sostitutiva del 5% sugli incrementi
+
+616
+00:42:43,565 --> 00:42:47,302
+retributivi derivanti dai rinnovi contrattuali nel settore privato,
+
+617
+00:42:47,416 --> 00:42:50,571
+perché ogni anno si calcia la lattina, si devono
+
+618
+00:42:51,071 --> 00:42:54,592
+disperatamente trovare risorse che strutturali non
+
+619
+00:42:54,624 --> 00:42:58,547
+sono, e quindi si irrigidisce prospetticamente
+
+620
+00:42:59,047 --> 00:43:02,764
+il margine di manovra sul bilancio pubblico. Poi c'è
+
+621
+00:43:03,264 --> 00:43:06,459
+l'1% di flat
+
+622
+00:43:06,959 --> 00:43:11,034
+tax, perché l'Italia morirà di flat tax. L'Italia è
+
+623
+00:43:11,534 --> 00:43:14,035
+un paese che sta morendo di flat tax,
+
+624
+00:43:15,084 --> 00:43:18,972
+imposta sostitutiva dell'1% sugli
+
+625
+00:43:19,472 --> 00:43:23,073
+incrementi dei redditi da lavoro dipendente dei giovani lavoratori entro
+
+626
+00:43:23,573 --> 00:43:25,474
+specifici limiti di reddito e di importo.
+
+627
+00:43:27,186 --> 00:43:30,791
+Non so se sarà per gli under 30, per gli under 35.
+
+628
+00:43:31,955 --> 00:43:35,356
+Luciano Capone ha scritto un'analisi delle sue dove
+
+629
+00:43:35,856 --> 00:43:39,531
+praticamente si evidenzia che si finisce
+
+630
+00:43:40,031 --> 00:43:44,087
+questa flat tax dell'1%, interferisce con quella
+
+631
+00:43:44,296 --> 00:43:46,663
+al 5% per i rinnovi contrattuali,
+
+632
+00:43:48,350 --> 00:43:52,834
+coperture a parte. Poi la
+
+633
+00:43:53,334 --> 00:43:56,666
+famosa logica del più assumi meno paghi,
+
+634
+00:43:57,261 --> 00:44:01,061
+viene maggiorata la super deduzione per
+
+635
+00:44:01,561 --> 00:44:06,462
+le nuove assunzioni, quindi c'è Un
+
+636
+00:44:06,527 --> 00:44:10,040
+coefficiente, una deduzione del 180%
+
+637
+00:44:10,574 --> 00:44:14,553
+per le assunzioni di lavoratrici madri, del 40%,
+
+638
+00:44:15,009 --> 00:44:18,201
+quindi 140%, per gli under 36,
+
+639
+00:44:20,606 --> 00:44:24,061
+2.000 euro di esenzione dei fringe benefit
+
+640
+00:44:24,561 --> 00:44:28,159
+per i lavoratori con età non superiore a 30 anni. Mi auguro che
+
+641
+00:44:28,659 --> 00:44:30,518
+ci sia anche una soglia di reddito.
+
+642
+00:44:31,584 --> 00:44:34,787
+Cioè la famosa soglia per l'accesso al forfettario,
+
+643
+00:44:35,466 --> 00:44:39,106
+ve ne ho parlato la settimana scorsa, purtroppo è andata esattamente
+
+644
+00:44:39,606 --> 00:44:43,718
+come temevo: da 85.000 a 100.000,
+
+645
+00:44:43,799 --> 00:44:46,875
+ma ai fini dell'esenzione IVA,
+
+646
+00:44:47,036 --> 00:44:51,026
+nelle more dell'ulteriore negoziato con l'Unione Europea,
+
+647
+00:44:52,124 --> 00:44:55,514
+fino a 85.000
+
+648
+00:44:55,594 --> 00:44:59,000
+non si è obbligati a mettere l'IVA in fattura.
+
+649
+00:44:59,835 --> 00:45:03,207
+Tra 85 e 100 si resta forfettari, ma si deve
+
+650
+00:45:03,707 --> 00:45:07,767
+mettere l'IVA in fattura. Io, a parte l'autorizzazione dell'Unione
+
+651
+00:45:08,267 --> 00:45:11,652
+Europea, nelle more della quale Meloni mi pare abbia già fatto capire che il prossimo
+
+652
+00:45:12,152 --> 00:45:15,538
+anno è un liberi tutti fino a 100.000 anche per l'IVA, voi pensate il
+
+653
+00:45:15,570 --> 00:45:19,183
+tipo di contenzioso che potrà uscire con l'Unione Europea
+
+654
+00:45:19,584 --> 00:45:22,346
+se l'Unione Europea decidesse di bocciare questa misura?
+
+655
+00:45:26,456 --> 00:45:30,440
+Retroattivamente. Rendetevi conto, oltre al fatto
+
+656
+00:45:30,940 --> 00:45:34,964
+che se si aumenta la platea dei beneficiati
+
+657
+00:45:36,576 --> 00:45:40,009
+dal regime forfettario fino a 100.000,
+
+658
+00:45:40,025 --> 00:45:43,565
+il regime forfettario non paga le addizionali locali,
+
+659
+00:45:44,895 --> 00:45:48,092
+quindi comuni e regioni
+
+660
+00:45:48,592 --> 00:45:52,123
+muoiono soffocati. E sapete che
+
+661
+00:45:52,204 --> 00:45:55,620
+cosa potrà succedere, se non questo governo con un
+
+662
+00:45:56,120 --> 00:45:59,441
+altro, che verrà sbloccato il tetto
+
+663
+00:46:00,217 --> 00:46:03,631
+delle addizionali? Ad esempio, la regionale
+
+664
+00:46:03,695 --> 00:46:08,026
+ha un tetto del 3,3% contro il quale stanno sbattendo
+
+665
+00:46:08,107 --> 00:46:10,346
+praticamente tutti o gran parte.
+
+666
+00:46:11,692 --> 00:46:13,367
+Finirà che il prossimo governo,
+
+667
+00:46:15,279 --> 00:46:18,350
+magari per non voler togliere il
+
+668
+00:46:18,398 --> 00:46:22,011
+forfettario e volerlo magari riportare in un'area
+
+669
+00:46:22,511 --> 00:46:25,752
+simile a quella dei lavoratori dipendenti, che è dove deve stare,
+
+670
+00:46:27,149 --> 00:46:31,564
+beh, sbloccheranno graziosamente l'aliquota
+
+671
+00:46:32,064 --> 00:46:36,012
+massima delle addizionali regionali e comunali. Per cui è veramente
+
+672
+00:46:36,156 --> 00:46:39,673
+il gioco delle 3 carte, dei 3 cartari,
+
+673
+00:46:40,267 --> 00:46:42,290
+rigorosamente bipartisan.
+
+674
+00:46:44,498 --> 00:46:48,753
+A doppio schieramento. Poi c'è il capitolo
+
+675
+00:46:49,253 --> 00:46:51,783
+della casa, affitti a canone concordato,
+
+676
+00:46:53,090 --> 00:46:55,322
+la cedolare secca dal 10% al 5%,
+
+677
+00:46:57,323 --> 00:47:01,496
+e quindi altro buco di gettito,
+
+678
+00:47:02,721 --> 00:47:06,827
+e all'1% per i contratti con
+
+679
+00:47:07,327 --> 00:47:10,464
+gli inquilini che hanno un'età fino a 35 anni.
+
+680
+00:47:10,660 --> 00:47:14,300
+Io mi immagino La ricerca
+
+681
+00:47:14,430 --> 00:47:18,153
+disperata dell'inquilino under 35
+
+682
+00:47:18,653 --> 00:47:21,744
+per eludere, che è la stessa
+
+683
+00:47:21,793 --> 00:47:25,344
+cosuccia che viene fatta quando marito e
+
+684
+00:47:25,844 --> 00:47:30,106
+moglie dichiarano residenze anagrafiche e fiscali differenti
+
+685
+00:47:30,606 --> 00:47:34,141
+per mantenersi due prime case. È la stessa
+
+686
+00:47:34,641 --> 00:47:38,498
+cosa. Poi arriva La
+
+687
+00:47:38,998 --> 00:47:42,590
+cedolare secca per gli immobili commerciali, ve ne ho parlato la settimana
+
+688
+00:47:43,090 --> 00:47:46,570
+scorsa, no? Vedete che alla fine conosco i miei polli e i miei cialtroni.
+
+689
+00:47:48,047 --> 00:47:52,413
+La cedolare secca è estesa agli immobili commerciali di superficie
+
+690
+00:47:52,913 --> 00:47:55,478
+non superiore a 300 metri quadri.
+
+691
+00:47:56,714 --> 00:47:58,929
+Prima l'idea era 600, adesso è 300,
+
+692
+00:48:00,084 --> 00:48:03,647
+perché qualcuno pensa che dove è morta la domanda
+
+693
+00:48:03,776 --> 00:48:07,839
+di locazioni commerciali, soprattutto nei centri urbani
+
+694
+00:48:09,046 --> 00:48:13,311
+sia sufficiente creare questo buco
+
+695
+00:48:14,357 --> 00:48:18,890
+di gettito. Lasciamo da parte l'immersione
+
+696
+00:48:18,972 --> 00:48:20,901
+del nero, che quella è una sciocchezza.
+
+697
+00:48:22,406 --> 00:48:25,628
+Sia sufficiente introdurre l'acetolare secca sulle
+
+698
+00:48:26,128 --> 00:48:29,737
+locazioni commerciali improvvisamente per fare riaccendere le vetrine nei
+
+699
+00:48:30,237 --> 00:48:30,752
+centri urbani.
+
+700
+00:48:33,250 --> 00:48:36,645
+Smezzando il beneficio fiscale
+
+701
+00:48:37,145 --> 00:48:40,797
+tra locatore e locatario. Un peccato che non funzioni così.
+
+702
+00:48:40,893 --> 00:48:44,797
+L'unico dato certo è il rischio di
+
+703
+00:48:45,297 --> 00:48:49,352
+una perdita secca di gettito che si va ad abbattere
+
+704
+00:48:49,950 --> 00:48:53,001
+sugli schiavi dell'IRPEF, sui kulaki.
+
+705
+00:48:55,471 --> 00:48:59,358
+Poi un'altra cosa che Mi
+
+706
+00:48:59,858 --> 00:49:01,485
+ha fatto morire dal ridere. Anzi no, scusate,
+
+707
+00:49:01,759 --> 00:49:05,547
+torniamo sulla cedolare secca
+
+708
+00:49:07,159 --> 00:49:10,714
+degli affitti con il locatore under 35,
+
+709
+00:49:12,550 --> 00:49:16,282
+che sarà, ripeto, alimenterà una delle condotte
+
+710
+00:49:16,379 --> 00:49:19,999
+elusive per le quali potremmo scrivere libri.
+
+711
+00:49:25,720 --> 00:49:30,263
+Anche lì bisognerà vedere come verrà
+
+712
+00:49:30,376 --> 00:49:33,487
+costruita questa, questa cosa,
+
+713
+00:49:33,519 --> 00:49:37,808
+perché è veramente— si dice queste
+
+714
+00:49:38,308 --> 00:49:41,772
+misure, quindi dal 10 al 5
+
+715
+00:49:42,272 --> 00:49:45,584
+per gli affitti a canone concordato, l'1% per
+
+716
+00:49:46,084 --> 00:49:49,929
+i locatori under 35, sono tutti elementi che vanno
+
+717
+00:49:50,187 --> 00:49:55,185
+a incidere e a ridurre
+
+718
+00:49:55,685 --> 00:49:59,709
+la convenienza relativa degli affitti
+
+719
+00:49:59,790 --> 00:50:01,652
+brevi, dei B&B?
+
+720
+00:50:03,110 --> 00:50:06,915
+Teoricamente sì, ma in realtà è fondamentale la celerità
+
+721
+00:50:06,996 --> 00:50:10,795
+degli eventuali sfratti, e lì ci sarebbero naturalmente
+
+722
+00:50:11,295 --> 00:50:13,457
+tutte le Geremiadi per le tensioni sociali.
+
+723
+00:50:15,530 --> 00:50:19,167
+Quindi vedremo, insomma, quando si cerca di ridurre
+
+724
+00:50:19,248 --> 00:50:23,018
+la convenienza di una determinata formula contrattuale
+
+725
+00:50:23,779 --> 00:50:27,588
+finanziandola a carico della Fiscalità Generale o di
+
+726
+00:50:28,088 --> 00:50:31,372
+quei pochi che sono rimasti a pieno titolo nella Fiscalità Generale,
+
+727
+00:50:31,729 --> 00:50:33,646
+succedono queste cosucce.
+
+728
+00:50:35,546 --> 00:50:39,103
+La cosa che mi ha fatto molto ridere all'interno del provvedimento
+
+729
+00:50:39,200 --> 00:50:42,531
+è questa dote per i
+
+730
+00:50:43,031 --> 00:50:45,875
+neonati. No, si è detto facciamo come la Germania,
+
+731
+00:50:45,908 --> 00:50:49,988
+c'erano già C'era già l'industria del risparmio gestito che salivava
+
+732
+00:50:50,488 --> 00:50:54,405
+copiosamente. Sì, facciamo la dote, servirà anche
+
+733
+00:50:54,905 --> 00:50:58,020
+per la pensione, non la toccano fino ai 18 anni,
+
+734
+00:50:58,261 --> 00:51:01,602
+però la deve gestire il risparmio gestito, non l'INPS.
+
+735
+00:51:01,811 --> 00:51:05,585
+E già proprio praticamente avevano negli
+
+736
+00:51:06,085 --> 00:51:09,907
+occhi il simbolo dell'euro al posto delle pupille. Ebbene, è nato questo
+
+737
+00:51:10,407 --> 00:51:14,003
+fondo per la natalità. Dal 2027 i nuovi
+
+738
+00:51:14,503 --> 00:51:17,953
+nati avranno una posizione individuale di risparmio con
+
+739
+00:51:18,453 --> 00:51:21,967
+un contributo statale annuo di 100 euro fino alla maggiore
+
+740
+00:51:22,467 --> 00:51:26,864
+età, quindi nominali 1.800
+
+741
+00:51:27,364 --> 00:51:31,392
+euro in 18 anni. Poi naturalmente c'è sempre la famosa magia della
+
+742
+00:51:31,505 --> 00:51:35,037
+capitalizzazione composta. È previsto che
+
+743
+00:51:35,537 --> 00:51:40,753
+le famiglie potranno incrementare questa dote con
+
+744
+00:51:41,253 --> 00:51:44,941
+una specifica detrazione fiscale. Anche qui resta da capire
+
+745
+00:51:45,005 --> 00:51:48,840
+a quanto ammonterà questa detrazione fiscale, come verrà
+
+746
+00:51:49,001 --> 00:51:53,028
+coperta, perché secondo alcune stime questa
+
+747
+00:51:53,528 --> 00:51:56,863
+attuale manovra ha un buco di 6 miliardi di provvedimenti
+
+748
+00:51:57,024 --> 00:52:00,795
+temporanei che il prossimo governo, sia ancora guidato da
+
+749
+00:52:01,295 --> 00:52:04,726
+Giorgia Meloni, sia esso guidato da Conte, Schlein o
+
+750
+00:52:05,226 --> 00:52:09,114
+chi per esso, o da un terzista prestanome, dovrà gestire. E ripeto,
+
+751
+00:52:09,147 --> 00:52:12,672
+vedrete gli sblocchi delle addizionali locali, che tripudio!
+
+752
+00:52:13,270 --> 00:52:17,572
+Avremo le addizionali locali regionali su livelli californiani
+
+753
+00:52:18,072 --> 00:52:22,195
+o newyorkesi in questo paese, senza avere le imposte centrali
+
+754
+00:52:22,695 --> 00:52:23,262
+su livelli americani.
+
+755
+00:52:25,976 --> 00:52:30,175
+Ma soprattutto questa piccola dote di questi 100
+
+756
+00:52:30,675 --> 00:52:33,907
+euro annui è gestita dall'INPS.
+
+757
+00:52:34,277 --> 00:52:37,931
+Oh, tu guarda! L'INPS, il noto asset
+
+758
+00:52:38,431 --> 00:52:42,853
+manager INPS. Sapete a cosa servirà questo
+
+759
+00:52:43,353 --> 00:52:46,669
+ruolo dell'INPS? Semplicemente a intercettare i
+
+760
+00:52:47,169 --> 00:52:51,399
+versamenti dello Stato, a tenerli nel perimetro del bilancio
+
+761
+00:52:51,899 --> 00:52:56,449
+pubblico e a coprire altre spese. Poi naturalmente bisogna
+
+762
+00:52:56,949 --> 00:53:01,034
+vedere qual è la rivalutazione convenzionale
+
+763
+00:53:01,534 --> 00:53:04,193
+o effettiva che l'INPS offre su questi importi.
+
+764
+00:53:05,429 --> 00:53:09,008
+Perché l'INPS non è un asset manager,
+
+765
+00:53:09,040 --> 00:53:12,490
+non è che l'INPS prende i 100 euro annui per i neonati
+
+766
+00:53:12,990 --> 00:53:15,540
+fino a 18 anni, i neonati fuori corso,
+
+767
+00:53:16,278 --> 00:53:19,552
+e li investe sui mercati finanziari auspicabilmente
+
+768
+00:53:20,052 --> 00:53:23,885
+comprando strumenti passivi low cost. No, l'INPS se
+
+769
+00:53:24,385 --> 00:53:27,737
+li tiene come liquidità di bilancio e siccome il denaro è fungibile
+
+770
+00:53:28,237 --> 00:53:32,244
+li impiega a coprire buchi di bilancio. Però li deve remunerare.
+
+771
+00:53:32,341 --> 00:53:36,079
+Allora mettiamo che venga deciso, li deve remunerare al tasso
+
+772
+00:53:36,579 --> 00:53:40,110
+medio del rendistato, cioè dei titoli di
+
+773
+00:53:40,610 --> 00:53:43,731
+Stato, o al tasso medio della Banca Centrale Europea,
+
+774
+00:53:43,779 --> 00:53:45,833
+o all'interesse legale, che poi sono tutti numeri.
+
+775
+00:53:47,626 --> 00:53:50,697
+E qui sì, voglio dire, se uno di
+
+776
+00:53:51,197 --> 00:53:55,466
+fronte a 18 anni si fa un bell'ETF azionario
+
+777
+00:53:55,966 --> 00:53:59,824
+globale passivo, altro che il rendimento del rendistato
+
+778
+00:53:59,889 --> 00:54:03,150
+o il tasso BCE. Però anche qui,
+
+779
+00:54:03,182 --> 00:54:07,153
+siccome il diavolo è nei dettagli, aspettiamo decreti attuativi
+
+780
+00:54:07,653 --> 00:54:11,095
+e regolamenti, perché io sono assolutamente certo
+
+781
+00:54:11,663 --> 00:54:12,929
+che ci sarà da ridere.
+
+782
+00:54:15,347 --> 00:54:19,322
+Poi è
+
+783
+00:54:19,822 --> 00:54:23,927
+arrivata la famosa dentiera berlusconiana, perché 300
+
+784
+00:54:24,427 --> 00:54:28,142
+euro per le persone over 75 con una pensione
+
+785
+00:54:28,642 --> 00:54:32,095
+fino a 28.000 euro annui. Da utilizzare per
+
+786
+00:54:32,595 --> 00:54:35,416
+le spese sanitarie non coperte dal Servizio Nazionale. Va bene,
+
+787
+00:54:37,360 --> 00:54:40,665
+più o meno, però naturalmente con 300 euro
+
+788
+00:54:41,165 --> 00:54:44,581
+non ti compri praticamente nulla delle spese sanitarie
+
+789
+00:54:45,081 --> 00:54:48,460
+non coperte dal Servizio Sanitario Nazionale, per cui questi resteranno
+
+790
+00:54:48,960 --> 00:54:53,199
+residui che o restano in essere oppure vengono
+
+791
+00:54:53,248 --> 00:54:56,798
+catturati e cancellati, per cui tornano
+
+792
+00:54:57,298 --> 00:55:01,239
+al mittente e hanno l'elastico E quindi l'esborso finale risulterà
+
+793
+00:55:01,609 --> 00:55:05,193
+più contenuto. Poi per la previdenza,
+
+794
+00:55:06,286 --> 00:55:10,629
+o per la previdenza per fare felice Matteo Salvini
+
+795
+00:55:11,357 --> 00:55:16,046
+che ha rivinto, diciamo, in sede leghista il
+
+796
+00:55:16,546 --> 00:55:19,796
+suo congresso e quindi è tornato più forte che
+
+797
+00:55:20,296 --> 00:55:24,734
+pria, e lui si era messo in testa che bisogna sconfiggere
+
+798
+00:55:25,234 --> 00:55:28,834
+la legge Fornero. Salvini verrà sconfitto dalla
+
+799
+00:55:29,334 --> 00:55:32,999
+realtà. E il problema è che nel frattempo
+
+800
+00:55:33,499 --> 00:55:35,694
+forse riuscirà anche a sconfiggere i conti pubblici.
+
+801
+00:55:36,796 --> 00:55:40,358
+Però, visto che Meloni e Giorgetti sono abbastanza abili
+
+802
+00:55:40,858 --> 00:55:43,921
+nel tutelare i conti pubblici italiani,
+
+803
+00:55:46,792 --> 00:55:49,990
+che cosa si crea? Si crea questi, questi mercanteggiamenti
+
+804
+00:55:50,490 --> 00:55:54,731
+che mi affascinano molto, perché io sono un cultore delle tecniche negoziali,
+
+805
+00:55:54,811 --> 00:55:58,475
+tra le altre cose. Non mi riesce sempre, anzi Almeno in un caso
+
+806
+00:55:58,975 --> 00:56:02,632
+ho fallito clamorosamente, ma non stiamo qui ad autobiografarci.
+
+807
+00:56:05,130 --> 00:56:09,360
+Un fondo, un fondo sarchiapone da 850
+
+808
+00:56:09,860 --> 00:56:14,542
+milioni che naturalmente Salvini si è precipitato a incasellare
+
+809
+00:56:16,887 --> 00:56:20,897
+definendolo la sconfitta della legge Fornero.
+
+810
+00:56:22,238 --> 00:56:26,424
+E già, stanno battibeccando perché il responsabile economico
+
+811
+00:56:26,924 --> 00:56:30,936
+di Fratelli d'Italia, Marco Osnato, che se ricordo correttamente nella
+
+812
+00:56:31,436 --> 00:56:34,718
+vita fa il commercialista, ha detto: no, questo non si può dire che
+
+813
+00:56:35,218 --> 00:56:38,876
+sconfigge la legge Fornero questo fondo. Questo fondo magari potrà
+
+814
+00:56:39,376 --> 00:56:44,314
+essere utilizzato per pensionamenti
+
+815
+00:56:44,814 --> 00:56:48,553
+anticipati selettivi di qualche categoria,
+
+816
+00:56:48,585 --> 00:56:51,820
+ci inventeremo qualche nuovo lavoro usurante che tanto
+
+817
+00:56:52,320 --> 00:56:56,260
+c'è solo l'imbarazzo della scelta. E quindi non è una sconfitta
+
+818
+00:56:56,760 --> 00:57:00,435
+della legge Fornero. Però come coprire questo
+
+819
+00:57:00,935 --> 00:57:04,208
+fondo? E come coprirlo è pressoché certo,
+
+820
+00:57:04,257 --> 00:57:08,672
+visto che per vincoli europei i soldi che
+
+821
+00:57:09,172 --> 00:57:12,526
+vanno alle pensioni di fatto, per una sorta di
+
+822
+00:57:13,248 --> 00:57:16,861
+legge non scritta, devono provenire dal magico mondo delle
+
+823
+00:57:17,361 --> 00:57:20,715
+pensioni. Non è detto che ciò avvenga in un rapporto 1 a 1,
+
+824
+00:57:20,747 --> 00:57:23,072
+ma sicuramente in un certo rapporto deve avvenire.
+
+825
+00:57:24,430 --> 00:57:27,875
+E di conseguenza esiste oramai
+
+826
+00:57:28,084 --> 00:57:31,691
+un'elevata probabilità perché per coprire questo fondo
+
+827
+00:57:32,191 --> 00:57:35,988
+sarchiapone da 850 milioni che partirà il prossimo
+
+828
+00:57:36,488 --> 00:57:39,539
+anno, beh,
+
+829
+00:57:40,555 --> 00:57:44,111
+si deindicizzino parzialmente le pensioni,
+
+830
+00:57:44,127 --> 00:57:48,284
+magari tornando alla indicizzazione
+
+831
+00:57:48,332 --> 00:57:52,275
+famigerata per fasce e non a quella attualmente
+
+832
+00:57:52,775 --> 00:57:55,577
+in vigore per scaglioni. Cosa vuol dire questo?
+
+833
+00:57:55,706 --> 00:58:00,114
+Nella indicizzazione per fasce è l'intero importo
+
+834
+00:58:00,614 --> 00:58:04,698
+della pensione che viene falcidiato se più
+
+835
+00:58:05,198 --> 00:58:08,257
+elevato di un dato multiplo rispetto alla pensione sociale.
+
+836
+00:58:08,449 --> 00:58:13,372
+Quindi chi prende pensioni più alte subirebbe
+
+837
+00:58:13,872 --> 00:58:18,157
+una deindicizzazione pesante sull'intero assegno, non sulle fasce,
+
+838
+00:58:18,205 --> 00:58:21,285
+non sugli scaglioni. Una misura
+
+839
+00:58:21,785 --> 00:58:26,074
+di questo tipo è stata attuata a livello emergenziale
+
+840
+00:58:26,203 --> 00:58:30,298
+anni addietro. La Consulta è intervenuta precisando che appunto
+
+841
+00:58:30,798 --> 00:58:33,933
+devono esserci le motivazioni di
+
+842
+00:58:34,176 --> 00:58:37,788
+necessità e urgenza, per usare il termine che si applica
+
+843
+00:58:37,837 --> 00:58:41,466
+ai decreti legge, Ma soprattutto devono essere provvedimenti
+
+844
+00:58:41,627 --> 00:58:45,001
+temporanei e circoscritti e
+
+845
+00:58:45,501 --> 00:58:48,697
+mirati. Però quello che io vi dico da
+
+846
+00:58:48,939 --> 00:58:52,531
+molto tempo, oserei dire da anni, è altro,
+
+847
+00:58:53,626 --> 00:58:57,380
+e cioè che il
+
+848
+00:58:57,396 --> 00:59:00,871
+vero tesorettone della finanza pubblica
+
+849
+00:59:01,371 --> 00:59:04,635
+italiana giace, perché è un vero e proprio giacimento,
+
+850
+00:59:07,112 --> 00:59:11,245
+nelle pensioni, nella massa attuale
+
+851
+00:59:12,017 --> 00:59:15,426
+contingente e potenziale delle pensioni. È sufficiente
+
+852
+00:59:17,017 --> 00:59:20,729
+agire sulla deindicizzazione
+
+853
+00:59:21,517 --> 00:59:24,742
+e letteralmente è come vincere
+
+854
+00:59:25,242 --> 00:59:28,796
+il jackpot alle slot machine. Quindi qui si
+
+855
+00:59:29,296 --> 00:59:33,377
+rischia, se questo fondo Sarkeapone verrà effettivamente
+
+856
+00:59:33,426 --> 00:59:37,636
+dedicato a far uscire la nuova quota 100 voluta da Salvini
+
+857
+00:59:38,542 --> 00:59:41,492
+e dalla Lega? 100 vuol dire 64 anni di età,
+
+858
+00:59:42,013 --> 00:59:43,773
+36 di contributi.
+
+859
+00:59:46,924 --> 00:59:50,312
+Beh, vorrà dire che, visto che siamo in un periodo di indicizzazione,
+
+860
+00:59:50,344 --> 00:59:54,185
+di inflazione sostenuta, e quindi un vero e proprio
+
+861
+00:59:54,685 --> 00:59:57,527
+salasso per i conti dello Stato sull'indicizzazione delle pensioni,
+
+862
+00:59:58,147 --> 01:00:02,125
+Tornerà la deindicizzazione per fasce
+
+863
+01:00:02,317 --> 01:00:06,247
+delle pensioni, dai pensionati attuali
+
+864
+01:00:06,584 --> 01:00:10,097
+ai futuri pensionati, che però naturalmente avranno assegni da
+
+865
+01:00:10,597 --> 01:00:14,749
+fame, perché la Lega vuole estendere questa
+
+866
+01:00:15,249 --> 01:00:19,497
+quota 100, questa uscita a 64 anni, anche a coloro che
+
+867
+01:00:19,997 --> 01:00:23,668
+hanno una parte di retributivo con ricalcolo contributivo
+
+868
+01:00:24,168 --> 01:00:27,901
+integrale. Già, quindi Gli mordono una parte imponente
+
+869
+01:00:28,401 --> 01:00:31,877
+dell'assegno. Qui c'è gente che letteralmente va in pensione morendo di fame,
+
+870
+01:00:32,486 --> 01:00:35,724
+a meno di avere sotto mano un lavoro nero oppure un
+
+871
+01:00:36,224 --> 01:00:39,780
+lavoro regolarmente emerso da cui
+
+872
+01:00:40,280 --> 01:00:43,612
+applicare l'immancabile flat tax, facendola pagare a
+
+873
+01:00:44,112 --> 01:00:47,748
+quelli che l'IRPEF la pagano tutta. Voi capite?
+
+874
+01:00:48,742 --> 01:00:53,332
+Voi capite come funziona? Però non
+
+875
+01:00:53,556 --> 01:00:57,572
+sbagliatevi, perché sì, è facile essere
+
+876
+01:00:58,072 --> 01:01:01,587
+tentati di dire: questo governo infame che ci
+
+877
+01:01:02,087 --> 01:01:05,489
+prende per i fondelli, ma se dovesse cambiare cambierebbe tutto.
+
+878
+01:01:05,602 --> 01:01:08,894
+No, o meglio, io sono assolutamente
+
+879
+01:01:09,394 --> 01:01:12,668
+certo, perché lo dicono ormai apertis verbis, che l'accozzaglia
+
+880
+01:01:13,168 --> 01:01:16,443
+larga, semmai dovesse tornare a Palazzo Chigi, arrivare a
+
+881
+01:01:16,943 --> 01:01:20,581
+Palazzo Chigi, Alcuni tra loro sono già letteralmente eccitati
+
+882
+01:01:20,774 --> 01:01:25,232
+sessualmente per questa famosa curva IRPEF continua,
+
+883
+01:01:25,360 --> 01:01:29,112
+e loro la vorrebbero talmente ripida, un sesto grado,
+
+884
+01:01:29,994 --> 01:01:32,608
+magari a partire dai 35-40.000 euro.
+
+885
+01:01:33,362 --> 01:01:37,900
+Magari alcuni tra loro, nella loro sommo, nel loro sommo analfabetismo,
+
+886
+01:01:38,414 --> 01:01:41,348
+vogliono la leggendaria patrimoniale sui redditi,
+
+887
+01:01:41,380 --> 01:01:44,877
+perché abbiamo sentito parlare anche di quello. Ecco,
+
+888
+01:01:44,893 --> 01:01:48,200
+l'accozzaglia larga, se dovesse tornare a Chigi
+
+889
+01:01:48,281 --> 01:01:50,576
+il prossimo anno, beh,
+
+890
+01:01:51,572 --> 01:01:55,424
+sicuramente seguirebbe la strada di una
+
+891
+01:01:55,924 --> 01:02:00,963
+robusta spremuta fiscale pur di non smantellare
+
+892
+01:02:01,463 --> 01:02:04,334
+quello che questo governo ha creato. Perché?
+
+893
+01:02:04,815 --> 01:02:08,540
+Perché chiunque venga colpito da smantellamento comincerebbe
+
+894
+01:02:09,040 --> 01:02:12,715
+a gridare molto forte e diventerebbe un problema di pubbliche
+
+895
+01:02:13,215 --> 01:02:16,652
+relazioni. Sarebbe utile fregarsene delle pubbliche
+
+896
+01:02:17,152 --> 01:02:20,997
+relazioni rispetto a piccolissimi ambiti e bacini elettorali
+
+897
+01:02:21,497 --> 01:02:25,221
+e pensare al bersaglio grosso, cioè i conti dello Stato. Ma non avviene,
+
+898
+01:02:26,143 --> 01:02:30,536
+non avviene. Quindi io spero
+
+899
+01:02:31,036 --> 01:02:35,003
+di avervi dato il flavor di tutte le schifezze che sono
+
+900
+01:02:35,503 --> 01:02:39,211
+contenute in questa legge di bilancio, ma Ci tengo a
+
+901
+01:02:39,615 --> 01:02:43,892
+chiudere solo parzialmente, perché poi dobbiamo parlare
+
+902
+01:02:43,924 --> 01:02:47,442
+di un altro aspetto della ingegneria fiscale
+
+903
+01:02:47,942 --> 01:02:51,440
+per disperati, questa volta elaborato da insigni
+
+904
+01:02:51,488 --> 01:02:55,396
+accademici. Bisogna tenere presente
+
+905
+01:02:55,896 --> 01:02:58,951
+un punto: la coperta non è che è corta,
+
+906
+01:02:58,968 --> 01:03:03,532
+non c'è più, è sparita. Quindi Ci
+
+907
+01:03:04,032 --> 01:03:06,897
+si muove con martellate al margine.
+
+908
+01:03:08,483 --> 01:03:12,593
+È la dinamica che io chiamo ridurre
+
+909
+01:03:13,093 --> 01:03:16,425
+le tasse aumentando le tasse. Ovviamente il gioco delle 3 carte
+
+910
+01:03:18,737 --> 01:03:22,129
+si rimodulano, si dice: beh, ma così il governo Meloni— guardate
+
+911
+01:03:22,629 --> 01:03:26,101
+che il governo Meloni può vantarsi di essere progressista
+
+912
+01:03:27,291 --> 01:03:31,312
+a tutto tondo, perché il governo Meloni con queste manovre sull'IRPEF
+
+913
+01:03:32,758 --> 01:03:36,769
+Tra, diciamo, le defiscalizzazioni e
+
+914
+01:03:37,269 --> 01:03:41,823
+decontribuzioni sotto i 35.000, tra le deindicizzazioni
+
+915
+01:03:42,323 --> 01:03:45,481
+delle pensioni, tra la lotta contro i kulaki,
+
+916
+01:03:45,609 --> 01:03:49,444
+il governo Meloni ha determinato in questi
+
+917
+01:03:50,005 --> 01:03:54,016
+4 anni un sensibile
+
+918
+01:03:54,433 --> 01:03:58,116
+incremento di progressività dell'IRPEF. Che tuttavia
+
+919
+01:03:58,943 --> 01:04:02,656
+entra in un specifico orifizio
+
+920
+01:04:03,156 --> 01:04:05,381
+di quelli che nell'IRPEF sono imprigionati.
+
+921
+01:04:07,770 --> 01:04:11,726
+Noterete che sto usando delle perifrasi perché la scorsa settimana ho
+
+922
+01:04:12,226 --> 01:04:15,940
+avuto la spiacevole esperienza che Apple con il
+
+923
+01:04:16,440 --> 01:04:20,285
+suo sistema di intelligenza artificiale mi ha bollato la puntata con
+
+924
+01:04:20,785 --> 01:04:24,113
+la E nella lettera scarlatta, E explicit.
+
+925
+01:04:24,888 --> 01:04:28,504
+E effettivamente han ragione, perché è stato, come dire,
+
+926
+01:04:29,280 --> 01:04:33,256
+mi sono scoperto a indulgere in una sorta di turpiloquio che è un po' eccessivo
+
+927
+01:04:33,756 --> 01:04:37,120
+anche per i miei standard. Notare che YouTube ha
+
+928
+01:04:37,620 --> 01:04:39,354
+considerato il turpiloquio non tale,
+
+929
+01:04:41,590 --> 01:04:46,219
+Spotify nemmeno, Spreaker nemmeno. Apple, che sono pienamente
+
+930
+01:04:46,719 --> 01:04:50,266
+woke, adesso è una battuta questa, ovviamente non scrivetemi dicendo che
+
+931
+01:04:50,766 --> 01:04:54,780
+il wokismo è altro, Però hanno applicato la loro censuretta
+
+932
+01:04:55,005 --> 01:04:56,804
+e vabbè. Allora,
+
+933
+01:04:58,604 --> 01:05:02,223
+chiuso l'inciso, la ristrettezza delle risorse
+
+934
+01:05:02,723 --> 01:05:05,938
+disponibili, o meglio il fatto che non si possono toccare quelli che diventano
+
+935
+01:05:06,438 --> 01:05:10,009
+rapidamente diritti acquisiti, è un dato di fatto e non è
+
+936
+01:05:10,863 --> 01:05:15,167
+limitato al governo italiano o al governo pro tempore
+
+937
+01:05:15,312 --> 01:05:19,334
+italiano, nella fattispecie quello di Giorgia Meloni. Perché la stessa
+
+938
+01:05:19,834 --> 01:05:22,973
+identica cosa accadrebbe con un governo di accozzaglia larga,
+
+939
+01:05:23,663 --> 01:05:27,543
+i quali, avendo proprio la pulsione sessuale ad aumentare
+
+940
+01:05:27,895 --> 01:05:31,631
+la pressione fiscale, andrebbero a chiudere i buchi aumentando la pressione fiscale
+
+941
+01:05:31,920 --> 01:05:35,687
+e facendoci scivolare rapidamente verso il
+
+942
+01:05:35,751 --> 01:05:39,519
+Sudamerica. Perché, come sapete, il peronismo
+
+943
+01:05:39,615 --> 01:05:43,383
+alberga ovunque negli schieramenti politici
+
+944
+01:05:43,883 --> 01:05:47,503
+italiani, ma è annidato geneticamente soprattutto a sinistra.
+
+945
+01:05:49,462 --> 01:05:53,237
+Io ricordo Fabrizio Barca, si diceva che potesse
+
+946
+01:05:53,737 --> 01:05:56,931
+diventare ministro in un governo precedente, lui rispose: che devo
+
+947
+01:05:57,431 --> 01:06:01,396
+fare il ministro a fare? Una patrimoniale da 400 miliardi?
+
+948
+01:06:01,508 --> 01:06:05,250
+Perché è l'unica cosa che andrebbe fatta. Ecco, questa è la logica
+
+949
+01:06:05,604 --> 01:06:09,185
+che permette di dirsi progressisti in questo paese
+
+950
+01:06:09,779 --> 01:06:13,843
+mediorientale, sudamericano, ma sempre rigorosamente peronista.
+
+951
+01:06:14,052 --> 01:06:19,101
+Però guardate che la crisi fiscale non è un'esclusiva
+
+952
+01:06:19,601 --> 01:06:23,653
+italica, ma per niente, per niente. Perché il
+
+953
+01:06:24,153 --> 01:06:27,308
+cancelliere dello scacchiere di Andy Burnham, John Healey,
+
+954
+01:06:28,077 --> 01:06:31,716
+ha presentato il budget che partirà il 1°
+
+955
+01:06:31,764 --> 01:06:35,194
+aprile del prossimo anno, perché l'anno fiscale britannico è
+
+956
+01:06:35,675 --> 01:06:39,955
+1° aprile-31 marzo. Ebbene, ha rinviato la spending
+
+957
+01:06:40,455 --> 01:06:44,431
+review al prossimo anno. Ha finanziato
+
+958
+01:06:44,931 --> 01:06:48,973
+alcuni interventi, tra cui 100 euro sul conto corrente per compensare
+
+959
+01:06:49,473 --> 01:06:53,088
+le bollette. Quindi vedete il famoso click di meloniana
+
+960
+01:06:53,588 --> 01:06:56,954
+memoria, lo ha compensato essenzialmente
+
+961
+01:06:58,065 --> 01:07:01,910
+aumentando l'addizionale IRES sulle banche. E quindi, come vedete,
+
+962
+01:07:02,025 --> 01:07:03,339
+non si inventa nulla,
+
+963
+01:07:04,981 --> 01:07:08,007
+rinviando la spending review perché non si può toccare,
+
+964
+01:07:08,039 --> 01:07:14,082
+perché quella è la terza rotaia di qualunque paese occidentale
+
+965
+01:07:14,582 --> 01:07:18,317
+aumentando la tassazione sui risparmi. Qua in Italia
+
+966
+01:07:18,817 --> 01:07:21,776
+abbiamo aumentato la Tobin tax, ma di quella non frega niente a nessuno perché basta
+
+967
+01:07:22,276 --> 01:07:24,051
+usare un ETF e il problema sparisce.
+
+968
+01:07:25,900 --> 01:07:29,312
+Quindi la ristrettezza e la intangibilità di
+
+969
+01:07:29,812 --> 01:07:34,973
+capitoli di spesa determinano le difficoltà a
+
+970
+01:07:35,473 --> 01:07:39,408
+mettere mano a un bilancio e a resettarlo. Non è materialmente possibile
+
+971
+01:07:39,878 --> 01:07:43,590
+Resetare un bilancio pubblico senza scadere nei moti di piazza.
+
+972
+01:07:44,441 --> 01:07:48,201
+Altro che budget a base zero! Mi ricordo
+
+973
+01:07:48,701 --> 01:07:52,699
+quando ero una burba bocconiana che c'era
+
+974
+01:07:53,199 --> 01:07:57,117
+questo famoso zero base budget che qualche mattacchione voleva applicare ai conti
+
+975
+01:07:57,198 --> 01:08:01,391
+pubblici, come se fosse possibile cancellare
+
+976
+01:08:01,891 --> 01:08:06,195
+una dotazione di risorse da una struttura che vive di quella e si autoriproduce
+
+977
+01:08:06,615 --> 01:08:10,452
+e spostarla in capo ad una struttura ex novo. Ma dove vivete?
+
+978
+01:08:12,536 --> 01:08:16,222
+Ultimo inciso su questo punto: le banche si lamentano
+
+979
+01:08:16,739 --> 01:08:20,814
+perché vengono tosate. Sì, ma come ha fatto notare Nicola
+
+980
+01:08:21,314 --> 01:08:24,974
+Rossi in un commento sul Foglio, le banche fanno
+
+981
+01:08:25,151 --> 01:08:28,759
+utili anche e soprattutto grazie, in Italia, al fenomeno
+
+982
+01:08:29,259 --> 01:08:33,087
+delle abnormi garanzie pubbliche. Le garanzie
+
+983
+01:08:33,587 --> 01:08:37,061
+pubbliche in Italia sono uno dei principali,
+
+984
+01:08:37,093 --> 01:08:41,274
+se non il principale motore della generazione di quelli che vengono definiti
+
+985
+01:08:41,774 --> 01:08:45,344
+extra profitti bancari. Ora, a voi pare
+
+986
+01:08:45,664 --> 01:08:48,853
+ragionevolmente possibile un
+
+987
+01:08:48,949 --> 01:08:52,730
+disarmo bilanciato, cioè ridurre
+
+988
+01:08:53,230 --> 01:08:57,136
+la copertura delle garanzie pubbliche ed evitare di mettere addizionali
+
+989
+01:08:57,636 --> 01:09:01,173
+IRES e IRAP in capo alle banche che poi finiscono in testa ai clienti?
+
+990
+01:09:02,132 --> 01:09:06,145
+No, non è possibile, non è possibile. Voi, voi sentireste il
+
+991
+01:09:06,645 --> 01:09:09,095
+presidente di Confindustria, l'architetto Orsini,
+
+992
+01:09:09,691 --> 01:09:13,201
+disperarsi dicendo che c'è una stretta fiscale sulle imprese,
+
+993
+01:09:13,233 --> 01:09:17,138
+le quali devono continuare a beneficiare della garanzia pubblica.
+
+994
+01:09:17,250 --> 01:09:21,181
+Poi se va storto qualcosa, paga Pantalone, pagano quelli che sono rimasti
+
+995
+01:09:21,681 --> 01:09:25,171
+nell'IRPEF. Allora,
+
+996
+01:09:25,205 --> 01:09:28,973
+chiuso questo capitolo, In realtà lo teniamo
+
+997
+01:09:29,473 --> 01:09:34,872
+aperto e andiamo a concludere con alcune
+
+998
+01:09:35,082 --> 01:09:37,587
+considerazioni, o meglio con quello che è successo questa settimana.
+
+999
+01:09:38,976 --> 01:09:43,633
+Perché questa settimana al
+
+1000
+01:09:43,649 --> 01:09:45,953
+Festival Internazionale dell'Economia a Torino,
+
+1001
+01:09:46,710 --> 01:09:50,273
+che era quello che stava a Trento, no, poi è stato quello di
+
+1002
+01:09:50,773 --> 01:09:54,462
+Tito Boeri, poi sloggiato dai leghisti trentini che hanno messo
+
+1003
+01:09:54,962 --> 01:09:58,637
+lì Tremonti, il Sole 24 Ore, la zanzara e il direttore
+
+1004
+01:09:59,137 --> 01:10:03,422
+uscente del Sole 24 Ore a zanzarizzarsi. Beh, il festival
+
+1005
+01:10:03,534 --> 01:10:07,387
+di Boeri si è spostato a Torino. In settimana
+
+1006
+01:10:07,887 --> 01:10:11,883
+c'è stato un intervento di Luigi Zingales, che voi sapete insegna
+
+1007
+01:10:12,383 --> 01:10:16,090
+finanza alla Booth School of Business della
+
+1008
+01:10:16,138 --> 01:10:19,710
+University of Chicago. In questo intervento
+
+1009
+01:10:20,402 --> 01:10:24,348
+Zingales ha fatto proiettare in sala il dipinto
+
+1010
+01:10:24,848 --> 01:10:28,584
+di Goya dove Saturno divora i propri figli,
+
+1011
+01:10:29,019 --> 01:10:33,447
+Saturno Crono nella mitologia greca, e lo fa naturalmente
+
+1012
+01:10:33,947 --> 01:10:37,186
+per denunciare plasticamente il furto ai danni delle nuove generazioni.
+
+1013
+01:10:40,160 --> 01:10:43,719
+Ebbene, questo furto si ripete
+
+1014
+01:10:43,866 --> 01:10:47,505
+in parte sconfiggere la legge Fornero.
+
+1015
+01:10:47,618 --> 01:10:51,344
+Poi in realtà la si sconfigge andando a mettere le mani in tasca agli
+
+1016
+01:10:51,844 --> 01:10:55,621
+altri pensionati, ma in altri casi si mettono le mani in tasca
+
+1017
+01:10:56,121 --> 01:10:59,655
+alle generazioni future. Lo scorso anno vi ricordo
+
+1018
+01:11:00,155 --> 01:11:03,655
+che sono stati buttati 1,6 miliardi dei contribuenti,
+
+1019
+01:11:03,768 --> 01:11:07,518
+di quelli che sono rimasti, per manomettere
+
+1020
+01:11:08,018 --> 01:11:11,480
+l'adeguamento dei requisiti pensionistici alla speranza
+
+1021
+01:11:11,980 --> 01:11:15,262
+di vita. Nel 2027 aumenta di un
+
+1022
+01:11:15,762 --> 01:11:18,290
+mese anziché di 3 e di altri 2 mesi nel 2028.
+
+1023
+01:11:18,580 --> 01:11:22,649
+1,6 miliardi di denaro dei contribuenti
+
+1024
+01:11:22,926 --> 01:11:24,929
+per accontentare i leghisti.
+
+1025
+01:11:27,670 --> 01:11:31,558
+Torniamo a Zingales, che giustamente dice una
+
+1026
+01:11:32,058 --> 01:11:35,527
+banalità massimamente condivisibile: il
+
+1027
+01:11:36,027 --> 01:11:39,331
+welfare italiano non assicura contro i rischi. È un sistema
+
+1028
+01:11:39,831 --> 01:11:42,835
+fatto per pagare le pensioni. E aggiungo io,
+
+1029
+01:11:44,686 --> 01:11:48,261
+inizialmente, per motivi demografici,
+
+1030
+01:11:48,326 --> 01:11:51,741
+aveva rendimenti pensionistici da vero e proprio schema Ponzi.
+
+1031
+01:11:54,189 --> 01:11:58,481
+E infatti Zingales fa dei calcoli, dice: i pensionati
+
+1032
+01:11:58,981 --> 01:12:02,676
+del 1995 ricevevano il 200% dei
+
+1033
+01:12:03,176 --> 01:12:06,742
+contributi versati. Oggi ricevono il 65%,
+
+1034
+01:12:06,774 --> 01:12:10,544
+però questo è un numero, vi posso garantire,
+
+1035
+01:12:10,673 --> 01:12:14,044
+a cui nei prossimi anni si guarderà con invidia.
+
+1036
+01:12:15,848 --> 01:12:18,351
+Non con quella di Jensen Wong, proprio con la i davanti.
+
+1037
+01:12:20,446 --> 01:12:26,244
+Poi c'è quella che Zingales definisce la tassa sui figli: 50.000
+
+1038
+01:12:26,260 --> 01:12:29,513
+euro di interessi sul debito pubblico pro capite.
+
+1039
+01:12:31,310 --> 01:12:34,658
+140.000 euro di squilibrio previdenziale che gravano
+
+1040
+01:12:35,158 --> 01:12:38,880
+sul giovane contribuente nell'arco della sua vita. E questo perché i
+
+1041
+01:12:39,380 --> 01:12:43,596
+lavoratori più giovani devono pagare le pensioni e hanno meno soldi in
+
+1042
+01:12:43,709 --> 01:12:47,101
+tasca per stabilizzarsi e metter su famiglia. In altri
+
+1043
+01:12:47,601 --> 01:12:51,401
+termini, i giovani pagano i progetti di vita dei pensionati.
+
+1044
+01:12:53,356 --> 01:12:56,817
+Voi capite che con questo schema a piramide rovesciata
+
+1045
+01:12:57,028 --> 01:13:01,003
+ogni iniziativa di detassazione selettiva dei giovani e
+
+1046
+01:13:01,503 --> 01:13:05,261
+meno di un pannicello caldo, ammesso e non concesso
+
+1047
+01:13:05,761 --> 01:13:09,161
+di trovare delle coperture stabili. Questo perché, e ve
+
+1048
+01:13:09,661 --> 01:13:13,121
+lo dico da sempre, la demografia è l'emissaria della realtà.
+
+1049
+01:13:15,066 --> 01:13:19,594
+E a proposito di pannicelli caldi, io mi ricordo che
+
+1050
+01:13:20,094 --> 01:13:23,880
+nel programma di Fratelli d'Italia della legislatura corrente c'era
+
+1051
+01:13:24,380 --> 01:13:28,190
+quella che io ho definito la mancia del nonno, cioè Agevolazioni
+
+1052
+01:13:28,690 --> 01:13:32,847
+fiscali per i pensionati e gli over 65
+
+1053
+01:13:33,347 --> 01:13:37,471
+che sostengono oneri in favore di parenti under 36,
+
+1054
+01:13:38,145 --> 01:13:41,405
+diretti e indiretti, per spese sanitarie,
+
+1055
+01:13:41,613 --> 01:13:44,295
+istruzione scolastica e universitaria,
+
+1056
+01:13:44,889 --> 01:13:47,570
+pratica sportiva dilettantistica,
+
+1057
+01:13:48,020 --> 01:13:51,552
+canoni di locazione a uso abitativo e acquisto della prima
+
+1058
+01:13:51,633 --> 01:13:54,992
+casa. Quindi è un welfare familiare,
+
+1059
+01:13:55,024 --> 01:13:59,554
+dal nonno ai nipoti, in detassazione, a patto naturalmente
+
+1060
+01:14:00,054 --> 01:14:03,849
+di trovare le coperture. Un welfare familiare che
+
+1061
+01:14:04,349 --> 01:14:08,057
+però entra direttamente in uno specifico
+
+1062
+01:14:08,154 --> 01:14:12,232
+orifizio di chi non ha dietro una famiglia da cui ereditare.
+
+1063
+01:14:14,780 --> 01:14:19,458
+E quindi che fare? Zingales ha un'idea: La
+
+1064
+01:14:19,958 --> 01:14:24,031
+marea ereditaria che i baby boomer stanno per consegnare
+
+1065
+01:14:24,531 --> 01:14:28,258
+ai discendenti, sulla quale ovviamente hanno messo gli occhi anche
+
+1066
+01:14:29,385 --> 01:14:33,477
+i private banking e i wealth management. Ogni anno
+
+1067
+01:14:33,509 --> 01:14:37,269
+sono 250 miliardi di euro. Allora che ti
+
+1068
+01:14:37,769 --> 01:14:41,993
+inventa Zingales? Lui dice, beh, se mettiamo un'imposta temporanea—
+
+1069
+01:14:42,493 --> 01:14:46,750
+pensate che splendida ironia— temporanea del 15% sulle
+
+1070
+01:14:47,250 --> 01:14:50,719
+successioni potremmo ridurre del 60%
+
+1071
+01:14:51,828 --> 01:14:54,817
+i contributi sociali dei giovani tra i 20 e i 29 anni.
+
+1072
+01:14:56,452 --> 01:15:00,420
+E qui siamo nel solito framework dell'economista:
+
+1073
+01:15:00,532 --> 01:15:04,195
+supponiamo di avere un apriscatole per aprire delle lattine
+
+1074
+01:15:04,468 --> 01:15:05,802
+su un'isola deserta.
+
+1075
+01:15:08,516 --> 01:15:12,840
+Però Zingales solleva un altro punto molto rilevante
+
+1076
+01:15:13,340 --> 01:15:17,537
+e altrettanto inquietante: come impedire i deflussi
+
+1077
+01:15:17,778 --> 01:15:21,641
+di capitale umano e combattere quello che definisce
+
+1078
+01:15:22,141 --> 01:15:25,985
+il rischio Porto Rico. Cioè il default di
+
+1079
+01:15:26,434 --> 01:15:31,355
+Porto Rico, territorio caraibico dove l'emigrazione
+
+1080
+01:15:31,855 --> 01:15:34,818
+libera verso gli Stati Uniti ha praticamente svuotato il paese,
+
+1081
+01:15:34,946 --> 01:15:39,093
+il paese, l'area, il territorio di risorse fiscali.
+
+1082
+01:15:40,680 --> 01:15:44,505
+Ebbene, Zingales vede un rischio Porto Rico in Europa nella
+
+1083
+01:15:45,005 --> 01:15:48,294
+libertà di movimento. Libertà di movimento è una
+
+1084
+01:15:48,375 --> 01:15:52,508
+delle 4 libertà
+
+1085
+01:15:52,997 --> 01:15:57,249
+fondamentali del
+
+1086
+01:15:57,265 --> 01:16:00,922
+mercato unico: movimento di cose,
+
+1087
+01:16:01,776 --> 01:16:04,320
+merci, servizi, persone e capitali.
+
+1088
+01:16:05,667 --> 01:16:09,482
+I conti: l'Italia spende 120.000 euro per
+
+1089
+01:16:09,514 --> 01:16:13,490
+formare un diplomato, 160.000 per formare
+
+1090
+01:16:13,990 --> 01:16:17,269
+un laureato. Nel 2024,
+
+1091
+01:16:17,915 --> 01:16:21,714
+103.000 italiani sono usciti
+
+1092
+01:16:22,441 --> 01:16:25,642
+dal paese, il saldo migratorio netto -103.000,
+
+1093
+01:16:26,956 --> 01:16:30,951
+che farebbe secondo Zingales 7,6 miliardi di trasferimento
+
+1094
+01:16:31,451 --> 01:16:34,562
+dall'Italia al resto d'Europa. Come risolvere questo problema?
+
+1095
+01:16:35,821 --> 01:16:39,161
+Introducendo la tassazione
+
+1096
+01:16:39,355 --> 01:16:43,634
+worldwide statunitense, cioè quella in base alla cittadinanza su redditi
+
+1097
+01:16:44,216 --> 01:16:47,481
+ovunque prodotti nel globo terracqueo.
+
+1098
+01:16:49,277 --> 01:16:53,070
+Se qualcuno stesse meditando di rinunciare alla cittadinanza
+
+1099
+01:16:53,570 --> 01:16:57,686
+per biechi motivi fiscali, gli schiaffiamo una bella exit
+
+1100
+01:16:57,750 --> 01:17:01,868
+tax. E questo è il programma di Anzianità
+
+1101
+01:17:02,368 --> 01:17:05,691
+Vecchiai e Superstiti. Loro propongono una
+
+1102
+01:17:06,191 --> 01:17:09,742
+exit tax del 26% sul maturato di chi rinuncia
+
+1103
+01:17:10,242 --> 01:17:14,402
+alla cittadinanza italiana ed esce. Voi avrete notato
+
+1104
+01:17:14,467 --> 01:17:18,154
+che qui stiamo parlando di una delle mille facce
+
+1105
+01:17:18,800 --> 01:17:22,358
+della repressione finanziaria, che in questo caso
+
+1106
+01:17:22,374 --> 01:17:26,172
+assume le fattezze di repressione fiscale alla frontiera,
+
+1107
+01:17:26,386 --> 01:17:30,941
+un vero proprio corralito fiscale. In attesa di
+
+1108
+01:17:31,441 --> 01:17:35,084
+realizzare il corralito fiscale, Zingales propone
+
+1109
+01:17:35,566 --> 01:17:37,364
+la tassa di cittadinanza.
+
+1110
+01:17:38,536 --> 01:17:42,261
+Cos'è la tassa di cittadinanza? È un contributo di 1.000 euro
+
+1111
+01:17:42,325 --> 01:17:46,002
+annui per i circa 6 milioni e mezzo
+
+1112
+01:17:46,502 --> 01:17:51,060
+di italiani iscritti all'AIRE, l'anagrafe degli italiani residenti
+
+1113
+01:17:51,237 --> 01:17:55,219
+all'estero. Cosa facciamo con
+
+1114
+01:17:55,315 --> 01:17:58,687
+questi 1000 euro su 6,5
+
+1115
+01:17:58,719 --> 01:18:02,219
+milioni di iscritti? Finanziamo sussidi
+
+1116
+01:18:02,719 --> 01:18:05,237
+di disoccupazione per i giovani italiani con figli.
+
+1117
+01:18:06,490 --> 01:18:10,022
+Il che è suggestivo perché conferma che le tasse italiane
+
+1118
+01:18:10,522 --> 01:18:12,864
+inseguono gli italiani per tutto l'orbe terraqueo.
+
+1119
+01:18:14,341 --> 01:18:17,953
+Mi è stato detto: sì, ma se io sono un iscritto all'AIRE e non le
+
+1120
+01:18:18,453 --> 01:18:22,023
+pago? Cosa fanno? Non lo so, magari emettono
+
+1121
+01:18:22,523 --> 01:18:26,558
+una cartella esattoriale a qualche tuo parente che è rimasto in Italia, gli tolgono
+
+1122
+01:18:27,058 --> 01:18:30,912
+il passaporto, non lo so, lo prendono ostaggio con
+
+1123
+01:18:31,412 --> 01:18:34,634
+queste fondamentali costruzioni elaborate
+
+1124
+01:18:35,134 --> 01:18:36,467
+da economisti di vaglia.
+
+1125
+01:18:38,853 --> 01:18:41,174
+Quindi la messa è finita, le tasse no.
+
+1126
+01:18:43,392 --> 01:18:47,935
+Poi naturalmente dal punto di vista del gettito non si può ignorare Il
+
+1127
+01:18:47,999 --> 01:18:52,223
+tema dell'intelligenza artificiale.
+
+1128
+01:18:53,139 --> 01:18:56,801
+Zingales dice: noi siamo, noi italiani siamo
+
+1129
+01:18:56,833 --> 01:19:01,121
+come l'India dell'Ottocento, perché la
+
+1130
+01:19:01,621 --> 01:19:04,864
+rivoluzione industriale inglese distrusse l'industria tessile
+
+1131
+01:19:05,040 --> 01:19:08,766
+indiana con i prodotti provenienti dal Lancashire.
+
+1132
+01:19:10,035 --> 01:19:13,633
+L'indiano di oggi è il giovane commercialista
+
+1133
+01:19:14,133 --> 01:19:17,309
+o il giovane avvocato praticante. Che sono spiazzati
+
+1134
+01:19:17,809 --> 01:19:21,721
+dagli agenti di intelligenza artificiale. Questo è un problema reale, certamente non
+
+1135
+01:19:22,221 --> 01:19:25,460
+solo italiano. E allora Zingales lo risolve con la tassa al turno,
+
+1136
+01:19:26,294 --> 01:19:30,674
+la tassa sulla potenza di calcolo, sul compute, sulla capacità computazionale.
+
+1137
+01:19:32,166 --> 01:19:36,032
+Allora fatemi dire: i temi sono maledettamente
+
+1138
+01:19:36,532 --> 01:19:39,658
+reali, le criticità sono maledettamente reali,
+
+1139
+01:19:40,653 --> 01:19:44,182
+bisogna pensare in un modo diverso, probabilmente si arriverà a pensare in un modo
+
+1140
+01:19:44,682 --> 01:19:48,463
+rivoluzionario, Però questo tipo di tasse,
+
+1141
+01:19:48,495 --> 01:19:52,651
+come Zingales sa meglio di chiunque altro e potrebbe insegnare al mondo,
+
+1142
+01:19:54,106 --> 01:19:57,878
+evitano devastazioni solo se applicate globalmente.
+
+1143
+01:19:59,626 --> 01:20:03,331
+Ogni paese che andasse da solo sperimenterebbe dei guai biblici.
+
+1144
+01:20:05,542 --> 01:20:08,558
+L'Italia è drammaticamente penalizzata dalla demografia,
+
+1145
+01:20:09,800 --> 01:20:13,188
+da un welfare creato in tempi di demografia del tutto
+
+1146
+01:20:13,688 --> 01:20:17,519
+differente, da allora non si è modificato per i famosi diritti
+
+1147
+01:20:18,019 --> 01:20:21,812
+acquisiti, e quindi viene modificato con martellate al
+
+1148
+01:20:22,312 --> 01:20:25,670
+margine, che sono plasticamente rappresentate ogni
+
+1149
+01:20:26,170 --> 01:20:29,386
+anno dalla legge di bilancio, e dalla legge di bilancio 2027 all'estremo,
+
+1150
+01:20:32,192 --> 01:20:35,955
+perché c'è una formidabile resistenza degli interessati,
+
+1151
+01:20:36,937 --> 01:20:39,253
+interessati intesi come portatori di interessi.
+
+1152
+01:20:42,146 --> 01:20:46,060
+Allora, fatemi dire, forse si stanno
+
+1153
+01:20:46,560 --> 01:20:50,169
+avvicinando le elezioni e quindi le fabbriche di
+
+1154
+01:20:50,669 --> 01:20:54,732
+proiettili d'argento lavorano a pieno ritmo, forse anche,
+
+1155
+01:20:55,506 --> 01:20:58,601
+come dire, a carico di qualcun
+
+1156
+01:20:58,666 --> 01:21:02,327
+altro, cioè vengono anche elaborate da fuori
+
+1157
+01:21:02,359 --> 01:21:06,587
+per mano di economisti che vivono e
+
+1158
+01:21:07,087 --> 01:21:11,054
+hanno cittadinanza altrove rispetto all'Italia.
+
+1159
+01:21:12,460 --> 01:21:15,861
+Bene, mi rendo conto che abbiamo terminato. Volevo raccontarvi
+
+1160
+01:21:16,361 --> 01:21:19,711
+la saga di Leonardo Maria Del Vecchio contro Il Fatto,
+
+1161
+01:21:19,824 --> 01:21:23,082
+ma la leggete quotidianamente. Per ora Leonardo
+
+1162
+01:21:23,582 --> 01:21:28,841
+Maria Del Vecchio, LMDV, che è l'LVMH
+
+1163
+01:21:29,341 --> 01:21:33,218
+che possiamo permetterci, non lancia l'OPA. Gli azionisti del Fatto,
+
+1164
+01:21:33,333 --> 01:21:37,635
+sdegnati, rifiutano In realtà c'è
+
+1165
+01:21:38,135 --> 01:21:41,737
+un 40% di flottante, per cui se si compra fino
+
+1166
+01:21:42,237 --> 01:21:45,951
+al 17% si può andare a chiedere un posto in CDA e magari succederà
+
+1167
+01:21:46,451 --> 01:21:50,966
+qualcosa. Però, siccome siamo all'interno di una catena alimentare,
+
+1168
+01:21:51,255 --> 01:21:54,700
+è arrivata la notizia che il
+
+1169
+01:21:54,924 --> 01:21:58,209
+miliardario della Repubblica Ceca che
+
+1170
+01:21:58,385 --> 01:22:01,461
+opera nell'industria delle armi,
+
+1171
+01:22:01,574 --> 01:22:04,736
+che controlla la Fiocchi,
+
+1172
+01:22:04,930 --> 01:22:08,241
+praticamente la Fiocchi Munizioni,
+
+1173
+01:22:11,487 --> 01:22:16,183
+e che è anche diventato azionista con circa il 14%
+
+1174
+01:22:16,232 --> 01:22:19,621
+di Pirelli e C. Costui si chiama
+
+1175
+01:22:20,121 --> 01:22:23,649
+Mikael Stranad, non lo so adesso,
+
+1176
+01:22:23,681 --> 01:22:27,273
+non vorrei sembrarvi Trump. Sono certo che Stranad,
+
+1177
+01:22:27,305 --> 01:22:30,607
+chiamiamolo Stranad, c'è una vocale in
+
+1178
+01:22:31,107 --> 01:22:35,433
+più perché so già che la trascrizione automatica dell'intelligenza artificiale mi
+
+1179
+01:22:35,933 --> 01:22:39,682
+costringerà a editarla su questo punto, ha offerto 30
+
+1180
+01:22:40,182 --> 01:22:44,813
+miliardi di euro per comprare Delphin,
+
+1181
+01:22:45,730 --> 01:22:51,171
+cioè la holding che controlla EssilorLuxottica.
+
+1182
+01:22:53,576 --> 01:22:58,084
+Delphin, società di diritto lussemburghese,
+
+1183
+01:22:58,149 --> 01:23:01,660
+è una SARL verrebbe
+
+1184
+01:23:02,160 --> 01:23:05,519
+comprata a 30% di sconto sul NAV, sul Net Asset Value.
+
+1185
+01:23:07,546 --> 01:23:09,571
+L'offerta è interamente cash,
+
+1186
+01:23:11,098 --> 01:23:15,535
+è per l'intera società, ma Starnad accetterebbe
+
+1187
+01:23:15,583 --> 01:23:20,352
+una quota del 62,5% se qualcuno
+
+1188
+01:23:20,852 --> 01:23:25,092
+degli 8 azionisti di Delphin volesse mantenere
+
+1189
+01:23:25,124 --> 01:23:28,387
+la proprietà. Quindi, come vedete, nella catena alimentare la campana
+
+1190
+01:23:28,520 --> 01:23:30,100
+suona per tutti prima o poi.
+
+1191
+01:23:31,800 --> 01:23:35,592
+Naturalmente LM di Vista già, mi pare di capire, stia già invocando
+
+1192
+01:23:36,830 --> 01:23:40,800
+una sorta di golden power, il che è piuttosto curioso
+
+1193
+01:23:41,300 --> 01:23:45,466
+invocare il golden power per una cassaforte lussemburghese, però, come dire,
+
+1194
+01:23:46,422 --> 01:23:49,032
+il principio di coerenza non è quello più importante di tutti.
+
+1195
+01:23:49,163 --> 01:23:55,197
+Naturalmente le prede del fatto sono operanti
+
+1196
+01:23:55,374 --> 01:23:58,692
+in un settore drammaticamente dissestato,
+
+1197
+01:23:58,740 --> 01:24:03,406
+il fatto che loro vadano relativamente meglio della media del settore non
+
+1198
+01:24:03,906 --> 01:24:07,093
+li pone al riparo da dissesti, non li pone
+
+1199
+01:24:07,593 --> 01:24:10,316
+al riparo dall'esigenza di una massiccia ricapitalizzazione,
+
+1200
+01:24:10,348 --> 01:24:13,843
+dall'ingresso di qualche socio forte e auspicabilmente,
+
+1201
+01:24:13,955 --> 01:24:17,162
+dal loro punto di vista, amico. Quindi in
+
+1202
+01:24:17,662 --> 01:24:20,577
+realtà è finito il primo tempo, oppure è finito uno degli inning,
+
+1203
+01:24:20,689 --> 01:24:23,607
+per usare un riferimento ad un altro sport, e vedremo come andrà a finire,
+
+1204
+01:24:23,655 --> 01:24:26,862
+ma Mentre Leonardo
+
+1205
+01:24:27,362 --> 01:24:30,278
+Maria del Vecchio minacciava, tra virgolette,
+
+1206
+01:24:30,470 --> 01:24:34,960
+di esercitare il suo mecenatismo editoriale
+
+1207
+01:24:35,460 --> 01:24:38,857
+sul Fatto, c'è questo imprenditore del settore
+
+1208
+01:24:38,889 --> 01:24:42,176
+delle armi che minaccia di esercitare il suo mecenatismo sulla
+
+1209
+01:24:42,676 --> 01:24:46,747
+cassaforte lussemburghese della famiglia. Parleremo anche
+
+1210
+01:24:47,247 --> 01:24:51,562
+di questo in questa puntata. Era necessario come
+
+1211
+01:24:52,062 --> 01:24:56,075
+dire, mettere un enorme spazio sulla legge di bilancio e su tutti
+
+1212
+01:24:56,171 --> 01:24:58,782
+i cascami che la legge di bilancio produce.
+
+1213
+01:25:00,720 --> 01:25:04,021
+Abbiamo finito. Phastidio.net/contacto,
+
+1214
+01:25:04,053 --> 01:25:08,390
+Phastidio.net/donazioni. Vi ricordo il Phastidio Substack.
+
+1215
+01:25:09,070 --> 01:25:12,514
+Noi ci risentiamo al fato piacendo sabato prossimo.
+
+1216
+01:25:12,788 --> 01:25:14,049
+Buona vita se potete.
